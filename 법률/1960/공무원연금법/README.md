@@ -17,3 +17,4 @@
 | 1969-01-01 | 법률 제2054호, 1968. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53971&efYd=19690101&ancYnChk=0) |
 | 1970-01-01 | 법률 제2119호, 1969. 7. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5592&efYd=19700101&ancYnChk=0) |
 | 1973-01-01 | 법률 제2354호, 1972. 12. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5593&efYd=19730101&ancYnChk=0) |
+| 1975-04-01 | 법률 제2747호, 1975. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5594&efYd=19750401&ancYnChk=0) |
