@@ -1,7 +1,7 @@
-# 부정수표 단속법
+# 부정수표단속법
 
-부정수표 단속법 · 1 versions, from 2010-03-24 (latest in force: 2010-03-24) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001142&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001142&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 부정수표 단속법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-09-01 | 법률 제645호, 1961. 7. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3237&efYd=19610901&ancYnChk=0) |
