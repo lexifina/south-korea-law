@@ -1,4 +1,4 @@
-# 계량및측정에관한법률
+# 계량에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001457&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4633&efYd=19980101&ancYnChk=0) |
 | 1999-01-29 | 법률 제5733호, 1999. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4634&efYd=19990129&ancYnChk=0) |
 | 1999-02-05 | 법률 제5780호, 1999. 2. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4635&efYd=19990205&ancYnChk=0) |
+| 2000-07-01 | 법률 제6193호, 2000. 1. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4636&efYd=20000701&ancYnChk=0) |
