@@ -9,3 +9,4 @@
 | 1989-09-01 | 대법원규칙 제1067호, 1989. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=35229&efYd=19890901&ancYnChk=0) |
 | 1991-08-10 | 대법원규칙 제1171호, 1991. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=35230&efYd=19910810&ancYnChk=0) |
 | 1995-07-10 | 대법원규칙 제1375호, 1995. 7. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=35231&efYd=19950710&ancYnChk=0) |
+| 1997-01-01 | 대법원규칙 제1441호, 1996. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60670&efYd=19970101&ancYnChk=0) |
