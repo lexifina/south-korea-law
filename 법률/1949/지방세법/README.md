@@ -40,3 +40,4 @@
 | 1989-01-01 | 법률 제4066호, 1988. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52934&efYd=19890101&ancYnChk=0) |
 | 1989-01-01 | 법률 제4073호, 1988. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52933&efYd=19890101&ancYnChk=0) |
 | 1989-04-01 | 법률 제4064호, 1988. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52936&efYd=19890401&ancYnChk=0) |
+| 1989-04-01 | 법률 제4069호, 1988. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52935&efYd=19890401&ancYnChk=0) |
