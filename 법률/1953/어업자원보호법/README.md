@@ -1,7 +1,7 @@
 # 어업자원보호법
 
-어업자원보호법 · 1 versions, from 2017-09-22 (latest in force: 2017-09-22) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000383&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000383&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 어업자원보호법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1953-12-12 | 법률 제298호, 1953. 12. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1409&efYd=19531212&ancYnChk=0) |
