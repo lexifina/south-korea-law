@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1948-09-25 | 법률 제4호, 1948. 9. 25. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4301&efYd=19480925&ancYnChk=0) |
+| 1962-01-01 | 법률 제775호, 1961. 12. 2. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4302&efYd=19620101&ancYnChk=0) |
