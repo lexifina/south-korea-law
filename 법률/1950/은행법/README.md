@@ -10,3 +10,4 @@
 | 1969-01-28 | 법률 제2095호, 1969. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4845&efYd=19690128&ancYnChk=0) |
 | 1978-01-01 | 법률 제3034호, 1977. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4846&efYd=19780101&ancYnChk=0) |
 | 1978-12-05 | 법률 제3141호, 1978. 12. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4847&efYd=19781205&ancYnChk=0) |
+| 1983-01-01 | 법률 제3608호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4848&efYd=19830101&ancYnChk=0) |
