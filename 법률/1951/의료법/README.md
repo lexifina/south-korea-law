@@ -1,7 +1,8 @@
-# 국민의료법
+# 의료법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001788&ancYnChk=0>
 
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1951-12-25 | 법률 제221호, 1951. 9. 25. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8000&efYd=19511225&ancYnChk=0) |
+| 1962-03-20 | 법률 제1035호, 1962. 3. 20. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8001&efYd=19620320&ancYnChk=0) |
