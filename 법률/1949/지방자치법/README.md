@@ -11,3 +11,4 @@
 | 1956-07-08 | 법률 제388호, 1956. 7. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6753&efYd=19560708&ancYnChk=0) |
 | 1958-12-26 | 법률 제501호, 1958. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6754&efYd=19581226&ancYnChk=0) |
 | 1960-11-01 | 법률 제563호, 1960. 11. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6755&efYd=19601101&ancYnChk=0) |
+| 1973-01-15 | 법률 제2437호, 1973. 1. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6756&efYd=19730115&ancYnChk=0) |
