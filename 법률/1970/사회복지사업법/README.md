@@ -1,7 +1,7 @@
 # 사회복지사업법
 
-사회복지사업법 · 1 versions, from 2025-10-02 (latest in force: 2025-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000202&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000202&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 사회복지사업법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1970-04-02 | 법률 제2191호, 1970. 1. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1075&efYd=19700402&ancYnChk=0) |
