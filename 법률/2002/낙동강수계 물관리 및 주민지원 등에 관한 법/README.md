@@ -1,0 +1,7 @@
+# 낙동강수계물관리및주민지원등에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009282&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2002-04-15 | 법률 제6606호, 2002. 1. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61568&efYd=20020415&ancYnChk=0) |
