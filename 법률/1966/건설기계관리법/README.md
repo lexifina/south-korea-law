@@ -8,3 +8,4 @@
 | 1973-02-08 | 법률 제2511호, 1973. 2. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1535&efYd=19730208&ancYnChk=0) |
 | 1975-10-27 | 법률 제2785호, 1975. 7. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1530&efYd=19751027&ancYnChk=0) |
 | 1982-03-18 | 법률 제3462호, 1981. 12. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1536&efYd=19820318&ancYnChk=0) |
+| 1984-07-01 | 법률 제3710호, 1983. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1529&efYd=19840701&ancYnChk=0) |
