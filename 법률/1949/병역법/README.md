@@ -33,3 +33,4 @@
 | 1990-04-01 | 법률 제4156호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5723&efYd=19900401&ancYnChk=0) |
 | 1991-02-01 | 법률 제4317호, 1991. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5724&efYd=19910201&ancYnChk=0) |
 | 1992-12-02 | 법률 제4506호, 1992. 12. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5725&efYd=19921202&ancYnChk=0) |
+| 1994-01-01 | 법률 제4685호, 1993. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5726&efYd=19940101&ancYnChk=0) |
