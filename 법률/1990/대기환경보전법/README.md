@@ -22,3 +22,4 @@
 | 2003-06-27 | 법률 제6826호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60894&efYd=20030627&ancYnChk=0) |
 | 2003-11-30 | 법률 제6913호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60772&efYd=20031130&ancYnChk=0) |
 | 2004-08-10 | 법률 제7168호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4245&efYd=20040810&ancYnChk=0) |
+| 2005-02-10 | 법률 제7170호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4244&efYd=20050210&ancYnChk=0) |
