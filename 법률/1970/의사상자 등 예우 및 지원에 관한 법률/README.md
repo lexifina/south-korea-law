@@ -1,7 +1,7 @@
-# 의사상자 등 예우 및 지원에 관한 법률
+# 재해구제로인한의사상자구호법
 
-의사상자 등 예우 및 지원에 관한 법률 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000178&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000178&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 의사상자 등 예우 및 지원에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1970-08-04 | 법률 제2216호, 1970. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=776&efYd=19700804&ancYnChk=0) |
