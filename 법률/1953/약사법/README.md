@@ -8,3 +8,4 @@
 | 1957-10-05 | 법률 제448호, 1957. 10. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59871&efYd=19571005&ancYnChk=0) |
 | 1964-02-14 | 법률 제1491호, 1963. 12. 13. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59868&efYd=19640214&ancYnChk=0) |
 | 1965-06-04 | 법률 제1694호, 1965. 4. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59872&efYd=19650604&ancYnChk=0) |
+| 1967-03-03 | 법률 제1910호, 1967. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59869&efYd=19670303&ancYnChk=0) |
