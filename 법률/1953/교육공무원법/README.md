@@ -8,3 +8,4 @@
 | 1962-01-06 | 법률 제956호, 1962. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54534&efYd=19620106&ancYnChk=0) |
 | 1964-01-01 | 법률 제1463호, 1963. 12. 5. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54256&efYd=19640101&ancYnChk=0) |
 | 1964-01-01 | 법률 제1622호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5378&efYd=19640101&ancYnChk=0) |
+| 1964-06-29 | 법률 제1647호, 1964. 6. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5379&efYd=19640629&ancYnChk=0) |
