@@ -12,3 +12,4 @@
 | 1967-03-30 | 법률 제1948호, 1967. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4915&efYd=19670330&ancYnChk=0) |
 | 1969-01-24 | 법률 제2093호, 1969. 1. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4916&efYd=19690124&ancYnChk=0) |
 | 1973-01-15 | 법률 제2444호, 1973. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4917&efYd=19730115&ancYnChk=0) |
+| 1973-03-23 | 법률 제2602호, 1973. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4918&efYd=19730323&ancYnChk=0) |
