@@ -1,4 +1,4 @@
-# 법관의보수에관한법률
+# 법관등의보수에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001294&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 1977-01-01 | 법률 제3004호, 1977. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2533&efYd=19770101&ancYnChk=0) |
 | 1977-12-31 | 법률 제3049호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2534&efYd=19771231&ancYnChk=0) |
 | 1988-02-25 | 법률 제3992호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2535&efYd=19880225&ancYnChk=0) |
+| 1994-07-27 | 법률 제4768호, 1994. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2536&efYd=19940727&ancYnChk=0) |
