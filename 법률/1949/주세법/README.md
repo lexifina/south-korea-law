@@ -19,3 +19,4 @@
 | 1965-03-19 | 법률 제1689호, 1965. 3. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5699&efYd=19650319&ancYnChk=0) |
 | 1966-01-01 | 법률 제1721호, 1965. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5700&efYd=19660101&ancYnChk=0) |
 | 1966-03-08 | 법률 제1759호, 1966. 3. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5701&efYd=19660308&ancYnChk=0) |
+| 1968-01-01 | 법률 제1968호, 1967. 11. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5702&efYd=19680101&ancYnChk=0) |
