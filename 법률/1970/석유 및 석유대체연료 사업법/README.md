@@ -12,3 +12,4 @@
 | 1986-05-12 | 법률 제3839호, 1986. 5. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7707&efYd=19860512&ancYnChk=0) |
 | 1991-01-14 | 법률 제4325호, 1991. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7708&efYd=19910114&ancYnChk=0) |
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7709&efYd=19930306&ancYnChk=0) |
+| 1995-01-01 | 법률 제4753호, 1994. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7710&efYd=19950101&ancYnChk=0) |
