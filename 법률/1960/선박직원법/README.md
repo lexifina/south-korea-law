@@ -10,3 +10,4 @@
 | 1970-02-01 | 법률 제2194호, 1970. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6609&efYd=19700201&ancYnChk=0) |
 | 1972-12-30 | 법률 제2415호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6610&efYd=19721230&ancYnChk=0) |
 | 1975-12-31 | 법률 제2872호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6611&efYd=19751231&ancYnChk=0) |
+| 1976-01-31 | 법률 제2886호, 1975. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6612&efYd=19760131&ancYnChk=0) |
