@@ -9,3 +9,4 @@
 | 1963-01-16 | 법률 제1255호, 1963. 1. 16. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3712&efYd=19630116&ancYnChk=0) |
 | 1963-08-06 | 법률 제1385호, 1963. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3713&efYd=19630806&ancYnChk=0) |
 | 1966-12-14 | 법률 제1847호, 1966. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3714&efYd=19661214&ancYnChk=0) |
+| 1967-03-28 | 법률 제1916호, 1967. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3715&efYd=19670328&ancYnChk=0) |
