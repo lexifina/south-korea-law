@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1974-07-01 | 법률 제2674호, 1974. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55790&efYd=19740701&ancYnChk=0) |
 | 1990-07-01 | 법률 제4146호, 1989. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4644&efYd=19900701&ancYnChk=0) |
+| 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4646&efYd=19930306&ancYnChk=0) |
