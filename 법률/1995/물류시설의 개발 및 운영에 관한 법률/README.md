@@ -15,3 +15,4 @@
 | 1999-08-09 | 법률 제5865호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1634&efYd=19990809&ancYnChk=0) |
 | 1999-08-09 | 법률 제5893호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1635&efYd=19990809&ancYnChk=0) |
 | 1999-08-09 | 법률 제5911호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1636&efYd=19990809&ancYnChk=0) |
+| 1999-08-09 | 법률 제5914호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1633&efYd=19990809&ancYnChk=0) |
