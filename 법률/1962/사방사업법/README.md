@@ -1,7 +1,7 @@
 # 사방사업법
 
-사방사업법 · 1 versions, from 2026-02-01 (latest in force: 2026-02-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000398&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000398&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 사방사업법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1962-01-15 | 법률 제977호, 1962. 1. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1705&efYd=19620115&ancYnChk=0) |
