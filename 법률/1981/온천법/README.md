@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1981-06-01 | 법률 제3377호, 1981. 3. 2. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57242&efYd=19810601&ancYnChk=0) |
+| 1987-07-01 | 법률 제3910호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57241&efYd=19870701&ancYnChk=0) |
