@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1975-11-29 | 법률 제2786호, 1975. 11. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3998&efYd=19751129&ancYnChk=0) |
+| 1981-02-10 | 법률 제3369호, 1981. 2. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3999&efYd=19810210&ancYnChk=0) |
