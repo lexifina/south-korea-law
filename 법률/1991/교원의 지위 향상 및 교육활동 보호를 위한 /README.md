@@ -1,7 +1,7 @@
-# 교원의 지위 향상 및 교육활동 보호를 위한 특별법
+# 교원지위향상을위한특별법
 
-교원의 지위 향상 및 교육활동 보호를 위한 특별법 · 1 versions, from 2026-02-19 (latest in force: 2026-02-19) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000886&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000886&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 교원의 지위 향상 및 교육활동 보호를 위한 특별법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1991-05-31 | 법률 제4376호, 1991. 5. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61403&efYd=19910531&ancYnChk=0) |
