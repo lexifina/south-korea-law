@@ -1,4 +1,4 @@
-# 수출자유지역설치법
+# 자유무역지역의지정등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001466&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 1998-06-26 | 법률 제5544호, 1998. 5. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2596&efYd=19980626&ancYnChk=0) |
 | 1998-12-30 | 법률 제5606호, 1998. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2597&efYd=19981230&ancYnChk=0) |
 | 1999-02-05 | 법률 제5770호, 1999. 2. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2598&efYd=19990205&ancYnChk=0) |
+| 2000-07-13 | 법률 제6142호, 2000. 1. 12. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2599&efYd=20000713&ancYnChk=0) |
