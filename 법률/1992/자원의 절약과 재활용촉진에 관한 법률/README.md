@@ -1,7 +1,7 @@
-# 자원의 절약과 재활용촉진에 관한 법률
+# 자원의절약과재활용촉진에관한법률
 
-자원의 절약과 재활용촉진에 관한 법률 · 1 versions, from 2026-08-20 (latest in force: 2026-08-20) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000155&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000155&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 자원의 절약과 재활용촉진에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1993-06-09 | 법률 제4538호, 1992. 12. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=438&efYd=19930609&ancYnChk=0) |
