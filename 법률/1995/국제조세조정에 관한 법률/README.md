@@ -7,3 +7,4 @@
 | 1996-01-01 | 법률 제4981호, 1995. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58808&efYd=19960101&ancYnChk=0) |
 | 1997-01-01 | 법률 제5193호, 1996. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58805&efYd=19970101&ancYnChk=0) |
 | 1999-01-01 | 법률 제5581호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58807&efYd=19990101&ancYnChk=0) |
+| 1999-01-01 | 법률 제5584호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58806&efYd=19990101&ancYnChk=0) |
