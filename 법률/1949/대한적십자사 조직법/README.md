@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1949-04-30 | 법률 제25호, 1949. 4. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59880&efYd=19490430&ancYnChk=0) |
 | 1988-01-01 | 법률 제3988호, 1987. 12. 4. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59879&efYd=19880101&ancYnChk=0) |
+| 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59878&efYd=19901227&ancYnChk=0) |
