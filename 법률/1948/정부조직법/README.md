@@ -61,3 +61,4 @@
 | 2002-01-19 | 법률 제6622호, 2002. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58495&efYd=20020119&ancYnChk=0) |
 | 2004-03-11 | 법률 제7186호, 2004. 3. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=436&efYd=20040311&ancYnChk=0) |
 | 2004-06-12 | 법률 제7186호, 2004. 3. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=436&efYd=20040612&ancYnChk=0) |
+| 2004-09-23 | 법률 제7217호, 2004. 9. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52276&efYd=20040923&ancYnChk=0) |
