@@ -1,4 +1,4 @@
-# 기업활동규제완화에관한특별조치법
+# 기업활동 규제완화에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001470&ancYnChk=0>
 
@@ -49,3 +49,4 @@
 | 2004-05-30 | 법률 제6893호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61973&efYd=20040530&ancYnChk=0) |
 | 2004-05-30 | 법률 제6909호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61974&efYd=20040530&ancYnChk=0) |
 | 2004-08-10 | 법률 제7168호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61983&efYd=20040810&ancYnChk=0) |
+| 2005-03-31 | 법률 제7442호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67651&efYd=20050331&ancYnChk=0) |
