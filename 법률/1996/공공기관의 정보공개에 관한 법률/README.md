@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1998-01-01 | 법률 제5242호, 1996. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3403&efYd=19980101&ancYnChk=0) |
+| 2004-07-30 | 법률 제7127호, 2004. 1. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58991&efYd=20040730&ancYnChk=0) |
