@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1958-07-24 | 법률 제489호, 1958. 7. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6903&efYd=19580724&ancYnChk=0) |
 | 1963-10-01 | 법률 제1376호, 1963. 7. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6904&efYd=19631001&ancYnChk=0) |
+| 1977-12-31 | 법률 제3047호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6905&efYd=19771231&ancYnChk=0) |
