@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1957-02-15 | 법률 제438호, 1957. 2. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56817&efYd=19570215&ancYnChk=0) |
+| 1962-10-25 | 법률 제1153호, 1962. 9. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56816&efYd=19621025&ancYnChk=0) |
