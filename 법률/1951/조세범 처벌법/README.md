@@ -20,3 +20,4 @@
 | 1981-01-01 | 법률 제3353호, 1980. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56177&efYd=19810101&ancYnChk=0) |
 | 1991-07-01 | 법률 제4284호, 1990. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56176&efYd=19910701&ancYnChk=0) |
 | 1994-01-01 | 법률 제4667호, 1993. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56175&efYd=19940101&ancYnChk=0) |
+| 1994-01-01 | 법률 제4668호, 1993. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56174&efYd=19940101&ancYnChk=0) |
