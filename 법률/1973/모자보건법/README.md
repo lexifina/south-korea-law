@@ -1,7 +1,7 @@
 # 모자보건법
 
-모자보건법 · 1 versions, from 2026-09-10 (latest in force: 2026-09-10) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000183&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000183&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 모자보건법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1973-05-10 | 법률 제2514호, 1973. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=899&efYd=19730510&ancYnChk=0) |
