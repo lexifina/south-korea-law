@@ -1,7 +1,7 @@
 # 중소기업협동조합법
 
-중소기업협동조합법 · 1 versions, from 2026-06-03 (latest in force: 2026-06-03) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001482&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001482&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 중소기업협동조합법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-12-27 | 법률 제884호, 1961. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5646&efYd=19611227&ancYnChk=0) |
