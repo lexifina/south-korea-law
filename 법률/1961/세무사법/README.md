@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1961-09-09 | 법률 제712호, 1961. 9. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248&efYd=19610909&ancYnChk=0) |
+| 1972-12-08 | 법률 제2358호, 1972. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249&efYd=19721208&ancYnChk=0) |
