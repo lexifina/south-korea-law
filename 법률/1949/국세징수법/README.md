@@ -10,3 +10,4 @@
 | 1952-11-05 | 법률 제257호, 1952. 11. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6704&efYd=19521105&ancYnChk=0) |
 | 1962-01-01 | 법률 제819호, 1961. 12. 8. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6705&efYd=19620101&ancYnChk=0) |
 | 1963-01-01 | 법률 제1207호, 1962. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6706&efYd=19630101&ancYnChk=0) |
+| 1964-12-31 | 법률 제1681호, 1964. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6707&efYd=19641231&ancYnChk=0) |
