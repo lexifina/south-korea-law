@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-04-24 | 법률 제1059호, 1962. 4. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1129&efYd=19620424&ancYnChk=0) |
+| 1963-12-17 | 법률 제1594호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1130&efYd=19631217&ancYnChk=0) |
