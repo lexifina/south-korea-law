@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1961-05-10 | 법률 제617호, 1961. 5. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3515&efYd=19610510&ancYnChk=0) |
 | 1963-07-19 | 법률 제1367호, 1963. 7. 19. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3132&efYd=19630719&ancYnChk=0) |
+| 1973-10-10 | 법률 제2634호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61142&efYd=19731010&ancYnChk=0) |
