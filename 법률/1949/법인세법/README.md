@@ -28,3 +28,4 @@
 | 1969-08-04 | 법률 제2130호, 1969. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5351&efYd=19690804&ancYnChk=0) |
 | 1970-01-01 | 법률 제2154호, 1970. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5352&efYd=19700101&ancYnChk=0) |
 | 1972-01-01 | 법률 제2316호, 1971. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55929&efYd=19720101&ancYnChk=0) |
+| 1973-02-16 | 법률 제2521호, 1973. 2. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5353&efYd=19730216&ancYnChk=0) |
