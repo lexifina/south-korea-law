@@ -13,3 +13,4 @@
 | 1981-01-29 | 대통령령 제10185호, 1981. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14389&efYd=19810129&ancYnChk=0) |
 | 1981-04-08 | 대통령령 제10278호, 1981. 4. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14390&efYd=19810408&ancYnChk=0) |
 | 1982-08-13 | 대통령령 제10898호, 1982. 8. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14507&efYd=19820813&ancYnChk=0) |
+| 1988-01-01 | 대통령령 제12359호, 1987. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14508&efYd=19880101&ancYnChk=0) |
