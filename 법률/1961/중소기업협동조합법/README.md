@@ -9,3 +9,4 @@
 | 1973-04-16 | 법률 제2438호, 1973. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5648&efYd=19730416&ancYnChk=0) |
 | 1976-12-31 | 법률 제2997호, 1976. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5649&efYd=19761231&ancYnChk=0) |
 | 1978-12-05 | 법률 제3129호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5650&efYd=19781205&ancYnChk=0) |
+| 1982-12-31 | 법률 제3654호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5651&efYd=19821231&ancYnChk=0) |
