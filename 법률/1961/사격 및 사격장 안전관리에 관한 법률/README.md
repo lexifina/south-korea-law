@@ -1,7 +1,7 @@
-# 사격 및 사격장 안전관리에 관한 법률
+# 사격및사격장단속법
 
-사격 및 사격장 안전관리에 관한 법률 · 1 versions, from 2021-06-09 (latest in force: 2021-06-09) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000975&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000975&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 사격 및 사격장 안전관리에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-12-30 | 법률 제893호, 1961. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4401&efYd=19611230&ancYnChk=0) |
