@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1999-08-09 | 법률 제5866호, 1999. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59203&efYd=19990809&ancYnChk=0) |
+| 2002-12-26 | 법률 제6825호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59825&efYd=20021226&ancYnChk=0) |
