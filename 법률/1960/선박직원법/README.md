@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1960-02-01 | 법률 제545호, 1960. 2. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6607&efYd=19600201&ancYnChk=0) |
 | 1963-12-19 | 법률 제1449호, 1963. 11. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6608&efYd=19631219&ancYnChk=0) |
+| 1965-12-30 | 법률 제1738호, 1965. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54118&efYd=19651230&ancYnChk=0) |
