@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1950-03-22 | 법률 제114호, 1950. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52704&efYd=19500322&ancYnChk=0) |
+| 1951-06-07 | 법률 제199호, 1951. 5. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52705&efYd=19510607&ancYnChk=0) |
