@@ -1,4 +1,4 @@
-# 상호신용금고법
+# 상호저축은행법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001539&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1999-02-01 | 법률 제5738호, 1999. 2. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=16084&efYd=19990201&ancYnChk=0) |
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=16085&efYd=19990524&ancYnChk=0) |
 | 2000-04-29 | 법률 제6203호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51612&efYd=20000429&ancYnChk=0) |
+| 2001-12-31 | 법률 제6561호, 2001. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57470&efYd=20011231&ancYnChk=0) |
