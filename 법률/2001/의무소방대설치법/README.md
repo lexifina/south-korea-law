@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2001-09-15 | 법률 제6505호, 2001. 8. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4410&efYd=20010915&ancYnChk=0) |
+| 2004-03-11 | 법률 제7186호, 2004. 3. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59569&efYd=20040311&ancYnChk=0) |
