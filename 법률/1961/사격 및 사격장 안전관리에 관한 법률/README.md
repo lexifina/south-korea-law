@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1961-12-30 | 법률 제893호, 1961. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4401&efYd=19611230&ancYnChk=0) |
+| 1975-12-31 | 법률 제2811호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4402&efYd=19751231&ancYnChk=0) |
