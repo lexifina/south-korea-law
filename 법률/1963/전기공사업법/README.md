@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1963-02-26 | 법률 제1280호, 1963. 2. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2307&efYd=19630226&ancYnChk=0) |
+| 1977-11-15 | 법률 제2967호, 1976. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2308&efYd=19771115&ancYnChk=0) |
