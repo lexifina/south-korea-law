@@ -14,3 +14,4 @@
 | 1973-01-15 | 법률 제2437호, 1973. 1. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6756&efYd=19730115&ancYnChk=0) |
 | 1988-05-01 | 법률 제4004호, 1988. 4. 6. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55087&efYd=19880501&ancYnChk=0) |
 | 1990-01-01 | 법률 제4162호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1513&efYd=19900101&ancYnChk=0) |
+| 1990-12-31 | 법률 제4310호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55081&efYd=19901231&ancYnChk=0) |
