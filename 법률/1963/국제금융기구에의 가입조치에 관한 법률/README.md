@@ -13,3 +13,4 @@
 | 1972-08-17 | 법률 제2340호, 1972. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1147&efYd=19720817&ancYnChk=0) |
 | 1973-02-05 | 법률 제2470호, 1973. 2. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1148&efYd=19730205&ancYnChk=0) |
 | 1974-12-21 | 법률 제2696호, 1974. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1149&efYd=19741221&ancYnChk=0) |
+| 1975-07-25 | 법률 제2778호, 1975. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1150&efYd=19750725&ancYnChk=0) |
