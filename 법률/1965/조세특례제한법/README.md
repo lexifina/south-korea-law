@@ -55,3 +55,4 @@
 | 1989-01-01 | 법률 제4021호, 1988. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6543&efYd=19890101&ancYnChk=0) |
 | 1990-01-01 | 법률 제4128호, 1989. 6. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6544&efYd=19900101&ancYnChk=0) |
 | 1990-01-01 | 법률 제4165호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6545&efYd=19900101&ancYnChk=0) |
+| 1990-08-01 | 법률 제4239호, 1990. 8. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6546&efYd=19900801&ancYnChk=0) |
