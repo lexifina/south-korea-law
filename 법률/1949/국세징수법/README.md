@@ -8,3 +8,4 @@
 | 1951-06-07 | 법률 제199호, 1951. 5. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6702&efYd=19510607&ancYnChk=0) |
 | 1951-06-22 | 법률 제208호, 1951. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6703&efYd=19510622&ancYnChk=0) |
 | 1952-11-05 | 법률 제257호, 1952. 11. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6704&efYd=19521105&ancYnChk=0) |
+| 1962-01-01 | 법률 제819호, 1961. 12. 8. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6705&efYd=19620101&ancYnChk=0) |
