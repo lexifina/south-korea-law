@@ -10,3 +10,4 @@
 | 1992-07-01 | 법률 제4441호, 1991. 12. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4370&efYd=19920701&ancYnChk=0) |
 | 1996-07-01 | 법률 제5145호, 1995. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4371&efYd=19960701&ancYnChk=0) |
 | 1998-02-28 | 법률 제5529호, 1998. 2. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4372&efYd=19980228&ancYnChk=0) |
+| 2000-03-13 | 법률 제6139호, 2000. 1. 12. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58356&efYd=20000313&ancYnChk=0) |
