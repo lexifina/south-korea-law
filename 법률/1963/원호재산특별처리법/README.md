@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-07-26 | 법률 제1368호, 1963. 7. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2839&efYd=19630726&ancYnChk=0) |
 | 1974-12-24 | 법률 제2725호, 1974. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2840&efYd=19741224&ancYnChk=0) |
+| 1975-12-31 | 법률 제2889호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2841&efYd=19751231&ancYnChk=0) |
