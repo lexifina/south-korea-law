@@ -1,7 +1,7 @@
-# 원격영상재판에 관한 특례법
+# 원격영상재판에관한특례법
 
-원격영상재판에 관한 특례법 · 1 versions, from 2010-03-24 (latest in force: 2010-03-24) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001213&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001213&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 원격영상재판에 관한 특례법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1995-12-06 | 법률 제5004호, 1995. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3975&efYd=19951206&ancYnChk=0) |
