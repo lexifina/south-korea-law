@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1967-02-09 | 법률 제1898호, 1967. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53694&efYd=19670209&ancYnChk=0) |
 | 1973-02-01 | 법률 제2425호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53685&efYd=19730201&ancYnChk=0) |
+| 1977-07-01 | 법률 제2932호, 1976. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8917&efYd=19770701&ancYnChk=0) |
