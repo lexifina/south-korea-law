@@ -1,4 +1,4 @@
-# 의료기사법
+# 의료기사등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001785&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1989-12-30 | 법률 제4180호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7984&efYd=19891230&ancYnChk=0) |
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7985&efYd=19901227&ancYnChk=0) |
 | 1991-12-14 | 법률 제4431호, 1991. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7986&efYd=19911214&ancYnChk=0) |
+| 1995-10-06 | 법률 제4912호, 1995. 1. 5. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7987&efYd=19951006&ancYnChk=0) |
