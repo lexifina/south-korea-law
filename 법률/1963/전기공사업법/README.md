@@ -7,3 +7,4 @@
 | 1963-02-26 | 법률 제1280호, 1963. 2. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2307&efYd=19630226&ancYnChk=0) |
 | 1977-11-15 | 법률 제2967호, 1976. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2308&efYd=19771115&ancYnChk=0) |
 | 1977-12-16 | 법률 제3011호, 1977. 12. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2309&efYd=19771216&ancYnChk=0) |
+| 1980-12-24 | 법률 제3294호, 1980. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55518&efYd=19801224&ancYnChk=0) |
