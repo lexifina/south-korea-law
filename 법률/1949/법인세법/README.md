@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1949-11-07 | 법률 제62호, 1949. 11. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5331&efYd=19491107&ancYnChk=0) |
 | 1950-12-01 | 법률 제161호, 1950. 12. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5332&efYd=19501201&ancYnChk=0) |
+| 1951-06-07 | 법률 제199호, 1951. 5. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5333&efYd=19510607&ancYnChk=0) |
