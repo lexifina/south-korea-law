@@ -26,3 +26,4 @@
 | 1989-12-30 | 법률 제4158호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55170&efYd=19891230&ancYnChk=0) |
 | 1991-05-31 | 법률 제4374호, 1991. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56828&efYd=19910531&ancYnChk=0) |
 | 1992-12-02 | 법률 제4506호, 1992. 12. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56935&efYd=19921202&ancYnChk=0) |
+| 1993-12-31 | 법률 제4695호, 1993. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56827&efYd=19931231&ancYnChk=0) |
