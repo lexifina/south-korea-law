@@ -1,4 +1,4 @@
-# 국가안전기획부직원법
+# 국가정보원직원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001351&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1994-01-01 | 법률 제4651호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60681&efYd=19940101&ancYnChk=0) |
 | 1997-07-14 | 법률 제5291호, 1997. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60537&efYd=19970714&ancYnChk=0) |
 | 1998-04-10 | 법률 제5536호, 1998. 4. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60538&efYd=19980410&ancYnChk=0) |
+| 1999-01-21 | 법률 제5682호, 1999. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53824&efYd=19990121&ancYnChk=0) |
