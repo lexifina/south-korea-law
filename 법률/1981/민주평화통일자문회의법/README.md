@@ -1,7 +1,7 @@
-# 민주평화통일자문회의법
+# 평화통일정책자문회의법
 
-민주평화통일자문회의법 · 1 versions, from 2023-03-28 (latest in force: 2023-03-28) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001378&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001378&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 민주평화통일자문회의법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1981-03-14 | 법률 제3383호, 1981. 3. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3559&efYd=19810314&ancYnChk=0) |
