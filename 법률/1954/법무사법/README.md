@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1954-04-03 | 법률 제317호, 1954. 4. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2387&efYd=19540403&ancYnChk=0) |
+| 1963-05-01 | 법률 제1333호, 1963. 4. 25. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2388&efYd=19630501&ancYnChk=0) |
