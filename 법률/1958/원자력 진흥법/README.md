@@ -7,3 +7,4 @@
 | 1958-03-11 | 법률 제483호, 1958. 3. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4911&efYd=19580311&ancYnChk=0) |
 | 1961-10-02 | 법률 제735호, 1961. 10. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4912&efYd=19611002&ancYnChk=0) |
 | 1963-12-17 | 법률 제1537호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54247&efYd=19631217&ancYnChk=0) |
+| 1963-12-17 | 법률 제1615호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4913&efYd=19631217&ancYnChk=0) |
