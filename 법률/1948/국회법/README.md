@@ -9,3 +9,4 @@
 | 1951-03-15 | 법률 제179호, 1951. 3. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4015&efYd=19510315&ancYnChk=0) |
 | 1952-09-28 | 법률 제251호, 1952. 9. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4016&efYd=19520928&ancYnChk=0) |
 | 1953-01-22 | 법률 제275호, 1953. 1. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4017&efYd=19530122&ancYnChk=0) |
+| 1954-12-31 | 법률 제352호, 1954. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4018&efYd=19541231&ancYnChk=0) |
