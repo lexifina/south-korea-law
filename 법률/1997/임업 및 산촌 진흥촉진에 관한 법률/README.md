@@ -1,7 +1,7 @@
-# 임업 및 산촌 진흥촉진에 관한 법률
+# 임업진흥촉진법
 
-임업 및 산촌 진흥촉진에 관한 법률 · 1 versions, from 2022-09-11 (latest in force: 2022-09-11) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000399&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000399&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 임업 및 산촌 진흥촉진에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1997-10-11 | 법률 제5325호, 1997. 4. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1709&efYd=19971011&ancYnChk=0) |
