@@ -49,3 +49,4 @@
 | 2005-01-01 | 법률 제7326호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66210&efYd=20050101&ancYnChk=0) |
 | 2005-02-10 | 법률 제7167호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59411&efYd=20050210&ancYnChk=0) |
 | 2005-02-10 | 법률 제7170호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59412&efYd=20050210&ancYnChk=0) |
+| 2005-03-31 | 법률 제7255호, 2004. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=65894&efYd=20050331&ancYnChk=0) |
