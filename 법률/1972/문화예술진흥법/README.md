@@ -1,7 +1,7 @@
 # 문화예술진흥법
 
-문화예술진흥법 · 1 versions, from 2025-11-11 (latest in force: 2025-11-11) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000836&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000836&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 문화예술진흥법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1972-08-14 | 법률 제2337호, 1972. 8. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2741&efYd=19720814&ancYnChk=0) |
