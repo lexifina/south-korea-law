@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1967-02-09 | 법률 제1898호, 1967. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53694&efYd=19670209&ancYnChk=0) |
+| 1973-02-01 | 법률 제2425호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53685&efYd=19730201&ancYnChk=0) |
