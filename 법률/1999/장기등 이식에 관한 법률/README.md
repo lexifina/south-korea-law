@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2000-02-09 | 법률 제5858호, 1999. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8151&efYd=20000209&ancYnChk=0) |
 | 2000-02-09 | 법률 제6023호, 1999. 9. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59585&efYd=20000209&ancYnChk=0) |
+| 2003-02-27 | 법률 제6725호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59580&efYd=20030227&ancYnChk=0) |
