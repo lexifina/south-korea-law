@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1963-12-16 | 법률 제1529호, 1963. 12. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2545&efYd=19631216&ancYnChk=0) |
+| 1965-12-29 | 법률 제1729호, 1965. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2546&efYd=19651229&ancYnChk=0) |
