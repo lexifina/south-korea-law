@@ -20,3 +20,4 @@
 | 1993-10-22 | 대통령령 제13997호, 1993. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14512&efYd=19931022&ancYnChk=0) |
 | 1994-12-23 | 대통령령 제14446호, 1994. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14513&efYd=19941223&ancYnChk=0) |
 | 1997-03-27 | 대통령령 제15320호, 1997. 3. 27. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14514&efYd=19970327&ancYnChk=0) |
+| 1998-02-24 | 대통령령 제15682호, 1998. 2. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14515&efYd=19980224&ancYnChk=0) |
