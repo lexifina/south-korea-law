@@ -1,4 +1,4 @@
-# 원호기금법
+# 보훈기금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001712&ancYnChk=0>
 
@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1981-03-27 | 법률 제3400호, 1981. 3. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5268&efYd=19810327&ancYnChk=0) |
 | 1981-04-04 | 법률 제3419호, 1981. 4. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5269&efYd=19810404&ancYnChk=0) |
+| 1985-01-01 | 법률 제3742호, 1984. 8. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62313&efYd=19850101&ancYnChk=0) |
