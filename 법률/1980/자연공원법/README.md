@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1980-06-01 | 법률 제3243호, 1980. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50956&efYd=19800601&ancYnChk=0) |
 | 1982-02-01 | 법률 제3492호, 1981. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50957&efYd=19820201&ancYnChk=0) |
+| 1983-07-01 | 법률 제3644호, 1982. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50958&efYd=19830701&ancYnChk=0) |
