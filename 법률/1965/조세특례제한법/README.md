@@ -74,3 +74,4 @@
 | 1995-04-06 | 법률 제4927호, 1995. 1. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53510&efYd=19950406&ancYnChk=0) |
 | 1995-07-01 | 법률 제4825호, 1994. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5368&efYd=19950701&ancYnChk=0) |
 | 1995-07-01 | 법률 제4898호, 1995. 1. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5369&efYd=19950701&ancYnChk=0) |
+| 1995-07-01 | 법률 제4944호, 1995. 3. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53513&efYd=19950701&ancYnChk=0) |
