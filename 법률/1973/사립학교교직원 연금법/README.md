@@ -20,3 +20,4 @@
 | 1990-04-07 | 법률 제4226호, 1990. 4. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5372&efYd=19900407&ancYnChk=0) |
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5373&efYd=19901227&ancYnChk=0) |
 | 1991-12-27 | 법률 제4455호, 1991. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5374&efYd=19911227&ancYnChk=0) |
+| 1996-01-01 | 법률 제5068호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5375&efYd=19960101&ancYnChk=0) |
