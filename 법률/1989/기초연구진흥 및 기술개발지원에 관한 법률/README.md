@@ -1,7 +1,7 @@
-# 기초연구진흥 및 기술개발지원에 관한 법률
+# 기초과학연구진흥법
 
-기초연구진흥 및 기술개발지원에 관한 법률 · 1 versions, from 2026-02-01 (latest in force: 2026-02-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000762&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000762&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 기초연구진흥 및 기술개발지원에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1990-03-31 | 법률 제4196호, 1989. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4048&efYd=19900331&ancYnChk=0) |
