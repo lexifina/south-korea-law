@@ -1,7 +1,7 @@
 # 수복지역내소유자미복구토지의복구등록과보존등기등에관한특별조치법
 
-수복지역내소유자미복구토지의복구등록과보존등기등에관한특별조치법 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001183&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001183&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 수복지역내소유자미복구토지의복구등록과보존등기등에관한특별조치법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1983-07-01 | 법률 제3627호, 1982. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3687&efYd=19830701&ancYnChk=0) |
