@@ -9,3 +9,4 @@
 | 1966-01-01 | 법률 제1709호, 1965. 8. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59008&efYd=19660101&ancYnChk=0) |
 | 1969-01-01 | 법률 제2031호, 1968. 7. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59007&efYd=19690101&ancYnChk=0) |
 | 1982-04-03 | 법률 제3557호, 1982. 4. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59002&efYd=19820403&ancYnChk=0) |
+| 1988-05-01 | 법률 제4008호, 1988. 4. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59006&efYd=19880501&ancYnChk=0) |
