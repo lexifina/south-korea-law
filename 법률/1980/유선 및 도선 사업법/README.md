@@ -1,7 +1,8 @@
-# 유선및도선업법
+# 유선및도선사업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001015&ancYnChk=0>
 
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1980-04-05 | 법률 제3225호, 1980. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2357&efYd=19800405&ancYnChk=0) |
+| 1994-01-01 | 법률 제4610호, 1993. 12. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59949&efYd=19940101&ancYnChk=0) |
