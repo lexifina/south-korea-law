@@ -28,3 +28,4 @@
 | 1997-12-13 | 법률 제5452호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62573&efYd=19971213&ancYnChk=0) |
 | 1997-12-13 | 법률 제5455호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62574&efYd=19971213&ancYnChk=0) |
 | 1998-02-24 | 법률 제5527호, 1998. 2. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58783&efYd=19980224&ancYnChk=0) |
+| 1998-02-28 | 법률 제5529호, 1998. 2. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58784&efYd=19980228&ancYnChk=0) |
