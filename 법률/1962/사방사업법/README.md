@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-01-15 | 법률 제977호, 1962. 1. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1705&efYd=19620115&ancYnChk=0) |
+| 1963-02-09 | 법률 제1269호, 1963. 2. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1706&efYd=19630209&ancYnChk=0) |
