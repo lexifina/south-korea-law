@@ -1,7 +1,7 @@
 # 지하수법
 
-지하수법 · 1 versions, from 2026-09-26 (latest in force: 2026-09-26) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000262&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000262&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 지하수법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1994-06-11 | 법률 제4599호, 1993. 12. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62160&efYd=19940611&ancYnChk=0) |
