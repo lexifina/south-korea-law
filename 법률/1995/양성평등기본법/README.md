@@ -1,7 +1,7 @@
-# 양성평등기본법
+# 여성발전기본법
 
-양성평등기본법 · 1 versions, from 2026-09-11 (latest in force: 2026-09-11) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000185&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000185&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 양성평등기본법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-07-01 | 법률 제5136호, 1995. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=908&efYd=19960701&ancYnChk=0) |
