@@ -1,4 +1,4 @@
-# 용역경비업법
+# 경비업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000980&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 1991-07-31 | 법률 제4369호, 1991. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4536&efYd=19910731&ancYnChk=0) |
 | 1996-07-01 | 법률 제5124호, 1995. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=39556&efYd=19960701&ancYnChk=0) |
 | 1998-01-01 | 법률 제5453호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=39557&efYd=19980101&ancYnChk=0) |
+| 1999-10-01 | 법률 제5940호, 1999. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=39558&efYd=19991001&ancYnChk=0) |
