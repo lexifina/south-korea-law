@@ -10,3 +10,4 @@
 | 1954-11-06 | 법률 제349호, 1954. 10. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=543&efYd=19541106&ancYnChk=0) |
 | 1963-08-07 | 법률 제1386호, 1963. 8. 7. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=544&efYd=19630807&ancYnChk=0) |
 | 1963-12-17 | 법률 제1589호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=545&efYd=19631217&ancYnChk=0) |
+| 1970-08-15 | 법률 제2213호, 1970. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=546&efYd=19700815&ancYnChk=0) |
