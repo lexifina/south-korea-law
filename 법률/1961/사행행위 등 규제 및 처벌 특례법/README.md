@@ -1,4 +1,4 @@
-# 사행행위등규제법
+# 사행행위등규제및처벌특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000966&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1963-08-31 | 법률 제1372호, 1963. 7. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4258&efYd=19630831&ancYnChk=0) |
 | 1991-09-09 | 법률 제4339호, 1991. 3. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4375&efYd=19910909&ancYnChk=0) |
 | 1991-11-30 | 법률 제4407호, 1991. 11. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4376&efYd=19911130&ancYnChk=0) |
+| 1993-12-27 | 법률 제4607호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3660&efYd=19931227&ancYnChk=0) |
