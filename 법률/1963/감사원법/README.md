@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-03-20 | 법률 제1286호, 1963. 3. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60198&efYd=19630320&ancYnChk=0) |
 | 1963-12-17 | 법률 제1495호, 1963. 12. 13. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60656&efYd=19631217&ancYnChk=0) |
+| 1970-12-31 | 법률 제2245호, 1970. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54774&efYd=19701231&ancYnChk=0) |
