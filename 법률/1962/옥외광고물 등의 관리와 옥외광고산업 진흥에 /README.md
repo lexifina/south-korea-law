@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-01-20 | 법률 제988호, 1962. 1. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2480&efYd=19620120&ancYnChk=0) |
+| 1963-11-11 | 법률 제1444호, 1963. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2481&efYd=19631111&ancYnChk=0) |
