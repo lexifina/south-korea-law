@@ -1,7 +1,7 @@
-# 군법무관 임용 등에 관한 법률
+# 군법무관임용법
 
-군법무관 임용 등에 관한 법률 · 1 versions, from 2012-01-17 (latest in force: 2012-01-17) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000941&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000941&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 군법무관 임용 등에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1952-04-24 | 법률 제243호, 1952. 4. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3947&efYd=19520424&ancYnChk=0) |
