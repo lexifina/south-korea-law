@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1963-05-29 | 법률 제1347호, 1963. 5. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5007&efYd=19630529&ancYnChk=0) |
+| 1965-11-01 | 법률 제1714호, 1965. 11. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5008&efYd=19651101&ancYnChk=0) |
