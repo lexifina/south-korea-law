@@ -45,3 +45,4 @@
 | 1985-01-01 | 법률 제3734호, 1984. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5789&efYd=19850101&ancYnChk=0) |
 | 1987-01-01 | 법률 제3854호, 1986. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101&ancYnChk=0) |
 | 1989-12-30 | 법률 제4183호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230&ancYnChk=0) |
+| 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227&ancYnChk=0) |
