@@ -1,7 +1,7 @@
 # 중소기업기본법
 
-중소기업기본법 · 1 versions, from 2026-07-01 (latest in force: 2026-07-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001477&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001477&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 중소기업기본법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1966-12-06 | 법률 제1840호, 1966. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5632&efYd=19661206&ancYnChk=0) |
