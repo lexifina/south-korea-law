@@ -1,4 +1,4 @@
-# 장애인고용촉진등에관한법률
+# 장애인고용촉진및직업재활법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001763&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1997-01-01 | 법률 제5170호, 1996. 12. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4812&efYd=19970101&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4813&efYd=19980101&ancYnChk=0) |
 | 1999-02-08 | 법률 제5889호, 1999. 2. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4814&efYd=19990208&ancYnChk=0) |
+| 2000-07-01 | 법률 제6166호, 2000. 1. 12. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4815&efYd=20000701&ancYnChk=0) |
