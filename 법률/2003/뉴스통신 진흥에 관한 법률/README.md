@@ -1,0 +1,7 @@
+# 뉴스통신진흥에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009529&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2003-08-30 | 법률 제6905호, 2003. 5. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57285&efYd=20030830&ancYnChk=0) |
