@@ -9,3 +9,4 @@
 | 1952-04-01 | 법률 제252호, 1952. 9. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6419&efYd=19520401&ancYnChk=0) |
 | 1954-04-01 | 법률 제332호, 1954. 4. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6420&efYd=19540401&ancYnChk=0) |
 | 1957-02-12 | 법률 제433호, 1957. 2. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6421&efYd=19570212&ancYnChk=0) |
+| 1958-08-28 | 법률 제496호, 1958. 8. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6422&efYd=19580828&ancYnChk=0) |
