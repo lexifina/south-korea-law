@@ -9,3 +9,4 @@
 | 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7152&efYd=19810514&ancYnChk=0) |
 | 1990-01-01 | 법률 제4167호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7153&efYd=19900101&ancYnChk=0) |
 | 1994-01-01 | 법률 제4683호, 1993. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7154&efYd=19940101&ancYnChk=0) |
+| 1997-03-01 | 법률 제5255호, 1997. 1. 13. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7155&efYd=19970301&ancYnChk=0) |
