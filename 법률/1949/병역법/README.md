@@ -49,3 +49,4 @@
 | 2002-12-05 | 법률 제6749호, 2002. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54927&efYd=20021205&ancYnChk=0) |
 | 2003-03-27 | 법률 제6809호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54928&efYd=20030327&ancYnChk=0) |
 | 2003-12-04 | 법률 제6972호, 2003. 9. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56679&efYd=20031204&ancYnChk=0) |
+| 2003-12-11 | 법률 제6997호, 2003. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59494&efYd=20031211&ancYnChk=0) |
