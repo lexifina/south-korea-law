@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1950-04-21 | 법률 제129호, 1950. 4. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3387&efYd=19500421&ancYnChk=0) |
+| 1962-09-17 | 법률 제1143호, 1962. 9. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62348&efYd=19620917&ancYnChk=0) |
