@@ -15,3 +15,4 @@
 | 1978-12-05 | 법률 제3110호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3831&efYd=19781205&ancYnChk=0) |
 | 1991-01-01 | 법률 제4299호, 1990. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3832&efYd=19910101&ancYnChk=0) |
 | 1997-12-13 | 법률 제5428호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3833&efYd=19971213&ancYnChk=0) |
+| 2002-07-01 | 법률 제6628호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59774&efYd=20020701&ancYnChk=0) |
