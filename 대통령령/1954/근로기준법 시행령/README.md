@@ -16,3 +16,4 @@
 | 1988-01-01 | 대통령령 제12359호, 1987. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14508&efYd=19880101&ancYnChk=0) |
 | 1988-12-19 | 대통령령 제12555호, 1988. 12. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14509&efYd=19881219&ancYnChk=0) |
 | 1989-08-07 | 대통령령 제12773호, 1989. 8. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14510&efYd=19890807&ancYnChk=0) |
+| 1990-07-14 | 대통령령 제13053호, 1990. 7. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14511&efYd=19900714&ancYnChk=0) |
