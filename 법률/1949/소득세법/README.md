@@ -34,3 +34,4 @@
 | 1973-02-16 | 법률 제2522호, 1973. 2. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5533&efYd=19730216&ancYnChk=0) |
 | 1973-03-03 | 법률 제2565호, 1973. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5534&efYd=19730303&ancYnChk=0) |
 | 1973-12-20 | 법률 제2636호, 1973. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5535&efYd=19731220&ancYnChk=0) |
+| 1975-01-01 | 법률 제2705호, 1974. 12. 24. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5536&efYd=19750101&ancYnChk=0) |
