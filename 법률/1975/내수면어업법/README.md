@@ -1,4 +1,4 @@
-# 내수면어업개발촉진법
+# 내수면어업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000385&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1999-08-09 | 법률 제5893호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1424&efYd=19990809&ancYnChk=0) |
 | 1999-08-09 | 법률 제5914호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1425&efYd=19990809&ancYnChk=0) |
 | 2000-03-08 | 법률 제6021호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1426&efYd=20000308&ancYnChk=0) |
+| 2000-07-29 | 법률 제6255호, 2000. 1. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1427&efYd=20000729&ancYnChk=0) |
