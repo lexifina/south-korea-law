@@ -13,3 +13,4 @@
 | 1997-12-31 | 대법원규칙 제1508호, 1997. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60668&efYd=19971231&ancYnChk=0) |
 | 1998-05-19 | 대법원규칙 제1540호, 1998. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60672&efYd=19980519&ancYnChk=0) |
 | 1998-07-01 | 대법원규칙 제1550호, 1998. 6. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60671&efYd=19980701&ancYnChk=0) |
+| 1999-12-31 | 대법원규칙 제1628호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60667&efYd=19991231&ancYnChk=0) |
