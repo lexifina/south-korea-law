@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1950-02-16 | 법률 제97호, 1950. 2. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=540&efYd=19500216&ancYnChk=0) |
 | 1951-06-23 | 법률 제206호, 1951. 6. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=541&efYd=19510623&ancYnChk=0) |
+| 1952-03-21 | 법률 제235호, 1952. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=542&efYd=19520321&ancYnChk=0) |
