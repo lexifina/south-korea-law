@@ -1,7 +1,7 @@
-# 기부금품의 모집ㆍ사용 및 기부문화 활성화에 관한 법률
+# 기부금품모집금지법
 
-기부금품의 모집ㆍ사용 및 기부문화 활성화에 관한 법률 · 1 versions, from 2024-07-31 (latest in force: 2024-07-31) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001021&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001021&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 기부금품의 모집ㆍ사용 및 기부문화 활성화에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1951-11-17 | 법률 제224호, 1951. 11. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2483&efYd=19511117&ancYnChk=0) |
