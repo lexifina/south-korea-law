@@ -13,3 +13,4 @@
 | 1996-12-31 | 법률 제5240호, 1996. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1993&efYd=19961231&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1994&efYd=19980101&ancYnChk=0) |
 | 2001-01-01 | 법률 제6095호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1995&efYd=20010101&ancYnChk=0) |
+| 2003-01-01 | 법률 제6654호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51904&efYd=20030101&ancYnChk=0) |
