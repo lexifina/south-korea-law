@@ -1,4 +1,4 @@
-# 재외국민취적·호적정정및호적정리에관한임시특례법
+# 재외국민취적·호적정정및호적정리에관한특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001170&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 1980-12-18 | 법률 제3285호, 1980. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3544&efYd=19801218&ancYnChk=0) |
 | 1985-09-14 | 법률 제3791호, 1985. 9. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3545&efYd=19850914&ancYnChk=0) |
 | 1990-12-26 | 법률 제4267호, 1990. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3546&efYd=19901226&ancYnChk=0) |
+| 2000-12-29 | 법률 제6309호, 2000. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52974&efYd=20001229&ancYnChk=0) |
