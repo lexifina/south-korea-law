@@ -1,7 +1,7 @@
 # 임금채권보장법
 
-임금채권보장법 · 1 versions, from 2026-08-20 (latest in force: 2026-08-20) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000128&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000128&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 임금채권보장법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1998-07-01 | 법률 제5513호, 1998. 2. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2261&efYd=19980701&ancYnChk=0) |
