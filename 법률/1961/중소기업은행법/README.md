@@ -1,7 +1,7 @@
 # 중소기업은행법
 
-중소기업은행법 · 1 versions, from 2021-03-25 (latest in force: 2021-03-25) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001545&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001545&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 중소기업은행법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-07-01 | 법률 제641호, 1961. 7. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7139&efYd=19610701&ancYnChk=0) |
