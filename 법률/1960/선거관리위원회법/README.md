@@ -16,3 +16,4 @@
 | 1973-01-20 | 법률 제2445호, 1973. 1. 20. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3719&efYd=19730120&ancYnChk=0) |
 | 1978-01-01 | 법률 제3038호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3720&efYd=19780101&ancYnChk=0) |
 | 1980-11-25 | 법률 제3264호, 1980. 11. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3721&efYd=19801125&ancYnChk=0) |
+| 1984-07-25 | 법률 제3732호, 1984. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3722&efYd=19840725&ancYnChk=0) |
