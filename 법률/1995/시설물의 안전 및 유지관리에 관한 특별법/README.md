@@ -1,7 +1,7 @@
-# 시설물의 안전 및 유지관리에 관한 특별법
+# 시설물의안전관리에관한특별법
 
-시설물의 안전 및 유지관리에 관한 특별법 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000237&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000237&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 시설물의 안전 및 유지관리에 관한 특별법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1995-04-06 | 법률 제4922호, 1995. 1. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1520&efYd=19950406&ancYnChk=0) |
