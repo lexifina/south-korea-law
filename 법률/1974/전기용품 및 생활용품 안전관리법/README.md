@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1974-07-01 | 법률 제2674호, 1974. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55790&efYd=19740701&ancYnChk=0) |
+| 1990-07-01 | 법률 제4146호, 1989. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4644&efYd=19900701&ancYnChk=0) |
