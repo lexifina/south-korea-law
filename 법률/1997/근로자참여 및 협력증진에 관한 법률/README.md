@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1997-03-13 | 법률 제5312호, 1997. 3. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=161&efYd=19970313&ancYnChk=0) |
+| 1999-12-31 | 법률 제6098호, 1999. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=274&efYd=19991231&ancYnChk=0) |
