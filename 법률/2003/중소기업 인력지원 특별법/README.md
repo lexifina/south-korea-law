@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2004-01-01 | 법률 제6975호, 2003. 9. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58932&efYd=20040101&ancYnChk=0) |
+| 2005-01-01 | 법률 제7171호, 2004. 2. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59550&efYd=20050101&ancYnChk=0) |
