@@ -1,4 +1,4 @@
-# 엽연초생산조합법
+# 엽연초생산협동조합법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001555&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5010&efYd=19810514&ancYnChk=0) |
 | 1987-04-01 | 법률 제3872호, 1986. 12. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52500&efYd=19870401&ancYnChk=0) |
 | 1989-04-01 | 법률 제4064호, 1988. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60222&efYd=19890401&ancYnChk=0) |
+| 1989-04-01 | 법률 제4119호, 1989. 4. 1. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60221&efYd=19890401&ancYnChk=0) |
