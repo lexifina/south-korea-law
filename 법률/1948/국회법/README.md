@@ -14,3 +14,4 @@
 | 1958-02-22 | 법률 제472호, 1958. 2. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4020&efYd=19580222&ancYnChk=0) |
 | 1960-06-07 | 법률 제548호, 1960. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4021&efYd=19600607&ancYnChk=0) |
 | 1960-09-26 | 법률 제557호, 1960. 9. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4022&efYd=19600926&ancYnChk=0) |
+| 1963-11-26 | 법률 제1452호, 1963. 11. 26. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4023&efYd=19631126&ancYnChk=0) |
