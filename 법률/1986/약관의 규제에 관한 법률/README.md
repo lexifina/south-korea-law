@@ -1,4 +1,4 @@
-# 약관의규제에관한법률
+# 약관의 규제에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000667&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1998-04-01 | 법률 제5491호, 1997. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3002&efYd=19980401&ancYnChk=0) |
 | 2001-03-28 | 법률 제6459호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54078&efYd=20010328&ancYnChk=0) |
 | 2004-01-20 | 법률 제7108호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60108&efYd=20040120&ancYnChk=0) |
+| 2005-03-31 | 법률 제7491호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67758&efYd=20050331&ancYnChk=0) |
