@@ -1,7 +1,7 @@
-# 산업기술혁신 촉진법
+# 공업및에너지기술기반조성에관한법률
 
-산업기술혁신 촉진법 · 1 versions, from 2026-09-18 (latest in force: 2026-09-18) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001461&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001461&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 산업기술혁신 촉진법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1995-07-01 | 법률 제4824호, 1994. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2423&efYd=19950701&ancYnChk=0) |
