@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1958-03-11 | 법률 제483호, 1958. 3. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4911&efYd=19580311&ancYnChk=0) |
+| 1961-10-02 | 법률 제735호, 1961. 10. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4912&efYd=19611002&ancYnChk=0) |
