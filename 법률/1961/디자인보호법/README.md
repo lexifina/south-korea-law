@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1961-12-31 | 법률 제951호, 1961. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8044&efYd=19611231&ancYnChk=0) |
+| 1974-01-01 | 법률 제2507호, 1973. 2. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8045&efYd=19740101&ancYnChk=0) |
