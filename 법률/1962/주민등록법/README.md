@@ -8,3 +8,4 @@
 | 1968-08-30 | 법률 제2016호, 1968. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=29309&efYd=19680830&ancYnChk=0) |
 | 1970-02-01 | 법률 제2150호, 1970. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57551&efYd=19700201&ancYnChk=0) |
 | 1975-08-25 | 법률 제2777호, 1975. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7216&efYd=19750825&ancYnChk=0) |
+| 1978-09-01 | 법률 제3041호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=29312&efYd=19780901&ancYnChk=0) |
