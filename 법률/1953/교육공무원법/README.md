@@ -24,3 +24,4 @@
 | 1990-12-31 | 법률 제4304호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61418&efYd=19901231&ancYnChk=0) |
 | 1991-03-08 | 법률 제4348호, 1991. 3. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56225&efYd=19910308&ancYnChk=0) |
 | 1991-05-31 | 법률 제4376호, 1991. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56227&efYd=19910531&ancYnChk=0) |
+| 1991-06-20 | 법률 제4347호, 1991. 3. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56226&efYd=19910620&ancYnChk=0) |
