@@ -10,3 +10,4 @@
 | 1969-11-10 | 대통령령 제4220호, 1969. 11. 10. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14386&efYd=19691110&ancYnChk=0) |
 | 1975-04-28 | 대통령령 제7613호, 1975. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14387&efYd=19750428&ancYnChk=0) |
 | 1978-03-07 | 대통령령 제8880호, 1978. 3. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14388&efYd=19780307&ancYnChk=0) |
+| 1981-01-29 | 대통령령 제10185호, 1981. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14389&efYd=19810129&ancYnChk=0) |
