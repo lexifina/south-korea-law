@@ -1,4 +1,4 @@
-# 여객자동차운수사업법
+# 여객자동차 운수사업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001749&ancYnChk=0>
 
@@ -19,3 +19,4 @@
 | 2002-06-20 | 법률 제6536호, 2001. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53944&efYd=20020620&ancYnChk=0) |
 | 2003-01-01 | 법률 제6655호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53946&efYd=20030101&ancYnChk=0) |
 | 2004-01-26 | 법률 제6942호, 2003. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57608&efYd=20040126&ancYnChk=0) |
+| 2005-03-31 | 법률 제7474호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67786&efYd=20050331&ancYnChk=0) |
