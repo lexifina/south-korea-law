@@ -1,7 +1,7 @@
-# 독점규제 및 공정거래에 관한 법률
+# 독점규제및공정거래에관한법률
 
-독점규제 및 공정거래에 관한 법률 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001591&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001591&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 독점규제 및 공정거래에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1981-04-01 | 법률 제3320호, 1980. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7028&efYd=19810401&ancYnChk=0) |
