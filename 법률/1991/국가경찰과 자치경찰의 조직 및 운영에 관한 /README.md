@@ -8,3 +8,4 @@
 | 1996-08-08 | 법률 제5153호, 1996. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55024&efYd=19960808&ancYnChk=0) |
 | 1997-01-13 | 법률 제5260호, 1997. 1. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1438&efYd=19970113&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52186&efYd=19980101&ancYnChk=0) |
+| 1998-02-28 | 법률 제5529호, 1998. 2. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1442&efYd=19980228&ancYnChk=0) |
