@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1983-12-31 | 법률 제3698호, 1983. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60295&efYd=19831231&ancYnChk=0) |
 | 1993-12-27 | 법률 제4614호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60292&efYd=19931227&ancYnChk=0) |
+| 2001-03-27 | 법률 제6290호, 2000. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60275&efYd=20010327&ancYnChk=0) |
