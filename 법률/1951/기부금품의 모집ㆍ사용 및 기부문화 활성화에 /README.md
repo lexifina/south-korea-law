@@ -9,3 +9,4 @@
 | 1970-08-12 | 법률 제2235호, 1970. 8. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2485&efYd=19700812&ancYnChk=0) |
 | 1996-07-01 | 법률 제5126호, 1995. 12. 30. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58850&efYd=19960701&ancYnChk=0) |
 | 1998-01-01 | 법률 제5453호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58736&efYd=19980101&ancYnChk=0) |
+| 1999-01-18 | 법률 제5631호, 1999. 1. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58730&efYd=19990118&ancYnChk=0) |
