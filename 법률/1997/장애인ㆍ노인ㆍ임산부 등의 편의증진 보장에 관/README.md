@@ -1,7 +1,7 @@
-# 장애인ㆍ노인ㆍ임산부 등의 편의증진 보장에 관한 법률
+# 장애인·노인·임산부등의편의증진보장에관한법률
 
-장애인ㆍ노인ㆍ임산부 등의 편의증진 보장에 관한 법률 · 1 versions, from 2025-12-21 (latest in force: 2025-12-21) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000186&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000186&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 장애인ㆍ노인ㆍ임산부 등의 편의증진 보장에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1998-04-11 | 법률 제5332호, 1997. 4. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59192&efYd=19980411&ancYnChk=0) |
