@@ -1,7 +1,7 @@
 # 지방교부세법
 
-지방교부세법 · 1 versions, from 2026-07-01 (latest in force: 2026-07-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001006&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001006&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 지방교부세법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1962-01-01 | 법률 제931호, 1961. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59004&efYd=19620101&ancYnChk=0) |
