@@ -7,3 +7,4 @@
 | 1949-12-19 | 법률 제75호, 1949. 12. 19. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59221&efYd=19491219&ancYnChk=0) |
 | 1980-03-29 | 법률 제3178호, 1979. 12. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59222&efYd=19800329&ancYnChk=0) |
 | 1994-01-01 | 법률 제4675호, 1993. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59220&efYd=19940101&ancYnChk=0) |
+| 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59671&efYd=19980101&ancYnChk=0) |
