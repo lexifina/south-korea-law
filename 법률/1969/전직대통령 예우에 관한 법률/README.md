@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1969-01-22 | 법률 제2086호, 1969. 1. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4169&efYd=19690122&ancYnChk=0) |
+| 1981-03-02 | 법률 제3378호, 1981. 3. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4170&efYd=19810302&ancYnChk=0) |
