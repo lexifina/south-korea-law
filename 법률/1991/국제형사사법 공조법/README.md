@@ -1,7 +1,7 @@
-# 국제형사사법 공조법
+# 국제형사사법공조법
 
-국제형사사법 공조법 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001113&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001113&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 국제형사사법 공조법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1991-04-08 | 법률 제4343호, 1991. 3. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59506&efYd=19910408&ancYnChk=0) |
