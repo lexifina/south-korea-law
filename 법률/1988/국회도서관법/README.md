@@ -7,3 +7,4 @@
 | 1988-12-29 | 법률 제4037호, 1988. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3732&efYd=19881229&ancYnChk=0) |
 | 1994-07-20 | 법률 제4762호, 1994. 7. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3733&efYd=19940720&ancYnChk=0) |
 | 1995-12-30 | 법률 제5143호, 1995. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3734&efYd=19951230&ancYnChk=0) |
+| 2000-01-01 | 법률 제6034호, 1999. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3840&efYd=20000101&ancYnChk=0) |
