@@ -1,7 +1,7 @@
-# 영해 및 접속수역법
+# 영해법
 
-영해 및 접속수역법 · 1 versions, from 2018-06-14 (latest in force: 2018-06-14) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001438&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001438&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 영해 및 접속수역법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1978-04-30 | 법률 제3037호, 1977. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4325&efYd=19780430&ancYnChk=0) |
