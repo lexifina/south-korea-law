@@ -12,3 +12,4 @@
 | 1989-01-31 | 법률 제4041호, 1988. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56033&efYd=19890131&ancYnChk=0) |
 | 1991-07-31 | 법률 제4369호, 1991. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56031&efYd=19910731&ancYnChk=0) |
 | 1995-01-23 | 법률 제4799호, 1994. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56032&efYd=19950123&ancYnChk=0) |
+| 1995-04-01 | 법률 제4799호, 1994. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56032&efYd=19950401&ancYnChk=0) |
