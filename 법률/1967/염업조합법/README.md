@@ -1,7 +1,7 @@
 # 염업조합법
 
-염업조합법 · 1 versions, from 2022-12-27 (latest in force: 2022-12-27) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001478&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001478&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 염업조합법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1967-05-31 | 법률 제1936호, 1967. 3. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5639&efYd=19670531&ancYnChk=0) |
