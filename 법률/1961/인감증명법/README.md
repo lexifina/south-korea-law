@@ -8,3 +8,4 @@
 | 1962-12-12 | 법률 제1216호, 1962. 12. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2504&efYd=19621212&ancYnChk=0) |
 | 1978-01-01 | 법률 제3040호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2505&efYd=19780101&ancYnChk=0) |
 | 1991-03-01 | 법률 제4315호, 1991. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2506&efYd=19910301&ancYnChk=0) |
+| 1993-04-01 | 법률 제4522호, 1992. 12. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2507&efYd=19930401&ancYnChk=0) |
