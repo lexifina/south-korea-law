@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1966-09-01 | 법률 제1797호, 1966. 7. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7043&efYd=19660901&ancYnChk=0) |
 | 1968-12-31 | 법률 제2065호, 1968. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7151&efYd=19681231&ancYnChk=0) |
+| 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7152&efYd=19810514&ancYnChk=0) |
