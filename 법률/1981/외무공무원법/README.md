@@ -1,7 +1,7 @@
 # 외무공무원법
 
-외무공무원법 · 1 versions, from 2026-08-11 (latest in force: 2026-08-11) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000008&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000008&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 외무공무원법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1981-05-14 | 법률 제3384호, 1981. 3. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=408&efYd=19810514&ancYnChk=0) |
