@@ -27,3 +27,4 @@
 | 1996-01-01 | 법률 제5109호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56237&efYd=19960101&ancYnChk=0) |
 | 1996-01-06 | 법률 제4919호, 1995. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56235&efYd=19960106&ancYnChk=0) |
 | 1996-06-30 | 법률 제5111호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56236&efYd=19960630&ancYnChk=0) |
+| 1996-06-30 | 법률 제5116호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56239&efYd=19960630&ancYnChk=0) |
