@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1972-08-14 | 법률 제2337호, 1972. 8. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2741&efYd=19720814&ancYnChk=0) |
 | 1982-12-28 | 법률 제3592호, 1982. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2742&efYd=19821228&ancYnChk=0) |
+| 1987-11-28 | 법률 제3975호, 1987. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2743&efYd=19871128&ancYnChk=0) |
