@@ -1,7 +1,7 @@
-# 입목에 관한 법률
+# 입목에관한법률
 
-입목에 관한 법률 · 1 versions, from 2025-01-31 (latest in force: 2025-01-31) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001258&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001258&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 입목에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1973-03-09 | 법률 제2484호, 1973. 2. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4292&efYd=19730309&ancYnChk=0) |
