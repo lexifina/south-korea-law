@@ -1,7 +1,7 @@
-# 실내공기질 관리법
+# 지하생활공간공기질관리법
 
-실내공기질 관리법 · 1 versions, from 2026-03-26 (latest in force: 2026-03-26) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000161&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000161&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 실내공기질 관리법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1997-12-31 | 법률 제5224호, 1996. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=588&efYd=19971231&ancYnChk=0) |
