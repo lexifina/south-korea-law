@@ -13,3 +13,4 @@
 | 1988-02-25 | 법률 제3993호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3429&efYd=19880225&ancYnChk=0) |
 | 1994-01-05 | 법률 제4708호, 1994. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61972&efYd=19940105&ancYnChk=0) |
 | 1996-12-31 | 법률 제5252호, 1996. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54756&efYd=19961231&ancYnChk=0) |
+| 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54749&efYd=19980101&ancYnChk=0) |
