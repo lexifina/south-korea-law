@@ -18,3 +18,4 @@
 | 1981-12-31 | 법률 제3518호, 1981. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=898&efYd=19811231&ancYnChk=0) |
 | 1982-12-28 | 법률 제3584호, 1982. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58672&efYd=19821228&ancYnChk=0) |
 | 1987-01-01 | 법률 제3917호, 1986. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58780&efYd=19870101&ancYnChk=0) |
+| 1988-09-01 | 법률 제4017호, 1988. 8. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=901&efYd=19880901&ancYnChk=0) |
