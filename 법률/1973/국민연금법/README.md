@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1974-01-01 | 법률 제2655호, 1973. 12. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7830&efYd=19740101&ancYnChk=0) |
 | 1974-12-21 | 법률 제2702호, 1974. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55784&efYd=19741221&ancYnChk=0) |
+| 1975-12-31 | 법률 제2863호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7831&efYd=19751231&ancYnChk=0) |
