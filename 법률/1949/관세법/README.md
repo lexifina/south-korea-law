@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1949-11-23 | 법률 제67호, 1949. 11. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5011&efYd=19491123&ancYnChk=0) |
+| 1951-12-27 | 법률 제229호, 1951. 12. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5012&efYd=19511227&ancYnChk=0) |
