@@ -29,3 +29,4 @@
 | 2001-07-01 | 법률 제6460호, 2001. 4. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=44066&efYd=20010701&ancYnChk=0) |
 | 2002-04-27 | 법률 제6633호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53837&efYd=20020427&ancYnChk=0) |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53832&efYd=20020701&ancYnChk=0) |
+| 2002-10-27 | 법률 제6633호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53837&efYd=20021027&ancYnChk=0) |
