@@ -1,7 +1,7 @@
-# 독립공채상환에 관한 특별조치법
+# 독립공채상환에관한특별조치법
 
-독립공채상환에 관한 특별조치법 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000564&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000564&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 독립공채상환에 관한 특별조치법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1984-06-30 | 법률 제3669호, 1983. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57577&efYd=19840630&ancYnChk=0) |
