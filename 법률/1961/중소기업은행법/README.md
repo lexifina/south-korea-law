@@ -10,3 +10,4 @@
 | 1968-01-01 | 법률 제1988호, 1968. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59387&efYd=19680101&ancYnChk=0) |
 | 1973-03-05 | 법률 제2572호, 1973. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59389&efYd=19730305&ancYnChk=0) |
 | 1975-12-22 | 법률 제2797호, 1975. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59674&efYd=19751222&ancYnChk=0) |
+| 1980-01-01 | 법률 제3195호, 1979. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59394&efYd=19800101&ancYnChk=0) |
