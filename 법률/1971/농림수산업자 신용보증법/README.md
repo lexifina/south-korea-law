@@ -9,3 +9,4 @@
 | 1981-01-01 | 법률 제3298호, 1980. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2019&efYd=19810101&ancYnChk=0) |
 | 1990-04-07 | 법률 제4228호, 1990. 4. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2020&efYd=19900407&ancYnChk=0) |
 | 1995-05-12 | 법률 제4788호, 1994. 11. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2021&efYd=19950512&ancYnChk=0) |
+| 1995-08-04 | 법률 제4954호, 1995. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1445&efYd=19950804&ancYnChk=0) |
