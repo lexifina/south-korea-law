@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1961-12-27 | 법률 제879호, 1961. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5553&efYd=19611227&ancYnChk=0) |
 | 1968-05-29 | 법률 제2017호, 1968. 5. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5554&efYd=19680529&ancYnChk=0) |
+| 1970-08-03 | 법률 제2207호, 1970. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5555&efYd=19700803&ancYnChk=0) |
