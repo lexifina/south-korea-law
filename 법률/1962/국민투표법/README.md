@@ -9,3 +9,4 @@
 | 1962-12-05 | 법률 제1197호, 1962. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5943&efYd=19621205&ancYnChk=0) |
 | 1963-03-18 | 법률 제1308호, 1963. 3. 18. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5944&efYd=19630318&ancYnChk=0) |
 | 1969-09-18 | 법률 제2144호, 1969. 9. 18. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5945&efYd=19690918&ancYnChk=0) |
+| 1973-03-03 | 법률 제2559호, 1973. 3. 3. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5946&efYd=19730303&ancYnChk=0) |
