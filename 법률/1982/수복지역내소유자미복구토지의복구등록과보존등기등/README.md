@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1983-07-01 | 법률 제3627호, 1982. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3687&efYd=19830701&ancYnChk=0) |
+| 1988-12-31 | 법률 제4042호, 1988. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3688&efYd=19881231&ancYnChk=0) |
