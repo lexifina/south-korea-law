@@ -1,7 +1,7 @@
 # 민사조정법
 
-민사조정법 · 1 versions, from 2020-03-05 (latest in force: 2020-03-05) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001202&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001202&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 민사조정법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1990-09-01 | 법률 제4202호, 1990. 1. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57845&efYd=19900901&ancYnChk=0) |
