@@ -22,3 +22,4 @@
 | 1999-12-28 | 법률 제6040호, 1999. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59802&efYd=19991228&ancYnChk=0) |
 | 2000-07-01 | 법률 제6146호, 2000. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59801&efYd=20000701&ancYnChk=0) |
 | 2001-01-01 | 법률 제6305호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59814&efYd=20010101&ancYnChk=0) |
+| 2002-05-26 | 법률 제6664호, 2002. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59815&efYd=20020526&ancYnChk=0) |
