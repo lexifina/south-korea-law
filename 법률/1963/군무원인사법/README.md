@@ -17,3 +17,4 @@
 | 1993-12-09 | 법률 제4582호, 1993. 12. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60293&efYd=19931209&ancYnChk=0) |
 | 1995-12-29 | 법률 제5061호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60290&efYd=19951229&ancYnChk=0) |
 | 1999-01-21 | 법률 제5646호, 1999. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60279&efYd=19990121&ancYnChk=0) |
+| 2003-03-19 | 법률 제6784호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60285&efYd=20030319&ancYnChk=0) |
