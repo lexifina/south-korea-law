@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1998-03-01 | 법률 제5439호, 1997. 12. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62329&efYd=19980301&ancYnChk=0) |
+| 1999-08-31 | 법률 제6006호, 1999. 8. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62326&efYd=19990831&ancYnChk=0) |
