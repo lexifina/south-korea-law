@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2000-11-24 | 법률 제6274호, 2000. 10. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7149&efYd=20001124&ancYnChk=0) |
+| 2002-07-28 | 법률 제6692호, 2002. 4. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53264&efYd=20020728&ancYnChk=0) |
