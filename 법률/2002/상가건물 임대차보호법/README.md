@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2002-08-26 | 법률 제6718호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58647&efYd=20020826&ancYnChk=0) |
+| 2002-11-01 | 법률 제6542호, 2001. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58649&efYd=20021101&ancYnChk=0) |
