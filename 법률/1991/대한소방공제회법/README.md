@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1991-11-30 | 법률 제4404호, 1991. 11. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60013&efYd=19911130&ancYnChk=0) |
 | 2001-06-24 | 법률 제6484호, 2001. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60123&efYd=20010624&ancYnChk=0) |
+| 2004-03-11 | 법률 제7186호, 2004. 3. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60126&efYd=20040311&ancYnChk=0) |
