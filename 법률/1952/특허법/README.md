@@ -25,3 +25,4 @@
 | 1999-01-01 | 법률 제5576호, 1998. 9. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51817&efYd=19990101&ancYnChk=0) |
 | 2000-10-01 | 법률 제6024호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51818&efYd=20001001&ancYnChk=0) |
 | 2001-07-01 | 법률 제6411호, 2001. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51819&efYd=20010701&ancYnChk=0) |
+| 2002-07-01 | 법률 제6582호, 2001. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51820&efYd=20020701&ancYnChk=0) |
