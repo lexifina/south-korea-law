@@ -10,3 +10,4 @@
 | 1971-12-28 | 법률 제2329호, 1971. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8931&efYd=19711228&ancYnChk=0) |
 | 1973-01-25 | 법률 제2452호, 1973. 1. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8932&efYd=19730125&ancYnChk=0) |
 | 1973-12-20 | 법률 제2654호, 1973. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8933&efYd=19731220&ancYnChk=0) |
+| 1982-12-31 | 법률 제3594호, 1982. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=9073&efYd=19821231&ancYnChk=0) |
