@@ -52,3 +52,4 @@
 | 1994-12-23 | 법률 제4831호, 1994. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223&ancYnChk=0) |
 | 1996-02-09 | 법률 제5150호, 1996. 2. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5925&efYd=19960209&ancYnChk=0) |
 | 1996-08-08 | 법률 제5153호, 1996. 8. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808&ancYnChk=0) |
+| 1998-02-28 | 법률 제5529호, 1998. 2. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228&ancYnChk=0) |
