@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1994-11-04 | 법률 제4773호, 1994. 8. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6861&efYd=19941104&ancYnChk=0) |
 | 1996-06-30 | 법률 제5105호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6862&efYd=19960630&ancYnChk=0) |
+| 1996-06-30 | 법률 제5110호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6863&efYd=19960630&ancYnChk=0) |
