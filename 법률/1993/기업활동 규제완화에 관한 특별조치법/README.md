@@ -23,3 +23,4 @@
 | 1998-03-01 | 법률 제5368호, 1997. 8. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5165&efYd=19980301&ancYnChk=0) |
 | 1998-03-01 | 법률 제5389호, 1997. 8. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5293&efYd=19980301&ancYnChk=0) |
 | 1998-07-01 | 법률 제5350호, 1997. 8. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5166&efYd=19980701&ancYnChk=0) |
+| 1998-12-28 | 법률 제5596호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5296&efYd=19981228&ancYnChk=0) |
