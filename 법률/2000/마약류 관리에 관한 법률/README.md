@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2000-07-01 | 법률 제6146호, 2000. 1. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56222&efYd=20000701&ancYnChk=0) |
+| 2003-06-27 | 법률 제6824호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59733&efYd=20030627&ancYnChk=0) |
