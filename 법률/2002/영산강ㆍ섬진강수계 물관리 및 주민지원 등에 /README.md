@@ -1,0 +1,7 @@
+# 영산강·섬진강수계물관리및주민지원등에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009286&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2002-07-15 | 법률 제6604호, 2002. 1. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57012&efYd=20020715&ancYnChk=0) |
