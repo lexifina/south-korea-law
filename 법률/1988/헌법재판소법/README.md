@@ -1,0 +1,7 @@
+# 헌법재판소법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011233&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1988-09-01 | 법률 제4017호, 1988. 8. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106049&efYd=19880901&ancYnChk=0) |
