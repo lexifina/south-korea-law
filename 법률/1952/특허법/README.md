@@ -8,3 +8,4 @@
 | 1961-12-31 | 법률 제950호, 1961. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4615&efYd=19611231&ancYnChk=0) |
 | 1961-12-31 | 법률 제951호, 1961. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127143&efYd=19611231&ancYnChk=0) |
 | 1961-12-31 | 법률 제952호, 1961. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127142&efYd=19611231&ancYnChk=0) |
+| 1963-04-05 | 법률 제1293호, 1963. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54380&efYd=19630405&ancYnChk=0) |
