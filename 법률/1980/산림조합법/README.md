@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1980-07-01 | 법률 제3231호, 1980. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55527&efYd=19800701&ancYnChk=0) |
+| 1987-01-01 | 법률 제3854호, 1986. 12. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6148&efYd=19870101&ancYnChk=0) |
