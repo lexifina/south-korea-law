@@ -14,3 +14,4 @@
 | 1991-03-01 | 법률 제4314호, 1991. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7215&efYd=19910301&ancYnChk=0) |
 | 1994-07-01 | 법률 제4608호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7213&efYd=19940701&ancYnChk=0) |
 | 1998-12-01 | 법률 제5459호, 1997. 12. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7214&efYd=19981201&ancYnChk=0) |
+| 1999-07-01 | 법률 제5987호, 1999. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=29308&efYd=19990701&ancYnChk=0) |
