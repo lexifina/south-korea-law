@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1953-12-12 | 법률 제298호, 1953. 12. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1409&efYd=19531212&ancYnChk=0) |
+| 1966-04-23 | 법률 제1783호, 1966. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1410&efYd=19660423&ancYnChk=0) |
