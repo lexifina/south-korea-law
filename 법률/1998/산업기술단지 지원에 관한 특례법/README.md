@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1998-12-24 | 법률 제5578호, 1998. 9. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=348&efYd=19981224&ancYnChk=0) |
+| 2001-07-01 | 법률 제6406호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50045&efYd=20010701&ancYnChk=0) |
