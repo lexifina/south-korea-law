@@ -8,3 +8,4 @@
 | 1984-03-01 | 법률 제3690호, 1983. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59471&efYd=19840301&ancYnChk=0) |
 | 1984-09-01 | 법률 제3724호, 1984. 4. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59473&efYd=19840901&ancYnChk=0) |
 | 1990-01-01 | 법률 제4168호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59472&efYd=19900101&ancYnChk=0) |
+| 1994-01-01 | 법률 제4680호, 1993. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59475&efYd=19940101&ancYnChk=0) |
