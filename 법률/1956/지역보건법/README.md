@@ -11,3 +11,4 @@
 | 1991-03-08 | 법률 제4355호, 1991. 3. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1519&efYd=19910308&ancYnChk=0) |
 | 1996-07-01 | 법률 제5101호, 1995. 12. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=48327&efYd=19960701&ancYnChk=0) |
 | 1999-08-09 | 법률 제5852호, 1999. 2. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=48326&efYd=19990809&ancYnChk=0) |
+| 2004-12-30 | 법률 제7266호, 2004. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=65882&efYd=20041230&ancYnChk=0) |
