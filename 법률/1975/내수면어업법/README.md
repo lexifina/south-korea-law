@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1976-07-01 | 법률 제2835호, 1975. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1419&efYd=19760701&ancYnChk=0) |
+| 1991-02-02 | 법률 제4252호, 1990. 8. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1420&efYd=19910202&ancYnChk=0) |
