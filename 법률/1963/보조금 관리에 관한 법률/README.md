@@ -1,7 +1,7 @@
-# 보조금 관리에 관한 법률
+# 보조금관리법
 
-보조금 관리에 관한 법률 · 1 versions, from 2026-06-02 (latest in force: 2026-06-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000729&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000729&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 보조금 관리에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1963-12-02 | 법률 제1431호, 1963. 11. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3623&efYd=19631202&ancYnChk=0) |
