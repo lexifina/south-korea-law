@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-01-01 | 법률 제953호, 1961. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7542&efYd=19620101&ancYnChk=0) |
+| 1973-11-01 | 법률 제2509호, 1973. 2. 8. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7543&efYd=19731101&ancYnChk=0) |
