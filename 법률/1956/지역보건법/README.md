@@ -1,4 +1,4 @@
-# 보건소법
+# 지역보건법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000236&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1973-01-15 | 법률 제2437호, 1973. 1. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1517&efYd=19730115&ancYnChk=0) |
 | 1975-12-31 | 법률 제2860호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1518&efYd=19751231&ancYnChk=0) |
 | 1991-03-08 | 법률 제4355호, 1991. 3. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1519&efYd=19910308&ancYnChk=0) |
+| 1996-07-01 | 법률 제5101호, 1995. 12. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=48327&efYd=19960701&ancYnChk=0) |
