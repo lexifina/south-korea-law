@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1968-01-01 | 법률 제1881호, 1967. 1. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4433&efYd=19680101&ancYnChk=0) |
+| 1979-12-28 | 법률 제3218호, 1979. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59435&efYd=19791228&ancYnChk=0) |
