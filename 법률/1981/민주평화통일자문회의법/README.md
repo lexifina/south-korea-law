@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1981-03-14 | 법률 제3383호, 1981. 3. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3559&efYd=19810314&ancYnChk=0) |
 | 1988-02-25 | 법률 제4000호, 1988. 2. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3560&efYd=19880225&ancYnChk=0) |
+| 1996-07-01 | 법률 제5126호, 1995. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3561&efYd=19960701&ancYnChk=0) |
