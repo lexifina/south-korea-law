@@ -30,3 +30,4 @@
 | 1997-12-13 | 법률 제5426호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6724&efYd=19971213&ancYnChk=0) |
 | 1998-01-01 | 법률 제5426호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6724&efYd=19980101&ancYnChk=0) |
 | 1998-04-01 | 법률 제5426호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6724&efYd=19980401&ancYnChk=0) |
+| 1998-09-19 | 법률 제5568호, 1998. 9. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6725&efYd=19980919&ancYnChk=0) |
