@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1981-03-01 | 법률 제3361호, 1981. 1. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56250&efYd=19810301&ancYnChk=0) |
+| 1990-09-01 | 법률 제4203호, 1990. 1. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3978&efYd=19900901&ancYnChk=0) |
