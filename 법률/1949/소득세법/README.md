@@ -18,3 +18,4 @@
 | 1961-03-01 | 법률 제624호, 1961. 6. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5517&efYd=19610301&ancYnChk=0) |
 | 1961-08-24 | 법률 제693호, 1961. 8. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5518&efYd=19610824&ancYnChk=0) |
 | 1962-01-01 | 법률 제821호, 1961. 12. 8. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5519&efYd=19620101&ancYnChk=0) |
+| 1963-01-01 | 법률 제1185호, 1962. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5520&efYd=19630101&ancYnChk=0) |
