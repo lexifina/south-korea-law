@@ -1,7 +1,7 @@
-# 국내재산 도피 방지법
+# 국내재산도피방지법
 
-국내재산 도피 방지법 · 1 versions, from 2010-03-31 (latest in force: 2010-03-31) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001156&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001156&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 국내재산 도피 방지법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1950-04-21 | 법률 제129호, 1950. 4. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3387&efYd=19500421&ancYnChk=0) |
