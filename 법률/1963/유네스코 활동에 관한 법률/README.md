@@ -1,7 +1,7 @@
-# 유네스코 활동에 관한 법률
+# 유네스코활동에관한법률
 
-유네스코 활동에 관한 법률 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000846&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000846&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 유네스코 활동에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1963-04-27 | 법률 제1335호, 1963. 4. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60769&efYd=19630427&ancYnChk=0) |
