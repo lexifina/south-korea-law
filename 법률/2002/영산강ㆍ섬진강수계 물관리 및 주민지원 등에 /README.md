@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2002-07-15 | 법률 제6604호, 2002. 1. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57012&efYd=20020715&ancYnChk=0) |
 | 2003-01-01 | 법률 제6655호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53938&efYd=20030101&ancYnChk=0) |
+| 2003-01-01 | 법률 제6656호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53937&efYd=20030101&ancYnChk=0) |
