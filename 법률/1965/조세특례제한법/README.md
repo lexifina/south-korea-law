@@ -93,3 +93,4 @@
 | 1997-12-31 | 법률 제5493호, 1997. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50698&efYd=19971231&ancYnChk=0) |
 | 1998-01-01 | 법률 제5417호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50699&efYd=19980101&ancYnChk=0) |
 | 1998-01-01 | 법률 제5476호, 1997. 12. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50700&efYd=19980101&ancYnChk=0) |
+| 1998-01-09 | 법률 제5494호, 1998. 1. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6374&efYd=19980109&ancYnChk=0) |
