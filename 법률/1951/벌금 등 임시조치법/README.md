@@ -10,3 +10,4 @@
 | 1967-01-15 | 법률 제1850호, 1966. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60343&efYd=19670115&ancYnChk=0) |
 | 1977-02-01 | 법률 제2907호, 1976. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60227&efYd=19770201&ancYnChk=0) |
 | 1990-12-31 | 법률 제4296호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60351&efYd=19901231&ancYnChk=0) |
+| 1996-11-23 | 법률 제5167호, 1996. 11. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60223&efYd=19961123&ancYnChk=0) |
