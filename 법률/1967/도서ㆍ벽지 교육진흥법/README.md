@@ -1,7 +1,7 @@
-# 도서ㆍ벽지 교육진흥법
+# 도서벽지교육진흥법
 
-도서ㆍ벽지 교육진흥법 · 1 versions, from 2013-03-23 (latest in force: 2013-03-23) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000868&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000868&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 도서ㆍ벽지 교육진흥법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1967-01-01 | 법률 제1870호, 1967. 1. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3195&efYd=19670101&ancYnChk=0) |
