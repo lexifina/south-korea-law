@@ -1,7 +1,7 @@
 # 수산업법
 
-수산업법 · 1 versions, from 2026-10-22 (latest in force: 2026-10-22) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001486&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001486&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 수산업법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1953-12-09 | 법률 제295호, 1953. 9. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5818&efYd=19531209&ancYnChk=0) |
