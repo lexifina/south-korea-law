@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1956-10-22 | 법률 제398호, 1956. 10. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54836&efYd=19561022&ancYnChk=0) |
+| 1961-04-10 | 법률 제594호, 1961. 4. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4588&efYd=19610410&ancYnChk=0) |
