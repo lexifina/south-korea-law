@@ -8,3 +8,4 @@
 | 1987-04-01 | 법률 제3904호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5316&efYd=19870401&ancYnChk=0) |
 | 1990-07-01 | 법률 제4155호, 1989. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5317&efYd=19900701&ancYnChk=0) |
 | 1991-01-14 | 법률 제4212호, 1990. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5318&efYd=19910114&ancYnChk=0) |
+| 1991-09-09 | 법률 제4364호, 1991. 3. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5319&efYd=19910909&ancYnChk=0) |
