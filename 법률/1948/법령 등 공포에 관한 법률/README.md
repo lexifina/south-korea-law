@@ -11,3 +11,4 @@
 | 1963-12-17 | 법률 제1539호, 1963. 12. 16. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4297&efYd=19631217&ancYnChk=0) |
 | 1973-03-09 | 법률 제2585호, 1973. 3. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4298&efYd=19730309&ancYnChk=0) |
 | 1982-11-29 | 법률 제3573호, 1982. 11. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4299&efYd=19821129&ancYnChk=0) |
+| 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4300&efYd=19980101&ancYnChk=0) |
