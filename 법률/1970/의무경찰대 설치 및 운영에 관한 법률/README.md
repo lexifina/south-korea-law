@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1970-12-31 | 법률 제2248호, 1970. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6400&efYd=19701231&ancYnChk=0) |
+| 1975-12-31 | 법률 제2806호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6401&efYd=19751231&ancYnChk=0) |
