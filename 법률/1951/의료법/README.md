@@ -27,3 +27,4 @@
 | 2002-12-05 | 법률 제6759호, 2002. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8139&efYd=20021205&ancYnChk=0) |
 | 2003-03-31 | 법률 제6686호, 2002. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8144&efYd=20030331&ancYnChk=0) |
 | 2003-08-06 | 법률 제6964호, 2003. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8141&efYd=20030806&ancYnChk=0) |
+| 2003-12-30 | 법률 제6984호, 2003. 9. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8142&efYd=20031230&ancYnChk=0) |
