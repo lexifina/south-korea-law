@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1973-01-15 | 법률 제2409호, 1972. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8449&efYd=19730115&ancYnChk=0) |
+| 1975-12-31 | 법률 제2853호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8450&efYd=19751231&ancYnChk=0) |
