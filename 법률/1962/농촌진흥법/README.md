@@ -11,3 +11,4 @@
 | 1971-01-14 | 법률 제2283호, 1971. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=391&efYd=19710114&ancYnChk=0) |
 | 1973-01-15 | 법률 제2437호, 1973. 1. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=392&efYd=19730115&ancYnChk=0) |
 | 1978-12-05 | 법률 제3119호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=393&efYd=19781205&ancYnChk=0) |
+| 1996-03-07 | 법률 제5020호, 1995. 12. 6. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=394&efYd=19960307&ancYnChk=0) |
