@@ -1,7 +1,7 @@
-# 산업기술단지 지원에 관한 특례법
+# 산업기술단지지원에관한특례법
 
-산업기술단지 지원에 관한 특례법 · 1 versions, from 2020-05-12 (latest in force: 2020-05-12) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000318&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000318&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 산업기술단지 지원에 관한 특례법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1998-12-24 | 법률 제5578호, 1998. 9. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=348&efYd=19981224&ancYnChk=0) |
