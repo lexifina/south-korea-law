@@ -1,7 +1,7 @@
-# 수상에서의 수색ㆍ구조 등에 관한 법률
+# 수난구호법
 
-수상에서의 수색ㆍ구조 등에 관한 법률 · 1 versions, from 2026-09-22 (latest in force: 2026-09-22) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000977&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000977&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 수상에서의 수색ㆍ구조 등에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-11-01 | 법률 제761호, 1961. 11. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4406&efYd=19611101&ancYnChk=0) |
