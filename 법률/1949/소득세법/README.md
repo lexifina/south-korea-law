@@ -39,3 +39,4 @@
 | 1977-01-01 | 법률 제2933호, 1976. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5538&efYd=19770101&ancYnChk=0) |
 | 1977-07-01 | 법률 제2932호, 1976. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5539&efYd=19770701&ancYnChk=0) |
 | 1978-01-01 | 법률 제3015호, 1977. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5662&efYd=19780101&ancYnChk=0) |
+| 1978-12-05 | 법률 제3098호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5663&efYd=19781205&ancYnChk=0) |
