@@ -1,4 +1,4 @@
-# 주택건설촉진법
+# 주택법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001809&ancYnChk=0>
 
@@ -47,3 +47,4 @@
 | 2003-01-01 | 법률 제6836호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57699&efYd=20030101&ancYnChk=0) |
 | 2003-07-01 | 법률 제6852호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57701&efYd=20030701&ancYnChk=0) |
 | 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57700&efYd=20031001&ancYnChk=0) |
+| 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59177&efYd=20031130&ancYnChk=0) |
