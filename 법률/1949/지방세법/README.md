@@ -29,3 +29,4 @@
 | 1981-07-30 | 법률 제3357호, 1981. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52922&efYd=19810730&ancYnChk=0) |
 | 1982-01-01 | 법률 제3488호, 1981. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52923&efYd=19820101&ancYnChk=0) |
 | 1982-11-29 | 법률 제3572호, 1982. 11. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52924&efYd=19821129&ancYnChk=0) |
+| 1984-08-08 | 법률 제3752호, 1984. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52925&efYd=19840808&ancYnChk=0) |
