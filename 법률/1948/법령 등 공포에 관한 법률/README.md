@@ -1,7 +1,7 @@
-# 법령 등 공포에 관한 법률
+# 공포식령
 
-법령 등 공포에 관한 법률 · 1 versions, from 2018-10-16 (latest in force: 2018-10-16) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001430&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001430&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 법령 등 공포에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1948-08-30 | 대통령령 제1호, 1948. 8. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4180&efYd=19480830&ancYnChk=0) |
