@@ -9,3 +9,4 @@
 | 1972-12-30 | 법률 제2433호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1131&efYd=19721230&ancYnChk=0) |
 | 1973-02-07 | 법률 제2490호, 1973. 2. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1132&efYd=19730207&ancYnChk=0) |
 | 1986-05-12 | 법률 제3830호, 1986. 5. 12. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1243&efYd=19860512&ancYnChk=0) |
+| 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1244&efYd=19930306&ancYnChk=0) |
