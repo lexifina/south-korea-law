@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1980-04-05 | 법률 제3225호, 1980. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2357&efYd=19800405&ancYnChk=0) |
 | 1994-01-01 | 법률 제4610호, 1993. 12. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59949&efYd=19940101&ancYnChk=0) |
+| 1996-08-08 | 법률 제5153호, 1996. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59944&efYd=19960808&ancYnChk=0) |
