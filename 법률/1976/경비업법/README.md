@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1977-04-01 | 법률 제2946호, 1976. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55661&efYd=19770401&ancYnChk=0) |
+| 1981-02-14 | 법률 제3372호, 1981. 2. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4533&efYd=19810214&ancYnChk=0) |
