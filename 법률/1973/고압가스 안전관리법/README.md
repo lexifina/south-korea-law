@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1973-09-01 | 법률 제2494호, 1973. 2. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7385&efYd=19730901&ancYnChk=0) |
+| 1977-12-16 | 법률 제3011호, 1977. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7386&efYd=19771216&ancYnChk=0) |
