@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1949-11-24 | 법률 제69호, 1949. 11. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3783&efYd=19491124&ancYnChk=0) |
+| 1981-04-17 | 법률 제3442호, 1981. 4. 17. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51986&efYd=19810417&ancYnChk=0) |
