@@ -7,3 +7,4 @@
 | 1987-03-27 | 법률 제3863호, 1986. 12. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3454&efYd=19870327&ancYnChk=0) |
 | 1988-01-01 | 법률 제3982호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3455&efYd=19880101&ancYnChk=0) |
 | 1994-01-01 | 법률 제4675호, 1993. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3456&efYd=19940101&ancYnChk=0) |
+| 1997-01-01 | 법률 제5170호, 1996. 12. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3457&efYd=19970101&ancYnChk=0) |
