@@ -15,3 +15,4 @@
 | 1990-09-01 | 법률 제4209호, 1990. 1. 13. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4609&efYd=19900901&ancYnChk=0) |
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4610&efYd=19930306&ancYnChk=0) |
 | 1994-01-01 | 법률 제4596호, 1993. 12. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4611&efYd=19940101&ancYnChk=0) |
+| 1996-07-01 | 법률 제5081호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4613&efYd=19960701&ancYnChk=0) |
