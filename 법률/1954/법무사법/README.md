@@ -1,7 +1,7 @@
-# 법무사법
+# 사법서사법
 
-법무사법 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001291&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001291&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 법무사법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1954-04-03 | 법률 제317호, 1954. 4. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2387&efYd=19540403&ancYnChk=0) |
