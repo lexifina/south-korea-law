@@ -8,3 +8,4 @@
 | 1961-05-05 | 법률 제608호, 1961. 5. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58966&efYd=19610505&ancYnChk=0) |
 | 1961-12-19 | 법률 제847호, 1961. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58965&efYd=19611219&ancYnChk=0) |
 | 1962-09-17 | 법률 제1144호, 1962. 9. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58967&efYd=19620917&ancYnChk=0) |
+| 1963-04-05 | 법률 제1290호, 1963. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58957&efYd=19630405&ancYnChk=0) |
