@@ -1,7 +1,7 @@
-# 공기업의 경영구조개선 및 민영화에 관한 법률
+# 공기업의경영구조개선및민영화에관한법률
 
-공기업의 경영구조개선 및 민영화에 관한 법률 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000690&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000690&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 공기업의 경영구조개선 및 민영화에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1997-10-01 | 법률 제5379호, 1997. 8. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3293&efYd=19971001&ancYnChk=0) |
