@@ -1,4 +1,4 @@
-# 전기통신공사업법
+# 정보통신공사업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001445&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1992-07-01 | 법률 제4441호, 1991. 12. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4467&efYd=19920701&ancYnChk=0) |
 | 1995-07-06 | 법률 제4868호, 1995. 1. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4468&efYd=19950706&ancYnChk=0) |
 | 1995-07-06 | 법률 제4904호, 1995. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4469&efYd=19950706&ancYnChk=0) |
+| 1998-01-01 | 법률 제5386호, 1997. 8. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1452&efYd=19980101&ancYnChk=0) |
