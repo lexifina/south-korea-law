@@ -1,7 +1,7 @@
 # 세무사법
 
-세무사법 · 1 versions, from 2026-06-24 (latest in force: 2026-06-24) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000639&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000639&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 세무사법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-09-09 | 법률 제712호, 1961. 9. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248&efYd=19610909&ancYnChk=0) |
