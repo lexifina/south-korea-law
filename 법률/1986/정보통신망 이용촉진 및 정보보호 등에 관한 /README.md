@@ -19,3 +19,4 @@
 | 2003-01-19 | 법률 제6797호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56372&efYd=20030119&ancYnChk=0) |
 | 2004-01-29 | 법률 제7139호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58583&efYd=20040129&ancYnChk=0) |
 | 2004-07-30 | 법률 제7139호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58583&efYd=20040730&ancYnChk=0) |
+| 2004-07-30 | 법률 제7142호, 2004. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58579&efYd=20040730&ancYnChk=0) |
