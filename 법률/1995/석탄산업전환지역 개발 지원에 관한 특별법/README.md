@@ -1,7 +1,7 @@
-# 석탄산업전환지역 개발 지원에 관한 특별법
+# 폐광지역개발지원에관한특별법
 
-석탄산업전환지역 개발 지원에 관한 특별법 · 1 versions, from 2026-03-31 (latest in force: 2026-03-31) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000288&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000288&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 석탄산업전환지역 개발 지원에 관한 특별법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-03-30 | 법률 제5089호, 1995. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3&efYd=19960330&ancYnChk=0) |
