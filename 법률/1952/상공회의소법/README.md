@@ -10,3 +10,4 @@
 | 1973-06-21 | 법률 제2623호, 1973. 6. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54446&efYd=19730621&ancYnChk=0) |
 | 1976-12-31 | 법률 제2995호, 1976. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54448&efYd=19761231&ancYnChk=0) |
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54455&efYd=19930306&ancYnChk=0) |
+| 1995-03-01 | 법률 제4880호, 1995. 1. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54434&efYd=19950301&ancYnChk=0) |
