@@ -13,3 +13,4 @@
 | 1991-02-02 | 법률 제4252호, 1990. 8. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60224&efYd=19910202&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60348&efYd=19980101&ancYnChk=0) |
 | 1998-02-28 | 법률 제5529호, 1998. 2. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60349&efYd=19980228&ancYnChk=0) |
+| 1998-06-14 | 법률 제5443호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60347&efYd=19980614&ancYnChk=0) |
