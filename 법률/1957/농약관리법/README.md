@@ -9,3 +9,4 @@
 | 1978-04-01 | 법률 제3064호, 1977. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6490&efYd=19780401&ancYnChk=0) |
 | 1980-01-01 | 법률 제3213호, 1979. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6491&efYd=19800101&ancYnChk=0) |
 | 1981-03-02 | 법률 제3322호, 1980. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6492&efYd=19810302&ancYnChk=0) |
+| 1989-03-31 | 법률 제4109호, 1989. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6493&efYd=19890331&ancYnChk=0) |
