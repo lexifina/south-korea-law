@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1955-10-01 | 법률 제374호, 1955. 10. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54946&efYd=19551001&ancYnChk=0) |
 | 1963-02-09 | 법률 제1263호, 1963. 2. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4094&efYd=19630209&ancYnChk=0) |
+| 1963-12-17 | 법률 제1578호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4095&efYd=19631217&ancYnChk=0) |
