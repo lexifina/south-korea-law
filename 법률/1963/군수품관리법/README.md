@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-03-23 | 법률 제1310호, 1963. 3. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58489&efYd=19630323&ancYnChk=0) |
 | 1973-10-10 | 법률 제2631호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58486&efYd=19731010&ancYnChk=0) |
+| 1988-05-29 | 법률 제3947호, 1987. 11. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58490&efYd=19880529&ancYnChk=0) |
