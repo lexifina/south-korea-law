@@ -20,3 +20,4 @@
 | 1964-12-31 | 법률 제1680호, 1964. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5023&efYd=19641231&ancYnChk=0) |
 | 1965-03-19 | 법률 제1688호, 1965. 3. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5024&efYd=19650319&ancYnChk=0) |
 | 1968-01-01 | 법률 제1976호, 1967. 11. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5025&efYd=19680101&ancYnChk=0) |
+| 1968-12-31 | 법률 제2062호, 1968. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5026&efYd=19681231&ancYnChk=0) |
