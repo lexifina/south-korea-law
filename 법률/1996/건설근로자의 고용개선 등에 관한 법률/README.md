@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1998-01-01 | 법률 제5249호, 1996. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2110&efYd=19980101&ancYnChk=0) |
 | 2003-07-01 | 법률 제6848호, 2002. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57838&efYd=20030701&ancYnChk=0) |
+| 2004-01-01 | 법률 제6848호, 2002. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57838&efYd=20040101&ancYnChk=0) |
