@@ -1,4 +1,4 @@
-# 전산망보급확장과이용촉진에관한법률
+# 정보통신망이용촉진등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000030&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1996-03-07 | 법률 제4998호, 1995. 12. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=578&efYd=19960307&ancYnChk=0) |
 | 1997-01-31 | 법률 제5219호, 1996. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=579&efYd=19970131&ancYnChk=0) |
 | 1999-01-21 | 법률 제5669호, 1999. 1. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=580&efYd=19990121&ancYnChk=0) |
+| 1999-07-01 | 법률 제5835호, 1999. 2. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=581&efYd=19990701&ancYnChk=0) |
