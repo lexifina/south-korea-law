@@ -1,7 +1,7 @@
-# 대도시권 광역교통 관리에 관한 특별법
+# 대도시권광역교통관리에관한특별법
 
-대도시권 광역교통 관리에 관한 특별법 · 1 versions, from 2026-06-03 (latest in force: 2026-06-03) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000106&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000106&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 대도시권 광역교통 관리에 관한 특별법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1997-07-11 | 법률 제5333호, 1997. 4. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1950&efYd=19970711&ancYnChk=0) |
