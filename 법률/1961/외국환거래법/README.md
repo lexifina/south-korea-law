@@ -1,4 +1,4 @@
-# 외국환관리법
+# 외국환거래법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001525&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 1998-04-01 | 법률 제5505호, 1998. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6817&efYd=19980401&ancYnChk=0) |
 | 1998-11-17 | 법률 제5551호, 1998. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6818&efYd=19981117&ancYnChk=0) |
 | 1998-11-17 | 법률 제5559호, 1998. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6819&efYd=19981117&ancYnChk=0) |
+| 1999-04-01 | 법률 제5550호, 1998. 9. 16. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6820&efYd=19990401&ancYnChk=0) |
