@@ -1,0 +1,7 @@
+# 특별소비세법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001570&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1977-07-01 | 법률 제2935호, 1976. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50567&efYd=19770701&ancYnChk=0) |
