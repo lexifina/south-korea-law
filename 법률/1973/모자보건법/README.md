@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1973-05-10 | 법률 제2514호, 1973. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=899&efYd=19730510&ancYnChk=0) |
 | 1986-11-11 | 법률 제3824호, 1986. 5. 10. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6759&efYd=19861111&ancYnChk=0) |
+| 1988-03-29 | 법률 제3948호, 1987. 11. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6758&efYd=19880329&ancYnChk=0) |
