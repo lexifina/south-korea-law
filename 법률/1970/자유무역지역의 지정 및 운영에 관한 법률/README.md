@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1970-01-01 | 법률 제2180호, 1970. 1. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2582&efYd=19700101&ancYnChk=0) |
+| 1972-12-09 | 법률 제2361호, 1972. 12. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2583&efYd=19721209&ancYnChk=0) |
