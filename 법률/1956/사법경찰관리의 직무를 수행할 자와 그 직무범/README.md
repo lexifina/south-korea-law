@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1956-01-12 | 법률 제380호, 1956. 1. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58963&efYd=19560112&ancYnChk=0) |
+| 1961-05-05 | 법률 제608호, 1961. 5. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58966&efYd=19610505&ancYnChk=0) |
