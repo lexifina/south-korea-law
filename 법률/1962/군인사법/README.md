@@ -18,3 +18,4 @@
 | 1973-10-10 | 법률 제2626호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55052&efYd=19731010&ancYnChk=0) |
 | 1974-12-26 | 법률 제2727호, 1974. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55168&efYd=19741226&ancYnChk=0) |
 | 1976-12-31 | 법률 제2979호, 1976. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55172&efYd=19761231&ancYnChk=0) |
+| 1980-12-04 | 법률 제3265호, 1980. 12. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53185&efYd=19801204&ancYnChk=0) |
