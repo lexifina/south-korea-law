@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1995-12-06 | 법률 제5011호, 1995. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3089&efYd=19951206&ancYnChk=0) |
+| 1997-12-31 | 법률 제5493호, 1997. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3090&efYd=19971231&ancYnChk=0) |
