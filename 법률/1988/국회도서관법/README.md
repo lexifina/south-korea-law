@@ -1,7 +1,7 @@
 # 국회도서관법
 
-국회도서관법 · 1 versions, from 2026-01-12 (latest in force: 2026-01-12) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001401&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001401&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 국회도서관법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1988-12-29 | 법률 제4037호, 1988. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3732&efYd=19881229&ancYnChk=0) |
