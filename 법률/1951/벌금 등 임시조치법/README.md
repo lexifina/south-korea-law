@@ -7,3 +7,4 @@
 | 1951-09-29 | 법률 제216호, 1951. 9. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60345&efYd=19510929&ancYnChk=0) |
 | 1958-07-24 | 법률 제490호, 1958. 7. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60346&efYd=19580724&ancYnChk=0) |
 | 1962-05-31 | 법률 제1084호, 1962. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60230&efYd=19620531&ancYnChk=0) |
+| 1967-01-15 | 법률 제1850호, 1966. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60343&efYd=19670115&ancYnChk=0) |
