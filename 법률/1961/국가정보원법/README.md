@@ -1,4 +1,4 @@
-# 국가안전기획부법
+# 국가정보원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001371&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 1994-01-05 | 법률 제4708호, 1994. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61972&efYd=19940105&ancYnChk=0) |
 | 1996-12-31 | 법률 제5252호, 1996. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54756&efYd=19961231&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54749&efYd=19980101&ancYnChk=0) |
+| 1999-01-21 | 법률 제5681호, 1999. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54752&efYd=19990121&ancYnChk=0) |
