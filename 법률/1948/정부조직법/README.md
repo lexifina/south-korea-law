@@ -49,3 +49,4 @@
 | 1991-07-08 | 법률 제4371호, 1991. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5793&efYd=19910708&ancYnChk=0) |
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306&ancYnChk=0) |
 | 1993-12-12 | 법률 제4568호, 1993. 6. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5922&efYd=19931212&ancYnChk=0) |
+| 1994-12-23 | 법률 제4831호, 1994. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223&ancYnChk=0) |
