@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1999-08-09 | 법률 제5913호, 1999. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57298&efYd=19990809&ancYnChk=0) |
+| 2003-01-01 | 법률 제6656호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57297&efYd=20030101&ancYnChk=0) |
