@@ -49,3 +49,4 @@
 | 1986-07-01 | 법률 제3806호, 1986. 1. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6537&efYd=19860701&ancYnChk=0) |
 | 1986-11-13 | 법률 제3851호, 1986. 5. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6538&efYd=19861113&ancYnChk=0) |
 | 1987-01-01 | 법률 제3865호, 1986. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6539&efYd=19870101&ancYnChk=0) |
+| 1987-07-01 | 법률 제3910호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6540&efYd=19870701&ancYnChk=0) |
