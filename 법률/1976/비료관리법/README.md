@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1977-04-01 | 법률 제2985호, 1976. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1880&efYd=19770401&ancYnChk=0) |
 | 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1881&efYd=19810514&ancYnChk=0) |
+| 1983-03-01 | 법률 제3598호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1882&efYd=19830301&ancYnChk=0) |
