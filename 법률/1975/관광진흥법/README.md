@@ -1,4 +1,4 @@
-# 관광사업법
+# 관광진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001744&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1986-11-11 | 법률 제3822호, 1986. 5. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6782&efYd=19861111&ancYnChk=0) |
 | 1987-04-01 | 법률 제3869호, 1986. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6783&efYd=19870401&ancYnChk=0) |
 | 1987-04-01 | 법률 제3870호, 1986. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6784&efYd=19870401&ancYnChk=0) |
+| 1987-07-01 | 법률 제3910호, 1986. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6785&efYd=19870701&ancYnChk=0) |
