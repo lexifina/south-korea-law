@@ -24,3 +24,4 @@
 | 1970-01-01 | 법률 제2162호, 1970. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5027&efYd=19700101&ancYnChk=0) |
 | 1973-02-01 | 법률 제2423호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5028&efYd=19730201&ancYnChk=0) |
 | 1973-02-05 | 법률 제2469호, 1973. 2. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5029&efYd=19730205&ancYnChk=0) |
+| 1975-01-01 | 법률 제2697호, 1974. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5030&efYd=19750101&ancYnChk=0) |
