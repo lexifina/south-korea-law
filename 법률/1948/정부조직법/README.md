@@ -44,3 +44,4 @@
 | 1984-01-01 | 법률 제3688호, 1983. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5788&efYd=19840101&ancYnChk=0) |
 | 1985-01-01 | 법률 제3734호, 1984. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5789&efYd=19850101&ancYnChk=0) |
 | 1987-01-01 | 법률 제3854호, 1986. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101&ancYnChk=0) |
+| 1989-12-30 | 법률 제4183호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230&ancYnChk=0) |
