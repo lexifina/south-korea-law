@@ -21,3 +21,4 @@
 | 1988-01-01 | 법률 제3953호, 1987. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61434&efYd=19880101&ancYnChk=0) |
 | 1988-05-01 | 법률 제4009호, 1988. 4. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61435&efYd=19880501&ancYnChk=0) |
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61419&efYd=19901227&ancYnChk=0) |
+| 1990-12-31 | 법률 제4304호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61418&efYd=19901231&ancYnChk=0) |
