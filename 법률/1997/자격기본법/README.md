@@ -1,7 +1,7 @@
 # 자격기본법
 
-자격기본법 · 1 versions, from 2023-06-28 (latest in force: 2023-06-28) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000866&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000866&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 자격기본법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1997-04-01 | 법률 제5314호, 1997. 3. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62208&efYd=19970401&ancYnChk=0) |
