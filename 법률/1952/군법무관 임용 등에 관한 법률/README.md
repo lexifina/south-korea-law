@@ -11,3 +11,4 @@
 | 1975-12-31 | 법률 제2830호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3951&efYd=19751231&ancYnChk=0) |
 | 1982-12-31 | 법률 제3594호, 1982. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3952&efYd=19821231&ancYnChk=0) |
 | 2001-03-27 | 법률 제6291호, 2000. 12. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49762&efYd=20010327&ancYnChk=0) |
+| 2001-03-28 | 법률 제6436호, 2001. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52800&efYd=20010328&ancYnChk=0) |
