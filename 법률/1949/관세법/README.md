@@ -12,3 +12,4 @@
 | 1959-01-01 | 법률 제510호, 1958. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54811&efYd=19590101&ancYnChk=0) |
 | 1961-04-10 | 법률 제600호, 1961. 4. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5016&efYd=19610410&ancYnChk=0) |
 | 1961-07-14 | 법률 제658호, 1961. 7. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5017&efYd=19610714&ancYnChk=0) |
+| 1961-07-29 | 법률 제664호, 1961. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5018&efYd=19610729&ancYnChk=0) |
