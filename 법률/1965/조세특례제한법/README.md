@@ -40,3 +40,4 @@
 | 1982-11-29 | 법률 제3572호, 1982. 11. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6528&efYd=19821129&ancYnChk=0) |
 | 1982-12-31 | 법률 제3651호, 1982. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6530&efYd=19821231&ancYnChk=0) |
 | 1983-01-01 | 법률 제3575호, 1982. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53130&efYd=19830101&ancYnChk=0) |
+| 1983-01-01 | 법률 제3609호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6531&efYd=19830101&ancYnChk=0) |
