@@ -1,7 +1,7 @@
-# 교통사고처리 특례법
+# 교통사고처리특례법
 
-교통사고처리 특례법 · 1 versions, from 2025-06-04 (latest in force: 2025-06-04) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001131&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001131&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 교통사고처리 특례법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1982-01-01 | 법률 제3490호, 1981. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56029&efYd=19820101&ancYnChk=0) |
