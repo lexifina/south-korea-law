@@ -1,7 +1,7 @@
-# 자산유동화에 관한 법률
+# 자산유동화에관한법률
 
-자산유동화에 관한 법률 · 1 versions, from 2024-01-12 (latest in force: 2024-01-12) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000519&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000519&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 자산유동화에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1998-09-16 | 법률 제5555호, 1998. 9. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1294&efYd=19980916&ancYnChk=0) |
