@@ -1,4 +1,4 @@
-# 신기술사업금융지원에관한법률
+# 기술신용보증기금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000506&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 1998-04-01 | 법률 제5505호, 1998. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60283&efYd=19980401&ancYnChk=0) |
 | 1999-01-29 | 법률 제5701호, 1999. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60278&efYd=19990129&ancYnChk=0) |
 | 2000-03-01 | 법률 제6022호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60277&efYd=20000301&ancYnChk=0) |
+| 2002-11-27 | 법률 제6705호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60299&efYd=20021127&ancYnChk=0) |
