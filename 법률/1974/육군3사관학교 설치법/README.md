@@ -1,7 +1,7 @@
-# 육군3사관학교 설치법
+# 단기사관학교설치법
 
-육군3사관학교 설치법 · 1 versions, from 2023-06-14 (latest in force: 2023-06-14) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000947&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000947&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 육군3사관학교 설치법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1974-12-21 | 법률 제2703호, 1974. 12. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4089&efYd=19741221&ancYnChk=0) |
