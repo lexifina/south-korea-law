@@ -1,7 +1,7 @@
-# 보호시설에 있는 미성년자의 후견 직무에 관한 법률
+# 보호시설에있는고아의후견직무에관한법률
 
-보호시설에 있는 미성년자의 후견 직무에 관한 법률 · 1 versions, from 2023-10-12 (latest in force: 2023-10-12) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000188&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000188&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 보호시설에 있는 미성년자의 후견 직무에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-08-31 | 법률 제703호, 1961. 8. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=919&efYd=19610831&ancYnChk=0) |
