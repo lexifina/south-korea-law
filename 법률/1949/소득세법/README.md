@@ -10,3 +10,4 @@
 | 1951-06-07 | 법률 제199호, 1951. 5. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5510&efYd=19510607&ancYnChk=0) |
 | 1951-06-07 | 법률 제200호, 1951. 5. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5511&efYd=19510607&ancYnChk=0) |
 | 1954-03-31 | 법률 제319호, 1954. 3. 31. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5512&efYd=19540331&ancYnChk=0) |
+| 1954-10-01 | 법률 제343호, 1954. 10. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5513&efYd=19541001&ancYnChk=0) |
