@@ -17,3 +17,4 @@
 | 1986-07-01 | 법률 제3818호, 1986. 5. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7267&efYd=19860701&ancYnChk=0) |
 | 1989-04-01 | 법률 제4111호, 1989. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7268&efYd=19890401&ancYnChk=0) |
 | 1993-12-27 | 법률 제4641호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7269&efYd=19931227&ancYnChk=0) |
+| 1995-05-01 | 법률 제4826호, 1994. 12. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7270&efYd=19950501&ancYnChk=0) |
