@@ -1,7 +1,7 @@
 # 비료관리법
 
-비료관리법 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000416&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000416&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 비료관리법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1977-04-01 | 법률 제2985호, 1976. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1880&efYd=19770401&ancYnChk=0) |
