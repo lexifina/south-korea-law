@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1979-02-01 | 법률 제3133호, 1978. 12. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7397&efYd=19790201&ancYnChk=0) |
 | 1984-07-01 | 법률 제3705호, 1983. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53536&efYd=19840701&ancYnChk=0) |
+| 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53644&efYd=19930306&ancYnChk=0) |
