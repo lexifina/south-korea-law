@@ -1,7 +1,7 @@
-# 수입인지에 관한 법률
+# 수입인지에관한법률
 
-수입인지에 관한 법률 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000699&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000699&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 수입인지에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1980-05-01 | 법률 제3193호, 1979. 12. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3315&efYd=19800501&ancYnChk=0) |
