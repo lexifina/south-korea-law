@@ -33,3 +33,4 @@
 | 1978-12-05 | 법률 제3102호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53125&efYd=19781205&ancYnChk=0) |
 | 1978-12-05 | 법률 제3141호, 1978. 12. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53124&efYd=19781205&ancYnChk=0) |
 | 1980-01-01 | 법률 제3196호, 1979. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53126&efYd=19800101&ancYnChk=0) |
+| 1980-12-15 | 법률 제3275호, 1980. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53127&efYd=19801215&ancYnChk=0) |
