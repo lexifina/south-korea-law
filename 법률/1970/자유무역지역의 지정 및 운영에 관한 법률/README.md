@@ -1,4 +1,4 @@
-# 자유무역지역의지정등에관한법률
+# 자유무역지역의지정및운영에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001466&ancYnChk=0>
 
@@ -26,3 +26,4 @@
 | 2001-08-14 | 법률 제6506호, 2001. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51158&efYd=20010814&ancYnChk=0) |
 | 2002-07-27 | 법률 제6642호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53843&efYd=20020727&ancYnChk=0) |
 | 2003-07-01 | 법률 제6842호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55827&efYd=20030701&ancYnChk=0) |
+| 2004-06-23 | 법률 제7210호, 2004. 3. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59127&efYd=20040623&ancYnChk=0) |
