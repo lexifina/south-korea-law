@@ -1,7 +1,7 @@
-# 바르게살기운동조직 육성법
+# 바르게살기운동조직육성법
 
-바르게살기운동조직 육성법 · 1 versions, from 2017-07-26 (latest in force: 2017-07-26) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000999&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000999&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 바르게살기운동조직 육성법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1991-12-31 | 법률 제4465호, 1991. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59823&efYd=19911231&ancYnChk=0) |
