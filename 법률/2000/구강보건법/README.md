@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2000-09-01 | 법률 제6163호, 2000. 1. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4435&efYd=20000901&ancYnChk=0) |
+| 2004-03-01 | 법률 제6953호, 2003. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4434&efYd=20040301&ancYnChk=0) |
