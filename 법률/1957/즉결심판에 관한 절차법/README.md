@@ -10,3 +10,4 @@
 | 1962-05-31 | 법률 제1083호, 1962. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6919&efYd=19620531&ancYnChk=0) |
 | 1988-02-25 | 법률 제3992호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6920&efYd=19880225&ancYnChk=0) |
 | 1989-06-16 | 법률 제4131호, 1989. 6. 16. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56036&efYd=19890616&ancYnChk=0) |
+| 1991-11-22 | 법률 제4398호, 1991. 11. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58698&efYd=19911122&ancYnChk=0) |
