@@ -8,3 +8,4 @@
 | 1963-12-17 | 법률 제1588호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=388&efYd=19631217&ancYnChk=0) |
 | 1967-01-01 | 법률 제1859호, 1966. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=389&efYd=19670101&ancYnChk=0) |
 | 1969-08-04 | 법률 제2133호, 1969. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=390&efYd=19690804&ancYnChk=0) |
+| 1971-01-14 | 법률 제2283호, 1971. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=391&efYd=19710114&ancYnChk=0) |
