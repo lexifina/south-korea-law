@@ -9,3 +9,4 @@
 | 1949-06-06 | 대통령령 제129호, 1949. 6. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4182&efYd=19490606&ancYnChk=0) |
 | 1950-10-24 | 대통령령 제429호, 1950. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4296&efYd=19501024&ancYnChk=0) |
 | 1963-12-17 | 법률 제1539호, 1963. 12. 16. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4297&efYd=19631217&ancYnChk=0) |
+| 1973-03-09 | 법률 제2585호, 1973. 3. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4298&efYd=19730309&ancYnChk=0) |
