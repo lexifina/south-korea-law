@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1961-11-01 | 법률 제755호, 1961. 11. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=568&efYd=19611101&ancYnChk=0) |
+| 1972-12-30 | 법률 제2416호, 1972. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=569&efYd=19721230&ancYnChk=0) |
