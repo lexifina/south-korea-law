@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1989-07-01 | 법률 제4120호, 1989. 4. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61098&efYd=19890701&ancYnChk=0) |
+| 1996-06-30 | 법률 제5108호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61096&efYd=19960630&ancYnChk=0) |
