@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1995-01-01 | 법률 제4448호, 1991. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3165&efYd=19950101&ancYnChk=0) |
+| 1995-12-29 | 법률 제5049호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3166&efYd=19951229&ancYnChk=0) |
