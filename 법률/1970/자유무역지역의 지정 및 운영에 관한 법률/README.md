@@ -1,7 +1,7 @@
-# 자유무역지역의 지정 및 운영에 관한 법률
+# 수출자유지역설치법
 
-자유무역지역의 지정 및 운영에 관한 법률 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001466&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001466&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 자유무역지역의 지정 및 운영에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1970-01-01 | 법률 제2180호, 1970. 1. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2582&efYd=19700101&ancYnChk=0) |
