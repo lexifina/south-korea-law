@@ -8,3 +8,4 @@
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2773&efYd=19901227&ancYnChk=0) |
 | 2000-01-01 | 법률 제6101호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6837&efYd=20000101&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50058&efYd=20010129&ancYnChk=0) |
+| 2001-09-29 | 법률 제6432호, 2001. 3. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61567&efYd=20010929&ancYnChk=0) |
