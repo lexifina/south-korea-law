@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-05-01 | 법률 제1337호, 1963. 5. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5890&efYd=19630501&ancYnChk=0) |
 | 1963-12-17 | 법률 제1577호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5891&efYd=19631217&ancYnChk=0) |
+| 1970-09-04 | 법률 제2208호, 1970. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5892&efYd=19700904&ancYnChk=0) |
