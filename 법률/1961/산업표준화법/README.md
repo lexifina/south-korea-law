@@ -1,4 +1,4 @@
-# 공업표준화법
+# 산업표준화법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001460&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1977-12-31 | 법률 제3068호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2412&efYd=19771231&ancYnChk=0) |
 | 1980-06-29 | 법률 제3181호, 1979. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2413&efYd=19800629&ancYnChk=0) |
 | 1983-01-21 | 법률 제3636호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2414&efYd=19830121&ancYnChk=0) |
+| 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2416&efYd=19930306&ancYnChk=0) |
