@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-12-16 | 법률 제1529호, 1963. 12. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2545&efYd=19631216&ancYnChk=0) |
 | 1965-12-29 | 법률 제1729호, 1965. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2546&efYd=19651229&ancYnChk=0) |
+| 1973-06-14 | 법률 제2620호, 1973. 6. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2547&efYd=19730614&ancYnChk=0) |
