@@ -30,3 +30,4 @@
 | 1999-07-01 | 법률 제5726호, 1999. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5298&efYd=19990701&ancYnChk=0) |
 | 1999-07-01 | 법률 제5824호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5302&efYd=19990701&ancYnChk=0) |
 | 1999-07-01 | 법률 제5829호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5303&efYd=19990701&ancYnChk=0) |
+| 1999-07-30 | 법률 제5728호, 1999. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5299&efYd=19990730&ancYnChk=0) |
