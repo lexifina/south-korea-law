@@ -130,3 +130,4 @@
 | 2003-01-01 | 법률 제6708호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58079&efYd=20030101&ancYnChk=0) |
 | 2003-01-01 | 법률 제6762호, 2002. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55304&efYd=20030101&ancYnChk=0) |
 | 2003-05-10 | 법률 제6867호, 2003. 5. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1138&efYd=20030510&ancYnChk=0) |
+| 2003-07-01 | 법률 제6852호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55305&efYd=20030701&ancYnChk=0) |
