@@ -30,3 +30,4 @@
 | 2002-01-01 | 법률 제6452호, 2001. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52798&efYd=20020101&ancYnChk=0) |
 | 2002-03-01 | 법률 제6590호, 2001. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52285&efYd=20020301&ancYnChk=0) |
 | 2002-06-26 | 법률 제6675호, 2002. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20457&efYd=20020626&ancYnChk=0) |
+| 2003-07-01 | 법률 제6842호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55832&efYd=20030701&ancYnChk=0) |
