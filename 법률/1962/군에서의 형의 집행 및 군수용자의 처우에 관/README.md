@@ -7,3 +7,4 @@
 | 1962-01-20 | 법률 제1005호, 1962. 1. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3643&efYd=19620120&ancYnChk=0) |
 | 1980-12-31 | 법률 제3342호, 1980. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3644&efYd=19801231&ancYnChk=0) |
 | 1988-02-25 | 법률 제3993호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3645&efYd=19880225&ancYnChk=0) |
+| 1999-10-01 | 법률 제5706호, 1999. 1. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57546&efYd=19991001&ancYnChk=0) |
