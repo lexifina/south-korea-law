@@ -1,7 +1,7 @@
-# 건설기계관리법
+# 중기관리법
 
-건설기계관리법 · 1 versions, from 2026-08-28 (latest in force: 2026-08-28) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000239&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000239&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 건설기계관리법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1967-01-01 | 법률 제1854호, 1966. 12. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1531&efYd=19670101&ancYnChk=0) |
