@@ -9,3 +9,4 @@
 | 1982-09-30 | 법률 제3549호, 1982. 4. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59206&efYd=19820930&ancYnChk=0) |
 | 1986-06-12 | 법률 제3849호, 1986. 5. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59207&efYd=19860612&ancYnChk=0) |
 | 1995-10-06 | 법률 제4940호, 1995. 1. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59208&efYd=19951006&ancYnChk=0) |
+| 2002-01-01 | 법률 제6350호, 2001. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59205&efYd=20020101&ancYnChk=0) |
