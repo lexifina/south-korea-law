@@ -45,3 +45,4 @@
 | 2000-12-26 | 법률 제6290호, 2000. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55091&efYd=20001226&ancYnChk=0) |
 | 2001-03-27 | 법률 제6287호, 2000. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54483&efYd=20010327&ancYnChk=0) |
 | 2001-09-15 | 법률 제6502호, 2001. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54742&efYd=20010915&ancYnChk=0) |
+| 2002-07-01 | 법률 제6547호, 2001. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54741&efYd=20020701&ancYnChk=0) |
