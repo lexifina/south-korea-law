@@ -1,4 +1,4 @@
-# 국세와지방세의조정에관한법률
+# 국세와지방세의조정등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000646&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 1989-01-01 | 법률 제4028호, 1988. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2704&efYd=19890101&ancYnChk=0) |
 | 1990-01-01 | 법률 제4128호, 1989. 6. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2705&efYd=19900101&ancYnChk=0) |
 | 1990-01-01 | 법률 제4177호, 1989. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2706&efYd=19900101&ancYnChk=0) |
+| 1991-01-01 | 법률 제4278호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2707&efYd=19910101&ancYnChk=0) |
