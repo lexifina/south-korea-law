@@ -8,3 +8,4 @@
 | 1992-06-01 | 법률 제4412호, 1991. 11. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7377&efYd=19920601&ancYnChk=0) |
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7378&efYd=19930306&ancYnChk=0) |
 | 1995-11-05 | 법률 제4967호, 1995. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7379&efYd=19951105&ancYnChk=0) |
+| 1997-01-01 | 법률 제5185호, 1996. 12. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7380&efYd=19970101&ancYnChk=0) |
