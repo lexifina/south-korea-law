@@ -1,4 +1,4 @@
-# 토지수용법
+# 공익사업을위한토지등의취득및보상에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009295&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 1996-01-01 | 법률 제5109호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129823&efYd=19960101&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129822&efYd=19980101&ancYnChk=0) |
 | 1999-02-08 | 법률 제5909호, 1999. 2. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129802&efYd=19990208&ancYnChk=0) |
+| 2003-01-01 | 법률 제6656호, 2002. 2. 4. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129834&efYd=20030101&ancYnChk=0) |
