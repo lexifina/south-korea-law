@@ -8,3 +8,4 @@
 | 1973-11-01 | 법률 제2509호, 1973. 2. 8. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7543&efYd=19731101&ancYnChk=0) |
 | 1977-12-16 | 법률 제3011호, 1977. 12. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7544&efYd=19771216&ancYnChk=0) |
 | 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7546&efYd=19810514&ancYnChk=0) |
+| 1981-12-31 | 법률 제3304호, 1980. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7545&efYd=19811231&ancYnChk=0) |
