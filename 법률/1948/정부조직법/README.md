@@ -12,3 +12,4 @@
 | 1961-06-16 | 국가재건최... 제14호, 1961. 5. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5756&efYd=19610616&ancYnChk=0) |
 | 1961-06-22 | 법률 제631호, 1961. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5757&efYd=19610622&ancYnChk=0) |
 | 1961-07-12 | 법률 제655호, 1961. 7. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5758&efYd=19610712&ancYnChk=0) |
+| 1961-07-22 | 법률 제660호, 1961. 7. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5759&efYd=19610722&ancYnChk=0) |
