@@ -13,3 +13,4 @@
 | 2000-03-13 | 법률 제6139호, 2000. 1. 12. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58356&efYd=20000313&ancYnChk=0) |
 | 2002-04-20 | 법률 제6690호, 2002. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58358&efYd=20020420&ancYnChk=0) |
 | 2003-01-01 | 법률 제6803호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58357&efYd=20030101&ancYnChk=0) |
+| 2003-05-10 | 법률 제6869호, 2003. 5. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60342&efYd=20030510&ancYnChk=0) |
