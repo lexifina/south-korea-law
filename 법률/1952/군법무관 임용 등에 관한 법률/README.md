@@ -1,4 +1,4 @@
-# 군법무관임용법
+# 군법무관임용등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000941&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1967-03-03 | 법률 제1904호, 1967. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3950&efYd=19670303&ancYnChk=0) |
 | 1975-12-31 | 법률 제2830호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3951&efYd=19751231&ancYnChk=0) |
 | 1982-12-31 | 법률 제3594호, 1982. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3952&efYd=19821231&ancYnChk=0) |
+| 2001-03-27 | 법률 제6291호, 2000. 12. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49762&efYd=20010327&ancYnChk=0) |
