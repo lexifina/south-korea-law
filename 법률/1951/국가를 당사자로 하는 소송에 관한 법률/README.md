@@ -1,7 +1,7 @@
-# 국가를 당사자로 하는 소송에 관한 법률
+# 국가를당사자로하는소송에관한법률
 
-국가를 당사자로 하는 소송에 관한 법률 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001221&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001221&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 국가를 당사자로 하는 소송에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1951-10-26 | 법률 제223호, 1951. 10. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3994&efYd=19511026&ancYnChk=0) |
