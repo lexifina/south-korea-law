@@ -48,3 +48,4 @@
 | 1983-01-01 | 법률 제3576호, 1982. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5669&efYd=19830101&ancYnChk=0) |
 | 1986-01-01 | 법률 제3793호, 1985. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52997&efYd=19860101&ancYnChk=0) |
 | 1986-12-31 | 법률 제3874호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52998&efYd=19861231&ancYnChk=0) |
+| 1988-01-01 | 법률 제3902호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5670&efYd=19880101&ancYnChk=0) |
