@@ -1,7 +1,7 @@
-# 사회기반시설에 대한 민간투자법
+# 사회간접자본시설에대한민간자본유치촉진법
 
-사회기반시설에 대한 민간투자법 · 1 versions, from 2026-09-18 (latest in force: 2026-09-18) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001587&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001587&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 사회기반시설에 대한 민간투자법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1994-11-04 | 법률 제4773호, 1994. 8. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6861&efYd=19941104&ancYnChk=0) |
