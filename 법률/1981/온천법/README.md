@@ -1,7 +1,7 @@
 # 온천법
 
-온천법 · 1 versions, from 2023-05-16 (latest in force: 2023-05-16) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000994&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000994&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 온천법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1981-06-01 | 법률 제3377호, 1981. 3. 2. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57242&efYd=19810601&ancYnChk=0) |
