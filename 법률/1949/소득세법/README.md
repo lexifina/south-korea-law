@@ -92,3 +92,4 @@
 | 2004-01-01 | 법률 제7006호, 2003. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58262&efYd=20040101&ancYnChk=0) |
 | 2005-01-01 | 법률 제7319호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66275&efYd=20050101&ancYnChk=0) |
 | 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66505&efYd=20050114&ancYnChk=0) |
+| 2005-01-30 | 법률 제7120호, 2004. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62571&efYd=20050130&ancYnChk=0) |
