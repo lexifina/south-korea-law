@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1995-07-01 | 법률 제4825호, 1994. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=47694&efYd=19950701&ancYnChk=0) |
+| 1996-01-01 | 법률 제4979호, 1995. 11. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=47695&efYd=19960101&ancYnChk=0) |
