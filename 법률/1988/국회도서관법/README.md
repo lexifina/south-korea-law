@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1988-12-29 | 법률 제4037호, 1988. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3732&efYd=19881229&ancYnChk=0) |
+| 1994-07-20 | 법률 제4762호, 1994. 7. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3733&efYd=19940720&ancYnChk=0) |
