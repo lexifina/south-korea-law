@@ -8,3 +8,4 @@
 | 1964-05-02 | 법률 제1634호, 1964. 5. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8758&efYd=19640502&ancYnChk=0) |
 | 1966-08-03 | 법률 제1824호, 1966. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8759&efYd=19660803&ancYnChk=0) |
 | 1992-12-15 | 법률 제4429호, 1991. 12. 14. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51081&efYd=19921215&ancYnChk=0) |
+| 1994-03-28 | 법률 제4627호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51082&efYd=19940328&ancYnChk=0) |
