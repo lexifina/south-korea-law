@@ -1,7 +1,7 @@
 # 임시수입부가세법
 
-임시수입부가세법 · 1 versions, from 2009-12-31 (latest in force: 2009-12-31) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000595&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000595&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 임시수입부가세법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1973-03-03 | 법률 제2568호, 1973. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2063&efYd=19730303&ancYnChk=0) |
