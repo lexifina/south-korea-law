@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1962-10-12 | 법률 제1166호, 1962. 10. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5941&efYd=19621012&ancYnChk=0) |
 | 1962-11-17 | 법률 제1170호, 1962. 11. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5942&efYd=19621117&ancYnChk=0) |
+| 1962-12-05 | 법률 제1197호, 1962. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5943&efYd=19621205&ancYnChk=0) |
