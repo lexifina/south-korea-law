@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1999-01-01 | 법률 제5516호, 1998. 2. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3265&efYd=19990101&ancYnChk=0) |
+| 2001-07-01 | 법률 제6306호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53117&efYd=20010701&ancYnChk=0) |
