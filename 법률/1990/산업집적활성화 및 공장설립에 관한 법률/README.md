@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1991-01-14 | 법률 제4212호, 1990. 1. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2429&efYd=19910114&ancYnChk=0) |
 | 1992-06-01 | 법률 제4381호, 1991. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2431&efYd=19920601&ancYnChk=0) |
+| 1992-07-01 | 법률 제4419호, 1991. 12. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2432&efYd=19920701&ancYnChk=0) |
