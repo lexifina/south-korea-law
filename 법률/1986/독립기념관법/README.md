@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1986-05-09 | 법률 제3820호, 1986. 5. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2471&efYd=19860509&ancYnChk=0) |
 | 1990-01-03 | 법률 제4183호, 1989. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2472&efYd=19900103&ancYnChk=0) |
+| 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2473&efYd=19930306&ancYnChk=0) |
