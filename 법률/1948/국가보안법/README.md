@@ -7,3 +7,4 @@
 | 1948-12-01 | 법률 제10호, 1948. 12. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7221&efYd=19481201&ancYnChk=0) |
 | 1950-01-09 | 법률 제85호, 1949. 12. 19. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7222&efYd=19500109&ancYnChk=0) |
 | 1950-05-12 | 법률 제128호, 1950. 4. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7223&efYd=19500512&ancYnChk=0) |
+| 1959-01-16 | 법률 제500호, 1958. 12. 26. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7224&efYd=19590116&ancYnChk=0) |
