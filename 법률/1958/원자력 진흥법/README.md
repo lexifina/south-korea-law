@@ -9,3 +9,4 @@
 | 1963-12-17 | 법률 제1537호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54247&efYd=19631217&ancYnChk=0) |
 | 1963-12-17 | 법률 제1615호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4913&efYd=19631217&ancYnChk=0) |
 | 1966-08-03 | 법률 제1833호, 1966. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4914&efYd=19660803&ancYnChk=0) |
+| 1967-03-30 | 법률 제1948호, 1967. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4915&efYd=19670330&ancYnChk=0) |
