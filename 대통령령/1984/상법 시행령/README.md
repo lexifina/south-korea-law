@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1984-09-01 | 대통령령 제11485호, 1984. 8. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20899&efYd=19840901&ancYnChk=0) |
+| 1987-08-13 | 대통령령 제12225호, 1987. 8. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20900&efYd=19870813&ancYnChk=0) |
