@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2001-07-01 | 법률 제6471호, 2001. 4. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60992&efYd=20010701&ancYnChk=0) |
 | 2001-07-01 | 법률 제6483호, 2001. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60994&efYd=20010701&ancYnChk=0) |
+| 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60964&efYd=20031130&ancYnChk=0) |
