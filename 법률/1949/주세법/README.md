@@ -11,3 +11,4 @@
 | 1954-03-31 | 법률 제325호, 1954. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5692&efYd=19540331&ancYnChk=0) |
 | 1954-10-01 | 법률 제347호, 1954. 10. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54955&efYd=19541001&ancYnChk=0) |
 | 1957-01-01 | 법률 제419호, 1956. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5693&efYd=19570101&ancYnChk=0) |
+| 1961-01-01 | 법률 제574호, 1960. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5694&efYd=19610101&ancYnChk=0) |
