@@ -17,3 +17,4 @@
 | 1962-08-18 | 법률 제1128호, 1962. 8. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5697&efYd=19620818&ancYnChk=0) |
 | 1962-11-28 | 법률 제1192호, 1962. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5698&efYd=19621128&ancYnChk=0) |
 | 1965-03-19 | 법률 제1689호, 1965. 3. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5699&efYd=19650319&ancYnChk=0) |
+| 1966-01-01 | 법률 제1721호, 1965. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5700&efYd=19660101&ancYnChk=0) |
