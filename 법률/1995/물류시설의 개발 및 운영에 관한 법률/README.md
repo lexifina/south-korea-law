@@ -1,7 +1,7 @@
-# 물류시설의 개발 및 운영에 관한 법률
+# 유통단지개발촉진법
 
-물류시설의 개발 및 운영에 관한 법률 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000091&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000091&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 물류시설의 개발 및 운영에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-06-30 | 법률 제5105호, 1995. 12. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1624&efYd=19960630&ancYnChk=0) |
