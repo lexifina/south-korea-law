@@ -1,7 +1,7 @@
 # 도선법
 
-도선법 · 1 versions, from 2024-06-30 (latest in force: 2024-06-30) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000054&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000054&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 도선법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-12-06 | 법률 제812호, 1961. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1016&efYd=19611206&ancYnChk=0) |
