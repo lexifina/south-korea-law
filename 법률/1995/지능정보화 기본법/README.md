@@ -1,7 +1,7 @@
-# 지능정보화 기본법
+# 정보화촉진기본법
 
-지능정보화 기본법 · 1 versions, from 2026-01-22 (latest in force: 2026-01-22) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000028&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000028&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 지능정보화 기본법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-01-01 | 법률 제4969호, 1995. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62478&efYd=19960101&ancYnChk=0) |
