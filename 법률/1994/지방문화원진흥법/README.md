@@ -1,7 +1,7 @@
 # 지방문화원진흥법
 
-지방문화원진흥법 · 1 versions, from 2021-01-01 (latest in force: 2021-01-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000832&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000832&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 지방문화원진흥법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1994-07-08 | 법률 제4718호, 1994. 1. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56156&efYd=19940708&ancYnChk=0) |
