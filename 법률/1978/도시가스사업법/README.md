@@ -11,3 +11,4 @@
 | 1995-11-05 | 법률 제4965호, 1995. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53646&efYd=19951105&ancYnChk=0) |
 | 1997-01-01 | 법률 제5092호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53647&efYd=19970101&ancYnChk=0) |
 | 1997-07-01 | 법률 제5230호, 1996. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53648&efYd=19970701&ancYnChk=0) |
+| 1998-01-01 | 법률 제5453호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53649&efYd=19980101&ancYnChk=0) |
