@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1961-10-17 | 법률 제749호, 1961. 10. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60194&efYd=19611017&ancYnChk=0) |
 | 1992-02-01 | 법률 제4422호, 1991. 12. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60190&efYd=19920201&ancYnChk=0) |
+| 1996-11-23 | 법률 제5164호, 1996. 11. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60191&efYd=19961123&ancYnChk=0) |
