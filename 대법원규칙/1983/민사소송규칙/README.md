@@ -9,3 +9,4 @@
 | 1990-09-01 | 대법원규칙 제1119호, 1990. 8. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34510&efYd=19900901&ancYnChk=0) |
 | 1991-12-30 | 대법원규칙 제1184호, 1991. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34511&efYd=19911230&ancYnChk=0) |
 | 1992-11-17 | 대법원규칙 제1234호, 1992. 11. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34512&efYd=19921117&ancYnChk=0) |
+| 1993-03-03 | 대법원규칙 제1251호, 1993. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34513&efYd=19930303&ancYnChk=0) |
