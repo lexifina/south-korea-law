@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1957-10-28 | 법률 제445호, 1957. 8. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6488&efYd=19571028&ancYnChk=0) |
+| 1969-05-22 | 법률 제2115호, 1969. 5. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6489&efYd=19690522&ancYnChk=0) |
