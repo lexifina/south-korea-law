@@ -1,4 +1,4 @@
-# 군속인사법
+# 군무원인사법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001626&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1970-09-04 | 법률 제2208호, 1970. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5892&efYd=19700904&ancYnChk=0) |
 | 1972-12-26 | 법률 제2389호, 1972. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5893&efYd=19721226&ancYnChk=0) |
 | 1973-10-10 | 법률 제2627호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5894&efYd=19731010&ancYnChk=0) |
+| 1980-12-31 | 법률 제3342호, 1980. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56408&efYd=19801231&ancYnChk=0) |
