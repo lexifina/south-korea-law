@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1985-01-01 | 법률 제3742호, 1984. 8. 2. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5278&efYd=19850101&ancYnChk=0) |
+| 1989-01-01 | 법률 제4072호, 1988. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5279&efYd=19890101&ancYnChk=0) |
