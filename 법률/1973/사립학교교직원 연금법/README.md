@@ -1,4 +1,4 @@
-# 사립학교교원연금법
+# 사립학교교직원연금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001615&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5373&efYd=19901227&ancYnChk=0) |
 | 1991-12-27 | 법률 제4455호, 1991. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5374&efYd=19911227&ancYnChk=0) |
 | 1996-01-01 | 법률 제5068호, 1995. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5375&efYd=19960101&ancYnChk=0) |
+| 2000-01-12 | 법률 제6124호, 2000. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5376&efYd=20000112&ancYnChk=0) |
