@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1963-12-17 | 법률 제1551호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6594&efYd=19631217&ancYnChk=0) |
+| 1964-01-01 | 법률 제1443호, 1963. 11. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6593&efYd=19640101&ancYnChk=0) |
