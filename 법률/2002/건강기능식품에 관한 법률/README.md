@@ -1,0 +1,7 @@
+# 건강기능식품에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009353&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2003-08-27 | 법률 제6727호, 2002. 8. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53626&efYd=20030827&ancYnChk=0) |
