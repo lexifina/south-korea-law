@@ -11,3 +11,4 @@
 | 1969-09-18 | 법률 제2144호, 1969. 9. 18. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5945&efYd=19690918&ancYnChk=0) |
 | 1973-03-03 | 법률 제2559호, 1973. 3. 3. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5946&efYd=19730303&ancYnChk=0) |
 | 1989-03-25 | 법률 제4086호, 1989. 3. 25. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58181&efYd=19890325&ancYnChk=0) |
+| 1994-03-16 | 법률 제4739호, 1994. 3. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58175&efYd=19940316&ancYnChk=0) |
