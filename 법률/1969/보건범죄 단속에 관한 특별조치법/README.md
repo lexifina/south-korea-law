@@ -7,3 +7,4 @@
 | 1969-11-05 | 법률 제2137호, 1969. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60344&efYd=19691105&ancYnChk=0) |
 | 1980-12-31 | 법률 제3333호, 1980. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60355&efYd=19801231&ancYnChk=0) |
 | 1985-07-01 | 법률 제3763호, 1984. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60228&efYd=19850701&ancYnChk=0) |
+| 1986-06-10 | 법률 제3825호, 1986. 5. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60226&efYd=19860610&ancYnChk=0) |
