@@ -1,0 +1,7 @@
+# 과학기술분야정부출연연구기관등의설립·운영및육성에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009761&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2004-10-24 | 법률 제7219호, 2004. 9. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56081&efYd=20041024&ancYnChk=0) |
