@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1954-04-21 | 법률 제316호, 1954. 4. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7199&efYd=19540421&ancYnChk=0) |
+| 1963-08-31 | 법률 제1371호, 1963. 7. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7200&efYd=19630831&ancYnChk=0) |
