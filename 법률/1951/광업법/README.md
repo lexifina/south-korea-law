@@ -1,0 +1,7 @@
+# 광업법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001865&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1952-02-22 | 법률 제234호, 1951. 12. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7866&efYd=19520222&ancYnChk=0) |
