@@ -110,3 +110,4 @@
 | 1999-12-31 | 법률 제6073호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6380&efYd=19991231&ancYnChk=0) |
 | 2000-01-01 | 법률 제6045호, 1999. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6382&efYd=20000101&ancYnChk=0) |
 | 2000-01-01 | 법률 제6055호, 1999. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6381&efYd=20000101&ancYnChk=0) |
+| 2000-03-13 | 법률 제6136호, 2000. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6383&efYd=20000313&ancYnChk=0) |
