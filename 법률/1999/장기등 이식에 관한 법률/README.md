@@ -1,0 +1,7 @@
+# 장기등이식에관한법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001998&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2000-02-09 | 법률 제5858호, 1999. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8151&efYd=20000209&ancYnChk=0) |
