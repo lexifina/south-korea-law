@@ -1,7 +1,7 @@
-# 공무원범죄에 관한 몰수 특례법
+# 공무원범죄에관한몰수특례법
 
-공무원범죄에 관한 몰수 특례법 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001126&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001126&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 공무원범죄에 관한 몰수 특례법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1995-01-05 | 법률 제4934호, 1995. 1. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7207&efYd=19950105&ancYnChk=0) |
