@@ -1,4 +1,4 @@
-# 지가공시및토지등의평가에관한법률
+# 부동산가격공시및감정평가에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001827&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1999-03-31 | 법률 제5954호, 1999. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215&efYd=19990331&ancYnChk=0) |
 | 2000-04-29 | 법률 제6237호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2043&efYd=20000429&ancYnChk=0) |
 | 2003-01-01 | 법률 제6655호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61520&efYd=20030101&ancYnChk=0) |
+| 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66404&efYd=20050114&ancYnChk=0) |
