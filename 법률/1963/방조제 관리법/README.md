@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1963-12-05 | 법률 제1470호, 1963. 12. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62294&efYd=19631205&ancYnChk=0) |
 | 1970-01-01 | 법률 제2179호, 1970. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50977&efYd=19700101&ancYnChk=0) |
+| 1989-12-30 | 법률 제4189호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62196&efYd=19891230&ancYnChk=0) |
