@@ -11,3 +11,4 @@
 | 1991-12-27 | 법률 제4459호, 1991. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62303&efYd=19911227&ancYnChk=0) |
 | 1992-01-01 | 법률 제4461호, 1991. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62302&efYd=19920101&ancYnChk=0) |
 | 1992-12-02 | 법률 제4512호, 1992. 12. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62310&efYd=19921202&ancYnChk=0) |
+| 1993-12-12 | 법률 제4568호, 1993. 6. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62312&efYd=19931212&ancYnChk=0) |
