@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1967-02-09 | 법률 제1905호, 1967. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3805&efYd=19670209&ancYnChk=0) |
 | 1977-05-01 | 법률 제2950호, 1976. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3806&efYd=19770501&ancYnChk=0) |
+| 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3918&efYd=19980101&ancYnChk=0) |
