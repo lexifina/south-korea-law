@@ -16,3 +16,4 @@
 | 1976-01-01 | 법률 제2820호, 1975. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4582&efYd=19760101&ancYnChk=0) |
 | 1977-01-01 | 법률 제3005호, 1977. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4583&efYd=19770101&ancYnChk=0) |
 | 1977-12-31 | 법률 제3050호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4584&efYd=19771231&ancYnChk=0) |
+| 1986-12-31 | 법률 제3882호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4585&efYd=19861231&ancYnChk=0) |
