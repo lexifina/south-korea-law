@@ -1,7 +1,7 @@
 # 소방공무원법
 
-소방공무원법 · 1 versions, from 2024-08-14 (latest in force: 2024-08-14) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000956&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000956&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 소방공무원법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1978-03-01 | 법률 제3042호, 1977. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4230&efYd=19780301&ancYnChk=0) |
