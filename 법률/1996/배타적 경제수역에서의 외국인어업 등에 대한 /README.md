@@ -1,7 +1,7 @@
-# 배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률
+# 배타적경제수역에서의외국인어업등에대한주권적권리의행사에관한법률
 
-배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률 · 1 versions, from 2026-05-12 (latest in force: 2026-05-12) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000380&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000380&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-08-08 | 법률 제5153호, 1996. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1396&efYd=19960808&ancYnChk=0) |
