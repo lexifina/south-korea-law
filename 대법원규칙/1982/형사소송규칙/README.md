@@ -15,3 +15,4 @@
 | 1998-07-01 | 대법원규칙 제1550호, 1998. 6. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60671&efYd=19980701&ancYnChk=0) |
 | 1999-12-31 | 대법원규칙 제1628호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60667&efYd=19991231&ancYnChk=0) |
 | 2000-08-01 | 대법원규칙 제1664호, 2000. 7. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60664&efYd=20000801&ancYnChk=0) |
+| 2004-09-01 | 대법원규칙 제1901호, 2004. 8. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51535&efYd=20040901&ancYnChk=0) |
