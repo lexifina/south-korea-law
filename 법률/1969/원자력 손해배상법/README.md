@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1969-01-24 | 법률 제2094호, 1969. 1. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59210&efYd=19690124&ancYnChk=0) |
 | 1975-04-07 | 법률 제2765호, 1975. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59209&efYd=19750407&ancYnChk=0) |
+| 1982-09-30 | 법률 제3549호, 1982. 4. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59206&efYd=19820930&ancYnChk=0) |
