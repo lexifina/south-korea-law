@@ -1,4 +1,4 @@
-# 국가유공자등단체설립에관한법률
+# 국가유공자 등 단체설립에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001711&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 1997-07-14 | 법률 제5291호, 1997. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61381&efYd=19970714&ancYnChk=0) |
 | 1999-01-29 | 법률 제5732호, 1999. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61378&efYd=19990129&ancYnChk=0) |
 | 2001-01-01 | 법률 제6339호, 2000. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61377&efYd=20010101&ancYnChk=0) |
+| 2005-03-31 | 법률 제7484호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67771&efYd=20050331&ancYnChk=0) |
