@@ -1,7 +1,7 @@
 # 군인공제회법
 
-군인공제회법 · 1 versions, from 2024-07-10 (latest in force: 2024-07-10) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000938&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000938&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 군인공제회법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1983-12-31 | 법률 제3698호, 1983. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60295&efYd=19831231&ancYnChk=0) |
