@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1987-04-01 | 법률 제3911호, 1986. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55372&efYd=19870401&ancYnChk=0) |
+| 1990-04-07 | 법률 제4235호, 1990. 4. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7091&efYd=19900407&ancYnChk=0) |
