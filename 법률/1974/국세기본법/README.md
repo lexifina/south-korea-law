@@ -29,3 +29,4 @@
 | 1999-01-01 | 법률 제5579호, 1998. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58370&efYd=19990101&ancYnChk=0) |
 | 2000-01-01 | 법률 제5993호, 1999. 8. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58367&efYd=20000101&ancYnChk=0) |
 | 2000-01-01 | 법률 제6070호, 1999. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58366&efYd=20000101&ancYnChk=0) |
+| 2000-07-01 | 법률 제5993호, 1999. 8. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58367&efYd=20000701&ancYnChk=0) |
