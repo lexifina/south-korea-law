@@ -1,7 +1,7 @@
-# 기술보증기금법
+# 신기술사업금융지원에관한법률
 
-기술보증기금법 · 1 versions, from 2026-10-08 (latest in force: 2026-10-08) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000506&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000506&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 기술보증기금법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1986-12-26 | 법률 제3866호, 1986. 12. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1135&efYd=19861226&ancYnChk=0) |
