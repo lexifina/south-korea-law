@@ -1,7 +1,7 @@
-# 과학ㆍ수학ㆍ정보 교육 진흥법
+# 과학교육진흥법
 
-과학ㆍ수학ㆍ정보 교육 진흥법 · 1 versions, from 2018-04-25 (latest in force: 2018-04-25) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000867&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000867&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 과학ㆍ수학ㆍ정보 교육 진흥법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1967-03-30 | 법률 제1927호, 1967. 3. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3050&efYd=19670330&ancYnChk=0) |
