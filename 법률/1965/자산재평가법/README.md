@@ -12,3 +12,4 @@
 | 1975-01-01 | 법률 제2683호, 1974. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6114&efYd=19750101&ancYnChk=0) |
 | 1977-01-01 | 법률 제2939호, 1976. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6115&efYd=19770101&ancYnChk=0) |
 | 1984-09-01 | 법률 제3724호, 1984. 4. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6116&efYd=19840901&ancYnChk=0) |
+| 1996-01-01 | 법률 제4803호, 1994. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6117&efYd=19960101&ancYnChk=0) |
