@@ -1,7 +1,7 @@
-# 국제조세조정에 관한 법률
+# 국제조세조정에관한법률
 
-국제조세조정에 관한 법률 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000603&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000603&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 국제조세조정에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1996-01-01 | 법률 제4981호, 1995. 12. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58808&efYd=19960101&ancYnChk=0) |
