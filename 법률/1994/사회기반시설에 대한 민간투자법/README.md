@@ -8,3 +8,4 @@
 | 1996-06-30 | 법률 제5105호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6862&efYd=19960630&ancYnChk=0) |
 | 1996-06-30 | 법률 제5110호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6863&efYd=19960630&ancYnChk=0) |
 | 1996-06-30 | 법률 제5111호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6865&efYd=19960630&ancYnChk=0) |
+| 1996-06-30 | 법률 제5116호, 1995. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6864&efYd=19960630&ancYnChk=0) |
