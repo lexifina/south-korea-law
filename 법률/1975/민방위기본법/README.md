@@ -10,3 +10,4 @@
 | 1988-09-01 | 법률 제4017호, 1988. 8. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61661&efYd=19880901&ancYnChk=0) |
 | 1989-01-01 | 법률 제4056호, 1988. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61660&efYd=19890101&ancYnChk=0) |
 | 1994-01-01 | 법률 제4606호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56296&efYd=19940101&ancYnChk=0) |
+| 1994-07-01 | 법률 제4608호, 1993. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56297&efYd=19940701&ancYnChk=0) |
