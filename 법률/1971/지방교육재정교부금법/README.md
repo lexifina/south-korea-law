@@ -8,3 +8,4 @@
 | 1982-03-20 | 법률 제3540호, 1982. 3. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61683&efYd=19820320&ancYnChk=0) |
 | 1982-04-03 | 법률 제3561호, 1982. 4. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61682&efYd=19820403&ancYnChk=0) |
 | 1989-01-01 | 법률 제4047호, 1988. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61689&efYd=19890101&ancYnChk=0) |
+| 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61677&efYd=19901227&ancYnChk=0) |
