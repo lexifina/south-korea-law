@@ -15,3 +15,4 @@
 | 1968-03-18 | 법률 제1999호, 1968. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56968&efYd=19680318&ancYnChk=0) |
 | 1971-01-22 | 법률 제2295호, 1971. 1. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56965&efYd=19710122&ancYnChk=0) |
 | 1973-01-30 | 법률 제2456호, 1973. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55169&efYd=19730130&ancYnChk=0) |
+| 1973-10-10 | 법률 제2626호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55052&efYd=19731010&ancYnChk=0) |
