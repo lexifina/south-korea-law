@@ -7,3 +7,4 @@
 | 1970-04-02 | 법률 제2191호, 1970. 1. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1075&efYd=19700402&ancYnChk=0) |
 | 1983-05-21 | 법률 제3656호, 1983. 5. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1076&efYd=19830521&ancYnChk=0) |
 | 1993-06-09 | 법률 제4531호, 1992. 12. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1077&efYd=19930609&ancYnChk=0) |
+| 1998-07-01 | 법률 제5358호, 1997. 8. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1079&efYd=19980701&ancYnChk=0) |
