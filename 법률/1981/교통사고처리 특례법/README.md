@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1982-01-01 | 법률 제3490호, 1981. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56029&efYd=19820101&ancYnChk=0) |
+| 1985-02-05 | 법률 제3744호, 1984. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56028&efYd=19850205&ancYnChk=0) |
