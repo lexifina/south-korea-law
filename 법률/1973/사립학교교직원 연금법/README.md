@@ -15,3 +15,4 @@
 | 1983-01-01 | 법률 제3582호, 1982. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5250&efYd=19830101&ancYnChk=0) |
 | 1984-01-01 | 법률 제3684호, 1983. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5251&efYd=19840101&ancYnChk=0) |
 | 1985-01-01 | 법률 제3760호, 1984. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5252&efYd=19850101&ancYnChk=0) |
+| 1988-01-01 | 법률 제3954호, 1987. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5253&efYd=19880101&ancYnChk=0) |
