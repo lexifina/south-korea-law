@@ -1,4 +1,4 @@
-# 도로운송차량법
+# 자동차관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001747&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1981-05-01 | 법률 제3307호, 1980. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6947&efYd=19810501&ancYnChk=0) |
 | 1983-07-01 | 법률 제3604호, 1982. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6948&efYd=19830701&ancYnChk=0) |
 | 1985-10-01 | 법률 제3755호, 1984. 12. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6949&efYd=19851001&ancYnChk=0) |
+| 1987-07-01 | 법률 제3912호, 1986. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6950&efYd=19870701&ancYnChk=0) |
