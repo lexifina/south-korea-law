@@ -1,7 +1,7 @@
-# 전자무역 촉진에 관한 법률
+# 무역업무자동화촉진에관한법률
 
-전자무역 촉진에 관한 법률 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000346&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000346&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 전자무역 촉진에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1992-07-01 | 법률 제4479호, 1991. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=792&efYd=19920701&ancYnChk=0) |
