@@ -102,3 +102,4 @@
 | 1998-11-17 | 법률 제5559호, 1998. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6379&efYd=19981117&ancYnChk=0) |
 | 1999-01-01 | 법률 제5474호, 1997. 12. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6388&efYd=19990101&ancYnChk=0) |
 | 1999-01-01 | 법률 제5584호, 1998. 12. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6389&efYd=19990101&ancYnChk=0) |
+| 1999-04-01 | 법률 제5960호, 1999. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6390&efYd=19990401&ancYnChk=0) |
