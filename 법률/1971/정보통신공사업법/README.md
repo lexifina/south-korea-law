@@ -1,7 +1,7 @@
-# 정보통신공사업법
+# 전신전화설비공사업법
 
-정보통신공사업법 · 1 versions, from 2026-10-22 (latest in force: 2026-10-22) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001445&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001445&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 정보통신공사업법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1971-04-23 | 법률 제2307호, 1971. 1. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4461&efYd=19710423&ancYnChk=0) |
