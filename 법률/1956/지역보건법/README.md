@@ -1,7 +1,7 @@
-# 지역보건법
+# 보건소법
 
-지역보건법 · 1 versions, from 2025-06-21 (latest in force: 2025-06-21) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000236&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000236&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 지역보건법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1956-12-13 | 법률 제406호, 1956. 12. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1515&efYd=19561213&ancYnChk=0) |
