@@ -39,3 +39,4 @@
 | 1998-03-18 | 법률 제5530호, 1998. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56870&efYd=19980318&ancYnChk=0) |
 | 1998-05-30 | 법률 제5293호, 1997. 1. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54900&efYd=19980530&ancYnChk=0) |
 | 2000-05-30 | 법률 제6266호, 2000. 2. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54899&efYd=20000530&ancYnChk=0) |
+| 2002-03-01 | 법률 제6590호, 2001. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54894&efYd=20020301&ancYnChk=0) |
