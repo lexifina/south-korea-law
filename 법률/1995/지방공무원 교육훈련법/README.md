@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1995-04-01 | 법률 제4871호, 1995. 1. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7211&efYd=19950401&ancYnChk=0) |
+| 1999-01-01 | 법률 제5617호, 1998. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60255&efYd=19990101&ancYnChk=0) |
