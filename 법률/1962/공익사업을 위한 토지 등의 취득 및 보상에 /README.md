@@ -1,0 +1,7 @@
+# 토지수용법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009295&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1962-01-01 | 법률 제965호, 1962. 1. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129807&efYd=19620101&ancYnChk=0) |
