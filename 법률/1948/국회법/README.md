@@ -33,3 +33,4 @@
 | 1991-05-31 | 법률 제4385호, 1991. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50031&efYd=19910531&ancYnChk=0) |
 | 1993-03-06 | 법률 제4542호, 1993. 3. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50032&efYd=19930306&ancYnChk=0) |
 | 1994-06-28 | 법률 제4761호, 1994. 6. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50033&efYd=19940628&ancYnChk=0) |
+| 1995-03-03 | 법률 제4943호, 1995. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50034&efYd=19950303&ancYnChk=0) |
