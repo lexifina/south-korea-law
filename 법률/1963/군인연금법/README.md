@@ -14,3 +14,4 @@
 | 1983-01-01 | 법률 제3587호, 1982. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5905&efYd=19830101&ancYnChk=0) |
 | 1985-01-01 | 법률 제3759호, 1984. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5906&efYd=19850101&ancYnChk=0) |
 | 1988-01-01 | 법률 제3957호, 1987. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5907&efYd=19880101&ancYnChk=0) |
+| 1988-12-29 | 법률 제4034호, 1988. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5908&efYd=19881229&ancYnChk=0) |
