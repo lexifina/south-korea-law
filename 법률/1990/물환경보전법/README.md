@@ -1,7 +1,7 @@
-# 물환경보전법
+# 수질환경보전법
 
-물환경보전법 · 1 versions, from 2026-02-19 (latest in force: 2026-02-19) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000166&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000166&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 물환경보전법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1991-02-02 | 법률 제4260호, 1990. 8. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59647&efYd=19910202&ancYnChk=0) |
