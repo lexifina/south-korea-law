@@ -1,0 +1,7 @@
+# 국민복지연금법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001781&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1974-01-01 | 법률 제2655호, 1973. 12. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7830&efYd=19740101&ancYnChk=0) |
