@@ -33,3 +33,4 @@
 | 2000-04-22 | 법률 제6177호, 2000. 1. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=758&efYd=20000422&ancYnChk=0) |
 | 2000-07-01 | 법률 제6018호, 1999. 9. 7. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=760&efYd=20000701&ancYnChk=0) |
 | 2000-07-01 | 법률 제6256호, 2000. 1. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58180&efYd=20000701&ancYnChk=0) |
+| 2001-03-30 | 법률 제6316호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=759&efYd=20010330&ancYnChk=0) |
