@@ -1,7 +1,7 @@
-# 도서관법
+# 도서관및독서진흥법
 
-도서관법 · 1 versions, from 2026-10-29 (latest in force: 2026-10-29) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000830&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000830&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 도서관법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1994-07-25 | 법률 제4746호, 1994. 3. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60045&efYd=19940725&ancYnChk=0) |
