@@ -1,7 +1,7 @@
-# 대통령 등의 경호에 관한 법률
+# 대통령경호실법
 
-대통령 등의 경호에 관한 법률 · 1 versions, from 2026-10-02 (latest in force: 2026-10-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001377&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001377&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 대통령 등의 경호에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1963-12-17 | 법률 제1507호, 1963. 12. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3558&efYd=19631217&ancYnChk=0) |
