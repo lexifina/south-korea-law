@@ -1,7 +1,7 @@
 # 실용신안법
 
-실용신안법 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001454&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001454&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 실용신안법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1961-12-31 | 법률 제952호, 1961. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4488&efYd=19611231&ancYnChk=0) |
