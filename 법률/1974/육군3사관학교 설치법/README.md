@@ -1,4 +1,4 @@
-# 단기사관학교설치법
+# 육군3사관학교설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000947&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1996-01-01 | 법률 제4838호, 1994. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59983&efYd=19960101&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59857&efYd=20010129&ancYnChk=0) |
 | 2004-01-20 | 법률 제7089호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59978&efYd=20040120&ancYnChk=0) |
+| 2004-12-31 | 법률 제7269호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66186&efYd=20041231&ancYnChk=0) |
