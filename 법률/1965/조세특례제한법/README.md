@@ -84,3 +84,4 @@
 | 1996-10-02 | 법률 제5163호, 1996. 10. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53519&efYd=19961002&ancYnChk=0) |
 | 1997-01-01 | 법률 제5193호, 1996. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50594&efYd=19970101&ancYnChk=0) |
 | 1997-01-01 | 법률 제5195호, 1996. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50593&efYd=19970101&ancYnChk=0) |
+| 1997-01-01 | 법률 제5214호, 1996. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53520&efYd=19970101&ancYnChk=0) |
