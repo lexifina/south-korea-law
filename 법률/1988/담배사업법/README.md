@@ -1,7 +1,7 @@
 # 담배사업법
 
-담배사업법 · 1 versions, from 2026-04-24 (latest in force: 2026-04-24) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000583&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000583&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 담배사업법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1989-01-01 | 법률 제4065호, 1988. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1912&efYd=19890101&ancYnChk=0) |
