@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-01-20 | 법률 제908호, 1961. 12. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6485&efYd=19620120&ancYnChk=0) |
+| 1966-04-29 | 법률 제1772호, 1966. 3. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6486&efYd=19660429&ancYnChk=0) |
