@@ -1,0 +1,7 @@
+# 산업기술연구조합육성법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009135&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1986-11-13 | 법률 제3851호, 1986. 5. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50278&efYd=19861113&ancYnChk=0) |
