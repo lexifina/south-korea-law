@@ -9,3 +9,4 @@
 | 1967-03-30 | 법률 제1951호, 1967. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3767&efYd=19670330&ancYnChk=0) |
 | 1981-12-31 | 법률 제3518호, 1981. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3768&efYd=19811231&ancYnChk=0) |
 | 1983-06-26 | 법률 제3583호, 1982. 12. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3769&efYd=19830626&ancYnChk=0) |
+| 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3770&efYd=19901227&ancYnChk=0) |
