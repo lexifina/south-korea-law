@@ -10,3 +10,4 @@
 | 1991-01-01 | 법률 제4279호, 1990. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6127&efYd=19910101&ancYnChk=0) |
 | 1994-01-01 | 법률 제4669호, 1993. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55229&efYd=19940101&ancYnChk=0) |
 | 1995-01-01 | 법률 제4796호, 1994. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6129&efYd=19950101&ancYnChk=0) |
+| 1995-01-01 | 법률 제4809호, 1994. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6128&efYd=19950101&ancYnChk=0) |
