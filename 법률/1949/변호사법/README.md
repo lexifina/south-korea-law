@@ -7,3 +7,4 @@
 | 1949-11-07 | 법률 제63호, 1949. 11. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8934&efYd=19491107&ancYnChk=0) |
 | 1962-04-03 | 법률 제1047호, 1962. 4. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8928&efYd=19620403&ancYnChk=0) |
 | 1962-09-24 | 법률 제1154호, 1962. 9. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8930&efYd=19620924&ancYnChk=0) |
+| 1971-12-28 | 법률 제2329호, 1971. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8931&efYd=19711228&ancYnChk=0) |
