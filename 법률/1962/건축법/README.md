@@ -40,3 +40,4 @@
 | 1999-08-09 | 법률 제5827호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60368&efYd=19990809&ancYnChk=0) |
 | 1999-08-09 | 법률 제5864호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60371&efYd=19990809&ancYnChk=0) |
 | 1999-08-09 | 법률 제5868호, 1999. 2. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60370&efYd=19990809&ancYnChk=0) |
+| 2000-07-01 | 법률 제6247호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3366&efYd=20000701&ancYnChk=0) |
