@@ -1,7 +1,7 @@
-# 수출용 원재료에 대한 관세 등 환급에 관한 특례법
+# 수출용원재료에대한관세등환급에관한특례법
 
-수출용 원재료에 대한 관세 등 환급에 관한 특례법 · 1 versions, from 2026-01-02 (latest in force: 2026-01-02) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000592&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000592&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 수출용 원재료에 대한 관세 등 환급에 관한 특례법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1975-04-01 | 법률 제2675호, 1974. 12. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1936&efYd=19750401&ancYnChk=0) |
