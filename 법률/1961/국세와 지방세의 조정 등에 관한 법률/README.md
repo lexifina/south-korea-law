@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1962-01-01 | 법률 제780호, 1961. 12. 2. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266&efYd=19620101&ancYnChk=0) |
+| 1962-12-08 | 법률 제1211호, 1962. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267&efYd=19621208&ancYnChk=0) |
