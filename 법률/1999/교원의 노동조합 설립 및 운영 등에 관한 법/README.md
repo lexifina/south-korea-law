@@ -7,3 +7,4 @@
 | 1999-07-01 | 법률 제5727호, 1999. 1. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55017&efYd=19990701&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54569&efYd=20010129&ancYnChk=0) |
 | 2001-03-28 | 법률 제6456호, 2001. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54570&efYd=20010328&ancYnChk=0) |
+| 2005-01-27 | 법률 제7354호, 2005. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66658&efYd=20050127&ancYnChk=0) |
