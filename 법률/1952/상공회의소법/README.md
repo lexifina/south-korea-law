@@ -1,7 +1,7 @@
 # 상공회의소법
 
-상공회의소법 · 1 versions, from 2026-03-03 (latest in force: 2026-03-03) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001479&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001479&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 상공회의소법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1952-12-20 | 법률 제274호, 1952. 12. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54970&efYd=19521220&ancYnChk=0) |
