@@ -1,7 +1,7 @@
-# 스카우트활동 육성에 관한 법률
+# 스카우트활동육성에관한법률
 
-스카우트활동 육성에 관한 법률 · 1 versions, from 2025-10-01 (latest in force: 2025-10-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000848&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000848&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 스카우트활동 육성에 관한 법률 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1969-07-28 | 법률 제2118호, 1969. 7. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61197&efYd=19690728&ancYnChk=0) |
