@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1992-07-01 | 법률 제4487호, 1991. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2111&efYd=19920701&ancYnChk=0) |
+| 1994-07-01 | 법률 제4733호, 1994. 1. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2112&efYd=19940701&ancYnChk=0) |
