@@ -18,3 +18,4 @@
 | 1989-08-07 | 대통령령 제12773호, 1989. 8. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14510&efYd=19890807&ancYnChk=0) |
 | 1990-07-14 | 대통령령 제13053호, 1990. 7. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14511&efYd=19900714&ancYnChk=0) |
 | 1993-10-22 | 대통령령 제13997호, 1993. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14512&efYd=19931022&ancYnChk=0) |
+| 1994-12-23 | 대통령령 제14446호, 1994. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14513&efYd=19941223&ancYnChk=0) |
