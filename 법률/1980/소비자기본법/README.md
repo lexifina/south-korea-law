@@ -1,7 +1,7 @@
-# 소비자기본법
+# 소비자보호법
 
-소비자기본법 · 1 versions, from 2026-09-11 (latest in force: 2026-09-11) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001589&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001589&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 소비자기본법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1982-09-13 | 법률 제3257호, 1980. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7013&efYd=19820913&ancYnChk=0) |
