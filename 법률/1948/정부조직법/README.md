@@ -14,3 +14,4 @@
 | 1961-07-12 | 법률 제655호, 1961. 7. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5758&efYd=19610712&ancYnChk=0) |
 | 1961-07-22 | 법률 제660호, 1961. 7. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5759&efYd=19610722&ancYnChk=0) |
 | 1961-08-22 | 법률 제687호, 1961. 8. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5760&efYd=19610822&ancYnChk=0) |
+| 1961-08-25 | 법률 제698호, 1961. 8. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5761&efYd=19610825&ancYnChk=0) |
