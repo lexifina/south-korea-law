@@ -1,4 +1,4 @@
-# 공업배치및공장설립에관한법률
+# 산업집적활성화및공장설립에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001463&ancYnChk=0>
 
@@ -29,3 +29,4 @@
 | 2003-01-01 | 법률 제6654호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53899&efYd=20030101&ancYnChk=0) |
 | 2003-07-01 | 법률 제6842호, 2002. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55962&efYd=20030701&ancYnChk=0) |
 | 2003-08-27 | 법률 제6727호, 2002. 8. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53890&efYd=20030827&ancYnChk=0) |
+| 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53030&efYd=20031001&ancYnChk=0) |
