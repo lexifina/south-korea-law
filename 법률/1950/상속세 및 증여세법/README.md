@@ -1,4 +1,4 @@
-# 상속세법
+# 상속세및증여세법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001561&ancYnChk=0>
 
@@ -24,3 +24,4 @@
 | 1992-06-01 | 법률 제4410호, 1991. 11. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52719&efYd=19920601&ancYnChk=0) |
 | 1994-01-01 | 법률 제4662호, 1993. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52720&efYd=19940101&ancYnChk=0) |
 | 1995-01-01 | 법률 제4805호, 1994. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52721&efYd=19950101&ancYnChk=0) |
+| 1997-01-01 | 법률 제5193호, 1996. 12. 30. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51688&efYd=19970101&ancYnChk=0) |
