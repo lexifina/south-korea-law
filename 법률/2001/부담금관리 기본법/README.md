@@ -10,3 +10,4 @@
 | 2003-01-01 | 법률 제6804호, 2002. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54193&efYd=20030101&ancYnChk=0) |
 | 2003-01-01 | 법률 제6807호, 2002. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54194&efYd=20030101&ancYnChk=0) |
 | 2004-01-01 | 법률 제7058호, 2003. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58281&efYd=20040101&ancYnChk=0) |
+| 2004-03-01 | 법률 제7030호, 2003. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58278&efYd=20040301&ancYnChk=0) |
