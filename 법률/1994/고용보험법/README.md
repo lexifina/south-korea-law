@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1995-05-01 | 법률 제4826호, 1994. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60881&efYd=19950501&ancYnChk=0) |
 | 1995-07-01 | 법률 제4644호, 1993. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60878&efYd=19950701&ancYnChk=0) |
+| 1997-01-01 | 법률 제5226호, 1996. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60873&efYd=19970101&ancYnChk=0) |
