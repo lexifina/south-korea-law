@@ -16,3 +16,4 @@
 | 1960-09-26 | 법률 제557호, 1960. 9. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4022&efYd=19600926&ancYnChk=0) |
 | 1963-11-26 | 법률 제1452호, 1963. 11. 26. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4023&efYd=19631126&ancYnChk=0) |
 | 1964-09-11 | 법률 제1655호, 1964. 9. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4024&efYd=19640911&ancYnChk=0) |
+| 1964-12-30 | 법률 제1666호, 1964. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4025&efYd=19641230&ancYnChk=0) |
