@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1999-07-01 | 법률 제5792호, 1999. 2. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54720&efYd=19990701&ancYnChk=0) |
 | 2001-07-01 | 법률 제6360호, 2001. 1. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54701&efYd=20010701&ancYnChk=0) |
+| 2002-04-01 | 법률 제6585호, 2001. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62520&efYd=20020401&ancYnChk=0) |
