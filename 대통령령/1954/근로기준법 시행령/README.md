@@ -22,3 +22,4 @@
 | 1997-03-27 | 대통령령 제15320호, 1997. 3. 27. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14514&efYd=19970327&ancYnChk=0) |
 | 1998-02-24 | 대통령령 제15682호, 1998. 2. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14515&efYd=19980224&ancYnChk=0) |
 | 1999-03-03 | 대통령령 제16164호, 1999. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14516&efYd=19990303&ancYnChk=0) |
+| 2001-11-01 | 대통령령 제17402호, 2001. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55007&efYd=20011101&ancYnChk=0) |
