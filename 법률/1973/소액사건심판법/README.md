@@ -1,7 +1,7 @@
 # 소액사건심판법
 
-소액사건심판법 · 1 versions, from 2023-03-28 (latest in force: 2023-03-28) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001219&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001219&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 소액사건심판법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1973-09-01 | 법률 제2547호, 1973. 2. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57606&efYd=19730901&ancYnChk=0) |
