@@ -13,3 +13,4 @@
 | 1960-11-01 | 법률 제563호, 1960. 11. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6755&efYd=19601101&ancYnChk=0) |
 | 1973-01-15 | 법률 제2437호, 1973. 1. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6756&efYd=19730115&ancYnChk=0) |
 | 1988-05-01 | 법률 제4004호, 1988. 4. 6. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55087&efYd=19880501&ancYnChk=0) |
+| 1990-01-01 | 법률 제4162호, 1989. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1513&efYd=19900101&ancYnChk=0) |
