@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1950-03-10 | 법률 제110호, 1950. 3. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55114&efYd=19500310&ancYnChk=0) |
+| 1950-12-01 | 법률 제164호, 1950. 12. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5851&efYd=19501201&ancYnChk=0) |
