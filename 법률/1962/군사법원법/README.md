@@ -1,4 +1,4 @@
-# 군법회의법
+# 군사법원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001623&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1973-10-10 | 법률 제2630호, 1973. 10. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5740&efYd=19731010&ancYnChk=0) |
 | 1981-04-17 | 법률 제3444호, 1981. 4. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5741&efYd=19810417&ancYnChk=0) |
 | 1982-02-01 | 법률 제3492호, 1981. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55505&efYd=19820201&ancYnChk=0) |
+| 1988-02-25 | 법률 제3993호, 1987. 12. 4. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56405&efYd=19880225&ancYnChk=0) |
