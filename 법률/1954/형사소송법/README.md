@@ -7,3 +7,4 @@
 | 1954-05-30 | 법률 제341호, 1954. 9. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59297&efYd=19540530&ancYnChk=0) |
 | 1961-09-01 | 법률 제705호, 1961. 9. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53852&efYd=19610901&ancYnChk=0) |
 | 1963-12-17 | 법률 제1500호, 1963. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59296&efYd=19631217&ancYnChk=0) |
+| 1973-02-01 | 법률 제2450호, 1973. 1. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53854&efYd=19730201&ancYnChk=0) |
