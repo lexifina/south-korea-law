@@ -7,3 +7,4 @@
 | 1961-09-09 | 법률 제712호, 1961. 9. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248&efYd=19610909&ancYnChk=0) |
 | 1972-12-08 | 법률 제2358호, 1972. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249&efYd=19721208&ancYnChk=0) |
 | 1978-12-05 | 법률 제3105호, 1978. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250&efYd=19781205&ancYnChk=0) |
+| 1981-05-14 | 법률 제3441호, 1981. 4. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251&efYd=19810514&ancYnChk=0) |
