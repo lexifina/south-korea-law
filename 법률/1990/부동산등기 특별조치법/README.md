@@ -1,7 +1,7 @@
-# 부동산등기 특별조치법
+# 부동산등기특별조치법
 
-부동산등기 특별조치법 · 1 versions, from 2022-01-01 (latest in force: 2022-01-01) · <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001185&ancYnChk=0>
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001185&ancYnChk=0>
 
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| 부동산등기 특별조치법 | [text.md](text.md) | 0 |  |
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1990-09-02 | 법률 제4244호, 1990. 8. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3691&efYd=19900902&ancYnChk=0) |
