@@ -121,3 +121,4 @@
 | 2001-05-24 | 법률 제6480호, 2001. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53788&efYd=20010524&ancYnChk=0) |
 | 2001-08-14 | 법률 제6501호, 2001. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54135&efYd=20010814&ancYnChk=0) |
 | 2001-09-01 | 법률 제6299호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54892&efYd=20010901&ancYnChk=0) |
+| 2001-11-21 | 법률 제6519호, 2001. 11. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54133&efYd=20011121&ancYnChk=0) |
