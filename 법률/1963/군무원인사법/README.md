@@ -1,0 +1,7 @@
+# 군속인사법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001626&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 1963-05-01 | 법률 제1337호, 1963. 5. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5890&efYd=19630501&ancYnChk=0) |
