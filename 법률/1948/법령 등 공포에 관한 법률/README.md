@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1948-08-30 | 대통령령 제1호, 1948. 8. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4180&efYd=19480830&ancYnChk=0) |
 | 1949-05-05 | 대통령령 제84호, 1949. 5. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4181&efYd=19490505&ancYnChk=0) |
+| 1949-06-06 | 대통령령 제129호, 1949. 6. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4182&efYd=19490606&ancYnChk=0) |
