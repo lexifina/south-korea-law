@@ -7,3 +7,4 @@
 | 1983-09-01 | 대법원규칙 제848호, 1983. 7. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34508&efYd=19830901&ancYnChk=0) |
 | 1985-12-23 | 대법원규칙 제919호, 1985. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34509&efYd=19851223&ancYnChk=0) |
 | 1990-09-01 | 대법원규칙 제1119호, 1990. 8. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34510&efYd=19900901&ancYnChk=0) |
+| 1991-12-30 | 대법원규칙 제1184호, 1991. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34511&efYd=19911230&ancYnChk=0) |
