@@ -1,4 +1,4 @@
-# 근로기준법시행령
+# 근로기준법 시행령
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=003058&ancYnChk=0>
 
@@ -24,3 +24,4 @@
 | 1999-03-03 | 대통령령 제16164호, 1999. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=14516&efYd=19990303&ancYnChk=0) |
 | 2001-11-01 | 대통령령 제17402호, 2001. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55007&efYd=20011101&ancYnChk=0) |
 | 2003-12-11 | 대통령령 제18158호, 2003. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59621&efYd=20031211&ancYnChk=0) |
+| 2005-04-27 | 대통령령 제18805호, 2005. 4. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=69179&efYd=20050427&ancYnChk=0) |
