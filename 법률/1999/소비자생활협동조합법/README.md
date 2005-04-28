@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1999-08-06 | 법률 제5743호, 1999. 2. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8655&efYd=19990806&ancYnChk=0) |
+| 2005-04-28 | 법률 제7348호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66662&efYd=20050428&ancYnChk=0) |
