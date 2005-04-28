@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2001-03-01 | 법률 제6377호, 2001. 1. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62176&efYd=20010301&ancYnChk=0) |
 | 2004-03-11 | 법률 제7186호, 2004. 3. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62188&efYd=20040311&ancYnChk=0) |
+| 2005-04-28 | 법률 제7373호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66664&efYd=20050428&ancYnChk=0) |
