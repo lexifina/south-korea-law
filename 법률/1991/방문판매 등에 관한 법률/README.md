@@ -1,4 +1,4 @@
-# 방문판매등에관한법률
+# 방문판매 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000354&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2002-07-01 | 법률 제6688호, 2002. 3. 30. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51943&efYd=20020701&ancYnChk=0) |
 | 2005-04-01 | 법률 제7315호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66179&efYd=20050401&ancYnChk=0) |
 | 2005-04-28 | 법률 제7344호, 2005. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66619&efYd=20050428&ancYnChk=0) |
+| 2005-05-01 | 법률 제7490호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67752&efYd=20050501&ancYnChk=0) |
