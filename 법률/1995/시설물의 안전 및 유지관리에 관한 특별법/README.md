@@ -1,4 +1,4 @@
-# 시설물의안전관리에관한특별법
+# 시설물의 안전관리에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000237&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2002-07-15 | 법률 제6608호, 2002. 1. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53273&efYd=20020715&ancYnChk=0) |
 | 2003-10-26 | 법률 제6941호, 2003. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58904&efYd=20031026&ancYnChk=0) |
 | 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56208&efYd=20031130&ancYnChk=0) |
+| 2005-05-26 | 법률 제7515호, 2005. 5. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68722&efYd=20050526&ancYnChk=0) |
