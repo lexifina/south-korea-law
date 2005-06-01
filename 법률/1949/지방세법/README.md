@@ -98,3 +98,4 @@
 | 2005-01-27 | 법률 제7386호, 2005. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66649&efYd=20050127&ancYnChk=0) |
 | 2005-03-31 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67502&efYd=20050331&ancYnChk=0) |
 | 2005-03-31 | 법률 제7484호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67504&efYd=20050331&ancYnChk=0) |
+| 2005-06-01 | 법률 제7486호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67505&efYd=20050601&ancYnChk=0) |
