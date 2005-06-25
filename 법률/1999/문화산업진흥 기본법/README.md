@@ -1,4 +1,4 @@
-# 문화산업진흥기본법
+# 문화산업진흥 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001983&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2002-07-27 | 법률 제6635호, 2002. 1. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53537&efYd=20020727&ancYnChk=0) |
 | 2003-05-27 | 법률 제6882호, 2003. 5. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57007&efYd=20030527&ancYnChk=0) |
 | 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=42859&efYd=20031001&ancYnChk=0) |
+| 2005-06-25 | 법률 제7417호, 2005. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67158&efYd=20050625&ancYnChk=0) |
