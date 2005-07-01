@@ -1,4 +1,4 @@
-# 공익사업을위한토지등의취득및보상에관한법률
+# 공익사업을 위한 토지 등의 취득 및 보상에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009295&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62295&efYd=20031130&ancYnChk=0) |
 | 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66544&efYd=20050114&ancYnChk=0) |
 | 2005-07-01 | 법률 제7304호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66305&efYd=20050701&ancYnChk=0) |
+| 2005-07-01 | 법률 제7475호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67803&efYd=20050701&ancYnChk=0) |
