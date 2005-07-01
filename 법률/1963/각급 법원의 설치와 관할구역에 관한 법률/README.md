@@ -1,4 +1,4 @@
-# 각급법원의설치와관할구역에관한법률
+# 각급 법원의 설치와 관할구역에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001709&ancYnChk=0>
 
@@ -32,3 +32,4 @@
 | 2002-09-01 | 법률 제6717호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53620&efYd=20020901&ancYnChk=0) |
 | 2003-07-18 | 법률 제6923호, 2003. 7. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60965&efYd=20030718&ancYnChk=0) |
 | 2004-02-01 | 법률 제7082호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60101&efYd=20040201&ancYnChk=0) |
+| 2005-07-01 | 법률 제7403호, 2005. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67153&efYd=20050701&ancYnChk=0) |
