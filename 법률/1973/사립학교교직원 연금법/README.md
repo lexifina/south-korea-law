@@ -1,4 +1,4 @@
-# 사립학교교직원 연금법
+# 사립학교교직원연금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001615&ancYnChk=0>
 
@@ -28,3 +28,4 @@
 | 2002-01-01 | 법률 제6330호, 2000. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21181&efYd=20020101&ancYnChk=0) |
 | 2003-03-12 | 법률 제6862호, 2003. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61722&efYd=20030312&ancYnChk=0) |
 | 2005-05-31 | 법률 제7536호, 2005. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68748&efYd=20050531&ancYnChk=0) |
+| 2005-07-01 | 법률 제7347호, 2005. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66644&efYd=20050701&ancYnChk=0) |
