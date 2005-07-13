@@ -1,4 +1,4 @@
-# 상속세및증여세법
+# 상속세 및 증여세법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001561&ancYnChk=0>
 
@@ -36,3 +36,4 @@
 | 2003-01-01 | 법률 제6780호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51829&efYd=20030101&ancYnChk=0) |
 | 2004-01-01 | 법률 제7010호, 2003. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3242&efYd=20040101&ancYnChk=0) |
 | 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66504&efYd=20050114&ancYnChk=0) |
+| 2005-07-13 | 법률 제7580호, 2005. 7. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70278&efYd=20050713&ancYnChk=0) |
