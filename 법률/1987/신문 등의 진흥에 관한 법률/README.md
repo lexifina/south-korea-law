@@ -1,4 +1,4 @@
-# 정기간행물의등록등에관한법률
+# 신문등의자유와기능보장에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001604&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1999-07-01 | 법률 제5620호, 1998. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49621&efYd=19990701&ancYnChk=0) |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49737&efYd=20020701&ancYnChk=0) |
 | 2003-08-30 | 법률 제6905호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49735&efYd=20030830&ancYnChk=0) |
+| 2005-07-28 | 법률 제7369호, 2005. 1. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66558&efYd=20050728&ancYnChk=0) |
