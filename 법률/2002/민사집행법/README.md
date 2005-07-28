@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4137&efYd=20020701&ancYnChk=0) |
+| 2005-07-28 | 법률 제7358호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66678&efYd=20050728&ancYnChk=0) |
