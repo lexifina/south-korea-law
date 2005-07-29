@@ -1,4 +1,4 @@
-# 국회의원수당등에관한법률
+# 국회의원수당 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001408&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1989-01-01 | 법률 제4038호, 1988. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3870&efYd=19890101&ancYnChk=0) |
 | 1998-01-01 | 법률 제5414호, 1997. 11. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3871&efYd=19980101&ancYnChk=0) |
 | 2001-03-28 | 법률 제6440호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62097&efYd=20010328&ancYnChk=0) |
+| 2005-07-29 | 법률 제7628호, 2005. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70340&efYd=20050729&ancYnChk=0) |
