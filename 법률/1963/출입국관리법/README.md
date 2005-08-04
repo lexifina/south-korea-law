@@ -18,3 +18,4 @@
 | 2002-03-30 | 법률 제6540호, 2001. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62471&efYd=20020330&ancYnChk=0) |
 | 2003-03-06 | 법률 제6745호, 2002. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62476&efYd=20030306&ancYnChk=0) |
 | 2003-12-31 | 법률 제7034호, 2003. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53027&efYd=20031231&ancYnChk=0) |
+| 2005-08-04 | 법률 제7655호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71036&efYd=20050804&ancYnChk=0) |
