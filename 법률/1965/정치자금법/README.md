@@ -1,4 +1,4 @@
-# 정치자금에관한법률
+# 정치자금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001721&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2002-03-07 | 법률 제6662호, 2002. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54896&efYd=20020307&ancYnChk=0) |
 | 2004-03-12 | 법률 제7191호, 2004. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58717&efYd=20040312&ancYnChk=0) |
 | 2005-01-17 | 법률 제7336호, 2005. 1. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66576&efYd=20050117&ancYnChk=0) |
+| 2005-08-04 | 법률 제7682호, 2005. 8. 4. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71046&efYd=20050804&ancYnChk=0) |
