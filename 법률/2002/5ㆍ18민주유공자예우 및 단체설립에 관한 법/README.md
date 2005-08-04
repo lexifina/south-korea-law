@@ -7,3 +7,4 @@
 | 2002-07-27 | 법률 제6650호, 2002. 1. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53262&efYd=20020727&ancYnChk=0) |
 | 2004-01-20 | 법률 제7105호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7148&efYd=20040120&ancYnChk=0) |
 | 2005-07-29 | 법률 제7647호, 2005. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70357&efYd=20050729&ancYnChk=0) |
+| 2005-08-04 | 법률 제7656호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71040&efYd=20050804&ancYnChk=0) |
