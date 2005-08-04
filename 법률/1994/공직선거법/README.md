@@ -1,4 +1,4 @@
-# 공직선거및선거부정방지법
+# 공직선거법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001725&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2003-02-04 | 법률 제6854호, 2003. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62485&efYd=20030204&ancYnChk=0) |
 | 2003-10-30 | 법률 제6988호, 2003. 10. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62352&efYd=20031030&ancYnChk=0) |
 | 2004-03-12 | 법률 제7189호, 2004. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62354&efYd=20040312&ancYnChk=0) |
+| 2005-08-04 | 법률 제7681호, 2005. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70230&efYd=20050804&ancYnChk=0) |
