@@ -1,4 +1,4 @@
-# 사회간접자본시설에대한민간투자법
+# 사회기반시설에대한민간투자법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001587&ancYnChk=0>
 
@@ -32,3 +32,4 @@
 | 2005-01-27 | 법률 제7386호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66635&efYd=20050127&ancYnChk=0) |
 | 2005-07-01 | 법률 제7303호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66276&efYd=20050701&ancYnChk=0) |
 | 2005-07-01 | 법률 제7304호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66277&efYd=20050701&ancYnChk=0) |
+| 2005-10-01 | 법률 제7476호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67769&efYd=20051001&ancYnChk=0) |
