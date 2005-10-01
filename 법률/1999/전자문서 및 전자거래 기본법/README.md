@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1999-07-01 | 법률 제5834호, 1999. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8789&efYd=19990701&ancYnChk=0) |
 | 2002-07-01 | 법률 제6614호, 2002. 1. 19. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52843&efYd=20020701&ancYnChk=0) |
+| 2005-10-01 | 법률 제7440호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67986&efYd=20051001&ancYnChk=0) |
