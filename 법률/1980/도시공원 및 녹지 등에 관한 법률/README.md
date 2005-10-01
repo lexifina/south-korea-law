@@ -1,4 +1,4 @@
-# 도시공원법
+# 도시공원 및 녹지 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001813&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8622&efYd=19990524&ancYnChk=0) |
 | 2000-07-01 | 법률 제6246호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8623&efYd=20000701&ancYnChk=0) |
 | 2003-01-01 | 법률 제6655호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34474&efYd=20030101&ancYnChk=0) |
+| 2005-10-01 | 법률 제7476호, 2005. 3. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67197&efYd=20051001&ancYnChk=0) |
