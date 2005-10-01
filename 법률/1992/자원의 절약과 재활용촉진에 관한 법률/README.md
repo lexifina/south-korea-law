@@ -1,4 +1,4 @@
-# 자원의절약과재활용촉진에관한법률
+# 자원의 절약과 재활용촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000155&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2004-07-01 | 법률 제7021호, 2003. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50974&efYd=20040701&ancYnChk=0) |
 | 2004-07-01 | 법률 제7023호, 2003. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50975&efYd=20040701&ancYnChk=0) |
 | 2005-07-01 | 법률 제7296호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66241&efYd=20050701&ancYnChk=0) |
+| 2005-10-01 | 법률 제7464호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67742&efYd=20051001&ancYnChk=0) |
