@@ -1,4 +1,4 @@
-# 입양촉진및절차에관한특례법
+# 입양촉진 및 절차에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001171&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2000-07-13 | 법률 제6151호, 2000. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3663&efYd=20000713&ancYnChk=0) |
 | 2000-10-01 | 법률 제6024호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3662&efYd=20001001&ancYnChk=0) |
 | 2004-09-06 | 법률 제7183호, 2004. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59430&efYd=20040906&ancYnChk=0) |
+| 2005-10-01 | 법률 제7448호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67762&efYd=20051001&ancYnChk=0) |
