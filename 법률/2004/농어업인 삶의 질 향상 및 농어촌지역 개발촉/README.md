@@ -1,4 +1,4 @@
-# 농림어업인삶의질향상및농산어촌지역개발촉진에관한특별법
+# 농림어업인 삶의 질 향상 및 농산어촌지역 개발촉진에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009633&ancYnChk=0>
 
@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2004-06-06 | 법률 제7179호, 2004. 3. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59121&efYd=20040606&ancYnChk=0) |
 | 2005-03-24 | 법률 제7413호, 2005. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67110&efYd=20050324&ancYnChk=0) |
+| 2005-11-05 | 법률 제7679호, 2005. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71139&efYd=20051105&ancYnChk=0) |
