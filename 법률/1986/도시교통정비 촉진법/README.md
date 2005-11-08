@@ -1,4 +1,4 @@
-# 도시교통정비촉진법
+# 도시교통정비 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001754&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2003-01-01 | 법률 제6655호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55902&efYd=20030101&ancYnChk=0) |
 | 2003-01-01 | 법률 제6656호, 2002. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55332&efYd=20030101&ancYnChk=0) |
 | 2003-07-25 | 법률 제6940호, 2003. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57609&efYd=20030725&ancYnChk=0) |
+| 2005-11-08 | 법률 제7693호, 2005. 11. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71763&efYd=20051108&ancYnChk=0) |
