@@ -1,4 +1,4 @@
-# 고압가스안전관리법
+# 고압가스 안전관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001850&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2002-07-01 | 법률 제6676호, 2002. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51648&efYd=20020701&ancYnChk=0) |
 | 2003-01-01 | 법률 제6676호, 2002. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51648&efYd=20030101&ancYnChk=0) |
 | 2005-04-23 | 법률 제7240호, 2004. 10. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62632&efYd=20050423&ancYnChk=0) |
+| 2005-11-27 | 법률 제7504호, 2005. 5. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68761&efYd=20051127&ancYnChk=0) |
