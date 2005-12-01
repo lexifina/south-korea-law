@@ -1,4 +1,4 @@
-# 남북교류협력에관한법률
+# 남북교류협력에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001434&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4317&efYd=19980101&ancYnChk=0) |
 | 1998-11-17 | 법률 제5559호, 1998. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4318&efYd=19981117&ancYnChk=0) |
 | 2001-03-30 | 법률 제6316호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53111&efYd=20010330&ancYnChk=0) |
+| 2005-12-01 | 법률 제7539호, 2005. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68742&efYd=20051201&ancYnChk=0) |
