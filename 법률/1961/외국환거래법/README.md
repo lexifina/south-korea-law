@@ -18,3 +18,4 @@
 | 1999-04-01 | 법률 제5550호, 1998. 9. 16. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6820&efYd=19990401&ancYnChk=0) |
 | 2001-01-01 | 법률 제6277호, 2000. 10. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=132446&efYd=20010101&ancYnChk=0) |
 | 2001-03-30 | 법률 제6316호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=132462&efYd=20010330&ancYnChk=0) |
+| 2005-12-14 | 법률 제7716호, 2005. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=132463&efYd=20051214&ancYnChk=0) |
