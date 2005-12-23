@@ -1,4 +1,4 @@
-# 산업기술단지지원에관한특례법
+# 산업기술단지 지원에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000318&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2002-07-27 | 법률 제6642호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53841&efYd=20020727&ancYnChk=0) |
 | 2003-07-01 | 법률 제6842호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57848&efYd=20030701&ancYnChk=0) |
 | 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57847&efYd=20031001&ancYnChk=0) |
+| 2005-12-23 | 법률 제7749호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72179&efYd=20051223&ancYnChk=0) |
