@@ -1,4 +1,4 @@
-# 농어업인부채경감에관한특별조치법
+# 농어업인 부채경감에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009175&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2003-01-01 | 법률 제6818호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61517&efYd=20030101&ancYnChk=0) |
 | 2003-05-27 | 법률 제6884호, 2003. 5. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=49646&efYd=20030527&ancYnChk=0) |
 | 2004-03-05 | 법률 제7180호, 2004. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58178&efYd=20040305&ancYnChk=0) |
+| 2005-12-29 | 법률 제7776호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72270&efYd=20051229&ancYnChk=0) |
