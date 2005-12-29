@@ -25,3 +25,4 @@
 | 2003-01-01 | 법률 제6836호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62308&efYd=20030101&ancYnChk=0) |
 | 2003-05-29 | 법률 제6921호, 2003. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62296&efYd=20030529&ancYnChk=0) |
 | 2004-01-20 | 법률 제7106호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62314&efYd=20040120&ancYnChk=0) |
+| 2005-12-29 | 법률 제7790호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72295&efYd=20051229&ancYnChk=0) |
