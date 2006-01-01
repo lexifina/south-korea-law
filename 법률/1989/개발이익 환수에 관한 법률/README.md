@@ -1,4 +1,4 @@
-# 개발이익환수에관한법률
+# 개발이익환수에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001829&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58608&efYd=20031130&ancYnChk=0) |
 | 2005-01-01 | 법률 제7061호, 2004. 1. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59652&efYd=20050101&ancYnChk=0) |
 | 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66511&efYd=20050114&ancYnChk=0) |
+| 2006-01-01 | 법률 제7709호, 2005. 12. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72067&efYd=20060101&ancYnChk=0) |
