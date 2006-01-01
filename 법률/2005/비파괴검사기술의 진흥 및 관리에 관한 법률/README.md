@@ -1,0 +1,7 @@
+# 비파괴검사기술의 진흥 및 관리에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009926&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2006-01-01 | 법률 제7426호, 2005. 3. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67182&efYd=20060101&ancYnChk=0) |
