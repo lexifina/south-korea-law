@@ -1,4 +1,4 @@
-# 농어촌전화촉진법
+# 농어촌 전기공급사업 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001853&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2001-03-30 | 법률 제6313호, 2000. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55090&efYd=20010330&ancYnChk=0) |
 | 2004-01-01 | 법률 제6949호, 2003. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58145&efYd=20040101&ancYnChk=0) |
 | 2004-01-01 | 법률 제7058호, 2003. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58260&efYd=20040101&ancYnChk=0) |
+| 2006-01-01 | 법률 제7684호, 2005. 10. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71277&efYd=20060101&ancYnChk=0) |
