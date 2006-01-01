@@ -1,4 +1,4 @@
-# 발전소주변지역지원에관한법률
+# 발전소주변지역 지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000283&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2000-03-08 | 법률 제6021호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2303&efYd=20000308&ancYnChk=0) |
 | 2001-02-24 | 법률 제6284호, 2000. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50440&efYd=20010224&ancYnChk=0) |
 | 2005-04-21 | 법률 제7444호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67749&efYd=20050421&ancYnChk=0) |
+| 2006-01-01 | 법률 제7631호, 2005. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70330&efYd=20060101&ancYnChk=0) |
