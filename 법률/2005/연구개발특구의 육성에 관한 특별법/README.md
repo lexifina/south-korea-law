@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2005-07-28 | 법률 제7363호, 2005. 1. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66560&efYd=20050728&ancYnChk=0) |
+| 2006-01-01 | 법률 제7837호, 2005. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72531&efYd=20060101&ancYnChk=0) |
