@@ -1,4 +1,4 @@
-# 부동산중개업법
+# 공인중개사의 업무 및 부동산 거래신고에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001654&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=16734&efYd=19980101&ancYnChk=0) |
 | 1999-07-01 | 법률 제5957호, 1999. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=16735&efYd=19990701&ancYnChk=0) |
 | 2000-07-29 | 법률 제6236호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=16736&efYd=20000729&ancYnChk=0) |
+| 2006-01-30 | 법률 제7638호, 2005. 7. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71169&efYd=20060130&ancYnChk=0) |
