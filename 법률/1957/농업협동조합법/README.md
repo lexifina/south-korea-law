@@ -39,3 +39,4 @@
 | 2005-04-23 | 법률 제7240호, 2004. 10. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58493&efYd=20050423&ancYnChk=0) |
 | 2005-07-01 | 법률 제7273호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66196&efYd=20050701&ancYnChk=0) |
 | 2005-07-21 | 법률 제7605호, 2005. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70220&efYd=20050721&ancYnChk=0) |
+| 2006-01-30 | 법률 제7638호, 2005. 7. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70221&efYd=20060130&ancYnChk=0) |
