@@ -1,4 +1,4 @@
-# 5·18민주유공자예우에관한법률
+# 5·18민주유공자예우에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009289&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2005-07-29 | 법률 제7647호, 2005. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70357&efYd=20050729&ancYnChk=0) |
 | 2005-08-04 | 법률 제7656호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71040&efYd=20050804&ancYnChk=0) |
 | 2005-10-01 | 법률 제7476호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67800&efYd=20051001&ancYnChk=0) |
+| 2006-01-30 | 법률 제7649호, 2005. 7. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70358&efYd=20060130&ancYnChk=0) |
