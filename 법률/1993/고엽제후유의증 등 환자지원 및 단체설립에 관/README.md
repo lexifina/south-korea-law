@@ -1,4 +1,4 @@
-# 고엽제후유의증환자지원등에관한법률
+# 고엽제후유의증 환자지원 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001327&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2002-04-27 | 법률 제6647호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62615&efYd=20020427&ancYnChk=0) |
 | 2002-12-05 | 법률 제6761호, 2002. 12. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62616&efYd=20021205&ancYnChk=0) |
 | 2003-08-30 | 법률 제6919호, 2003. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53802&efYd=20030830&ancYnChk=0) |
+| 2006-03-03 | 법률 제7875호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73297&efYd=20060303&ancYnChk=0) |
