@@ -1,4 +1,4 @@
-# 소기업및소상공인지원을위한특별조치법
+# 소기업 및 소상공인지원을 위한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000360&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57674&efYd=20031001&ancYnChk=0) |
 | 2004-01-01 | 법률 제6950호, 2003. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58131&efYd=20040101&ancYnChk=0) |
 | 2006-01-22 | 법률 제7604호, 2005. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70210&efYd=20060122&ancYnChk=0) |
+| 2006-03-24 | 법률 제7743호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72181&efYd=20060324&ancYnChk=0) |
