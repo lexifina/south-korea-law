@@ -1,4 +1,4 @@
-# 성매매방지및피해자보호등에관한법률
+# 성매매방지 및 피해자보호 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009679&ancYnChk=0>
 
@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2004-09-23 | 법률 제7212호, 2004. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55882&efYd=20040923&ancYnChk=0) |
 | 2005-03-24 | 법률 제7413호, 2005. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67113&efYd=20050324&ancYnChk=0) |
+| 2006-03-30 | 법률 제7784호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72322&efYd=20060330&ancYnChk=0) |
