@@ -1,4 +1,4 @@
-# 정보통신망이용촉진및정보보호등에관한법률
+# 정보통신망 이용촉진 및 정보보호 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000030&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2004-07-30 | 법률 제7139호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58583&efYd=20040730&ancYnChk=0) |
 | 2004-07-30 | 법률 제7142호, 2004. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58579&efYd=20040730&ancYnChk=0) |
 | 2005-03-31 | 법률 제7262호, 2004. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=65879&efYd=20050331&ancYnChk=0) |
+| 2006-03-31 | 법률 제7812호, 2005. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72439&efYd=20060331&ancYnChk=0) |
