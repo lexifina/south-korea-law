@@ -1,4 +1,4 @@
-# 국토의 계획 및 이용에 관한 법률
+# 국토의계획및이용에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009294&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2005-12-01 | 법률 제7571호, 2005. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68839&efYd=20051201&ancYnChk=0) |
 | 2006-01-01 | 법률 제7297호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66304&efYd=20060101&ancYnChk=0) |
 | 2006-03-08 | 법률 제7707호, 2005. 12. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72092&efYd=20060308&ancYnChk=0) |
+| 2006-04-01 | 법률 제7459호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67801&efYd=20060401&ancYnChk=0) |
