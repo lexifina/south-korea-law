@@ -1,0 +1,7 @@
+# 연구실 안전환경 조성에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009925&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2006-04-01 | 법률 제7425호, 2005. 3. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67181&efYd=20060401&ancYnChk=0) |
