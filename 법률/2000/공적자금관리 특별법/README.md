@@ -1,4 +1,4 @@
-# 공적자금관리 특별법
+# 공적자금관리특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009156&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 2003-01-01 | 법률 제6807호, 2002. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59268&efYd=20030101&ancYnChk=0) |
 | 2004-01-29 | 법률 제7111호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59281&efYd=20040129&ancYnChk=0) |
 | 2006-03-30 | 법률 제7760호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72269&efYd=20060330&ancYnChk=0) |
+| 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67551&efYd=20060401&ancYnChk=0) |
