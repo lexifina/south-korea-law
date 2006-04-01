@@ -28,3 +28,4 @@
 | 2005-07-01 | 대통령령 제18912호, 2005. 6. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70904&efYd=20050701&ancYnChk=0) |
 | 2005-12-01 | 대통령령 제19010호, 2005. 8. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71475&efYd=20051201&ancYnChk=0) |
 | 2006-01-01 | 대통령령 제19205호, 2005. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72495&efYd=20060101&ancYnChk=0) |
+| 2006-04-01 | 대통령령 제19422호, 2006. 3. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73581&efYd=20060401&ancYnChk=0) |
