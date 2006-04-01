@@ -26,3 +26,4 @@
 | 2002-05-13 | 법률 제6703호, 2002. 5. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53596&efYd=20020513&ancYnChk=0) |
 | 2005-06-01 | 법률 제7479호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67785&efYd=20050601&ancYnChk=0) |
 | 2005-10-01 | 법률 제7479호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67785&efYd=20051001&ancYnChk=0) |
+| 2006-04-01 | 법률 제7479호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67785&efYd=20060401&ancYnChk=0) |
