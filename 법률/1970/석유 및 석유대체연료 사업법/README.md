@@ -1,4 +1,4 @@
-# 석유 및 석유대체연료 사업법
+# 석유및석유대체연료사업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001860&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2004-07-23 | 법률 제7209호, 2004. 3. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59698&efYd=20040723&ancYnChk=0) |
 | 2005-04-23 | 법률 제7240호, 2004. 10. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4176&efYd=20050423&ancYnChk=0) |
 | 2006-03-24 | 법률 제7755호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72207&efYd=20060324&ancYnChk=0) |
+| 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67616&efYd=20060401&ancYnChk=0) |
