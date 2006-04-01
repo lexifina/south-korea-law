@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2005-02-10 | 법률 제7170호, 2004. 2. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4080&efYd=20050210&ancYnChk=0) |
+| 2006-04-01 | 법률 제7459호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67733&efYd=20060401&ancYnChk=0) |
