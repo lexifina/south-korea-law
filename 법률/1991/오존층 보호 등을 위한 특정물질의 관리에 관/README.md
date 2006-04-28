@@ -1,4 +1,4 @@
-# 오존층보호를위한특정물질의제조규제등에관한법률
+# 오존층보호를 위한 특정물질의 제조규제 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000324&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1998-01-01 | 법률 제5453호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=475&efYd=19980101&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=476&efYd=19980101&ancYnChk=0) |
 | 1999-02-05 | 법률 제5775호, 1999. 2. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4704&efYd=19990205&ancYnChk=0) |
+| 2006-04-28 | 법률 제7950호, 2006. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73837&efYd=20060428&ancYnChk=0) |
