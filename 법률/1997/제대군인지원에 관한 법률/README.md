@@ -1,4 +1,4 @@
-# 제대군인지원에관한법률
+# 제대군인지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001325&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2004-01-20 | 법률 제7104호, 2004. 1. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61399&efYd=20040120&ancYnChk=0) |
 | 2004-01-20 | 법률 제7106호, 2004. 1. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61398&efYd=20040120&ancYnChk=0) |
 | 2006-01-30 | 법률 제7649호, 2005. 7. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70336&efYd=20060130&ancYnChk=0) |
+| 2006-05-01 | 법률 제7791호, 2005. 12. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72258&efYd=20060501&ancYnChk=0) |
