@@ -1,4 +1,4 @@
-# 국제조세조정에관한법률
+# 국제조세조정에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000603&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2001-01-01 | 법률 제6304호, 2000. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58802&efYd=20010101&ancYnChk=0) |
 | 2001-09-01 | 법률 제6299호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58803&efYd=20010901&ancYnChk=0) |
 | 2003-01-01 | 법률 제6779호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58804&efYd=20030101&ancYnChk=0) |
+| 2006-05-24 | 법률 제7956호, 2006. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=74004&efYd=20060524&ancYnChk=0) |
