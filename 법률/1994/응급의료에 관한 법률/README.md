@@ -1,4 +1,4 @@
-# 응급의료에관한법률
+# 응급의료에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000218&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2002-10-01 | 법률 제6677호, 2002. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59312&efYd=20021001&ancYnChk=0) |
 | 2005-07-01 | 법률 제7449호, 2005. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67600&efYd=20050701&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67599&efYd=20060401&ancYnChk=0) |
+| 2006-06-01 | 법률 제7545호, 2005. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68721&efYd=20060601&ancYnChk=0) |
