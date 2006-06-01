@@ -1,4 +1,4 @@
-# 특정범죄가중처벌 등에 관한 법률
+# 특정범죄가중처벌등에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001676&ancYnChk=0>
 
@@ -26,3 +26,4 @@
 | 2004-10-16 | 법률 제7226호, 2004. 10. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59433&efYd=20041016&ancYnChk=0) |
 | 2005-08-04 | 법률 제7654호, 2005. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71034&efYd=20050804&ancYnChk=0) |
 | 2006-03-30 | 법률 제7767호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72264&efYd=20060330&ancYnChk=0) |
+| 2006-06-01 | 법률 제7545호, 2005. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68751&efYd=20060601&ancYnChk=0) |
