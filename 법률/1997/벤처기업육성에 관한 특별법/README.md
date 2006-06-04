@@ -1,4 +1,4 @@
-# 벤처기업육성에관한특별조치법
+# 벤처기업육성에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001471&ancYnChk=0>
 
@@ -27,3 +27,4 @@
 | 2005-07-01 | 법률 제7289호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66180&efYd=20050701&ancYnChk=0) |
 | 2005-10-30 | 법률 제7633호, 2005. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70216&efYd=20051030&ancYnChk=0) |
 | 2006-01-22 | 법률 제7604호, 2005. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70215&efYd=20060122&ancYnChk=0) |
+| 2006-06-04 | 법률 제7868호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73243&efYd=20060604&ancYnChk=0) |
