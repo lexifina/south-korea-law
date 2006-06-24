@@ -1,4 +1,4 @@
-# 에너지이용합리화법
+# 에너지이용 합리화법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001867&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2004-07-01 | 법률 제7018호, 2003. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8637&efYd=20040701&ancYnChk=0) |
 | 2005-07-01 | 법률 제7284호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66286&efYd=20050701&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67618&efYd=20060401&ancYnChk=0) |
+| 2006-06-24 | 법률 제7745호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72233&efYd=20060624&ancYnChk=0) |
