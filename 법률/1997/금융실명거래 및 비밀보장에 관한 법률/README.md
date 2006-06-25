@@ -1,4 +1,4 @@
-# 금융실명거래및비밀보장에관한법률
+# 금융실명거래 및 비밀보장에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000549&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2002-07-01 | 법률 제6682호, 2002. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59236&efYd=20020701&ancYnChk=0) |
 | 2004-03-12 | 법률 제7189호, 2004. 3. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58853&efYd=20040312&ancYnChk=0) |
 | 2004-07-30 | 법률 제7115호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58852&efYd=20040730&ancYnChk=0) |
+| 2006-06-25 | 법률 제7886호, 2006. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73404&efYd=20060625&ancYnChk=0) |
