@@ -1,4 +1,4 @@
-# 공군기술고등학교설치법
+# 공군항공과학고등학교 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000945&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59860&efYd=19901227&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62349&efYd=20010129&ancYnChk=0) |
 | 2001-03-27 | 법률 제6290호, 2000. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59847&efYd=20010327&ancYnChk=0) |
+| 2006-06-25 | 법률 제7899호, 2006. 3. 24. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73398&efYd=20060625&ancYnChk=0) |
