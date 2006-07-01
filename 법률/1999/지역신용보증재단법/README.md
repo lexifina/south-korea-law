@@ -10,3 +10,4 @@
 | 2002-11-27 | 법률 제6705호, 2002. 8. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53615&efYd=20021127&ancYnChk=0) |
 | 2003-03-01 | 법률 제6769호, 2002. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55842&efYd=20030301&ancYnChk=0) |
 | 2005-09-01 | 법률 제7558호, 2005. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68825&efYd=20050901&ancYnChk=0) |
+| 2006-07-01 | 법률 제7863호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73252&efYd=20060701&ancYnChk=0) |
