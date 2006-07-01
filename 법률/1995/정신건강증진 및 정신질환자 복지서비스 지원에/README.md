@@ -11,3 +11,4 @@
 | 2004-05-30 | 법률 제6893호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59049&efYd=20040530&ancYnChk=0) |
 | 2004-07-30 | 법률 제7149호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2331&efYd=20040730&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67940&efYd=20060401&ancYnChk=0) |
+| 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73195&efYd=20060701&ancYnChk=0) |
