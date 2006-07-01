@@ -13,3 +13,4 @@
 | 2001-07-01 | 법률 제6431호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62659&efYd=20010701&ancYnChk=0) |
 | 2003-10-30 | 법률 제6946호, 2003. 7. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62643&efYd=20031030&ancYnChk=0) |
 | 2004-01-20 | 법률 제7064호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62663&efYd=20040120&ancYnChk=0) |
+| 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72368&efYd=20060701&ancYnChk=0) |
