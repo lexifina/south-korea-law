@@ -1,4 +1,4 @@
-# 복권및복권기금법
+# 복권 및 복권기금법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009632&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 2005-06-01 | 법률 제7486호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67731&efYd=20050601&ancYnChk=0) |
 | 2006-01-30 | 법률 제7798호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72381&efYd=20060130&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72380&efYd=20060701&ancYnChk=0) |
+| 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73186&efYd=20060701&ancYnChk=0) |
