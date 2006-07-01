@@ -1,0 +1,7 @@
+# 제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010162&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73157&efYd=20060701&ancYnChk=0) |
