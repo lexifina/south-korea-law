@@ -1,4 +1,4 @@
-# 부품·소재전문기업등의육성에관한특별조치법
+# 부품·소재전문기업 등의 육성에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009190&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2004-10-24 | 법률 제7219호, 2004. 9. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62116&efYd=20041024&ancYnChk=0) |
 | 2005-03-01 | 법률 제7280호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66217&efYd=20050301&ancYnChk=0) |
 | 2005-07-01 | 법률 제7298호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66218&efYd=20050701&ancYnChk=0) |
+| 2006-07-29 | 법률 제7946호, 2006. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73810&efYd=20060729&ancYnChk=0) |
