@@ -1,4 +1,4 @@
-# 중소기업창업지원법
+# 중소기업창업 지원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001472&ancYnChk=0>
 
@@ -41,3 +41,4 @@
 | 2006-03-24 | 법률 제7752호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72197&efYd=20060324&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67957&efYd=20060401&ancYnChk=0) |
 | 2006-04-01 | 법률 제7459호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67958&efYd=20060401&ancYnChk=0) |
+| 2006-08-05 | 법률 제7678호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71103&efYd=20060805&ancYnChk=0) |
