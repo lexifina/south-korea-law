@@ -1,4 +1,4 @@
-# 국정감사및조사에관한법률
+# 국정감사 및 조사에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001412&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2000-05-30 | 법률 제6267호, 2000. 2. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62603&efYd=20000530&ancYnChk=0) |
 | 2002-03-07 | 법률 제6658호, 2002. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62618&efYd=20020307&ancYnChk=0) |
 | 2003-02-04 | 법률 제6857호, 2003. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60687&efYd=20030204&ancYnChk=0) |
+| 2006-09-22 | 법률 제7973호, 2006. 9. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75497&efYd=20060922&ancYnChk=0) |
