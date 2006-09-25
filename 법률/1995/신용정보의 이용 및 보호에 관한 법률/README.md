@@ -1,4 +1,4 @@
-# 신용정보의이용및보호에관한법률
+# 신용정보의 이용 및 보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001540&ancYnChk=0>
 
@@ -19,3 +19,4 @@
 | 2004-01-29 | 법률 제7110호, 2004. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58307&efYd=20040129&ancYnChk=0) |
 | 2005-04-28 | 법률 제7344호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66634&efYd=20050428&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67662&efYd=20060401&ancYnChk=0) |
+| 2006-09-25 | 법률 제7883호, 2006. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73409&efYd=20060925&ancYnChk=0) |
