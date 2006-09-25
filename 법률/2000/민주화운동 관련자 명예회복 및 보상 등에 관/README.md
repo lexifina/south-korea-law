@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2000-05-13 | 법률 제6123호, 2000. 1. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4143&efYd=20000513&ancYnChk=0) |
 | 2004-03-27 | 법률 제7214호, 2004. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54172&efYd=20040327&ancYnChk=0) |
+| 2006-09-25 | 법률 제7908호, 2006. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73387&efYd=20060925&ancYnChk=0) |
