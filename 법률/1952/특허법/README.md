@@ -33,3 +33,4 @@
 | 2006-03-03 | 법률 제7871호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73492&efYd=20060303&ancYnChk=0) |
 | 2006-09-04 | 법률 제7869호, 2006. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73372&efYd=20060904&ancYnChk=0) |
 | 2006-09-04 | 법률 제7871호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73492&efYd=20060904&ancYnChk=0) |
+| 2006-10-01 | 법률 제7871호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73492&efYd=20061001&ancYnChk=0) |
