@@ -1,4 +1,4 @@
-# 교원지위향상을위한특별법
+# 교원지위향상을 위한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000886&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61405&efYd=20010129&ancYnChk=0) |
 | 2005-01-27 | 법률 제7354호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66628&efYd=20050127&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72283&efYd=20060701&ancYnChk=0) |
+| 2006-10-04 | 법률 제8019호, 2006. 10. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75709&efYd=20061004&ancYnChk=0) |
