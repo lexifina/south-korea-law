@@ -44,3 +44,4 @@
 | 2006-06-01 | 법률 제7545호, 2005. 5. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68394&efYd=20060601&ancYnChk=0) |
 | 2006-06-01 | 법률 제7666호, 2005. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70310&efYd=20060601&ancYnChk=0) |
 | 2006-06-01 | 법률 제7936호, 2006. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73842&efYd=20060601&ancYnChk=0) |
+| 2006-10-20 | 법률 제7969호, 2006. 7. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=74884&efYd=20061020&ancYnChk=0) |
