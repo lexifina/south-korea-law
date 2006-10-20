@@ -1,4 +1,4 @@
-# 자전거이용활성화에관한법률
+# 자전거이용 활성화에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000993&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2003-11-30 | 법률 제6916호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58873&efYd=20031130&ancYnChk=0) |
 | 2006-06-01 | 법률 제7545호, 2005. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68736&efYd=20060601&ancYnChk=0) |
 | 2006-08-05 | 법률 제7678호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71098&efYd=20060805&ancYnChk=0) |
+| 2006-10-20 | 법률 제7970호, 2006. 7. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=74883&efYd=20061020&ancYnChk=0) |
