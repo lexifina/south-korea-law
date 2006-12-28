@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2006-08-05 | 법률 제7677호, 2005. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71050&efYd=20060805&ancYnChk=0) |
+| 2006-12-28 | 법률 제8102호, 2006. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76477&efYd=20061228&ancYnChk=0) |
