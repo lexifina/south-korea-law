@@ -1,4 +1,4 @@
-# 지방교육자치에관한법률
+# 지방교육자치에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000898&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2005-04-26 | 법률 제7340호, 2005. 1. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66573&efYd=20050426&ancYnChk=0) |
 | 2006-07-01 | 법률 제7773호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72358&efYd=20060701&ancYnChk=0) |
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73201&efYd=20060701&ancYnChk=0) |
+| 2007-01-01 | 법률 제8069호, 2006. 12. 20. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76357&efYd=20070101&ancYnChk=0) |
