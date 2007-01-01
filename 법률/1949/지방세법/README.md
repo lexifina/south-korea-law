@@ -108,3 +108,4 @@
 | 2006-09-01 | 법률 제7972호, 2006. 9. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75383&efYd=20060901&ancYnChk=0) |
 | 2006-12-28 | 법률 제8099호, 2006. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76471&efYd=20061228&ancYnChk=0) |
 | 2007-01-01 | 법률 제8138호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76502&efYd=20070101&ancYnChk=0) |
+| 2007-01-01 | 법률 제8147호, 2006. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76553&efYd=20070101&ancYnChk=0) |
