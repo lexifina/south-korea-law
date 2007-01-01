@@ -1,4 +1,4 @@
-# 교통세법
+# 교통·에너지·환경세법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000623&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2001-07-01 | 법률 제6295호, 2000. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53118&efYd=20010701&ancYnChk=0) |
 | 2004-01-01 | 법률 제7011호, 2003. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2061&efYd=20040101&ancYnChk=0) |
 | 2005-07-08 | 법률 제7576호, 2005. 7. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=70273&efYd=20050708&ancYnChk=0) |
+| 2007-01-01 | 법률 제8138호, 2006. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76496&efYd=20070101&ancYnChk=0) |
