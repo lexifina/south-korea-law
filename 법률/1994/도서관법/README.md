@@ -1,4 +1,4 @@
-# 도서관및독서진흥법
+# 도서관법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000830&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2000-01-12 | 법률 제6126호, 2000. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60040&efYd=20000112&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60047&efYd=20010129&ancYnChk=0) |
 | 2003-11-30 | 법률 제6906호, 2003. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60039&efYd=20031130&ancYnChk=0) |
+| 2007-01-01 | 법률 제8069호, 2006. 12. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76372&efYd=20070101&ancYnChk=0) |
