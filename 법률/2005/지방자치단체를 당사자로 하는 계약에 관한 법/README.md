@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2006-01-01 | 법률 제7672호, 2005. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71053&efYd=20060101&ancYnChk=0) |
+| 2007-01-03 | 법률 제8173호, 2007. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76713&efYd=20070103&ancYnChk=0) |
