@@ -1,4 +1,4 @@
-# 유류오염손해배상보장법
+# 유류오염손해배상 보장법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000064&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2002-07-01 | 법률 제6626호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53570&efYd=20020701&ancYnChk=0) |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53814&efYd=20020701&ancYnChk=0) |
 | 2003-12-11 | 법률 제7002호, 2003. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54295&efYd=20031211&ancYnChk=0) |
+| 2007-01-26 | 법률 제8300호, 2007. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77228&efYd=20070126&ancYnChk=0) |
