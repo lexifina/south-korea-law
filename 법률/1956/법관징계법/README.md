@@ -12,3 +12,4 @@
 | 1988-02-25 | 법률 제3992호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2520&efYd=19880225&ancYnChk=0) |
 | 1999-01-21 | 법률 제5642호, 1999. 1. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2521&efYd=19990121&ancYnChk=0) |
 | 1999-12-31 | 법률 제6082호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2522&efYd=19991231&ancYnChk=0) |
+| 2007-01-28 | 법률 제8058호, 2006. 10. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75889&efYd=20070128&ancYnChk=0) |
