@@ -1,4 +1,4 @@
-# 북한이탈주민의보호및정착지원에관한법률
+# 북한이탈주민의 보호 및 정착지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001432&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 1999-01-21 | 법률 제5681호, 1999. 1. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4304&efYd=19990121&ancYnChk=0) |
 | 2000-01-01 | 법률 제6056호, 1999. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61303&efYd=20000101&ancYnChk=0) |
 | 2001-10-01 | 법률 제6474호, 2001. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61304&efYd=20011001&ancYnChk=0) |
+| 2007-02-27 | 법률 제8269호, 2007. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77167&efYd=20070227&ancYnChk=0) |
