@@ -1,4 +1,4 @@
-# 중소기업진흥및제품구매촉진에관한법률
+# 중소기업진흥 및 제품구매촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001476&ancYnChk=0>
 
@@ -34,3 +34,4 @@
 | 2006-08-05 | 법률 제7678호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71104&efYd=20060805&ancYnChk=0) |
 | 2006-09-04 | 법률 제7866호, 2006. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73244&efYd=20060904&ancYnChk=0) |
 | 2007-01-01 | 법률 제8050호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75813&efYd=20070101&ancYnChk=0) |
+| 2007-04-11 | 법률 제8361호, 2007. 4. 11. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78008&efYd=20070411&ancYnChk=0) |
