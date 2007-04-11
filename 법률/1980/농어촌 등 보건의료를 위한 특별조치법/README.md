@@ -1,4 +1,4 @@
-# 농어촌등보건의료를위한특별조치법
+# 농어촌 등 보건의료를 위한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001786&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7997&efYd=19980101&ancYnChk=0) |
 | 2000-07-13 | 법률 제6156호, 2000. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7998&efYd=20000713&ancYnChk=0) |
 | 2002-12-18 | 법률 제6800호, 2002. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59464&efYd=20021218&ancYnChk=0) |
+| 2007-04-11 | 법률 제8366호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78312&efYd=20070411&ancYnChk=0) |
