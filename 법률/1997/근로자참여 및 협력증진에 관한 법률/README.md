@@ -1,4 +1,4 @@
-# 근로자참여및협력증진에관한법률
+# 근로자참여 및 협력증진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000141&ancYnChk=0>
 
@@ -7,3 +7,4 @@
 | 1997-03-13 | 법률 제5312호, 1997. 3. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=161&efYd=19970313&ancYnChk=0) |
 | 1999-12-31 | 법률 제6098호, 1999. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=274&efYd=19991231&ancYnChk=0) |
 | 2002-01-01 | 법률 제6510호, 2001. 8. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51178&efYd=20020101&ancYnChk=0) |
+| 2007-04-11 | 법률 제8372호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78239&efYd=20070411&ancYnChk=0) |
