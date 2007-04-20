@@ -1,4 +1,4 @@
-# 대도시권광역교통관리에관한특별법
+# 대도시권 광역교통관리에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000106&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2004-01-26 | 법률 제6939호, 2003. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2058&efYd=20040126&ancYnChk=0) |
 | 2005-01-01 | 법률 제7052호, 2003. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58545&efYd=20050101&ancYnChk=0) |
 | 2005-01-27 | 법률 제7386호, 2005. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66611&efYd=20050127&ancYnChk=0) |
+| 2007-04-20 | 법률 제8251호, 2007. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77155&efYd=20070420&ancYnChk=0) |
