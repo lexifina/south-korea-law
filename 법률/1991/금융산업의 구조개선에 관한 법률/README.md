@@ -1,4 +1,4 @@
-# 금융산업의구조개선에관한법률
+# 금융산업의 구조개선에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000534&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2003-01-01 | 법률 제6807호, 2002. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58861&efYd=20030101&ancYnChk=0) |
 | 2003-08-30 | 법률 제6891호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5389&efYd=20030830&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67564&efYd=20060401&ancYnChk=0) |
+| 2007-04-27 | 법률 제8265호, 2007. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77163&efYd=20070427&ancYnChk=0) |
