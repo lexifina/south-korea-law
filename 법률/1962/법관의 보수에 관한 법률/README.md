@@ -1,4 +1,4 @@
-# 법관등의보수에관한법률
+# 법관의 보수에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001294&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 1988-02-25 | 법률 제3992호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2535&efYd=19880225&ancYnChk=0) |
 | 1994-07-27 | 법률 제4768호, 1994. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=2536&efYd=19940727&ancYnChk=0) |
 | 2004-01-20 | 법률 제7080호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60097&efYd=20040120&ancYnChk=0) |
+| 2007-05-01 | 법률 제8413호, 2007. 5. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78761&efYd=20070501&ancYnChk=0) |
