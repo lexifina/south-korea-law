@@ -60,3 +60,4 @@
 | 2007-01-01 | 법률 제8024호, 2006. 10. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75722&efYd=20070101&ancYnChk=0) |
 | 2007-01-19 | 법률 제8243호, 2007. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77094&efYd=20070119&ancYnChk=0) |
 | 2007-04-11 | 법률 제8372호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78300&efYd=20070411&ancYnChk=0) |
+| 2007-05-11 | 법률 제8422호, 2007. 5. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78879&efYd=20070511&ancYnChk=0) |
