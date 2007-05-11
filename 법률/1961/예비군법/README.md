@@ -25,3 +25,4 @@
 | 1999-07-01 | 법률 제5704호, 1999. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62365&efYd=19990701&ancYnChk=0) |
 | 2001-03-27 | 법률 제6290호, 2000. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62363&efYd=20010327&ancYnChk=0) |
 | 2005-04-01 | 법률 제7270호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66207&efYd=20050401&ancYnChk=0) |
+| 2007-05-11 | 법률 제8422호, 2007. 5. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78878&efYd=20070511&ancYnChk=0) |
