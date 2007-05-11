@@ -1,4 +1,4 @@
-# 부동산실권리자명의등기에관한법률
+# 부동산 실권리자명의 등기에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001178&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1999-01-01 | 법률 제5582호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3677&efYd=19990101&ancYnChk=0) |
 | 1999-12-31 | 법률 제6073호, 1999. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3678&efYd=19991231&ancYnChk=0) |
 | 2002-03-30 | 법률 제6683호, 2002. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59629&efYd=20020330&ancYnChk=0) |
+| 2007-05-11 | 법률 제8418호, 2007. 5. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78923&efYd=20070511&ancYnChk=0) |
