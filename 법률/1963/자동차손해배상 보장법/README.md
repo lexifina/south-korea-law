@@ -1,4 +1,4 @@
-# 자동차손해배상보장법
+# 자동차손해배상 보장법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001746&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2002-07-27 | 법률 제6645호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=11111&efYd=20020727&ancYnChk=0) |
 | 2004-04-21 | 법률 제7100호, 2004. 1. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60119&efYd=20040421&ancYnChk=0) |
 | 2004-08-22 | 법률 제6969호, 2003. 8. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56116&efYd=20040822&ancYnChk=0) |
+| 2007-06-29 | 법률 제8127호, 2006. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76449&efYd=20070629&ancYnChk=0) |
