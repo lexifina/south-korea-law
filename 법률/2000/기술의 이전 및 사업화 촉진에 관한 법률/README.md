@@ -1,4 +1,4 @@
-# 기술이전촉진법
+# 기술의 이전 및 사업화 촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009371&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2004-10-24 | 법률 제7219호, 2004. 9. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=62114&efYd=20041024&ancYnChk=0) |
 | 2005-07-01 | 법률 제7289호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66307&efYd=20050701&ancYnChk=0) |
 | 2006-10-01 | 법률 제7872호, 2006. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73290&efYd=20061001&ancYnChk=0) |
+| 2007-06-29 | 법률 제8108호, 2006. 12. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76437&efYd=20070629&ancYnChk=0) |
