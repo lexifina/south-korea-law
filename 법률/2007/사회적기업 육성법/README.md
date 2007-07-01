@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2007-07-01 | 법률 제8217호, 2007. 1. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76717&efYd=20070701&ancYnChk=0) |
+| 2007-07-01 | 법률 제8361호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78333&efYd=20070701&ancYnChk=0) |
