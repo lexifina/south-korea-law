@@ -1,4 +1,4 @@
-# 노동조합및노동관계조정법
+# 노동조합 및 노동관계조정법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000143&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 1998-05-01 | 법률 제5511호, 1998. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3491&efYd=19980501&ancYnChk=0) |
 | 2001-03-28 | 법률 제6456호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54630&efYd=20010328&ancYnChk=0) |
 | 2006-01-02 | 법률 제7845호, 2006. 1. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72645&efYd=20060102&ancYnChk=0) |
+| 2007-07-01 | 법률 제8158호, 2006. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76543&efYd=20070701&ancYnChk=0) |
