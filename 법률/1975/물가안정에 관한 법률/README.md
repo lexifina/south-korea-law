@@ -1,4 +1,4 @@
-# 물가안정에관한법률
+# 물가안정에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000669&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1995-04-06 | 법률 제4861호, 1995. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3011&efYd=19950406&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3012&efYd=19980101&ancYnChk=0) |
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3013&efYd=19990524&ancYnChk=0) |
+| 2007-07-01 | 법률 제8312호, 2007. 3. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77747&efYd=20070701&ancYnChk=0) |
