@@ -1,4 +1,4 @@
-# 농수산물유통및가격안정에관한법률
+# 농수산물유통 및 가격안정에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000433&ancYnChk=0>
 
@@ -27,3 +27,4 @@
 | 2007-01-01 | 법률 제8135호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76507&efYd=20070101&ancYnChk=0) |
 | 2007-04-11 | 법률 제8354호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78258&efYd=20070411&ancYnChk=0) |
 | 2007-06-29 | 법률 제8107호, 2006. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76466&efYd=20070629&ancYnChk=0) |
+| 2007-07-04 | 법률 제8178호, 2007. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77235&efYd=20070704&ancYnChk=0) |
