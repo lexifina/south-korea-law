@@ -1,4 +1,4 @@
-# 유네스코활동에관한법률
+# 유네스코 활동에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000846&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50719&efYd=20010129&ancYnChk=0) |
 | 2001-03-28 | 법률 제6433호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3356&efYd=20010328&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67606&efYd=20060401&ancYnChk=0) |
+| 2007-07-07 | 법률 제8332호, 2007. 4. 6. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77834&efYd=20070707&ancYnChk=0) |
