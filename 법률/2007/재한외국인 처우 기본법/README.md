@@ -1,0 +1,7 @@
+# 재한외국인 처우 기본법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010445&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2007-07-18 | 법률 제8442호, 2007. 5. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79005&efYd=20070718&ancYnChk=0) |
