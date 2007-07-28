@@ -1,4 +1,4 @@
-# 부동산가격공시및감정평가에관한법률
+# 부동산 가격공시 및 감정평가에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001827&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2005-01-14 | 법률 제7335호, 2005. 1. 14. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66404&efYd=20050114&ancYnChk=0) |
 | 2006-03-08 | 법률 제7707호, 2005. 12. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72069&efYd=20060308&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67614&efYd=20060401&ancYnChk=0) |
+| 2007-07-28 | 법률 제8409호, 2007. 4. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78716&efYd=20070728&ancYnChk=0) |
