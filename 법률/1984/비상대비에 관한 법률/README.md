@@ -1,4 +1,4 @@
-# 비상대비자원관리법
+# 비상대비자원 관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001618&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 1998-05-25 | 법률 제5543호, 1998. 5. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56714&efYd=19980525&ancYnChk=0) |
 | 2001-04-17 | 법률 제6373호, 2001. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56716&efYd=20010417&ancYnChk=0) |
 | 2004-09-23 | 법률 제7217호, 2004. 9. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57166&efYd=20040923&ancYnChk=0) |
+| 2007-07-28 | 법률 제8410호, 2007. 4. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78708&efYd=20070728&ancYnChk=0) |
