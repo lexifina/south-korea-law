@@ -13,3 +13,4 @@
 | 1995-08-04 | 법률 제4968호, 1995. 8. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1245&efYd=19950804&ancYnChk=0) |
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=1246&efYd=19990524&ancYnChk=0) |
 | 2003-09-29 | 법률 제6978호, 2003. 9. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5745&efYd=20030929&ancYnChk=0) |
+| 2007-08-03 | 법률 제8600호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79977&efYd=20070803&ancYnChk=0) |
