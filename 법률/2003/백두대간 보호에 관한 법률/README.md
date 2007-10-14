@@ -7,3 +7,4 @@
 | 2005-01-01 | 법률 제7038호, 2003. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60196&efYd=20050101&ancYnChk=0) |
 | 2005-07-01 | 법률 제7284호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66312&efYd=20050701&ancYnChk=0) |
 | 2005-12-01 | 법률 제7548호, 2005. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68842&efYd=20051201&ancYnChk=0) |
+| 2007-10-14 | 법률 제8506호, 2007. 7. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79706&efYd=20071014&ancYnChk=0) |
