@@ -1,4 +1,4 @@
-# 주한미군기지이전에따른평택시등의지원등에관한특별법
+# 주한미군기지 이전에 따른 평택시 등의 지원 등에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009844&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2007-04-27 | 법률 제8404호, 2007. 4. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78815&efYd=20070427&ancYnChk=0) |
 | 2007-07-27 | 법률 제8283호, 2007. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77267&efYd=20070727&ancYnChk=0) |
 | 2007-10-07 | 법률 제8337호, 2007. 4. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78544&efYd=20071007&ancYnChk=0) |
+| 2007-10-28 | 법률 제8550호, 2007. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79897&efYd=20071028&ancYnChk=0) |
