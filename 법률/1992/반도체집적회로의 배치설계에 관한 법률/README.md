@@ -1,4 +1,4 @@
-# 반도체집적회로의배치설계에관한법률
+# 반도체집적회로의 배치설계에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001462&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54323&efYd=19980101&ancYnChk=0) |
 | 1999-01-01 | 법률 제5599호, 1998. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54322&efYd=19990101&ancYnChk=0) |
 | 2002-07-01 | 법률 제6626호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=54324&efYd=20020701&ancYnChk=0) |
+| 2007-10-28 | 법률 제8397호, 2007. 4. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78689&efYd=20071028&ancYnChk=0) |
