@@ -1,4 +1,4 @@
-# 공직자등의병역사항신고및공개에관한법률
+# 공직자 등의 병역사항 신고 및 공개에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001965&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2005-07-01 | 법률 제7268호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66214&efYd=20050701&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72303&efYd=20060701&ancYnChk=0) |
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73183&efYd=20060701&ancYnChk=0) |
+| 2007-11-18 | 법률 제8445호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78979&efYd=20071118&ancYnChk=0) |
