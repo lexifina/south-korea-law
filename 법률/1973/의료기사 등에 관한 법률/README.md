@@ -1,4 +1,4 @@
-# 의료기사등에관한법률
+# 의료기사 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001785&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2003-05-15 | 법률 제6876호, 2003. 5. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59577&efYd=20030515&ancYnChk=0) |
 | 2004-01-29 | 법률 제7148호, 2004. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58592&efYd=20040129&ancYnChk=0) |
 | 2004-05-30 | 법률 제6909호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59584&efYd=20040530&ancYnChk=0) |
+| 2007-12-14 | 법률 제8693호, 2007. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81774&efYd=20071214&ancYnChk=0) |
