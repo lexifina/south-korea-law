@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1949-11-24 | 법률 제70호, 1949. 11. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=395&efYd=19491124&ancYnChk=0) |
 | 2000-02-29 | 법률 제6057호, 1999. 12. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=36196&efYd=20000229&ancYnChk=0) |
+| 2007-12-14 | 법률 제8682호, 2007. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81705&efYd=20071214&ancYnChk=0) |
