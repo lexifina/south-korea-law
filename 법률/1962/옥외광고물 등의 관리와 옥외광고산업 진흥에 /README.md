@@ -1,4 +1,4 @@
-# 옥외광고물등관리법
+# 옥외광고물 등 관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001020&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2003-10-01 | 법률 제6841호, 2002. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58846&efYd=20031001&ancYnChk=0) |
 | 2003-11-30 | 법률 제6898호, 2003. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58725&efYd=20031130&ancYnChk=0) |
 | 2005-06-24 | 법률 제7246호, 2004. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=65774&efYd=20050624&ancYnChk=0) |
+| 2007-12-21 | 법률 제8737호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81969&efYd=20071221&ancYnChk=0) |
