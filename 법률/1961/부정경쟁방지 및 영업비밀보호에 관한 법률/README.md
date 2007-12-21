@@ -1,4 +1,4 @@
-# 부정경쟁방지및영업비밀보호에관한법률
+# 부정경쟁방지 및 영업비밀보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000308&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2001-07-01 | 법률 제6421호, 2001. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53243&efYd=20010701&ancYnChk=0) |
 | 2004-07-21 | 법률 제7095호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61844&efYd=20040721&ancYnChk=0) |
 | 2005-07-01 | 법률 제7289호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66250&efYd=20050701&ancYnChk=0) |
+| 2007-12-21 | 법률 제8767호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81950&efYd=20071221&ancYnChk=0) |
