@@ -1,4 +1,4 @@
-# 도서·벽지교육진흥법
+# 도서·벽지 교육진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000868&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 1981-12-31 | 법률 제3499호, 1981. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61687&efYd=19811231&ancYnChk=0) |
 | 1990-12-27 | 법률 제4268호, 1990. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61675&efYd=19901227&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61561&efYd=20010129&ancYnChk=0) |
+| 2007-12-21 | 법률 제8706호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81896&efYd=20071221&ancYnChk=0) |
