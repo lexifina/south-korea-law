@@ -48,3 +48,4 @@
 | 2006-09-22 | 법률 제7976호, 2006. 9. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75499&efYd=20060922&ancYnChk=0) |
 | 2006-10-29 | 법률 제7932호, 2006. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73819&efYd=20061029&ancYnChk=0) |
 | 2007-08-03 | 법률 제8584호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79962&efYd=20070803&ancYnChk=0) |
+| 2007-12-21 | 법률 제8732호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81980&efYd=20071221&ancYnChk=0) |
