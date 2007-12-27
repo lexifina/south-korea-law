@@ -48,3 +48,4 @@
 | 2007-10-07 | 법률 제8337호, 2007. 4. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78319&efYd=20071007&ancYnChk=0) |
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80313&efYd=20071118&ancYnChk=0) |
 | 2007-12-21 | 법률 제8764호, 2007. 12. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82017&efYd=20071221&ancYnChk=0) |
+| 2007-12-27 | 법률 제8816호, 2007. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82297&efYd=20071227&ancYnChk=0) |
