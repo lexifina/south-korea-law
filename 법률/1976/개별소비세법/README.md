@@ -1,4 +1,4 @@
-# 특별소비세법
+# 개별소비세법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001570&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2007-01-01 | 법률 제8138호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76499&efYd=20070101&ancYnChk=0) |
 | 2007-01-01 | 법률 제8139호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76536&efYd=20070101&ancYnChk=0) |
 | 2007-03-28 | 법률 제7988호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75547&efYd=20070328&ancYnChk=0) |
+| 2008-01-01 | 법률 제8829호, 2007. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82366&efYd=20080101&ancYnChk=0) |
