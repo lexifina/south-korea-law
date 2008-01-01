@@ -1,4 +1,4 @@
-# 소송촉진 등에 관한 특례법
+# 소송촉진등에관한특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001215&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53817&efYd=20020701&ancYnChk=0) |
 | 2003-06-01 | 법률 제6868호, 2003. 5. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59214&efYd=20030601&ancYnChk=0) |
 | 2006-06-15 | 법률 제7728호, 2005. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72189&efYd=20060615&ancYnChk=0) |
+| 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67491&efYd=20080101&ancYnChk=0) |
