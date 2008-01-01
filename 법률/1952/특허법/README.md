@@ -49,3 +49,4 @@
 | 2008-01-01 | 법률 제7869호, 2006. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73372&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제7871호, 2006. 3. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73492&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8171호, 2007. 1. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76684&efYd=20080101&ancYnChk=0) |
+| 2008-01-01 | 법률 제8197호, 2007. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76997&efYd=20080101&ancYnChk=0) |
