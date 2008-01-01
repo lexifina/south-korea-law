@@ -1,4 +1,4 @@
-# 가정폭력범죄의처벌등에관한특례법
+# 가정폭력범죄의 처벌 등에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001132&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73166&efYd=20060701&ancYnChk=0) |
 | 2007-08-03 | 법률 제8580호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79968&efYd=20070803&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67487&efYd=20080101&ancYnChk=0) |
+| 2008-01-01 | 법률 제8434호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78988&efYd=20080101&ancYnChk=0) |
