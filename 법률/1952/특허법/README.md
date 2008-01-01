@@ -51,3 +51,4 @@
 | 2008-01-01 | 법률 제8171호, 2007. 1. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76684&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8197호, 2007. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76997&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8357호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78431&efYd=20080101&ancYnChk=0) |
+| 2008-01-01 | 법률 제8462호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78992&efYd=20080101&ancYnChk=0) |
