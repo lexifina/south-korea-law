@@ -18,3 +18,4 @@
 | 2004-09-01 | 대법원규칙 제1901호, 2004. 8. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51535&efYd=20040901&ancYnChk=0) |
 | 2006-03-23 | 대법원규칙 제2013호, 2006. 3. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73542&efYd=20060323&ancYnChk=0) |
 | 2006-08-20 | 대법원규칙 제2038호, 2006. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75235&efYd=20060820&ancYnChk=0) |
+| 2008-01-01 | 대법원규칙 제2106호, 2007. 10. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81096&efYd=20080101&ancYnChk=0) |
