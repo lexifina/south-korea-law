@@ -105,3 +105,4 @@
 | 2007-10-20 | 법률 제8531호, 2007. 7. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79809&efYd=20071020&ancYnChk=0) |
 | 2008-01-01 | 법률 제8435호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79042&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8524호, 2007. 7. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79808&efYd=20080101&ancYnChk=0) |
+| 2008-01-01 | 법률 제8825호, 2007. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82364&efYd=20080101&ancYnChk=0) |
