@@ -23,3 +23,4 @@
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73176&efYd=20060701&ancYnChk=0) |
 | 2007-08-14 | 법률 제8499호, 2007. 7. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79698&efYd=20070814&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67509&efYd=20080101&ancYnChk=0) |
+| 2008-01-01 | 법률 제8438호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78997&efYd=20080101&ancYnChk=0) |
