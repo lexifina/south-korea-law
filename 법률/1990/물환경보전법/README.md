@@ -1,4 +1,4 @@
-# 수질 및 수생태계 보전에 관한 법률
+# 수질환경보전법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000166&ancYnChk=0>
 
@@ -35,3 +35,4 @@
 | 2007-07-04 | 법률 제8209호, 2007. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76672&efYd=20070704&ancYnChk=0) |
 | 2007-10-05 | 법률 제8038호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75804&efYd=20071005&ancYnChk=0) |
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79019&efYd=20071118&ancYnChk=0) |
+| 2008-01-20 | 법률 제8260호, 2007. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77157&efYd=20080120&ancYnChk=0) |
