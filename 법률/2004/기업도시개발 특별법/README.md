@@ -1,4 +1,4 @@
-# 기업도시개발특별법
+# 기업도시개발 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009848&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2007-04-20 | 법률 제8251호, 2007. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77204&efYd=20070420&ancYnChk=0) |
 | 2007-07-27 | 법률 제8283호, 2007. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77268&efYd=20070727&ancYnChk=0) |
 | 2007-10-07 | 법률 제8337호, 2007. 4. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78614&efYd=20071007&ancYnChk=0) |
+| 2008-02-04 | 법률 제8616호, 2007. 8. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80079&efYd=20080204&ancYnChk=0) |
