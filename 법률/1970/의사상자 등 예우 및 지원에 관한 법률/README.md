@@ -1,4 +1,4 @@
-# 의사상자예우에관한법률
+# 의사상자 등 예우 및 지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000178&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1999-04-22 | 법률 제5678호, 1999. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57530&efYd=19990422&ancYnChk=0) |
 | 2000-10-01 | 법률 제6024호, 1999. 9. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57532&efYd=20001001&ancYnChk=0) |
 | 2001-10-01 | 법률 제6474호, 2001. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57529&efYd=20011001&ancYnChk=0) |
+| 2008-02-04 | 법률 제8609호, 2007. 8. 3. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80003&efYd=20080204&ancYnChk=0) |
