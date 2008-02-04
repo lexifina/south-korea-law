@@ -1,4 +1,4 @@
-# 화물유통촉진법
+# 물류정책기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000092&ancYnChk=0>
 
@@ -31,3 +31,4 @@
 | 2007-04-11 | 법률 제8352호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78415&efYd=20070411&ancYnChk=0) |
 | 2007-04-11 | 법률 제8370호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78416&efYd=20070411&ancYnChk=0) |
 | 2007-09-28 | 법률 제8014호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75603&efYd=20070928&ancYnChk=0) |
+| 2008-02-04 | 법률 제8617호, 2007. 8. 3. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80038&efYd=20080204&ancYnChk=0) |
