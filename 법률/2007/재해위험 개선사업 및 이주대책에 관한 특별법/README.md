@@ -1,0 +1,7 @@
+# 재해위험 개선사업 및 이주대책에 관한 특별법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010504&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2008-02-04 | 법률 제8585호, 2007. 8. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79998&efYd=20080204&ancYnChk=0) |
