@@ -1,4 +1,4 @@
-# 가맹사업거래의공정화에관한법률
+# 가맹사업거래의 공정화에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009367&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 2004-01-20 | 법률 제7109호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60240&efYd=20040120&ancYnChk=0) |
 | 2005-04-01 | 법률 제7315호, 2004. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66221&efYd=20050401&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72375&efYd=20060701&ancYnChk=0) |
+| 2008-02-04 | 법률 제8630호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80014&efYd=20080204&ancYnChk=0) |
