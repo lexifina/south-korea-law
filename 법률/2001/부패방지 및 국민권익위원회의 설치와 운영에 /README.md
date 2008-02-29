@@ -1,4 +1,4 @@
-# 부패방지법
+# 부패방지 및 국민권익위원회의 설치와 운영에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009221&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2007-08-03 | 법률 제8633호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80029&efYd=20070803&ancYnChk=0) |
 | 2008-01-01 | 법률 제8496호, 2007. 6. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79252&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8857호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84365&efYd=20080229&ancYnChk=0) |
+| 2008-02-29 | 법률 제8878호, 2008. 2. 29. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84189&efYd=20080229&ancYnChk=0) |
