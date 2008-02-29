@@ -10,3 +10,4 @@
 | 1996-10-01 | 대통령령 제15153호, 1996. 10. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20902&efYd=19961001&ancYnChk=0) |
 | 1998-07-01 | 대통령령 제15830호, 1998. 7. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20903&efYd=19980701&ancYnChk=0) |
 | 2007-11-04 | 대통령령 제20300호, 2007. 9. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80722&efYd=20071104&ancYnChk=0) |
+| 2008-02-29 | 대통령령 제20674호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84901&efYd=20080229&ancYnChk=0) |
