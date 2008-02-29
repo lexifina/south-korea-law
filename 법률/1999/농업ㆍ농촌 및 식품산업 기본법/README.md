@@ -8,3 +8,4 @@
 | 2001-03-28 | 법률 제6447호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61499&efYd=20010328&ancYnChk=0) |
 | 2002-01-01 | 법률 제6589호, 2001. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61500&efYd=20020101&ancYnChk=0) |
 | 2003-12-11 | 법률 제6997호, 2003. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61488&efYd=20031211&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83637&efYd=20080229&ancYnChk=0) |
