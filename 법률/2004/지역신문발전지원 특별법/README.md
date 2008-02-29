@@ -1,4 +1,4 @@
-# 지역신문발전지원특별법
+# 지역신문발전지원 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009674&ancYnChk=0>
 
@@ -7,3 +7,4 @@
 | 2004-09-23 | 법률 제7206호, 2004. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61475&efYd=20040923&ancYnChk=0) |
 | 2005-03-24 | 법률 제7418호, 2005. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67112&efYd=20050324&ancYnChk=0) |
 | 2005-04-28 | 법률 제7367호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66659&efYd=20050428&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84747&efYd=20080229&ancYnChk=0) |
