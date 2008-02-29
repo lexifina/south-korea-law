@@ -20,3 +20,4 @@
 | 1993-03-06 | 법률 제4541호, 1993. 3. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8024&efYd=19930306&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8025&efYd=19980101&ancYnChk=0) |
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8026&efYd=19990524&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84340&efYd=20080229&ancYnChk=0) |
