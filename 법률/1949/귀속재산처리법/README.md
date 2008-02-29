@@ -14,3 +14,4 @@
 | 1964-12-31 | 법률 제1675호, 1964. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53548&efYd=19641231&ancYnChk=0) |
 | 1966-03-08 | 법률 제1760호, 1966. 3. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53549&efYd=19660308&ancYnChk=0) |
 | 2005-01-27 | 법률 제7346호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66637&efYd=20050127&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84315&efYd=20080229&ancYnChk=0) |
