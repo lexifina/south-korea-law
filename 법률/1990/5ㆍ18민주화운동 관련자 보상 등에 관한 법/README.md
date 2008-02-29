@@ -1,4 +1,4 @@
-# 광주민주화운동관련자보상등에관한법률
+# 5·18민주화운동 관련자 보상 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001234&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2004-03-27 | 법률 제7215호, 2004. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3109&efYd=20040327&ancYnChk=0) |
 | 2006-03-24 | 법률 제7911호, 2006. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=74006&efYd=20060324&ancYnChk=0) |
 | 2006-09-25 | 법률 제7908호, 2006. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73400&efYd=20060925&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83309&efYd=20080229&ancYnChk=0) |
