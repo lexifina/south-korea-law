@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2005-09-01 | 법률 제7496호, 2005. 5. 18. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68396&efYd=20050901&ancYnChk=0) |
+| 2008-02-29 | 법률 제8868호, 2008. 2. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83524&efYd=20080229&ancYnChk=0) |
