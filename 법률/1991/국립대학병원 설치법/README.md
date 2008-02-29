@@ -1,4 +1,4 @@
-# 국립대학병원설치법
+# 국립대학병원 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000874&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2002-11-27 | 법률 제6711호, 2002. 8. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50763&efYd=20021127&ancYnChk=0) |
 | 2006-06-25 | 법률 제7888호, 2006. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73432&efYd=20060625&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72282&efYd=20060701&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83845&efYd=20080229&ancYnChk=0) |
