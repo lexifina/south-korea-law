@@ -7,3 +7,4 @@
 | 1964-01-07 | 법률 제1479호, 1963. 12. 7. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57357&efYd=19640107&ancYnChk=0) |
 | 1994-01-01 | 법률 제4603호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57356&efYd=19940101&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67515&efYd=20080101&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83822&efYd=20080229&ancYnChk=0) |
