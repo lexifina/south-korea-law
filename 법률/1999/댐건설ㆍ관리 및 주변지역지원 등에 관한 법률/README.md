@@ -1,4 +1,4 @@
-# 댐건설및주변지역지원등에관한법률
+# 댐건설 및 주변지역지원 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001981&ancYnChk=0>
 
@@ -19,3 +19,4 @@
 | 2007-07-27 | 법률 제8283호, 2007. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77250&efYd=20070727&ancYnChk=0) |
 | 2007-09-28 | 법률 제8014호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75637&efYd=20070928&ancYnChk=0) |
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79060&efYd=20071118&ancYnChk=0) |
+| 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84342&efYd=20080229&ancYnChk=0) |
