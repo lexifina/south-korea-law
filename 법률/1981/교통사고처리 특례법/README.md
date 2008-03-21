@@ -1,4 +1,4 @@
-# 교통사고처리특례법
+# 교통사고처리 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001131&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1998-01-01 | 법률 제5408호, 1997. 8. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56041&efYd=19980101&ancYnChk=0) |
 | 2003-08-30 | 법률 제6891호, 2003. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56038&efYd=20030830&ancYnChk=0) |
 | 2006-06-01 | 법률 제7545호, 2005. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68737&efYd=20060601&ancYnChk=0) |
+| 2008-03-21 | 법률 제8979호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85939&efYd=20080321&ancYnChk=0) |
