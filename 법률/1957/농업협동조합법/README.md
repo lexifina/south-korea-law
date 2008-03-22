@@ -44,3 +44,4 @@
 | 2008-03-22 | 법률 제8750호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81911&efYd=20080322&ancYnChk=0) |
 | 2008-03-22 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84175&efYd=20080322&ancYnChk=0) |
 | 2008-03-22 | 법률 제8863호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84289&efYd=20080322&ancYnChk=0) |
+| 2008-03-22 | 법률 제8979호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86491&efYd=20080322&ancYnChk=0) |
