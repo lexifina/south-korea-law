@@ -1,4 +1,4 @@
-# 낙동강수계물관리및주민지원등에관한법률
+# 낙동강수계 물관리 및 주민지원 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009282&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2007-09-28 | 법률 제8010호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75588&efYd=20070928&ancYnChk=0) |
 | 2007-09-28 | 법률 제8014호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75646&efYd=20070928&ancYnChk=0) |
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79068&efYd=20071118&ancYnChk=0) |
+| 2008-04-12 | 법률 제8970호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86139&efYd=20080412&ancYnChk=0) |
