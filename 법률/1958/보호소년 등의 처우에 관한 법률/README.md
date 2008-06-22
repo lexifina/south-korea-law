@@ -1,4 +1,4 @@
-# 소년원법
+# 보호소년 등의 처우에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001660&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 1999-01-01 | 법률 제5474호, 1997. 12. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61496&efYd=19990101&ancYnChk=0) |
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6093&efYd=20010129&ancYnChk=0) |
 | 2004-04-21 | 법률 제7076호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6092&efYd=20040421&ancYnChk=0) |
+| 2008-06-22 | 법률 제8723호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81914&efYd=20080622&ancYnChk=0) |
