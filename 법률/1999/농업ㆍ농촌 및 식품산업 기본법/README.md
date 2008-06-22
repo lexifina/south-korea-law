@@ -1,4 +1,4 @@
-# 농업·농촌기본법
+# 농업·농촌 및 식품산업 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001979&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2002-01-01 | 법률 제6589호, 2001. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61500&efYd=20020101&ancYnChk=0) |
 | 2003-12-11 | 법률 제6997호, 2003. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61488&efYd=20031211&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83637&efYd=20080229&ancYnChk=0) |
+| 2008-06-22 | 법률 제8749호, 2007. 12. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82051&efYd=20080622&ancYnChk=0) |
