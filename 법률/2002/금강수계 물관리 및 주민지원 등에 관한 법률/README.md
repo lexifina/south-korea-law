@@ -1,4 +1,4 @@
-# 금강수계물관리및주민지원등에관한법률
+# 금강수계 물관리 및 주민지원 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009281&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2007-09-28 | 법률 제8010호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75587&efYd=20070928&ancYnChk=0) |
 | 2007-09-28 | 법률 제8014호, 2006. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75645&efYd=20070928&ancYnChk=0) |
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79067&efYd=20071118&ancYnChk=0) |
+| 2008-06-28 | 법률 제8820호, 2007. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82298&efYd=20080628&ancYnChk=0) |
