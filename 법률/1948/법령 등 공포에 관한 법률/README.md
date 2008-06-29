@@ -1,4 +1,4 @@
-# 법령등공포에관한법률
+# 법령 등 공포에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001430&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1973-03-09 | 법률 제2585호, 1973. 3. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4298&efYd=19730309&ancYnChk=0) |
 | 1982-11-29 | 법률 제3573호, 1982. 11. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4299&efYd=19821129&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4300&efYd=19980101&ancYnChk=0) |
+| 2008-06-29 | 법률 제8997호, 2008. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86593&efYd=20080629&ancYnChk=0) |
