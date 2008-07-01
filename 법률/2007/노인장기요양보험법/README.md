@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2007-10-01 | 법률 제8403호, 2007. 4. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78829&efYd=20071001&ancYnChk=0) |
+| 2008-07-01 | 법률 제8403호, 2007. 4. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78829&efYd=20080701&ancYnChk=0) |
