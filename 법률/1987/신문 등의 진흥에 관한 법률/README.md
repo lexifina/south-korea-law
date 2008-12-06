@@ -1,4 +1,4 @@
-# 신문등의자유와기능보장에관한법률
+# 신문 등의 자유와 기능보장에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001604&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2005-07-28 | 법률 제7369호, 2005. 1. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66558&efYd=20050728&ancYnChk=0) |
 | 2005-08-04 | 법률 제7655호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71030&efYd=20050804&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83317&efYd=20080229&ancYnChk=0) |
+| 2008-12-06 | 법률 제9099호, 2008. 6. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87352&efYd=20081206&ancYnChk=0) |
