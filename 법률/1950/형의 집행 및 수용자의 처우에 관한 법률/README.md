@@ -1,4 +1,4 @@
-# 행형법
+# 형의 집행 및 수용자의 처우에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001668&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2000-03-29 | 법률 제6038호, 1999. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59665&efYd=20000329&ancYnChk=0) |
 | 2005-08-04 | 법률 제7655호, 2005. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71032&efYd=20050804&ancYnChk=0) |
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73174&efYd=20060701&ancYnChk=0) |
+| 2008-12-22 | 법률 제8728호, 2007. 12. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81984&efYd=20081222&ancYnChk=0) |
