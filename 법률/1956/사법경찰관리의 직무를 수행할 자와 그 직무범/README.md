@@ -1,4 +1,4 @@
-# 사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률
+# 사법경찰관리의 직무를 행할 자와 그 직무범위에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001670&ancYnChk=0>
 
@@ -59,3 +59,4 @@
 | 2007-11-18 | 법률 제8466호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79048&efYd=20071118&ancYnChk=0) |
 | 2008-03-21 | 법률 제8976호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85940&efYd=20080321&ancYnChk=0) |
 | 2008-09-14 | 법률 제9109호, 2008. 6. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87476&efYd=20080914&ancYnChk=0) |
+| 2008-12-22 | 법률 제8728호, 2007. 12. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81846&efYd=20081222&ancYnChk=0) |
