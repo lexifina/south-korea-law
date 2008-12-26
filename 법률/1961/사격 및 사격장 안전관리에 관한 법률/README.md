@@ -1,4 +1,4 @@
-# 사격및사격장단속법
+# 사격 및 사격장 단속법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000975&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2001-04-27 | 법률 제6391호, 2001. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4408&efYd=20010427&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67609&efYd=20060401&ancYnChk=0) |
 | 2007-04-11 | 법률 제8344호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78266&efYd=20070411&ancYnChk=0) |
+| 2008-12-26 | 법률 제9196호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90410&efYd=20081226&ancYnChk=0) |
