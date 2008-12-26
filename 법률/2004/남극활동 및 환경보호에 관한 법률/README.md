@@ -1,4 +1,4 @@
-# 남극활동및환경보호에관한법률
+# 남극활동 및 환경보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009642&ancYnChk=0>
 
@@ -7,3 +7,4 @@
 | 2004-09-23 | 법률 제7195호, 2004. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59255&efYd=20040923&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67634&efYd=20060401&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83648&efYd=20080229&ancYnChk=0) |
+| 2008-12-26 | 법률 제9256호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90352&efYd=20081226&ancYnChk=0) |
