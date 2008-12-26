@@ -1,4 +1,4 @@
-# 고도(古都)보존에관한특별법
+# 고도 보존에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009671&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2008-03-21 | 법률 제8976호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86024&efYd=20080321&ancYnChk=0) |
 | 2008-04-07 | 법률 제8740호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82027&efYd=20080407&ancYnChk=0) |
 | 2008-09-22 | 법률 제8733호, 2007. 12. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81865&efYd=20080922&ancYnChk=0) |
+| 2008-12-26 | 법률 제9213호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90353&efYd=20081226&ancYnChk=0) |
