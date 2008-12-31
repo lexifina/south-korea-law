@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2007-08-26 | 법률 제8484호, 2007. 5. 25. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79173&efYd=20070826&ancYnChk=0) |
+| 2008-12-31 | 법률 제9319호, 2008. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91028&efYd=20081231&ancYnChk=0) |
