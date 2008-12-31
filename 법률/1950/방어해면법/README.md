@@ -9,3 +9,4 @@
 | 1963-12-17 | 법률 제1581호, 1963. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3793&efYd=19631217&ancYnChk=0) |
 | 1973-12-31 | 법률 제2668호, 1973. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=50177&efYd=19731231&ancYnChk=0) |
 | 1994-01-27 | 법률 제4615호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51984&efYd=19940127&ancYnChk=0) |
+| 2008-12-31 | 법률 제9294호, 2008. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90542&efYd=20081231&ancYnChk=0) |
