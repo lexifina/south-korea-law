@@ -66,3 +66,4 @@
 | 2008-01-01 | 법률 제8833호, 2007. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82361&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84567&efYd=20080229&ancYnChk=0) |
 | 2008-02-29 | 법률 제8860호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84563&efYd=20080229&ancYnChk=0) |
+| 2009-01-01 | 법률 제9261호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90464&efYd=20090101&ancYnChk=0) |
