@@ -1,4 +1,4 @@
-# 기업예산회계법
+# 정부기업예산법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001601&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2007-01-01 | 법률 제8047호, 2006. 10. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75759&efYd=20070101&ancYnChk=0) |
 | 2007-01-01 | 법률 제8050호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75760&efYd=20070101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83439&efYd=20080229&ancYnChk=0) |
+| 2009-01-01 | 법률 제9280호, 2008. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91073&efYd=20090101&ancYnChk=0) |
