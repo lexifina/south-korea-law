@@ -12,3 +12,4 @@
 | 2008-01-01 | 법률 제8496호, 2007. 6. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79252&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8857호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84365&efYd=20080229&ancYnChk=0) |
 | 2008-02-29 | 법률 제8878호, 2008. 2. 29. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84189&efYd=20080229&ancYnChk=0) |
+| 2009-01-07 | 법률 제9342호, 2009. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127122&efYd=20090107&ancYnChk=0) |
