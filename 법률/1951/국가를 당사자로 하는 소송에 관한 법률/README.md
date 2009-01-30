@@ -1,4 +1,4 @@
-# 국가를당사자로하는소송에관한법률
+# 국가를 당사자로 하는 소송에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001221&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 1995-01-01 | 법률 제4835호, 1994. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59522&efYd=19950101&ancYnChk=0) |
 | 1997-12-13 | 법률 제5427호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59666&efYd=19971213&ancYnChk=0) |
 | 1998-12-28 | 법률 제5587호, 1998. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59521&efYd=19981228&ancYnChk=0) |
+| 2009-01-30 | 법률 제9359호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91382&efYd=20090130&ancYnChk=0) |
