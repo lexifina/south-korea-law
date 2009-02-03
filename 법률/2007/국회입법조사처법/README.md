@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2007-03-25 | 법률 제8263호, 2007. 1. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76994&efYd=20070325&ancYnChk=0) |
+| 2009-02-03 | 법률 제9404호, 2009. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91540&efYd=20090203&ancYnChk=0) |
