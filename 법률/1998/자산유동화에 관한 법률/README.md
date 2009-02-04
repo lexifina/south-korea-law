@@ -1,4 +1,4 @@
-# 자산유동화에 관한 법률
+# 자산유동화에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000519&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2008-06-22 | 법률 제8703호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81892&efYd=20080622&ancYnChk=0) |
 | 2008-12-26 | 법률 제9258호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90441&efYd=20081226&ancYnChk=0) |
 | 2009-01-01 | 법률 제9071호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86673&efYd=20090101&ancYnChk=0) |
+| 2009-02-04 | 법률 제8635호, 2007. 8. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80120&efYd=20090204&ancYnChk=0) |
