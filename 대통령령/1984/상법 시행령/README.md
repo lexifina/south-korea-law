@@ -12,3 +12,4 @@
 | 2007-11-04 | 대통령령 제20300호, 2007. 9. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80722&efYd=20071104&ancYnChk=0) |
 | 2008-02-29 | 대통령령 제20674호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84901&efYd=20080229&ancYnChk=0) |
 | 2008-08-04 | 대통령령 제20828호, 2008. 6. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87582&efYd=20080804&ancYnChk=0) |
+| 2009-02-04 | 대통령령 제20947호, 2008. 7. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=88237&efYd=20090204&ancYnChk=0) |
