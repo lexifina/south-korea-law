@@ -1,4 +1,4 @@
-# 사회기반시설에대한민간투자법
+# 사회기반시설에 대한 민간투자법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001587&ancYnChk=0>
 
@@ -65,3 +65,4 @@
 | 2009-02-04 | 법률 제8976호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85928&efYd=20090204&ancYnChk=0) |
 | 2009-02-04 | 법률 제9045호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86483&efYd=20090204&ancYnChk=0) |
 | 2009-02-04 | 법률 제9052호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86635&efYd=20090204&ancYnChk=0) |
+| 2009-02-04 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91420&efYd=20090204&ancYnChk=0) |
