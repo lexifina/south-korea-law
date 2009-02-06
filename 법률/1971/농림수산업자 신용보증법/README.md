@@ -1,4 +1,4 @@
-# 농림수산업자신용보증법
+# 농림수산업자 신용보증법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000426&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2007-04-11 | 법률 제8377호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78256&efYd=20070411&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84148&efYd=20080229&ancYnChk=0) |
 | 2008-02-29 | 법률 제8863호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84271&efYd=20080229&ancYnChk=0) |
+| 2009-02-06 | 법률 제9457호, 2009. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91602&efYd=20090206&ancYnChk=0) |
