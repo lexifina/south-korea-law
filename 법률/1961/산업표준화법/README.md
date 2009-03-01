@@ -33,3 +33,4 @@
 | 2009-01-01 | 법률 제8562호, 2007. 7. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79909&efYd=20090101&ancYnChk=0) |
 | 2009-01-01 | 법률 제8770호, 2007. 12. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81975&efYd=20090101&ancYnChk=0) |
 | 2009-02-06 | 법률 제9427호, 2009. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91608&efYd=20090206&ancYnChk=0) |
+| 2009-03-01 | 법률 제9384호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91405&efYd=20090301&ancYnChk=0) |
