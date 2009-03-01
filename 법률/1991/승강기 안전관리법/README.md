@@ -1,4 +1,4 @@
-# 승강기제조 및 관리에 관한 법률
+# 승강기시설 안전관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001458&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2009-01-18 | 법률 제8848호, 2008. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82729&efYd=20090118&ancYnChk=0) |
 | 2009-01-18 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83668&efYd=20090118&ancYnChk=0) |
 | 2009-01-18 | 법률 제8974호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85929&efYd=20090118&ancYnChk=0) |
+| 2009-03-01 | 법률 제9384호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91332&efYd=20090301&ancYnChk=0) |
