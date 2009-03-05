@@ -1,4 +1,4 @@
-# 백두대간보호에 관한 법률
+# 백두대간 보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009588&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2005-12-01 | 법률 제7548호, 2005. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=68842&efYd=20051201&ancYnChk=0) |
 | 2007-10-14 | 법률 제8506호, 2007. 7. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79706&efYd=20071014&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83570&efYd=20080229&ancYnChk=0) |
+| 2009-03-05 | 법률 제9479호, 2009. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91889&efYd=20090305&ancYnChk=0) |
