@@ -1,4 +1,4 @@
-# 고령자고용촉진법
+# 고용상 연령차별금지 및 고령자고용촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000121&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2007-04-11 | 법률 제8372호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78209&efYd=20070411&ancYnChk=0) |
 | 2007-06-29 | 법률 제8116호, 2006. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76454&efYd=20070629&ancYnChk=0) |
 | 2008-01-01 | 법률 제8472호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79095&efYd=20080101&ancYnChk=0) |
+| 2009-03-22 | 법률 제8962호, 2008. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85781&efYd=20090322&ancYnChk=0) |
