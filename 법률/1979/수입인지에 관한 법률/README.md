@@ -1,4 +1,4 @@
-# 수입인지에관한법률
+# 수입인지에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000699&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1999-04-30 | 법률 제5695호, 1999. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3318&efYd=19990430&ancYnChk=0) |
 | 2001-04-07 | 법률 제6461호, 2001. 4. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59928&efYd=20010407&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83424&efYd=20080229&ancYnChk=0) |
+| 2009-03-25 | 법률 제9514호, 2009. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92072&efYd=20090325&ancYnChk=0) |
