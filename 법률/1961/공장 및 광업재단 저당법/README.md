@@ -1,4 +1,4 @@
-# 공장저당법
+# 공장 및 광업재단 저당법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001256&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 1998-12-28 | 법률 제5592호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60192&efYd=19981228&ancYnChk=0) |
 | 2002-07-01 | 법률 제6626호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60189&efYd=20020701&ancYnChk=0) |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60188&efYd=20020701&ancYnChk=0) |
+| 2009-03-25 | 법률 제9520호, 2009. 3. 25. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92069&efYd=20090325&ancYnChk=0) |
