@@ -1,4 +1,4 @@
-# 농어촌도로정비법
+# 농어촌도로 정비법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000996&ancYnChk=0>
 
@@ -26,3 +26,4 @@
 | 2008-06-22 | 법률 제8927호, 2008. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85901&efYd=20080622&ancYnChk=0) |
 | 2008-06-28 | 법률 제8819호, 2007. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82154&efYd=20080628&ancYnChk=0) |
 | 2008-09-06 | 법률 제9090호, 2008. 6. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87353&efYd=20080906&ancYnChk=0) |
+| 2009-04-01 | 법률 제9568호, 2009. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92332&efYd=20090401&ancYnChk=0) |
