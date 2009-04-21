@@ -1,4 +1,4 @@
-# 국민임대주택건설 등에 관한 특별조치법
+# 보금자리주택건설 등에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009595&ancYnChk=0>
 
@@ -31,3 +31,4 @@
 | 2008-06-28 | 법률 제8820호, 2007. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82309&efYd=20080628&ancYnChk=0) |
 | 2008-06-29 | 법률 제9045호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86559&efYd=20080629&ancYnChk=0) |
 | 2009-01-01 | 법률 제9071호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86560&efYd=20090101&ancYnChk=0) |
+| 2009-04-21 | 법률 제9511호, 2009. 3. 20. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92031&efYd=20090421&ancYnChk=0) |
