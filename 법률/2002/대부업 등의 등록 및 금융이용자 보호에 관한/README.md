@@ -1,4 +1,4 @@
-# 대부업의 등록 및 금융이용자보호에 관한 법률
+# 대부업 등의 등록 및 금융이용자 보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009348&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2008-03-22 | 법률 제8700호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82022&efYd=20080322&ancYnChk=0) |
 | 2008-03-22 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84195&efYd=20080322&ancYnChk=0) |
 | 2008-03-22 | 법률 제8863호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84368&efYd=20080322&ancYnChk=0) |
+| 2009-04-22 | 법률 제9344호, 2009. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91258&efYd=20090422&ancYnChk=0) |
