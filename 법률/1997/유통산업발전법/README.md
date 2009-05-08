@@ -45,3 +45,4 @@
 | 2009-02-04 | 법률 제8976호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86384&efYd=20090204&ancYnChk=0) |
 | 2009-02-04 | 법률 제8979호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86486&efYd=20090204&ancYnChk=0) |
 | 2009-02-04 | 법률 제9242호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90404&efYd=20090204&ancYnChk=0) |
+| 2009-05-08 | 법률 제9584호, 2009. 4. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92313&efYd=20090508&ancYnChk=0) |
