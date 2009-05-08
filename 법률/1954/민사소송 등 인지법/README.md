@@ -1,4 +1,4 @@
-# 민사소송등인지법
+# 민사소송 등 인지법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001195&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2002-07-01 | 법률 제6628호, 2002. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59774&efYd=20020701&ancYnChk=0) |
 | 2004-02-01 | 법률 제7081호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60093&efYd=20040201&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67647&efYd=20060401&ancYnChk=0) |
+| 2009-05-08 | 법률 제9645호, 2009. 5. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93185&efYd=20090508&ancYnChk=0) |
