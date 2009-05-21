@@ -110,3 +110,4 @@
 | 2008-03-21 | 법률 제8911호, 2008. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84761&efYd=20080321&ancYnChk=0) |
 | 2009-01-01 | 법률 제9270호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90470&efYd=20090101&ancYnChk=0) |
 | 2009-03-18 | 법률 제9485호, 2009. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91969&efYd=20090318&ancYnChk=0) |
+| 2009-05-21 | 법률 제9672호, 2009. 5. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93521&efYd=20090521&ancYnChk=0) |
