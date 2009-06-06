@@ -1,4 +1,4 @@
-# 전통사찰보존법
+# 전통사찰의 보존 및 지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000784&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83426&efYd=20080229&ancYnChk=0) |
 | 2008-03-21 | 법률 제8974호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86471&efYd=20080321&ancYnChk=0) |
 | 2008-12-31 | 법률 제9313호, 2008. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90538&efYd=20081231&ancYnChk=0) |
+| 2009-06-06 | 법률 제9473호, 2009. 3. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91876&efYd=20090606&ancYnChk=0) |
