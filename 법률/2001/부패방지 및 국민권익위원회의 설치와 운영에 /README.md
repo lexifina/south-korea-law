@@ -14,3 +14,4 @@
 | 2008-02-29 | 법률 제8878호, 2008. 2. 29. | 폐지제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84189&efYd=20080229&ancYnChk=0) |
 | 2009-01-07 | 법률 제9342호, 2009. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127122&efYd=20090107&ancYnChk=0) |
 | 2009-02-03 | 법률 제9402호, 2009. 2. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127099&efYd=20090203&ancYnChk=0) |
+| 2009-07-08 | 법률 제9342호, 2009. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=127122&efYd=20090708&ancYnChk=0) |
