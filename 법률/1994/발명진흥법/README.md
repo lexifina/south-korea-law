@@ -23,3 +23,4 @@
 | 2007-08-03 | 법률 제8601호, 2007. 8. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79976&efYd=20070803&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83535&efYd=20080229&ancYnChk=0) |
 | 2009-05-01 | 법률 제9369호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91269&efYd=20090501&ancYnChk=0) |
+| 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91359&efYd=20090731&ancYnChk=0) |
