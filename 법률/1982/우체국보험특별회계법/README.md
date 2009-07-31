@@ -12,3 +12,4 @@
 | 2002-01-01 | 법률 제6529호, 2001. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56108&efYd=20020101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83980&efYd=20080229&ancYnChk=0) |
 | 2009-02-04 | 법률 제8635호, 2007. 8. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80117&efYd=20090204&ancYnChk=0) |
+| 2009-07-31 | 법률 제9375호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91340&efYd=20090731&ancYnChk=0) |
