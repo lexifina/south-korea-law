@@ -46,3 +46,4 @@
 | 2008-12-31 | 법률 제9313호, 2008. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90530&efYd=20081231&ancYnChk=0) |
 | 2009-05-04 | 법률 제9405호, 2009. 2. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91523&efYd=20090504&ancYnChk=0) |
 | 2009-06-30 | 법률 제9276호, 2008. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90501&efYd=20090630&ancYnChk=0) |
+| 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91363&efYd=20090731&ancYnChk=0) |
