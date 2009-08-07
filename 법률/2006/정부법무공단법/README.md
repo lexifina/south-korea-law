@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2007-12-21 | 법률 제8070호, 2006. 12. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76367&efYd=20071221&ancYnChk=0) |
+| 2009-08-07 | 법률 제9425호, 2009. 2. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91622&efYd=20090807&ancYnChk=0) |
