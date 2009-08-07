@@ -181,3 +181,4 @@
 | 2009-06-30 | 법률 제9276호, 2008. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90487&efYd=20090630&ancYnChk=0) |
 | 2009-07-31 | 법률 제9366호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91274&efYd=20090731&ancYnChk=0) |
 | 2009-07-31 | 법률 제9374호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91418&efYd=20090731&ancYnChk=0) |
+| 2009-08-07 | 법률 제9432호, 2009. 2. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91647&efYd=20090807&ancYnChk=0) |
