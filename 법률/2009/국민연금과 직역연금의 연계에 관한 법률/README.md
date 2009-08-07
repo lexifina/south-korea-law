@@ -1,0 +1,7 @@
+# 국민연금과 직역연금의 연계에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010911&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2009-08-07 | 법률 제9431호, 2009. 2. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91582&efYd=20090807&ancYnChk=0) |
