@@ -33,3 +33,4 @@
 | 2007-07-01 | 대통령령 제20142호, 2007. 6. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79548&efYd=20070701&ancYnChk=0) |
 | 2008-06-22 | 대통령령 제20803호, 2008. 6. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87404&efYd=20080622&ancYnChk=0) |
 | 2008-07-01 | 대통령령 제20873호, 2008. 6. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87718&efYd=20080701&ancYnChk=0) |
+| 2009-08-22 | 대통령령 제21695호, 2009. 8. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=95980&efYd=20090822&ancYnChk=0) |
