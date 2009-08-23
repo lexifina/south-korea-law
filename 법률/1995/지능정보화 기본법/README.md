@@ -1,4 +1,4 @@
-# 정보화촉진기본법
+# 국가정보화 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000028&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2008-12-14 | 법률 제9128호, 2008. 6. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87479&efYd=20081214&ancYnChk=0) |
 | 2009-05-01 | 법률 제9369호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91339&efYd=20090501&ancYnChk=0) |
 | 2009-07-23 | 법률 제9637호, 2009. 4. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92832&efYd=20090723&ancYnChk=0) |
+| 2009-08-23 | 법률 제9705호, 2009. 5. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93642&efYd=20090823&ancYnChk=0) |
