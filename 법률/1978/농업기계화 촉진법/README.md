@@ -1,4 +1,4 @@
-# 농업기계화촉진법
+# 농업기계화 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000454&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2005-12-29 | 법률 제7775호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72278&efYd=20051229&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84149&efYd=20080229&ancYnChk=0) |
 | 2009-06-30 | 법률 제9276호, 2008. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90491&efYd=20090630&ancYnChk=0) |
+| 2009-10-02 | 법률 제9621호, 2009. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92419&efYd=20091002&ancYnChk=0) |
