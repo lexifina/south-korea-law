@@ -51,3 +51,4 @@
 | 2008-06-13 | 법률 제9115호, 2008. 6. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87470&efYd=20080613&ancYnChk=0) |
 | 2008-06-22 | 법률 제8736호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81981&efYd=20080622&ancYnChk=0) |
 | 2009-07-02 | 법률 제9580호, 2009. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92306&efYd=20090702&ancYnChk=0) |
+| 2009-10-02 | 법률 제9580호, 2009. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92306&efYd=20091002&ancYnChk=0) |
