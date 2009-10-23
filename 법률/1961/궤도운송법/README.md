@@ -1,4 +1,4 @@
-# 삭도·궤도법
+# 궤도운송법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000096&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67640&efYd=20060401&ancYnChk=0) |
 | 2006-06-08 | 법률 제7714호, 2005. 12. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72056&efYd=20060608&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83334&efYd=20080229&ancYnChk=0) |
+| 2009-10-23 | 법률 제9636호, 2009. 4. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92768&efYd=20091023&ancYnChk=0) |
