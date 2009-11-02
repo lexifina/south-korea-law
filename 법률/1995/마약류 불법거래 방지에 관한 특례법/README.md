@@ -1,4 +1,4 @@
-# 마약류불법거래방지에관한특례법
+# 마약류 불법거래 방지에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001125&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2001-01-01 | 법률 제6305호, 2000. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53256&efYd=20010101&ancYnChk=0) |
 | 2002-07-01 | 법률 제6626호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=55077&efYd=20020701&ancYnChk=0) |
 | 2002-07-01 | 법률 제6627호, 2002. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53711&efYd=20020701&ancYnChk=0) |
+| 2009-11-02 | 법률 제9809호, 2009. 11. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97020&efYd=20091102&ancYnChk=0) |
