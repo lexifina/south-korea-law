@@ -1,4 +1,4 @@
-# 검사의보수에관한법률
+# 검사의 보수에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001282&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 1977-12-31 | 법률 제3050호, 1977. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4584&efYd=19771231&ancYnChk=0) |
 | 1986-12-31 | 법률 제3882호, 1986. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4585&efYd=19861231&ancYnChk=0) |
 | 2004-01-20 | 법률 제7079호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60095&efYd=20040120&ancYnChk=0) |
+| 2009-11-02 | 법률 제9813호, 2009. 11. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97028&efYd=20091102&ancYnChk=0) |
