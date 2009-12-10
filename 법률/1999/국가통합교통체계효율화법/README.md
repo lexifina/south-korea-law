@@ -1,4 +1,4 @@
-# 교통체계효율화법
+# 국가통합교통체계효율화법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001968&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2008-09-29 | 법률 제9076호, 2008. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86552&efYd=20080929&ancYnChk=0) |
 | 2009-08-23 | 법률 제9708호, 2009. 5. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93689&efYd=20090823&ancYnChk=0) |
 | 2009-09-10 | 법률 제9780호, 2009. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94514&efYd=20090910&ancYnChk=0) |
+| 2009-12-10 | 법률 제9772호, 2009. 6. 9. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94498&efYd=20091210&ancYnChk=0) |
