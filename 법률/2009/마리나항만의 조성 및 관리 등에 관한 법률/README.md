@@ -1,0 +1,7 @@
+# 마리나항만의 조성 및 관리 등에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011016&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2009-12-10 | 법률 제9778호, 2009. 6. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94374&efYd=20091210&ancYnChk=0) |
