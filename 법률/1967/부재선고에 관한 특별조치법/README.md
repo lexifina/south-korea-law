@@ -1,4 +1,4 @@
-# 부재선고등에관한특별조치법
+# 부재선고에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001264&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2001-03-28 | 법률 제6437호, 2001. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7970&efYd=20010328&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67492&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8435호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79103&efYd=20080101&ancYnChk=0) |
+| 2009-12-29 | 법률 제9837호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97990&efYd=20091229&ancYnChk=0) |
