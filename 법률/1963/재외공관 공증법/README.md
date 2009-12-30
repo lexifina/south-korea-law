@@ -1,4 +1,4 @@
-# 재외공관공증법
+# 재외공관 공증법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000004&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 1994-01-01 | 법률 제4603호, 1993. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57356&efYd=19940101&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67515&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83822&efYd=20080229&ancYnChk=0) |
+| 2009-12-30 | 법률 제9879호, 2009. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98077&efYd=20091230&ancYnChk=0) |
