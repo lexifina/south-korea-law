@@ -1,4 +1,4 @@
-# 대한민국과아메리카합중국간의상호방위조약제4조에의한시설과구역및대한민국에서의합중국군대의지위에관한협정의실시에따른관세법등의임시특례에관한법률
+# 대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국군대의 지위에 관한 협정의 실시에 따른 관세법 등의 임시특례에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000593&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1999-01-01 | 법률 제5583호, 1998. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51990&efYd=19990101&ancYnChk=0) |
 | 2007-01-01 | 법률 제8138호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76495&efYd=20070101&ancYnChk=0) |
 | 2008-10-01 | 법률 제8829호, 2007. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82357&efYd=20081001&ancYnChk=0) |
+| 2009-12-31 | 법률 제9902호, 2009. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98190&efYd=20091231&ancYnChk=0) |
