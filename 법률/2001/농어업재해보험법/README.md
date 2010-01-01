@@ -1,4 +1,4 @@
-# 농작물재해보험법
+# 농어업재해보험법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009181&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2007-07-27 | 법률 제8281호, 2007. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77260&efYd=20070727&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84188&efYd=20080229&ancYnChk=0) |
 | 2008-02-29 | 법률 제8863호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84356&efYd=20080229&ancYnChk=0) |
+| 2010-01-01 | 법률 제9477호, 2009. 3. 5. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91875&efYd=20100101&ancYnChk=0) |
