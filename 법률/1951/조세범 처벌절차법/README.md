@@ -1,4 +1,4 @@
-# 조세범처벌절차법
+# 조세범 처벌절차법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000641&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 1966-03-08 | 법률 제1761호, 1966. 3. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258&efYd=19660308&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259&efYd=19980101&ancYnChk=0) |
 | 2000-01-01 | 법률 제6071호, 1999. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61721&efYd=20000101&ancYnChk=0) |
+| 2010-01-01 | 법률 제9920호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98318&efYd=20100101&ancYnChk=0) |
