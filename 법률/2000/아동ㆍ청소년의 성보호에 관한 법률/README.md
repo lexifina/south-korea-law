@@ -1,4 +1,4 @@
-# 청소년의 성보호에 관한 법률
+# 아동·청소년의 성보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=002044&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2008-02-04 | 법률 제8634호, 2007. 8. 3. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80027&efYd=20080204&ancYnChk=0) |
 | 2008-02-04 | 법률 제8655호, 2007. 10. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80961&efYd=20080204&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83640&efYd=20080229&ancYnChk=0) |
+| 2010-01-01 | 법률 제9765호, 2009. 6. 9. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94462&efYd=20100101&ancYnChk=0) |
