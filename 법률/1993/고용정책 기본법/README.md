@@ -1,4 +1,4 @@
-# 고용정책기본법
+# 고용정책 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000123&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2006-03-31 | 법률 제7831호, 2005. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72457&efYd=20060331&ancYnChk=0) |
 | 2007-04-11 | 법률 제8372호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78210&efYd=20070411&ancYnChk=0) |
 | 2007-12-27 | 법률 제8813호, 2007. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82067&efYd=20071227&ancYnChk=0) |
+| 2010-01-01 | 법률 제9792호, 2009. 10. 9. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=96713&efYd=20100101&ancYnChk=0) |
