@@ -1,4 +1,4 @@
-# 국세와지방세의조정등에관한법률
+# 국세와 지방세의 조정 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000646&ancYnChk=0>
 
@@ -34,3 +34,4 @@
 | 2007-01-01 | 법률 제8138호, 2006. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76497&efYd=20070101&ancYnChk=0) |
 | 2007-07-19 | 법률 제8521호, 2007. 7. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79790&efYd=20070719&ancYnChk=0) |
 | 2008-01-01 | 법률 제8829호, 2007. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82359&efYd=20080101&ancYnChk=0) |
+| 2010-01-01 | 법률 제9912호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98306&efYd=20100101&ancYnChk=0) |
