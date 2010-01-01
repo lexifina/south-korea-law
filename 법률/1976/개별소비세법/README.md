@@ -30,3 +30,4 @@
 | 2009-01-01 | 법률 제9259호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90459&efYd=20090101&ancYnChk=0) |
 | 2009-04-01 | 법률 제9259호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90459&efYd=20090401&ancYnChk=0) |
 | 2010-01-01 | 법률 제9259호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90459&efYd=20100101&ancYnChk=0) |
+| 2010-01-01 | 법률 제9909호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98322&efYd=20100101&ancYnChk=0) |
