@@ -1,4 +1,4 @@
-# 향토예비군설치법
+# 향토예비군 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001619&ancYnChk=0>
 
@@ -27,3 +27,4 @@
 | 2005-04-01 | 법률 제7270호, 2004. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66207&efYd=20050401&ancYnChk=0) |
 | 2007-05-11 | 법률 제8422호, 2007. 5. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78878&efYd=20070511&ancYnChk=0) |
 | 2009-10-02 | 법률 제9574호, 2009. 4. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92363&efYd=20091002&ancYnChk=0) |
+| 2010-01-25 | 법률 제9945호, 2010. 1. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102284&efYd=20100125&ancYnChk=0) |
