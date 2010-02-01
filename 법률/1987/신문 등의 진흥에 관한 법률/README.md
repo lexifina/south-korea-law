@@ -1,4 +1,4 @@
-# 신문 등의 자유와 기능보장에 관한 법률
+# 신문 등의 진흥에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001604&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83317&efYd=20080229&ancYnChk=0) |
 | 2008-12-06 | 법률 제9099호, 2008. 6. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87352&efYd=20081206&ancYnChk=0) |
 | 2009-11-01 | 법률 제9786호, 2009. 7. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=95739&efYd=20091101&ancYnChk=0) |
+| 2010-02-01 | 법률 제9785호, 2009. 7. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=95700&efYd=20100201&ancYnChk=0) |
