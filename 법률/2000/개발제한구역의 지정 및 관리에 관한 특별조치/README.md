@@ -23,3 +23,4 @@
 | 2009-08-07 | 법률 제9436호, 2009. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91687&efYd=20090807&ancYnChk=0) |
 | 2010-01-01 | 법률 제9629호, 2009. 4. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92819&efYd=20100101&ancYnChk=0) |
 | 2010-02-07 | 법률 제9436호, 2009. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91687&efYd=20100207&ancYnChk=0) |
+| 2010-02-07 | 법률 제9629호, 2009. 4. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92819&efYd=20100207&ancYnChk=0) |
