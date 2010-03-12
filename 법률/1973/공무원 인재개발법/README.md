@@ -1,4 +1,4 @@
-# 공무원교육훈련법
+# 공무원 교육훈련법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001343&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2004-09-23 | 법률 제7217호, 2004. 9. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57159&efYd=20040923&ancYnChk=0) |
 | 2006-07-01 | 법률 제7796호, 2005. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72287&efYd=20060701&ancYnChk=0) |
 | 2008-02-29 | 법률 제8857호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83310&efYd=20080229&ancYnChk=0) |
+| 2010-03-12 | 법률 제10056호, 2010. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103076&efYd=20100312&ancYnChk=0) |
