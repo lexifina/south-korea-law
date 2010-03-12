@@ -1,4 +1,4 @@
-# 국회에서의증언·감정등에관한법률
+# 국회에서의 증언ㆍ감정 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001410&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2000-05-30 | 법률 제6268호, 2000. 2. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56951&efYd=20000530&ancYnChk=0) |
 | 2002-03-07 | 법률 제6659호, 2002. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56950&efYd=20020307&ancYnChk=0) |
 | 2003-02-04 | 법률 제6858호, 2003. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56949&efYd=20030204&ancYnChk=0) |
+| 2010-03-12 | 법률 제10051호, 2010. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103071&efYd=20100312&ancYnChk=0) |
