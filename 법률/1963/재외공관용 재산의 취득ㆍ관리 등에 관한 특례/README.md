@@ -1,4 +1,4 @@
-# 재외공관용재산의취득·관리등에관한특례법
+# 재외공관용 재산의 취득ㆍ관리 등에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000002&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 1999-05-24 | 법률 제5982호, 1999. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56684&efYd=19990524&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83820&efYd=20080229&ancYnChk=0) |
 | 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91338&efYd=20090731&ancYnChk=0) |
+| 2010-03-17 | 법률 제10094호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103377&efYd=20100317&ancYnChk=0) |
