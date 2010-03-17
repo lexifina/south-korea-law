@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2008-02-04 | 법률 제8626호, 2007. 8. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80088&efYd=20080204&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84125&efYd=20080229&ancYnChk=0) |
+| 2010-03-17 | 법률 제10122호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103406&efYd=20100317&ancYnChk=0) |
