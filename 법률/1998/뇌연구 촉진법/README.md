@@ -1,4 +1,4 @@
-# 뇌연구촉진법
+# 뇌연구 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000753&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2002-12-26 | 법률 제6811호, 2002. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58794&efYd=20021226&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83374&efYd=20080229&ancYnChk=0) |
 | 2008-09-06 | 법률 제9089호, 2008. 6. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87344&efYd=20080906&ancYnChk=0) |
+| 2010-03-17 | 법률 제10077호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103360&efYd=20100317&ancYnChk=0) |
