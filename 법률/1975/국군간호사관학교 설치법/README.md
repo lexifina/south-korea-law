@@ -1,4 +1,4 @@
-# 국군간호사관학교설치법
+# 국군간호사관학교 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000946&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59856&efYd=20010129&ancYnChk=0) |
 | 2004-01-20 | 법률 제7084호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59977&efYd=20040120&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83849&efYd=20080229&ancYnChk=0) |
+| 2010-03-17 | 법률 제10103호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103386&efYd=20100317&ancYnChk=0) |
