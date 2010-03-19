@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2008-12-06 | 법률 제9101호, 2008. 6. 5. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87343&efYd=20081206&ancYnChk=0) |
 | 2010-02-04 | 법률 제10039호, 2010. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102528&efYd=20100204&ancYnChk=0) |
+| 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98556&efYd=20100319&ancYnChk=0) |
