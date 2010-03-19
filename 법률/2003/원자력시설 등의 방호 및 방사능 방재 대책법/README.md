@@ -1,4 +1,4 @@
-# 원자력시설 등의 방호 및 방사능 방재 대책법
+# 원자력시설등의방호및방사능방재대책법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009494&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2007-05-11 | 법률 제8420호, 2007. 5. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78896&efYd=20070511&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84082&efYd=20080229&ancYnChk=0) |
 | 2010-03-17 | 법률 제10074호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103357&efYd=20100317&ancYnChk=0) |
+| 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98625&efYd=20100319&ancYnChk=0) |
