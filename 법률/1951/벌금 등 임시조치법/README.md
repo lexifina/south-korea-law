@@ -1,4 +1,4 @@
-# 벌금등임시조치법
+# 벌금 등 임시조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001146&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 1977-02-01 | 법률 제2907호, 1976. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60227&efYd=19770201&ancYnChk=0) |
 | 1990-12-31 | 법률 제4296호, 1990. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60351&efYd=19901231&ancYnChk=0) |
 | 1996-11-23 | 법률 제5167호, 1996. 11. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60223&efYd=19961123&ancYnChk=0) |
+| 2010-03-24 | 법률 제10179호, 2010. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103863&efYd=20100324&ancYnChk=0) |
