@@ -1,7 +1,8 @@
-# 군용물등범죄에관한특별조치법
+# 군용물 등 범죄에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001155&ancYnChk=0>
 
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 1966-04-29 | 법률 제1769호, 1966. 3. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52496&efYd=19660429&ancYnChk=0) |
+| 2010-03-30 | 법률 제9842호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97977&efYd=20100330&ancYnChk=0) |
