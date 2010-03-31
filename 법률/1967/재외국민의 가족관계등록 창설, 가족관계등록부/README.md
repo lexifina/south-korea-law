@@ -1,4 +1,4 @@
-# 재외국민의 가족관계등록창설, 가족관계등록부정정 및 가족관계등록부정리에 관한 특례법
+# 재외국민의 가족관계등록 창설, 가족관계등록부 정정 및 가족관계등록부 정리에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001170&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2000-12-29 | 법률 제6309호, 2000. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=52974&efYd=20001229&ancYnChk=0) |
 | 2008-01-01 | 법률 제7427호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67489&efYd=20080101&ancYnChk=0) |
 | 2008-01-01 | 법률 제8435호, 2007. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79033&efYd=20080101&ancYnChk=0) |
+| 2010-03-31 | 법률 제10206호, 2010. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103955&efYd=20100331&ancYnChk=0) |
