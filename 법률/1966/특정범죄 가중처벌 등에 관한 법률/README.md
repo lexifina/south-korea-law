@@ -1,4 +1,4 @@
-# 특정범죄가중처벌 등에 관한 법률
+# 특정범죄 가중처벌 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001676&ancYnChk=0>
 
@@ -32,3 +32,4 @@
 | 2007-12-21 | 법률 제8727호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81987&efYd=20071221&ancYnChk=0) |
 | 2008-12-26 | 법률 제9169호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90391&efYd=20081226&ancYnChk=0) |
 | 2010-01-01 | 법률 제9919호, 2010. 1. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98332&efYd=20100101&ancYnChk=0) |
+| 2010-03-31 | 법률 제10210호, 2010. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103959&efYd=20100331&ancYnChk=0) |
