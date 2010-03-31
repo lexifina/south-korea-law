@@ -1,4 +1,4 @@
-# 부담금관리기본법
+# 부담금관리 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009271&ancYnChk=0>
 
@@ -69,3 +69,4 @@
 | 2009-08-07 | 법률 제9436호, 2009. 2. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91707&efYd=20090807&ancYnChk=0) |
 | 2009-08-23 | 법률 제9708호, 2009. 5. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93693&efYd=20090823&ancYnChk=0) |
 | 2009-12-10 | 법률 제9773호, 2009. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94500&efYd=20091210&ancYnChk=0) |
+| 2010-03-31 | 법률 제10193호, 2010. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103942&efYd=20100331&ancYnChk=0) |
