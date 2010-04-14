@@ -1,4 +1,4 @@
-# 에너지기본법
+# 에너지법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010164&ancYnChk=0>
 
@@ -7,3 +7,4 @@
 | 2006-09-04 | 법률 제7860호, 2006. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73258&efYd=20060904&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83930&efYd=20080229&ancYnChk=0) |
 | 2009-05-01 | 법률 제9372호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91334&efYd=20090501&ancYnChk=0) |
+| 2010-04-14 | 법률 제9931호, 2010. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98472&efYd=20100414&ancYnChk=0) |
