@@ -29,3 +29,4 @@
 | 2009-06-27 | 법률 제9188호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90427&efYd=20090627&ancYnChk=0) |
 | 2009-12-29 | 법률 제9850호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97957&efYd=20091229&ancYnChk=0) |
 | 2010-06-30 | 법률 제9850호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97957&efYd=20100630&ancYnChk=0) |
+| 2010-07-01 | 법률 제9770호, 2009. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94576&efYd=20100701&ancYnChk=0) |
