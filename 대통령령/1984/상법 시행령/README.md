@@ -15,3 +15,4 @@
 | 2009-02-04 | 대통령령 제20947호, 2008. 7. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=88237&efYd=20090204&ancYnChk=0) |
 | 2009-02-04 | 대통령령 제21288호, 2009. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91520&efYd=20090204&ancYnChk=0) |
 | 2010-05-29 | 대통령령 제21839호, 2009. 11. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97372&efYd=20100529&ancYnChk=0) |
+| 2010-07-06 | 대통령령 제22220호, 2010. 6. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106198&efYd=20100706&ancYnChk=0) |
