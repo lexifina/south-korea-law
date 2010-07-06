@@ -1,4 +1,4 @@
-# 수출보험법
+# 무역보험법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001465&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2007-12-27 | 법률 제8799호, 2007. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82074&efYd=20071227&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83313&efYd=20080229&ancYnChk=0) |
 | 2009-10-02 | 법률 제9617호, 2009. 4. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92369&efYd=20091002&ancYnChk=0) |
+| 2010-07-06 | 법률 제10228호, 2010. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104210&efYd=20100706&ancYnChk=0) |
