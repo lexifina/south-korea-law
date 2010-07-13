@@ -157,3 +157,4 @@
 | 2010-07-01 | 법률 제9880호, 2009. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98115&efYd=20100701&ancYnChk=0) |
 | 2010-07-01 | 법률 제10340호, 2010. 6. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105687&efYd=20100701&ancYnChk=0) |
 | 2010-07-05 | 법률 제10340호, 2010. 6. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105687&efYd=20100705&ancYnChk=0) |
+| 2010-07-13 | 법률 제10252호, 2010. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104356&efYd=20100713&ancYnChk=0) |
