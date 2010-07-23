@@ -8,3 +8,4 @@
 | 1996-12-30 | 법률 제5202호, 1996. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56215&efYd=19961230&ancYnChk=0) |
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73164&efYd=20060701&ancYnChk=0) |
 | 2008-03-22 | 법률 제8734호, 2007. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81968&efYd=20080322&ancYnChk=0) |
+| 2010-07-23 | 법률 제10381호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106840&efYd=20100723&ancYnChk=0) |
