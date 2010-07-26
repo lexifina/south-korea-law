@@ -54,3 +54,4 @@
 | 2009-02-06 | 법률 제9412호, 2009. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91629&efYd=20090206&ancYnChk=0) |
 | 2010-01-01 | 법률 제9911호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98313&efYd=20100101&ancYnChk=0) |
 | 2010-04-01 | 법률 제9911호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98313&efYd=20100401&ancYnChk=0) |
+| 2010-07-26 | 법률 제9968호, 2010. 1. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102151&efYd=20100726&ancYnChk=0) |
