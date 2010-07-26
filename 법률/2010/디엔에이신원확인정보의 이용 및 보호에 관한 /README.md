@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2010-04-15 | 법률 제10258호, 2010. 4. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104438&efYd=20100415&ancYnChk=0) |
+| 2010-07-26 | 법률 제9944호, 2010. 1. 25. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102268&efYd=20100726&ancYnChk=0) |
