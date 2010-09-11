@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2008-06-22 | 법률 제8724호, 2007. 12. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81878&efYd=20080622&ancYnChk=0) |
+| 2010-09-11 | 법률 제10364호, 2010. 6. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105938&efYd=20100911&ancYnChk=0) |
