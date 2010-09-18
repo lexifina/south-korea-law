@@ -1,4 +1,4 @@
-# 전통소싸움경기에관한법률
+# 전통 소싸움경기에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009351&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2007-04-11 | 법률 제8354호, 2007. 4. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78603&efYd=20070411&ancYnChk=0) |
 | 2008-01-27 | 법률 제8282호, 2007. 1. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=77265&efYd=20080127&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83454&efYd=20080229&ancYnChk=0) |
+| 2010-09-18 | 법률 제10118호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103402&efYd=20100918&ancYnChk=0) |
