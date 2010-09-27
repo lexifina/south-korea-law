@@ -15,3 +15,4 @@
 | 2009-01-30 | 법률 제9358호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91390&efYd=20090130&ancYnChk=0) |
 | 2009-07-31 | 법률 제9358호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91390&efYd=20090731&ancYnChk=0) |
 | 2010-03-26 | 법률 제10188호, 2010. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103892&efYd=20100326&ancYnChk=0) |
+| 2010-09-27 | 법률 제10188호, 2010. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103892&efYd=20100927&ancYnChk=0) |
