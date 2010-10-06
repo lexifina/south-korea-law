@@ -99,3 +99,4 @@
 | 2010-04-05 | 법률 제10237호, 2010. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104181&efYd=20100405&ancYnChk=0) |
 | 2010-06-30 | 법률 제9865호, 2009. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98040&efYd=20100630&ancYnChk=0) |
 | 2010-07-06 | 법률 제10237호, 2010. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104181&efYd=20100706&ancYnChk=0) |
+| 2010-10-06 | 법률 제10237호, 2010. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104181&efYd=20101006&ancYnChk=0) |
