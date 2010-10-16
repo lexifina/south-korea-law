@@ -1,0 +1,7 @@
+# 역세권의 개발 및 이용에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011184&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2010-10-16 | 법률 제10266호, 2010. 4. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104461&efYd=20101016&ancYnChk=0) |
