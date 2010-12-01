@@ -23,3 +23,4 @@
 | 2009-12-10 | 법률 제9773호, 2009. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94972&efYd=20091210&ancYnChk=0) |
 | 2010-03-26 | 법률 제9552호, 2009. 3. 25. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92061&efYd=20100326&ancYnChk=0) |
 | 2010-10-16 | 법률 제10272호, 2010. 4. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104512&efYd=20101016&ancYnChk=0) |
+| 2010-12-01 | 법률 제10331호, 2010. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105466&efYd=20101201&ancYnChk=0) |
