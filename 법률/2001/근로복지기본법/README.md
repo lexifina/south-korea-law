@@ -1,4 +1,4 @@
-# 근로자복지기본법
+# 근로복지기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009252&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2010-01-01 | 법률 제9792호, 2009. 10. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=96716&efYd=20100101&ancYnChk=0) |
 | 2010-07-05 | 법률 제10339호, 2010. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105634&efYd=20100705&ancYnChk=0) |
 | 2010-11-18 | 법률 제10303호, 2010. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105169&efYd=20101118&ancYnChk=0) |
+| 2010-12-09 | 법률 제10361호, 2010. 6. 8. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105899&efYd=20101209&ancYnChk=0) |
