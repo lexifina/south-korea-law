@@ -1,4 +1,4 @@
-# 재난 및 안전관리 기본법
+# 재난 및 안전관리기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009640&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98619&efYd=20100319&ancYnChk=0) |
 | 2010-06-08 | 법률 제10347호, 2010. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105881&efYd=20100608&ancYnChk=0) |
 | 2010-12-09 | 법률 제10347호, 2010. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105881&efYd=20101209&ancYnChk=0) |
+| 2010-12-30 | 법률 제9847호, 2009. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98036&efYd=20101230&ancYnChk=0) |
