@@ -33,3 +33,4 @@
 | 2010-01-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20100101&ancYnChk=0) |
 | 2010-07-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20100701&ancYnChk=0) |
 | 2011-01-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20110101&ancYnChk=0) |
+| 2011-01-01 | 법률 제10409호, 2010. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109451&efYd=20110101&ancYnChk=0) |
