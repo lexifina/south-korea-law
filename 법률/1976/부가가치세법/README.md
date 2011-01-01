@@ -32,3 +32,4 @@
 | 2010-01-01 | 법률 제9268호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90468&efYd=20100101&ancYnChk=0) |
 | 2010-01-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20100101&ancYnChk=0) |
 | 2010-07-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20100701&ancYnChk=0) |
+| 2011-01-01 | 법률 제9915호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98319&efYd=20110101&ancYnChk=0) |
