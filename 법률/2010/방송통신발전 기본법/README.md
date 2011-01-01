@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2010-09-23 | 법률 제10165호, 2010. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103812&efYd=20100923&ancYnChk=0) |
 | 2011-01-01 | 법률 제10165호, 2010. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103812&efYd=20110101&ancYnChk=0) |
+| 2011-01-01 | 법률 제10193호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=108167&efYd=20110101&ancYnChk=0) |
