@@ -85,3 +85,4 @@
 | 2011-01-01 | 법률 제10220호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104067&efYd=20110101&ancYnChk=0) |
 | 2011-01-01 | 법률 제10221호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104092&efYd=20110101&ancYnChk=0) |
 | 2011-01-01 | 법률 제10261호, 2010. 4. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104456&efYd=20110101&ancYnChk=0) |
+| 2011-01-24 | 법률 제10386호, 2010. 7. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106848&efYd=20110124&ancYnChk=0) |
