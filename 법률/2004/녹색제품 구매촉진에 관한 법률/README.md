@@ -1,4 +1,4 @@
-# 친환경상품 구매촉진에 관한 법률
+# 녹색제품 구매촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009845&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2010-02-04 | 법률 제10030호, 2010. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102515&efYd=20100204&ancYnChk=0) |
 | 2010-04-14 | 법률 제9931호, 2010. 1. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98471&efYd=20100414&ancYnChk=0) |
 | 2010-05-05 | 법률 제10030호, 2010. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102515&efYd=20100505&ancYnChk=0) |
+| 2011-04-05 | 법률 제10550호, 2011. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111957&efYd=20110405&ancYnChk=0) |
