@@ -1,4 +1,4 @@
-# 국가채권관리법
+# 국가채권 관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001593&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2003-12-31 | 법률 제7029호, 2003. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58276&efYd=20031231&ancYnChk=0) |
 | 2008-01-01 | 법률 제8050호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75782&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83887&efYd=20080229&ancYnChk=0) |
+| 2011-04-08 | 법률 제10571호, 2011. 4. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112145&efYd=20110408&ancYnChk=0) |
