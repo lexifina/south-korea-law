@@ -1,4 +1,4 @@
-# 보건범죄단속에 관한 특별조치법
+# 보건범죄 단속에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001144&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2009-12-29 | 법률 제9840호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97970&efYd=20091229&ancYnChk=0) |
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98573&efYd=20100319&ancYnChk=0) |
 | 2010-11-26 | 법률 제10310호, 2010. 5. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105308&efYd=20101126&ancYnChk=0) |
+| 2011-04-12 | 법률 제10579호, 2011. 4. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112286&efYd=20110412&ancYnChk=0) |
