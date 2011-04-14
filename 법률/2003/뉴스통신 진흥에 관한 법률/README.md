@@ -1,4 +1,4 @@
-# 뉴스통신진흥에 관한 법률
+# 뉴스통신 진흥에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009529&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2008-12-26 | 법률 제9214호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90348&efYd=20081226&ancYnChk=0) |
 | 2009-12-10 | 법률 제9755호, 2009. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94452&efYd=20091210&ancYnChk=0) |
 | 2010-02-01 | 법률 제9785호, 2009. 7. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=95728&efYd=20100201&ancYnChk=0) |
+| 2011-04-14 | 법률 제10585호, 2011. 4. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112383&efYd=20110414&ancYnChk=0) |
