@@ -1,4 +1,4 @@
-# 인체조직안전및관리등에관한법률
+# 인체조직안전 및 관리 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009609&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 2005-01-27 | 법률 제7375호, 2005. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=66604&efYd=20050127&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84201&efYd=20080229&ancYnChk=0) |
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98616&efYd=20100319&ancYnChk=0) |
+| 2011-04-28 | 법률 제10610호, 2011. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112749&efYd=20110428&ancYnChk=0) |
