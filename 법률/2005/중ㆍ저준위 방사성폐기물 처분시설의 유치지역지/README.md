@@ -1,4 +1,4 @@
-# 중·저준위방사성폐기물 처분시설의 유치지역지원에 관한 특별법
+# 중·저준위 방사성폐기물 처분시설의 유치지역지원에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009924&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2009-04-01 | 법률 제9591호, 2009. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=92285&efYd=20090401&ancYnChk=0) |
 | 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91492&efYd=20090731&ancYnChk=0) |
 | 2009-12-30 | 법률 제9885호, 2009. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98095&efYd=20091230&ancYnChk=0) |
+| 2011-05-24 | 법률 제10713호, 2011. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113439&efYd=20110524&ancYnChk=0) |
