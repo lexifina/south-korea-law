@@ -1,4 +1,4 @@
-# 전투경찰대설치법
+# 전투경찰대 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001644&ancYnChk=0>
 
@@ -19,3 +19,4 @@
 | 1999-02-05 | 법률 제5757호, 1999. 2. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59130&efYd=19990205&ancYnChk=0) |
 | 2001-09-15 | 법률 제6502호, 2001. 8. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59138&efYd=20010915&ancYnChk=0) |
 | 2006-07-01 | 법률 제7849호, 2006. 2. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=73171&efYd=20060701&ancYnChk=0) |
+| 2011-05-30 | 법률 제10749호, 2011. 5. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113552&efYd=20110530&ancYnChk=0) |
