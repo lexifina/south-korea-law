@@ -1,4 +1,4 @@
-# 유선 및 도선사업법
+# 유선 및 도선 사업법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001015&ancYnChk=0>
 
@@ -24,3 +24,4 @@
 | 2008-12-26 | 법률 제9203호, 2008. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90417&efYd=20081226&ancYnChk=0) |
 | 2010-12-30 | 법률 제9847호, 2009. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98033&efYd=20101230&ancYnChk=0) |
 | 2011-03-07 | 법률 제10432호, 2011. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110917&efYd=20110307&ancYnChk=0) |
+| 2011-05-30 | 법률 제10753호, 2011. 5. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113507&efYd=20110530&ancYnChk=0) |
