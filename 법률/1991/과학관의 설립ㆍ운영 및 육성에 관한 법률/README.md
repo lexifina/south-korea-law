@@ -1,4 +1,4 @@
-# 과학관육성법
+# 과학관 육성법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000767&ancYnChk=0>
 
@@ -17,3 +17,4 @@
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84004&efYd=20080229&ancYnChk=0) |
 | 2008-03-21 | 법률 제8976호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=85922&efYd=20080321&ancYnChk=0) |
 | 2010-12-01 | 법률 제10331호, 2010. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105422&efYd=20101201&ancYnChk=0) |
+| 2011-06-07 | 법률 제10766호, 2011. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113828&efYd=20110607&ancYnChk=0) |
