@@ -28,3 +28,4 @@
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98618&efYd=20100319&ancYnChk=0) |
 | 2010-05-05 | 법률 제10012호, 2010. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102489&efYd=20100505&ancYnChk=0) |
 | 2010-07-05 | 법률 제10339호, 2010. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105659&efYd=20100705&ancYnChk=0) |
+| 2011-06-07 | 법률 제10789호, 2011. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113863&efYd=20110607&ancYnChk=0) |
