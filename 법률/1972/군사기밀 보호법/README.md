@@ -1,4 +1,4 @@
-# 군사기밀보호법
+# 군사기밀 보호법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000928&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 1988-02-25 | 법률 제3993호, 1987. 12. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3804&efYd=19880225&ancYnChk=0) |
 | 1994-03-28 | 법률 제4616호, 1993. 12. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=51985&efYd=19940328&ancYnChk=0) |
 | 2006-01-01 | 법률 제7613호, 2005. 7. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=71558&efYd=20060101&ancYnChk=0) |
+| 2011-06-09 | 법률 제10792호, 2011. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113963&efYd=20110609&ancYnChk=0) |
