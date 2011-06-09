@@ -1,4 +1,4 @@
-# 사관학교설치법
+# 사관학교 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000948&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2001-01-29 | 법률 제6400호, 2001. 1. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59858&efYd=20010129&ancYnChk=0) |
 | 2004-01-20 | 법률 제7087호, 2004. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59979&efYd=20040120&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83663&efYd=20080229&ancYnChk=0) |
+| 2011-06-09 | 법률 제10794호, 2011. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113982&efYd=20110609&ancYnChk=0) |
