@@ -1,4 +1,4 @@
-# 접경지역지원법
+# 접경지역 지원 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=002038&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2010-12-01 | 법률 제10331호, 2010. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105478&efYd=20101201&ancYnChk=0) |
 | 2011-01-01 | 법률 제10220호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104066&efYd=20110101&ancYnChk=0) |
 | 2011-06-19 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112449&efYd=20110619&ancYnChk=0) |
+| 2011-06-20 | 법률 제10653호, 2011. 5. 19. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113188&efYd=20110620&ancYnChk=0) |
