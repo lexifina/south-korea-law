@@ -1,4 +1,4 @@
-# 수출용원재료에 대한 관세 등 환급에 관한 특례법
+# 수출용 원재료에 대한 관세 등 환급에 관한 특례법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000592&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2007-04-01 | 법률 제8233호, 2007. 1. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=76977&efYd=20070401&ancYnChk=0) |
 | 2008-01-01 | 법률 제8829호, 2007. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=82356&efYd=20080101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83307&efYd=20080229&ancYnChk=0) |
+| 2011-07-14 | 법률 제10817호, 2011. 7. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114764&efYd=20110714&ancYnChk=0) |
