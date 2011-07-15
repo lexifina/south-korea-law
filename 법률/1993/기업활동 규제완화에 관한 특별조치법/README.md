@@ -93,3 +93,4 @@
 | 2011-04-14 | 법률 제10588호, 2011. 4. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112487&efYd=20110414&ancYnChk=0) |
 | 2011-07-01 | 법률 제10491호, 2011. 3. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111553&efYd=20110701&ancYnChk=0) |
 | 2011-07-15 | 법률 제10588호, 2011. 4. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112487&efYd=20110715&ancYnChk=0) |
+| 2011-07-15 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112467&efYd=20110715&ancYnChk=0) |
