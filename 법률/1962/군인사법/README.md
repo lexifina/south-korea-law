@@ -53,3 +53,4 @@
 | 2010-05-05 | 법률 제9996호, 2010. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102441&efYd=20100505&ancYnChk=0) |
 | 2010-07-01 | 법률 제10217호, 2010. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103967&efYd=20100701&ancYnChk=0) |
 | 2011-05-24 | 법률 제10703호, 2011. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113423&efYd=20110524&ancYnChk=0) |
+| 2011-07-25 | 법률 제10928호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115264&efYd=20110725&ancYnChk=0) |
