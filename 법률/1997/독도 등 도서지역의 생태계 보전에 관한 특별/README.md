@@ -1,4 +1,4 @@
-# 독도 등 도서지역의 생태계보전에 관한 특별법
+# 독도 등 도서지역의 생태계 보전에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000168&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2007-11-18 | 법률 제8465호, 2007. 5. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=78968&efYd=20071118&ancYnChk=0) |
 | 2009-05-21 | 법률 제9696호, 2009. 5. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93607&efYd=20090521&ancYnChk=0) |
 | 2011-04-28 | 법률 제10612호, 2011. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112751&efYd=20110428&ancYnChk=0) |
+| 2011-07-28 | 법률 제10974호, 2011. 7. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115429&efYd=20110728&ancYnChk=0) |
