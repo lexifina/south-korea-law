@@ -210,3 +210,4 @@
 | 2011-07-01 | 법률 제10406호, 2010. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109448&efYd=20110701&ancYnChk=0) |
 | 2011-07-14 | 법률 제10854호, 2011. 7. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114799&efYd=20110714&ancYnChk=0) |
 | 2011-07-25 | 법률 제10901호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115189&efYd=20110725&ancYnChk=0) |
+| 2011-08-05 | 법률 제10529호, 2011. 4. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111849&efYd=20110805&ancYnChk=0) |
