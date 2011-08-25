@@ -1,4 +1,4 @@
-# 소기업 및 소상공인지원을 위한 특별조치법
+# 소기업 및 소상공인 지원을 위한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000360&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2008-06-29 | 법률 제9045호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86598&efYd=20080629&ancYnChk=0) |
 | 2009-12-30 | 법률 제9890호, 2009. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98068&efYd=20091230&ancYnChk=0) |
 | 2011-01-01 | 법률 제10220호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104051&efYd=20110101&ancYnChk=0) |
+| 2011-08-25 | 법률 제10710호, 2011. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113435&efYd=20110825&ancYnChk=0) |
