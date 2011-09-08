@@ -1,4 +1,4 @@
-# 공익법인의 설립·운영에 관한 법률
+# 공익법인의 설립ㆍ운영에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001263&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2004-10-16 | 법률 제7228호, 2004. 10. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60205&efYd=20041016&ancYnChk=0) |
 | 2006-04-01 | 법률 제7428호, 2005. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=67540&efYd=20060401&ancYnChk=0) |
 | 2008-03-14 | 법률 제8895호, 2008. 3. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84506&efYd=20080314&ancYnChk=0) |
+| 2011-09-08 | 법률 제10428호, 2011. 3. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110913&efYd=20110908&ancYnChk=0) |
