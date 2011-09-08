@@ -1,4 +1,4 @@
-# 국가과학기술 경쟁력강화를 위한 이공계지원특별법
+# 국가과학기술 경쟁력 강화를 위한 이공계지원 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009677&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2010-09-01 | 법률 제10337호, 2010. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105521&efYd=20100901&ancYnChk=0) |
 | 2011-06-10 | 법률 제10445호, 2011. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110963&efYd=20110610&ancYnChk=0) |
 | 2011-07-20 | 법률 제10629호, 2011. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113146&efYd=20110720&ancYnChk=0) |
+| 2011-09-08 | 법률 제10769호, 2011. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113831&efYd=20110908&ancYnChk=0) |
