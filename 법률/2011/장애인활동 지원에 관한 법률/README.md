@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2011-10-05 | 법률 제10426호, 2011. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109823&efYd=20111005&ancYnChk=0) |
+| 2011-10-05 | 법률 제10518호, 2011. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111581&efYd=20111005&ancYnChk=0) |
