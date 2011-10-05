@@ -1,4 +1,4 @@
-# 중소기업인력지원 특별법
+# 중소기업 인력지원 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009557&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2011-04-04 | 법률 제10532호, 2011. 4. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111852&efYd=20110404&ancYnChk=0) |
 | 2011-05-24 | 법률 제10703호, 2011. 5. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113426&efYd=20110524&ancYnChk=0) |
 | 2011-06-10 | 법률 제10445호, 2011. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110975&efYd=20110610&ancYnChk=0) |
+| 2011-10-05 | 법률 제10532호, 2011. 4. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111852&efYd=20111005&ancYnChk=0) |
