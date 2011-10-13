@@ -33,3 +33,4 @@
 | 2010-01-01 | 법률 제9401호, 2009. 1. 30. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91329&efYd=20100101&ancYnChk=0) |
 | 2011-04-01 | 법률 제10485호, 2011. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111543&efYd=20110401&ancYnChk=0) |
 | 2011-05-19 | 법률 제10682호, 2011. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113228&efYd=20110519&ancYnChk=0) |
+| 2011-10-13 | 법률 제10580호, 2011. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112291&efYd=20111013&ancYnChk=0) |
