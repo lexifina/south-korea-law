@@ -14,3 +14,4 @@
 | 1990-10-01 | 법률 제4249호, 1990. 8. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59864&efYd=19901001&ancYnChk=0) |
 | 1999-01-21 | 법률 제5645호, 1999. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59849&efYd=19990121&ancYnChk=0) |
 | 2010-03-17 | 법률 제10102호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103385&efYd=20100317&ancYnChk=0) |
+| 2011-10-15 | 법률 제10821호, 2011. 7. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114744&efYd=20111015&ancYnChk=0) |
