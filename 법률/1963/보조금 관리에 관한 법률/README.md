@@ -1,4 +1,4 @@
-# 보조금의 예산 및 관리에 관한 법률
+# 보조금 관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000729&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2007-01-01 | 법률 제8050호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75750&efYd=20070101&ancYnChk=0) |
 | 2008-02-29 | 법률 제8852호, 2008. 2. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84164&efYd=20080229&ancYnChk=0) |
 | 2009-05-01 | 법률 제9347호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91371&efYd=20090501&ancYnChk=0) |
+| 2011-10-26 | 법률 제10898호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115166&efYd=20111026&ancYnChk=0) |
