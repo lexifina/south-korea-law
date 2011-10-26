@@ -1,4 +1,4 @@
-# 원자력법
+# 원자력 진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001603&ancYnChk=0>
 
@@ -30,3 +30,4 @@
 | 2009-01-01 | 법률 제9016호, 2008. 3. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86676&efYd=20090101&ancYnChk=0) |
 | 2010-03-17 | 법률 제10086호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103369&efYd=20100317&ancYnChk=0) |
 | 2011-06-10 | 법률 제10445호, 2011. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110973&efYd=20110610&ancYnChk=0) |
+| 2011-10-26 | 법률 제10909호, 2011. 7. 25. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115208&efYd=20111026&ancYnChk=0) |
