@@ -1,4 +1,4 @@
-# 소음·진동관리법
+# 소음ㆍ진동관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000167&ancYnChk=0>
 
@@ -33,3 +33,4 @@
 | 2009-09-10 | 법률 제9770호, 2009. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94140&efYd=20090910&ancYnChk=0) |
 | 2010-07-01 | 법률 제9770호, 2009. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94140&efYd=20100701&ancYnChk=0) |
 | 2010-07-13 | 법률 제10252호, 2010. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104351&efYd=20100713&ancYnChk=0) |
+| 2011-10-29 | 법률 제10615호, 2011. 4. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112758&efYd=20111029&ancYnChk=0) |
