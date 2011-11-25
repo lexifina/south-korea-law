@@ -1,0 +1,7 @@
+# 지능형전력망의 구축 및 이용촉진에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011391&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2011-11-25 | 법률 제10714호, 2011. 5. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113440&efYd=20111125&ancYnChk=0) |
