@@ -18,3 +18,4 @@
 | 2008-09-14 | 법률 제9126호, 2008. 6. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87474&efYd=20080914&ancYnChk=0) |
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98611&efYd=20100319&ancYnChk=0) |
 | 2010-11-18 | 법률 제10303호, 2010. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105209&efYd=20101118&ancYnChk=0) |
+| 2011-12-08 | 법률 제10789호, 2011. 6. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113885&efYd=20111208&ancYnChk=0) |
