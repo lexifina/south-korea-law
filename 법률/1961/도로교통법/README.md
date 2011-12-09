@@ -58,3 +58,4 @@
 | 2010-10-24 | 법률 제10382호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106841&efYd=20101024&ancYnChk=0) |
 | 2011-01-01 | 법률 제10382호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106841&efYd=20110101&ancYnChk=0) |
 | 2011-01-24 | 법률 제10382호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106841&efYd=20110124&ancYnChk=0) |
+| 2011-12-09 | 법률 제10790호, 2011. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113944&efYd=20111209&ancYnChk=0) |
