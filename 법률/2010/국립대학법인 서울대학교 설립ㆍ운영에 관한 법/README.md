@@ -1,0 +1,7 @@
+# 국립대학법인 서울대학교 설립ㆍ운영에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011316&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2011-12-28 | 법률 제10413호, 2010. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109455&efYd=20111228&ancYnChk=0) |
