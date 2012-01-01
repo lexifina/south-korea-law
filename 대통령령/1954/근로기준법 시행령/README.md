@@ -39,3 +39,4 @@
 | 2010-12-29 | 대통령령 제22567호, 2010. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109615&efYd=20101229&ancYnChk=0) |
 | 2011-03-02 | 대통령령 제22687호, 2011. 3. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110820&efYd=20110302&ancYnChk=0) |
 | 2011-03-30 | 대통령령 제22804호, 2011. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111611&efYd=20110330&ancYnChk=0) |
+| 2012-01-01 | 대통령령 제23155호, 2011. 9. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=117236&efYd=20120101&ancYnChk=0) |
