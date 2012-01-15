@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2009-11-28 | 법률 제9719호, 2009. 5. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93818&efYd=20091128&ancYnChk=0) |
+| 2012-01-15 | 법률 제10840호, 2011. 7. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114753&efYd=20120115&ancYnChk=0) |
