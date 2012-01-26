@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2010-08-05 | 법률 제10022호, 2010. 2. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102502&efYd=20100805&ancYnChk=0) |
+| 2012-01-26 | 법률 제10933호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115272&efYd=20120126&ancYnChk=0) |
