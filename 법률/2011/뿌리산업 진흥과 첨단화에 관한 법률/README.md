@@ -1,0 +1,7 @@
+# 뿌리산업 진흥과 첨단화에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011436&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2012-01-26 | 법률 제10960호, 2011. 7. 25. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115297&efYd=20120126&ancYnChk=0) |
