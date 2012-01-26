@@ -1,4 +1,4 @@
-# 이러닝(전자학습)산업 발전법
+# 이러닝(전자학습)산업 발전 및 이러닝 활용 촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009626&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2010-07-05 | 법률 제10339호, 2010. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105663&efYd=20100705&ancYnChk=0) |
 | 2011-01-01 | 법률 제10220호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104058&efYd=20110101&ancYnChk=0) |
 | 2011-07-20 | 법률 제10629호, 2011. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113160&efYd=20110720&ancYnChk=0) |
+| 2012-01-26 | 법률 제10956호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115294&efYd=20120126&ancYnChk=0) |
