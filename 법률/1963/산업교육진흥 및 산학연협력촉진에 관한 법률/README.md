@@ -1,4 +1,4 @@
-# 산업교육진흥 및 산학협력촉진에 관한 법률
+# 산업교육진흥 및 산학연협력촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000865&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91374&efYd=20090731&ancYnChk=0) |
 | 2010-06-18 | 법률 제10082호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103365&efYd=20100618&ancYnChk=0) |
 | 2011-07-20 | 법률 제10629호, 2011. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113157&efYd=20110720&ancYnChk=0) |
+| 2012-01-26 | 법률 제10907호, 2011. 7. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115181&efYd=20120126&ancYnChk=0) |
