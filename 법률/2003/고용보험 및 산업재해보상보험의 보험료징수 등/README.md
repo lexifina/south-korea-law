@@ -26,3 +26,4 @@
 | 2011-09-22 | 법률 제10894호, 2011. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115073&efYd=20110922&ancYnChk=0) |
 | 2012-01-01 | 법률 제10894호, 2011. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115073&efYd=20120101&ancYnChk=0) |
 | 2012-01-22 | 법률 제10894호, 2011. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115073&efYd=20120122&ancYnChk=0) |
+| 2012-02-01 | 법률 제11269호, 2012. 2. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=122685&efYd=20120201&ancYnChk=0) |
