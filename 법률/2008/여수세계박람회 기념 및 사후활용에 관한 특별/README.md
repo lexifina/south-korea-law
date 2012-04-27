@@ -1,4 +1,4 @@
-# 2012여수세계박람회 지원특별법
+# 여수세계박람회 지원 및 사후활용에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010704&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2011-07-24 | 법률 제10389호, 2010. 7. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106855&efYd=20110724&ancYnChk=0) |
 | 2012-02-05 | 법률 제11037호, 2011. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115829&efYd=20120205&ancYnChk=0) |
 | 2012-04-15 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112393&efYd=20120415&ancYnChk=0) |
+| 2012-04-27 | 법률 제11241호, 2012. 1. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=122394&efYd=20120427&ancYnChk=0) |
