@@ -1,4 +1,4 @@
-# 마약류관리에 관한 법률
+# 마약류 관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=002025&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2008-09-29 | 법률 제9024호, 2008. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86438&efYd=20080929&ancYnChk=0) |
 | 2009-11-28 | 법률 제9717호, 2009. 5. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=93841&efYd=20091128&ancYnChk=0) |
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98577&efYd=20100319&ancYnChk=0) |
+| 2012-06-08 | 법률 제10786호, 2011. 6. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113854&efYd=20120608&ancYnChk=0) |
