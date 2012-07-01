@@ -1,4 +1,4 @@
-# 농수산물유통 및 가격안정에 관한 법률
+# 농수산물 유통 및 가격안정에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000433&ancYnChk=0>
 
@@ -35,3 +35,4 @@
 | 2010-11-18 | 법률 제10303호, 2010. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105181&efYd=20101118&ancYnChk=0) |
 | 2012-01-26 | 법률 제10932호, 2011. 7. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115267&efYd=20120126&ancYnChk=0) |
 | 2012-03-02 | 법률 제10522호, 2011. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111717&efYd=20120302&ancYnChk=0) |
+| 2012-07-01 | 법률 제11349호, 2012. 2. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=123379&efYd=20120701&ancYnChk=0) |
