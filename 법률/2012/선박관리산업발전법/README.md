@@ -1,0 +1,7 @@
+# 선박관리산업발전법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011552&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2012-07-01 | 법률 제11321호, 2012. 2. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=123193&efYd=20120701&ancYnChk=0) |
