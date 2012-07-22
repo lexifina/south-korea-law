@@ -1,4 +1,4 @@
-# 농산물품질관리법
+# 농수산물 품질관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001978&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2010-08-05 | 법률 제10022호, 2010. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102503&efYd=20100805&ancYnChk=0) |
 | 2011-07-20 | 법률 제10629호, 2011. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113149&efYd=20110720&ancYnChk=0) |
 | 2012-01-26 | 법률 제10932호, 2011. 7. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115266&efYd=20120126&ancYnChk=0) |
+| 2012-07-22 | 법률 제10885호, 2011. 7. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114984&efYd=20120722&ancYnChk=0) |
