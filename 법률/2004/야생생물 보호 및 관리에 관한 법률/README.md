@@ -1,4 +1,4 @@
-# 야생동·식물보호법
+# 야생생물 보호 및 관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009683&ancYnChk=0>
 
@@ -27,3 +27,4 @@
 | 2011-02-05 | 법률 제10000호, 2010. 2. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102452&efYd=20110205&ancYnChk=0) |
 | 2011-09-16 | 법률 제11060호, 2011. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=117020&efYd=20110916&ancYnChk=0) |
 | 2012-07-22 | 법률 제10893호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115061&efYd=20120722&ancYnChk=0) |
+| 2012-07-29 | 법률 제10977호, 2011. 7. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115453&efYd=20120729&ancYnChk=0) |
