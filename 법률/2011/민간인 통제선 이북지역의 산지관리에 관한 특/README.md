@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2012-04-05 | 법률 제10535호, 2011. 4. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111855&efYd=20120405&ancYnChk=0) |
+| 2012-07-29 | 법률 제10977호, 2011. 7. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115470&efYd=20120729&ancYnChk=0) |
