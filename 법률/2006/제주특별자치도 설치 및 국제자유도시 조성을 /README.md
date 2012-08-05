@@ -111,3 +111,4 @@
 | 2012-07-22 | 법률 제10893호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115085&efYd=20120722&ancYnChk=0) |
 | 2012-07-29 | 법률 제10977호, 2011. 7. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115432&efYd=20120729&ancYnChk=0) |
 | 2012-08-05 | 법률 제10997호, 2011. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115711&efYd=20120805&ancYnChk=0) |
+| 2012-08-05 | 법률 제11002호, 2011. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115728&efYd=20120805&ancYnChk=0) |
