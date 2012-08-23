@@ -26,3 +26,4 @@
 | 2011-07-01 | 법률 제10331호, 2010. 5. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105414&efYd=20110701&ancYnChk=0) |
 | 2012-02-22 | 법률 제11352호, 2012. 2. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=123381&efYd=20120222&ancYnChk=0) |
 | 2012-07-29 | 법률 제10977호, 2011. 7. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115459&efYd=20120729&ancYnChk=0) |
+| 2012-08-23 | 법률 제11352호, 2012. 2. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=123381&efYd=20120823&ancYnChk=0) |
