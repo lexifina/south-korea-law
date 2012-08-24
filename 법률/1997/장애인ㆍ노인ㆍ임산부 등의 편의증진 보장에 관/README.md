@@ -1,4 +1,4 @@
-# 장애인·노인·임산부등의편의증진보장에관한법률
+# 장애인ㆍ노인ㆍ임산부등의편의증진보장에관한법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000186&ancYnChk=0>
 
@@ -19,3 +19,4 @@
 | 2008-03-21 | 법률 제8974호, 2008. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=86467&efYd=20080321&ancYnChk=0) |
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98609&efYd=20100319&ancYnChk=0) |
 | 2011-01-01 | 법률 제10220호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104059&efYd=20110101&ancYnChk=0) |
+| 2012-08-24 | 법률 제11443호, 2012. 5. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125557&efYd=20120824&ancYnChk=0) |
