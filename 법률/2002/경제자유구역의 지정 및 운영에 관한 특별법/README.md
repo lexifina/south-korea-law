@@ -56,3 +56,4 @@
 | 2012-04-15 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112373&efYd=20120415&ancYnChk=0) |
 | 2012-07-01 | 법률 제11042호, 2011. 9. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116748&efYd=20120701&ancYnChk=0) |
 | 2012-07-22 | 법률 제10892호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115017&efYd=20120722&ancYnChk=0) |
+| 2012-09-01 | 법률 제11141호, 2011. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120472&efYd=20120901&ancYnChk=0) |
