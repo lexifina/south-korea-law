@@ -40,3 +40,4 @@
 | 2011-01-01 | 법률 제10219호, 2010. 3. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103980&efYd=20110101&ancYnChk=0) |
 | 2011-05-19 | 법률 제10649호, 2011. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113184&efYd=20110519&ancYnChk=0) |
 | 2012-07-01 | 법률 제11042호, 2011. 9. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116752&efYd=20120701&ancYnChk=0) |
+| 2012-09-01 | 법률 제11141호, 2011. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120475&efYd=20120901&ancYnChk=0) |
