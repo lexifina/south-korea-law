@@ -62,3 +62,4 @@
 | 2012-01-01 | 법률 제9259호, 2008. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=90453&efYd=20120101&ancYnChk=0) |
 | 2012-01-01 | 법률 제11124호, 2011. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120462&efYd=20120101&ancYnChk=0) |
 | 2012-07-01 | 법률 제11124호, 2011. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120462&efYd=20120701&ancYnChk=0) |
+| 2012-09-02 | 법률 제11461호, 2012. 6. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125868&efYd=20120902&ancYnChk=0) |
