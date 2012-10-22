@@ -1,4 +1,4 @@
-# 시체해부 및 보존에 관한 법률
+# 시체 해부 및 보존에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000212&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98592&efYd=20100319&ancYnChk=0) |
 | 2010-12-30 | 법률 제9846호, 2009. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98055&efYd=20101230&ancYnChk=0) |
 | 2012-07-22 | 법률 제10866호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114950&efYd=20120722&ancYnChk=0) |
+| 2012-10-22 | 법률 제11519호, 2012. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129344&efYd=20121022&ancYnChk=0) |
