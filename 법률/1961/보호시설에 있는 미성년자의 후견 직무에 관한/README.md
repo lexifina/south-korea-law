@@ -1,4 +1,4 @@
-# 보호시설에있는미성년자의후견직무에관한법률
+# 보호시설에 있는 미성년자의 후견 직무에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000188&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2012-01-01 | 법률 제10582호, 2011. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112332&efYd=20120101&ancYnChk=0) |
 | 2012-03-31 | 법률 제10517호, 2011. 3. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111629&efYd=20120331&ancYnChk=0) |
 | 2012-08-05 | 법률 제11002호, 2011. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115723&efYd=20120805&ancYnChk=0) |
+| 2012-10-22 | 법률 제11517호, 2012. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129342&efYd=20121022&ancYnChk=0) |
