@@ -1,4 +1,4 @@
-# 특정 범죄자에 대한 위치추적 전자장치 부착 등에 관한 법률
+# 특정 범죄자에 대한 보호관찰 및 전자장치 부착 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010434&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2010-01-01 | 법률 제9765호, 2009. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94720&efYd=20100101&ancYnChk=0) |
 | 2010-04-15 | 법률 제10257호, 2010. 4. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104430&efYd=20100415&ancYnChk=0) |
 | 2010-07-16 | 법률 제10257호, 2010. 4. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104430&efYd=20100716&ancYnChk=0) |
+| 2012-12-18 | 법률 제11558호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130833&efYd=20121218&ancYnChk=0) |
