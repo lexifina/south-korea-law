@@ -1,4 +1,4 @@
-# 고엽제후유의증 등 환자지원에 관한 법률
+# 고엽제후유의증 등 환자지원 및 단체설립에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001327&ancYnChk=0>
 
@@ -28,3 +28,4 @@
 | 2011-08-04 | 법률 제11029호, 2011. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115812&efYd=20110804&ancYnChk=0) |
 | 2012-04-18 | 법률 제11203호, 2012. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121970&efYd=20120418&ancYnChk=0) |
 | 2012-09-01 | 법률 제11141호, 2011. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120490&efYd=20120901&ancYnChk=0) |
+| 2012-12-21 | 법률 제11600호, 2012. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=131022&efYd=20121221&ancYnChk=0) |
