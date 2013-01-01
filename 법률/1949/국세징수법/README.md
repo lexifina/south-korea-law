@@ -43,3 +43,4 @@
 | 2012-01-01 | 법률 제10527호, 2011. 4. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111846&efYd=20120101&ancYnChk=0) |
 | 2012-01-01 | 법률 제11125호, 2011. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120459&efYd=20120101&ancYnChk=0) |
 | 2013-01-01 | 법률 제11125호, 2011. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120459&efYd=20130101&ancYnChk=0) |
+| 2013-01-01 | 법률 제11605호, 2013. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=131385&efYd=20130101&ancYnChk=0) |
