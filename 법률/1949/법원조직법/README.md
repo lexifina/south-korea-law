@@ -50,3 +50,4 @@
 | 2011-09-01 | 법률 제10861호, 2011. 7. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114884&efYd=20110901&ancYnChk=0) |
 | 2012-01-01 | 법률 제10861호, 2011. 7. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114884&efYd=20120101&ancYnChk=0) |
 | 2012-12-18 | 법률 제11554호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130813&efYd=20121218&ancYnChk=0) |
+| 2013-01-01 | 법률 제10861호, 2011. 7. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114884&efYd=20130101&ancYnChk=0) |
