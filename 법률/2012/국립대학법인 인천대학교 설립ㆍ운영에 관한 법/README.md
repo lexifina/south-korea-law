@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2013-01-18 | 법률 제11147호, 2012. 1. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121942&efYd=20130118&ancYnChk=0) |
+| 2013-01-18 | 법률 제11384호, 2012. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=124032&efYd=20130118&ancYnChk=0) |
