@@ -1,0 +1,7 @@
+# 국립대학법인 인천대학교 설립·운영에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011524&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2013-01-18 | 법률 제11147호, 2012. 1. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121942&efYd=20130118&ancYnChk=0) |
