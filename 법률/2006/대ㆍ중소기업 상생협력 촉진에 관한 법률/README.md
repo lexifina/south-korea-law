@@ -1,4 +1,4 @@
-# 대·중소기업 상생협력 촉진에 관한 법률
+# 대ㆍ중소기업 상생협력 촉진에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010165&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2010-07-13 | 법률 제10252호, 2010. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104349&efYd=20100713&ancYnChk=0) |
 | 2010-12-07 | 법률 제10399호, 2010. 12. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109162&efYd=20101207&ancYnChk=0) |
 | 2012-01-17 | 법률 제11173호, 2012. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121984&efYd=20120117&ancYnChk=0) |
+| 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136945&efYd=20130323&ancYnChk=0) |
