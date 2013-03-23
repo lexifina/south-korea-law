@@ -1,4 +1,4 @@
-# 농어업·농어촌 및 식품산업 기본법
+# 농어업ㆍ농어촌 및 식품산업 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001979&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2012-07-01 | 법률 제11094호, 2011. 11. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=118864&efYd=20120701&ancYnChk=0) |
 | 2012-12-18 | 법률 제11561호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130836&efYd=20121218&ancYnChk=0) |
 | 2013-01-23 | 법률 제11499호, 2012. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=129327&efYd=20130123&ancYnChk=0) |
+| 2013-03-23 | 법률 제11694호, 2013. 3. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137287&efYd=20130323&ancYnChk=0) |
