@@ -1,4 +1,4 @@
-# 생명연구자원의 확보·관리 및 활용에 관한 법률
+# 생명연구자원의 확보ㆍ관리 및 활용에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010987&ancYnChk=0>
 
@@ -8,3 +8,4 @@
 | 2010-03-19 | 법률 제9932호, 2010. 1. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98580&efYd=20100319&ancYnChk=0) |
 | 2011-06-10 | 법률 제10445호, 2011. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=110982&efYd=20110610&ancYnChk=0) |
 | 2013-03-23 | 법률 제11684호, 2013. 3. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136566&efYd=20130323&ancYnChk=0) |
+| 2013-03-23 | 법률 제11713호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137321&efYd=20130323&ancYnChk=0) |
