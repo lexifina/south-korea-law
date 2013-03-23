@@ -1,4 +1,4 @@
-# 전기·전자제품 및 자동차의 자원순환에 관한 법률
+# 전기ㆍ전자제품 및 자동차의 자원순환에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010437&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2011-07-24 | 법률 제10389호, 2010. 7. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106857&efYd=20110724&ancYnChk=0) |
 | 2012-01-06 | 법률 제10549호, 2011. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111956&efYd=20120106&ancYnChk=0) |
 | 2012-07-22 | 법률 제10893호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115084&efYd=20120722&ancYnChk=0) |
+| 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137377&efYd=20130323&ancYnChk=0) |
