@@ -1,4 +1,4 @@
-# 국가교육과학기술자문회의법
+# 국가과학기술자문회의법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000776&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2004-10-24 | 법률 제7219호, 2004. 9. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=56953&efYd=20041024&ancYnChk=0) |
 | 2008-09-06 | 법률 제9089호, 2008. 6. 5. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87336&efYd=20080906&ancYnChk=0) |
 | 2010-03-17 | 법률 제10079호, 2010. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103362&efYd=20100317&ancYnChk=0) |
+| 2013-03-23 | 법률 제11678호, 2013. 3. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136549&efYd=20130323&ancYnChk=0) |
