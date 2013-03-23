@@ -1,4 +1,4 @@
-# 저수지·댐의 안전관리 및 재해예방에 관한 법률
+# 저수지ㆍ댐의 안전관리 및 재해예방에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010756&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2010-10-16 | 법률 제10272호, 2010. 4. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104520&efYd=20101016&ancYnChk=0) |
 | 2010-12-01 | 법률 제10331호, 2010. 5. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105475&efYd=20101201&ancYnChk=0) |
 | 2012-09-10 | 법률 제10458호, 2011. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111001&efYd=20120910&ancYnChk=0) |
+| 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137386&efYd=20130323&ancYnChk=0) |
