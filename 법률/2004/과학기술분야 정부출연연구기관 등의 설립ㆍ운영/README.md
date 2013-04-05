@@ -1,4 +1,4 @@
-# 과학기술분야 정부출연연구기관 등의 설립·운영 및 육성에 관한 법률
+# 과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009761&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2012-07-01 | 법률 제11145호, 2011. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=120511&efYd=20120701&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137356&efYd=20130323&ancYnChk=0) |
 | 2013-03-23 | 법률 제11713호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=138702&efYd=20130323&ancYnChk=0) |
+| 2013-04-05 | 법률 제11719호, 2013. 4. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=138762&efYd=20130405&ancYnChk=0) |
