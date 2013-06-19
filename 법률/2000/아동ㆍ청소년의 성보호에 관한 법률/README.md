@@ -1,4 +1,4 @@
-# 아동·청소년의 성보호에 관한 법률
+# 아동ㆍ청소년의 성보호에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=002044&ancYnChk=0>
 
@@ -31,3 +31,4 @@
 | 2012-09-16 | 법률 제11047호, 2011. 9. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116773&efYd=20120916&ancYnChk=0) |
 | 2012-09-16 | 법률 제11048호, 2011. 9. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116790&efYd=20120916&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137378&efYd=20130323&ancYnChk=0) |
+| 2013-06-19 | 법률 제11572호, 2012. 12. 18. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130848&efYd=20130619&ancYnChk=0) |
