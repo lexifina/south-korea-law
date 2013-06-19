@@ -1,4 +1,4 @@
-# 측량·수로조사 및 지적에 관한 법률
+# 측량ㆍ수로조사 및 지적에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011023&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2012-03-17 | 법률 제11062호, 2011. 9. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=117045&efYd=20120317&ancYnChk=0) |
 | 2012-12-18 | 법률 제11592호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130882&efYd=20121218&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137199&efYd=20130323&ancYnChk=0) |
+| 2013-06-19 | 법률 제11592호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130882&efYd=20130619&ancYnChk=0) |
