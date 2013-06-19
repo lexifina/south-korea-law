@@ -1,4 +1,4 @@
-# 5·18민주유공자예우에 관한 법률
+# 5ㆍ18민주유공자예우에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009289&ancYnChk=0>
 
@@ -26,3 +26,4 @@
 | 2012-03-21 | 법률 제11417호, 2012. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=124056&efYd=20120321&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137248&efYd=20130323&ancYnChk=0) |
 | 2013-04-05 | 법률 제11731호, 2013. 4. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=138768&efYd=20130405&ancYnChk=0) |
+| 2013-06-19 | 법률 제11556호, 2012. 12. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130817&efYd=20130619&ancYnChk=0) |
