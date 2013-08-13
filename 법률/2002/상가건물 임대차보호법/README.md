@@ -12,3 +12,4 @@
 | 2010-11-18 | 법률 제10303호, 2010. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105199&efYd=20101118&ancYnChk=0) |
 | 2011-10-13 | 법률 제10580호, 2011. 4. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112314&efYd=20111013&ancYnChk=0) |
 | 2013-07-01 | 법률 제11873호, 2013. 6. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=141084&efYd=20130701&ancYnChk=0) |
+| 2013-08-13 | 법률 제12042호, 2013. 8. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142970&efYd=20130813&ancYnChk=0) |
