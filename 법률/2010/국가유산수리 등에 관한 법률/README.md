@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2011-02-05 | 법률 제9999호, 2010. 2. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102444&efYd=20110205&ancYnChk=0) |
 | 2012-02-05 | 법률 제9999호, 2010. 2. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=102444&efYd=20120205&ancYnChk=0) |
+| 2013-12-12 | 법률 제11530호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130674&efYd=20131212&ancYnChk=0) |
