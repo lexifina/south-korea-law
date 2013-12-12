@@ -126,3 +126,4 @@
 | 2013-06-12 | 법률 제11527호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130652&efYd=20130612&ancYnChk=0) |
 | 2013-06-19 | 법률 제11573호, 2012. 12. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130859&efYd=20130619&ancYnChk=0) |
 | 2013-12-12 | 법률 제11531호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130687&efYd=20131212&ancYnChk=0) |
+| 2013-12-12 | 법률 제11898호, 2013. 7. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142026&efYd=20131212&ancYnChk=0) |
