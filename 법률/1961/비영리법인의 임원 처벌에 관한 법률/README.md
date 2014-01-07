@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1961-11-11 | 법률 제772호, 1961. 11. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=3236&efYd=19611111&ancYnChk=0) |
 | 2011-04-12 | 법률 제10581호, 2011. 4. 12. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112342&efYd=20110412&ancYnChk=0) |
+| 2014-01-07 | 법률 제12191호, 2014. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=149553&efYd=20140107&ancYnChk=0) |
