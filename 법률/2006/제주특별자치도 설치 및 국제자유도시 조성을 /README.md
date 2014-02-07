@@ -130,3 +130,4 @@
 | 2014-01-01 | 법률 제12153호, 2014. 1. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=149344&efYd=20140101&ancYnChk=0) |
 | 2014-01-14 | 법률 제12246호, 2014. 1. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=149937&efYd=20140114&ancYnChk=0) |
 | 2014-01-17 | 법률 제11920호, 2013. 7. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142051&efYd=20140117&ancYnChk=0) |
+| 2014-02-07 | 법률 제12013호, 2013. 8. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142670&efYd=20140207&ancYnChk=0) |
