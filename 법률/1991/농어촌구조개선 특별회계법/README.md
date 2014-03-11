@@ -1,4 +1,4 @@
-# 농어촌구조개선특별회계법
+# 농어촌구조개선 특별회계법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000448&ancYnChk=0>
 
@@ -32,3 +32,4 @@
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136854&efYd=20130323&ancYnChk=0) |
 | 2013-03-23 | 법률 제11703호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137306&efYd=20130323&ancYnChk=0) |
 | 2014-01-07 | 법률 제12215호, 2014. 1. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=149593&efYd=20140107&ancYnChk=0) |
+| 2014-03-11 | 법률 제12412호, 2014. 3. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=151800&efYd=20140311&ancYnChk=0) |
