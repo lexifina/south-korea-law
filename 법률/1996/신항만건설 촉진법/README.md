@@ -1,4 +1,4 @@
-# 신항만건설촉진법
+# 신항만건설 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000061&ancYnChk=0>
 
@@ -47,3 +47,4 @@
 | 2012-04-15 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112429&efYd=20120415&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137174&efYd=20130323&ancYnChk=0) |
 | 2014-02-14 | 법률 제12087호, 2013. 8. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=143016&efYd=20140214&ancYnChk=0) |
+| 2014-03-24 | 법률 제12542호, 2014. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152346&efYd=20140324&ancYnChk=0) |
