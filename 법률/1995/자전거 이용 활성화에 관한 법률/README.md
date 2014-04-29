@@ -1,4 +1,4 @@
-# 자전거이용 활성화에 관한 법률
+# 자전거 이용 활성화에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000993&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2011-10-26 | 법률 제10898호, 2011. 7. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115173&efYd=20111026&ancYnChk=0) |
 | 2012-04-15 | 법률 제10599호, 2011. 4. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112433&efYd=20120415&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136751&efYd=20130323&ancYnChk=0) |
+| 2014-04-29 | 법률 제12345호, 2014. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=150695&efYd=20140429&ancYnChk=0) |
