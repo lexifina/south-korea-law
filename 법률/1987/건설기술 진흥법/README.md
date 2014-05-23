@@ -1,4 +1,4 @@
-# 건설기술관리법
+# 건설기술 진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001807&ancYnChk=0>
 
@@ -38,3 +38,4 @@
 | 2013-03-23 | 법률 제11688호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136569&efYd=20130323&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137099&efYd=20130323&ancYnChk=0) |
 | 2014-01-17 | 법률 제11920호, 2013. 7. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142122&efYd=20140117&ancYnChk=0) |
+| 2014-05-23 | 법률 제11794호, 2013. 5. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140408&efYd=20140523&ancYnChk=0) |
