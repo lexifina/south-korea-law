@@ -1,4 +1,4 @@
-# 공중 등 협박목적을 위한 자금조달행위의 금지에 관한 법률
+# 공중 등 협박목적 및 대량살상무기확산을 위한 자금조달행위의 금지에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010588&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2012-09-16 | 법률 제11049호, 2011. 9. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116794&efYd=20120916&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137256&efYd=20130323&ancYnChk=0) |
 | 2014-04-06 | 법률 제11753호, 2013. 4. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=138780&efYd=20140406&ancYnChk=0) |
+| 2014-05-28 | 법률 제12710호, 2014. 5. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154277&efYd=20140528&ancYnChk=0) |
