@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2010-07-01 | 법률 제10255호, 2010. 4. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=104364&efYd=20100701&ancYnChk=0) |
 | 2011-07-14 | 법률 제10854호, 2011. 7. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114802&efYd=20110714&ancYnChk=0) |
+| 2014-07-01 | 법률 제12620호, 2014. 5. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154049&efYd=20140701&ancYnChk=0) |
