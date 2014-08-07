@@ -24,3 +24,4 @@
 | 2011-01-01 | 대법원규칙 제2311호, 2010. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=109292&efYd=20110101&ancYnChk=0) |
 | 2011-10-13 | 대법원규칙 제2356호, 2011. 9. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=117406&efYd=20111013&ancYnChk=0) |
 | 2012-05-02 | 대법원규칙 제2396호, 2012. 5. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125205&efYd=20120502&ancYnChk=0) |
+| 2014-08-07 | 대법원규칙 제2545호, 2014. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=158536&efYd=20140807&ancYnChk=0) |
