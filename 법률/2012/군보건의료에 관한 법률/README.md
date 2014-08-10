@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2012-09-22 | 법률 제11389호, 2012. 3. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=124038&efYd=20120922&ancYnChk=0) |
 | 2014-06-12 | 법률 제12399호, 2014. 3. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=151786&efYd=20140612&ancYnChk=0) |
+| 2014-08-10 | 법률 제12554호, 2014. 5. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=153865&efYd=20140810&ancYnChk=0) |
