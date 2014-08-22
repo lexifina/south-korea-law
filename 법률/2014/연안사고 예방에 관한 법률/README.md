@@ -1,0 +1,7 @@
+# 연안사고 예방에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012049&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2014-08-22 | 법률 제12657호, 2014. 5. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154157&efYd=20140822&ancYnChk=0) |
