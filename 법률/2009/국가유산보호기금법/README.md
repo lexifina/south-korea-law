@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2009-12-10 | 법률 제9756호, 2009. 6. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=94454&efYd=20091210&ancYnChk=0) |
+| 2014-08-29 | 법률 제12692호, 2014. 5. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154264&efYd=20140829&ancYnChk=0) |
