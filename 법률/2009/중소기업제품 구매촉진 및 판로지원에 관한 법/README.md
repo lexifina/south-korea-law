@@ -15,3 +15,4 @@
 | 2014-02-07 | 법률 제12008호, 2013. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142653&efYd=20140207&ancYnChk=0) |
 | 2014-03-18 | 법률 제12499호, 2014. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152088&efYd=20140318&ancYnChk=0) |
 | 2014-06-19 | 법률 제12499호, 2014. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152088&efYd=20140619&ancYnChk=0) |
+| 2014-09-19 | 법률 제12499호, 2014. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152088&efYd=20140919&ancYnChk=0) |
