@@ -1,0 +1,7 @@
+# 지방자치단체 출자ㆍ출연 기관의 운영에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012024&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2014-09-25 | 법률 제12507호, 2014. 3. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152425&efYd=20140925&ancYnChk=0) |
