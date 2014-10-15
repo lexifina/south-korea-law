@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1999-02-15 | 법률 제5588호, 1998. 12. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58565&efYd=19990215&ancYnChk=0) |
 | 2010-03-24 | 법률 제10178호, 2010. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103862&efYd=20100324&ancYnChk=0) |
+| 2014-10-15 | 법률 제12775호, 2014. 10. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=160682&efYd=20141015&ancYnChk=0) |
