@@ -1,4 +1,4 @@
-# 국방대학교설치법
+# 국방대학교 설치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001974&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2012-07-22 | 법률 제10866호, 2011. 7. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114946&efYd=20120722&ancYnChk=0) |
 | 2013-03-22 | 법률 제11633호, 2013. 3. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=133288&efYd=20130322&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136707&efYd=20130323&ancYnChk=0) |
+| 2014-12-12 | 법률 제12745호, 2014. 6. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=155162&efYd=20141212&ancYnChk=0) |
