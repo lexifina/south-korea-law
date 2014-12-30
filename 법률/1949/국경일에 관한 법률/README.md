@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1949-10-01 | 법률 제53호, 1949. 10. 1. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4167&efYd=19491001&ancYnChk=0) |
 | 2005-12-29 | 법률 제7771호, 2005. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72262&efYd=20051229&ancYnChk=0) |
+| 2014-12-30 | 법률 제12915호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165523&efYd=20141230&ancYnChk=0) |
