@@ -46,3 +46,4 @@
 | 2013-07-01 | 대통령령 제24652호, 2013. 6. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=141600&efYd=20130701&ancYnChk=0) |
 | 2014-09-25 | 대통령령 제25630호, 2014. 9. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=159729&efYd=20140925&ancYnChk=0) |
 | 2014-09-25 | 대통령령 제25631호, 2014. 9. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=159712&efYd=20140925&ancYnChk=0) |
+| 2015-01-01 | 대통령령 제25840호, 2014. 12. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=164795&efYd=20150101&ancYnChk=0) |
