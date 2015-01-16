@@ -9,3 +9,4 @@
 | 2001-03-27 | 법률 제6290호, 2000. 12. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60275&efYd=20010327&ancYnChk=0) |
 | 2007-07-27 | 법률 제8548호, 2007. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79885&efYd=20070727&ancYnChk=0) |
 | 2011-07-14 | 법률 제10823호, 2011. 7. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114745&efYd=20110714&ancYnChk=0) |
+| 2015-01-16 | 법률 제12786호, 2014. 10. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=161042&efYd=20150116&ancYnChk=0) |
