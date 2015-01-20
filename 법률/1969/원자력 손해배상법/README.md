@@ -1,4 +1,4 @@
-# 원자력손해배상법
+# 원자력 손해배상법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000748&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2011-10-26 | 법률 제10911호, 2011. 7. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115198&efYd=20111026&ancYnChk=0) |
 | 2011-10-26 | 법률 제10912호, 2011. 7. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115242&efYd=20111026&ancYnChk=0) |
 | 2013-03-23 | 법률 제11714호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137347&efYd=20130323&ancYnChk=0) |
+| 2015-01-20 | 법률 제13075호, 2015. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167434&efYd=20150120&ancYnChk=0) |
