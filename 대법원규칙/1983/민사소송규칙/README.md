@@ -27,3 +27,4 @@
 | 2014-08-07 | 대법원규칙 제2545호, 2014. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=158536&efYd=20140807&ancYnChk=0) |
 | 2015-01-01 | 대법원규칙 제2575호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166316&efYd=20150101&ancYnChk=0) |
 | 2015-01-28 | 대법원규칙 제2585호, 2015. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167946&efYd=20150128&ancYnChk=0) |
+| 2015-02-13 | 대법원규칙 제2585호, 2015. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167946&efYd=20150213&ancYnChk=0) |
