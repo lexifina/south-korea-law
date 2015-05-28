@@ -53,3 +53,4 @@
 | 2014-07-15 | 법률 제12345호, 2014. 1. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=150700&efYd=20140715&ancYnChk=0) |
 | 2014-07-15 | 법률 제12639호, 2014. 5. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154105&efYd=20140715&ancYnChk=0) |
 | 2015-01-01 | 법률 제12639호, 2014. 5. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154105&efYd=20150101&ancYnChk=0) |
+| 2015-05-28 | 법률 제13086호, 2015. 1. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167695&efYd=20150528&ancYnChk=0) |
