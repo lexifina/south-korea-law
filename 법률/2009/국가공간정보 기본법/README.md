@@ -1,4 +1,4 @@
-# 국가공간정보에 관한 법률
+# 국가공간정보 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010916&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137142&efYd=20130323&ancYnChk=0) |
 | 2013-06-19 | 법률 제11577호, 2012. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130865&efYd=20130619&ancYnChk=0) |
 | 2013-11-23 | 법률 제11797호, 2013. 5. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140264&efYd=20131123&ancYnChk=0) |
+| 2015-06-04 | 법률 제12736호, 2014. 6. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154971&efYd=20150604&ancYnChk=0) |
