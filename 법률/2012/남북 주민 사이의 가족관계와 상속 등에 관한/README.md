@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2012-05-11 | 법률 제11299호, 2012. 2. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=122982&efYd=20120511&ancYnChk=0) |
+| 2015-07-01 | 법률 제12892호, 2014. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165497&efYd=20150701&ancYnChk=0) |
