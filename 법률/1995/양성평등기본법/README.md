@@ -1,4 +1,4 @@
-# 여성발전기본법
+# 양성평등기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000185&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2011-12-08 | 법률 제10789호, 2011. 6. 7. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113885&efYd=20111208&ancYnChk=0) |
 | 2014-02-14 | 법률 제12080호, 2013. 8. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=143011&efYd=20140214&ancYnChk=0) |
 | 2014-07-01 | 법률 제12142호, 2013. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=148461&efYd=20140701&ancYnChk=0) |
+| 2015-07-01 | 법률 제12698호, 2014. 5. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154260&efYd=20150701&ancYnChk=0) |
