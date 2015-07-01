@@ -96,3 +96,4 @@
 | 2014-11-10 | 법률 제12560호, 2014. 5. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=153867&efYd=20141110&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162147&efYd=20141119&ancYnChk=0) |
 | 2014-11-29 | 법률 제12684호, 2014. 5. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154232&efYd=20141129&ancYnChk=0) |
+| 2015-07-01 | 법률 제12906호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165514&efYd=20150701&ancYnChk=0) |
