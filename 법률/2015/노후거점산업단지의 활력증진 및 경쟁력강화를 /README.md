@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2015-07-07 | 법률 제12965호, 2015. 1. 6. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166722&efYd=20150707&ancYnChk=0) |
+| 2015-08-11 | 법률 제13482호, 2015. 8. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173884&efYd=20150811&ancYnChk=0) |
