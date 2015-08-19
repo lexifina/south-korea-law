@@ -1,4 +1,4 @@
-# 이북5도에 관한 특별조치법
+# 이북5도 등에 관한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001097&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2010-03-12 | 법률 제10058호, 2010. 3. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103078&efYd=20100312&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136765&efYd=20130323&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162190&efYd=20141119&ancYnChk=0) |
+| 2015-08-19 | 법률 제13291호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=170964&efYd=20150819&ancYnChk=0) |
