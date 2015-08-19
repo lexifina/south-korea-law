@@ -1,4 +1,4 @@
-# 비영리민간단체지원법
+# 비영리민간단체 지원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=002031&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2013-08-13 | 법률 제12046호, 2013. 8. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142972&efYd=20130813&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162185&efYd=20141119&ancYnChk=0) |
 | 2015-04-16 | 법률 제12796호, 2014. 10. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=160842&efYd=20150416&ancYnChk=0) |
+| 2015-08-19 | 법률 제13290호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=170963&efYd=20150819&ancYnChk=0) |
