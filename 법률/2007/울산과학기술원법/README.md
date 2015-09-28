@@ -1,4 +1,4 @@
-# 국립대학법인 울산과학기술대학교 설립ㆍ운영에 관한 법률
+# 울산과학기술원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010414&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91446&efYd=20090731&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137339&efYd=20130323&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162090&efYd=20141119&ancYnChk=0) |
+| 2015-09-28 | 법률 제13230호, 2015. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169475&efYd=20150928&ancYnChk=0) |
