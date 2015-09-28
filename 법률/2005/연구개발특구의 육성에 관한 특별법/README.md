@@ -50,3 +50,4 @@
 | 2015-08-04 | 법률 제13122호, 2015. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167983&efYd=20150804&ancYnChk=0) |
 | 2015-08-11 | 법률 제13482호, 2015. 8. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173867&efYd=20150811&ancYnChk=0) |
 | 2015-09-12 | 법률 제13212호, 2015. 3. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169194&efYd=20150912&ancYnChk=0) |
+| 2015-09-28 | 법률 제13231호, 2015. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169477&efYd=20150928&ancYnChk=0) |
