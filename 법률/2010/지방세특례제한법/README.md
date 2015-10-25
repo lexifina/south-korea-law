@@ -45,3 +45,4 @@
 | 2015-07-01 | 법률 제12955호, 2014. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166370&efYd=20150701&ancYnChk=0) |
 | 2015-07-01 | 법률 제12989호, 2015. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166549&efYd=20150701&ancYnChk=0) |
 | 2015-07-24 | 법률 제13435호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173293&efYd=20150724&ancYnChk=0) |
+| 2015-10-25 | 법률 제13448호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173321&efYd=20151025&ancYnChk=0) |
