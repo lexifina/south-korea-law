@@ -1,4 +1,4 @@
-# 농업·농촌 및 식품산업 기본법
+# 농업ㆍ농촌 및 식품산업 기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001979&ancYnChk=0>
 
@@ -28,3 +28,4 @@
 | 2015-01-20 | 법률 제13054호, 2015. 1. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167423&efYd=20150120&ancYnChk=0) |
 | 2015-06-22 | 법률 제13356호, 2015. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172220&efYd=20150622&ancYnChk=0) |
 | 2015-12-23 | 법률 제13356호, 2015. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172220&efYd=20151223&ancYnChk=0) |
+| 2015-12-23 | 법률 제13383호, 2015. 6. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172282&efYd=20151223&ancYnChk=0) |
