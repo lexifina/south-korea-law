@@ -73,3 +73,4 @@
 | 2015-05-18 | 법률 제13288호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=170985&efYd=20150518&ancYnChk=0) |
 | 2015-09-19 | 법률 제13288호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=170985&efYd=20150919&ancYnChk=0) |
 | 2015-11-19 | 법률 제13288호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=170985&efYd=20151119&ancYnChk=0) |
+| 2015-12-24 | 법률 제13618호, 2015. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=178055&efYd=20151224&ancYnChk=0) |
