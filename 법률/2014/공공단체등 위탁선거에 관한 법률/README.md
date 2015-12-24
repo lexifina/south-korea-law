@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2014-08-01 | 법률 제12755호, 2014. 6. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=155189&efYd=20140801&ancYnChk=0) |
+| 2015-12-24 | 법률 제13619호, 2015. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=178046&efYd=20151224&ancYnChk=0) |
