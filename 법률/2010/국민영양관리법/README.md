@@ -9,3 +9,4 @@
 | 2012-03-27 | 법률 제10191호, 2010. 3. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103895&efYd=20120327&ancYnChk=0) |
 | 2015-05-24 | 법률 제11440호, 2012. 5. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125553&efYd=20150524&ancYnChk=0) |
 | 2015-12-23 | 법률 제13367호, 2015. 6. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172249&efYd=20151223&ancYnChk=0) |
+| 2015-12-29 | 법률 제13643호, 2015. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=178151&efYd=20151229&ancYnChk=0) |
