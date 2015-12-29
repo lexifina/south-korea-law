@@ -1,4 +1,4 @@
-# 공공주택건설 등에 관한 특별법
+# 공공주택 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009595&ancYnChk=0>
 
@@ -60,3 +60,4 @@
 | 2015-07-01 | 법률 제12989호, 2015. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166526&efYd=20150701&ancYnChk=0) |
 | 2015-08-11 | 법률 제13473호, 2015. 8. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173832&efYd=20150811&ancYnChk=0) |
 | 2015-08-28 | 법률 제13498호, 2015. 8. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=174462&efYd=20150828&ancYnChk=0) |
+| 2015-12-29 | 법률 제13498호, 2015. 8. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=174462&efYd=20151229&ancYnChk=0) |
