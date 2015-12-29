@@ -1,4 +1,4 @@
-# 임대주택법
+# 민간임대주택에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000243&ancYnChk=0>
 
@@ -42,3 +42,4 @@
 | 2015-05-18 | 법률 제13328호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=171027&efYd=20150518&ancYnChk=0) |
 | 2015-07-01 | 법률 제12989호, 2015. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166962&efYd=20150701&ancYnChk=0) |
 | 2015-09-19 | 법률 제13328호, 2015. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=171027&efYd=20150919&ancYnChk=0) |
+| 2015-12-29 | 법률 제13499호, 2015. 8. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=174472&efYd=20151229&ancYnChk=0) |
