@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2015-03-13 | 법률 제13217호, 2015. 3. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169152&efYd=20150313&ancYnChk=0) |
+| 2016-01-01 | 법률 제13217호, 2015. 3. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169152&efYd=20160101&ancYnChk=0) |
