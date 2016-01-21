@@ -1,4 +1,4 @@
-# 소방시설 설치ㆍ유지 및 안전관리에 관한 법률
+# 화재예방, 소방시설 설치ㆍ유지 및 안전관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009503&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2014-08-07 | 법률 제11998호, 2013. 8. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142606&efYd=20140807&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162321&efYd=20141119&ancYnChk=0) |
 | 2015-07-01 | 법률 제12939호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166244&efYd=20150701&ancYnChk=0) |
+| 2016-01-21 | 법률 제13062호, 2015. 1. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167428&efYd=20160121&ancYnChk=0) |
