@@ -1,4 +1,4 @@
-# 전투경찰대 설치법
+# 의무경찰대 설치 및 운영에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001644&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2012-07-01 | 법률 제11042호, 2011. 9. 15. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=116767&efYd=20120701&ancYnChk=0) |
 | 2013-12-05 | 법률 제11849호, 2013. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140917&efYd=20131205&ancYnChk=0) |
 | 2014-11-19 | 법률 제12844호, 2014. 11. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=162313&efYd=20141119&ancYnChk=0) |
+| 2016-01-25 | 법률 제13425호, 2015. 7. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173205&efYd=20160125&ancYnChk=0) |
