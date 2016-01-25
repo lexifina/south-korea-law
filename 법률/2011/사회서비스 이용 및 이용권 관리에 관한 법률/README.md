@@ -7,3 +7,4 @@
 | 2012-02-05 | 법률 제10998호, 2011. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115712&efYd=20120205&ancYnChk=0) |
 | 2012-08-05 | 법률 제10998호, 2011. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=115712&efYd=20120805&ancYnChk=0) |
 | 2014-08-07 | 법률 제11998호, 2013. 8. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142603&efYd=20140807&ancYnChk=0) |
+| 2016-01-25 | 법률 제13426호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173255&efYd=20160125&ancYnChk=0) |
