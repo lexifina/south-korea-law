@@ -190,3 +190,4 @@
 | 2015-07-24 | 법률 제13427호, 2015. 7. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173234&efYd=20150724&ancYnChk=0) |
 | 2016-01-01 | 법률 제13427호, 2015. 7. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173234&efYd=20160101&ancYnChk=0) |
 | 2016-01-01 | 법률 제13636호, 2015. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=178146&efYd=20160101&ancYnChk=0) |
+| 2016-01-25 | 법률 제13425호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173212&efYd=20160125&ancYnChk=0) |
