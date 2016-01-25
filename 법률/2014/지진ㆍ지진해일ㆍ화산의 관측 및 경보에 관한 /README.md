@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2015-01-22 | 법률 제12320호, 2014. 1. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=150462&efYd=20150122&ancYnChk=0) |
+| 2016-01-25 | 법률 제13442호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173307&efYd=20160125&ancYnChk=0) |
