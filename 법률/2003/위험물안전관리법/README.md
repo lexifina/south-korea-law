@@ -20,3 +20,4 @@
 | 2014-12-30 | 법률 제12941호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166247&efYd=20141230&ancYnChk=0) |
 | 2015-01-01 | 법률 제11862호, 2013. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140964&efYd=20150101&ancYnChk=0) |
 | 2015-01-01 | 법률 제12941호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166247&efYd=20150101&ancYnChk=0) |
+| 2016-01-27 | 법률 제13922호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180489&efYd=20160127&ancYnChk=0) |
