@@ -35,3 +35,4 @@
 | 2014-12-30 | 법률 제12899호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165507&efYd=20141230&ancYnChk=0) |
 | 2015-07-31 | 법률 제13454호, 2015. 7. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173582&efYd=20150731&ancYnChk=0) |
 | 2016-01-06 | 법률 제13720호, 2016. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179019&efYd=20160106&ancYnChk=0) |
+| 2016-02-01 | 법률 제13454호, 2015. 7. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173582&efYd=20160201&ancYnChk=0) |
