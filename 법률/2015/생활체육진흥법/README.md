@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2015-06-28 | 법률 제13251호, 2015. 3. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169563&efYd=20150628&ancYnChk=0) |
+| 2016-03-28 | 법률 제13251호, 2015. 3. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169563&efYd=20160328&ancYnChk=0) |
