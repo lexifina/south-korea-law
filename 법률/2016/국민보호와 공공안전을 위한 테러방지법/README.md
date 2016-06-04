@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2016-03-03 | 법률 제14071호, 2016. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181624&efYd=20160303&ancYnChk=0) |
+| 2016-06-04 | 법률 제14071호, 2016. 3. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181624&efYd=20160604&ancYnChk=0) |
