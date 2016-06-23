@@ -72,3 +72,4 @@
 | 2016-05-29 | 법률 제14255호, 2016. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183717&efYd=20160529&ancYnChk=0) |
 | 2016-06-23 | 법률 제13605호, 2015. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177683&efYd=20160623&ancYnChk=0) |
 | 2016-06-23 | 법률 제13606호, 2015. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177686&efYd=20160623&ancYnChk=0) |
+| 2016-06-23 | 법률 제13609호, 2015. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177696&efYd=20160623&ancYnChk=0) |
