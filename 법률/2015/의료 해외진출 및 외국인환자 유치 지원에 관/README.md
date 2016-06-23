@@ -1,0 +1,7 @@
+# 의료 해외진출 및 외국인환자 유치 지원에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012412&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2016-06-23 | 법률 제13599호, 2015. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177753&efYd=20160623&ancYnChk=0) |
