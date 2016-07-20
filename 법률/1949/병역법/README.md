@@ -103,3 +103,4 @@
 | 2016-04-20 | 법률 제13778호, 2016. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179524&efYd=20160420&ancYnChk=0) |
 | 2016-06-16 | 법률 제13566호, 2015. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177186&efYd=20160616&ancYnChk=0) |
 | 2016-06-16 | 법률 제13778호, 2016. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179524&efYd=20160616&ancYnChk=0) |
+| 2016-07-20 | 법률 제13778호, 2016. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179524&efYd=20160720&ancYnChk=0) |
