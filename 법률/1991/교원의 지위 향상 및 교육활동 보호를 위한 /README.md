@@ -1,4 +1,4 @@
-# 교원지위향상을 위한 특별법
+# 교원의 지위 향상 및 교육활동 보호를 위한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000886&ancYnChk=0>
 
@@ -16,3 +16,4 @@
 | 2008-03-14 | 법률 제8890호, 2008. 3. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=84502&efYd=20080314&ancYnChk=0) |
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136586&efYd=20130323&ancYnChk=0) |
 | 2016-01-27 | 법률 제13819호, 2016. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180331&efYd=20160127&ancYnChk=0) |
+| 2016-08-04 | 법률 제13936호, 2016. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180693&efYd=20160804&ancYnChk=0) |
