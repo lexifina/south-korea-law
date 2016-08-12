@@ -8,3 +8,4 @@
 | 2015-06-04 | 법률 제12738호, 2014. 6. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=155054&efYd=20150604&ancYnChk=0) |
 | 2015-06-22 | 법률 제13380호, 2015. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172278&efYd=20150622&ancYnChk=0) |
 | 2015-12-23 | 법률 제13380호, 2015. 6. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172278&efYd=20151223&ancYnChk=0) |
+| 2016-08-12 | 법률 제13805호, 2016. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179724&efYd=20160812&ancYnChk=0) |
