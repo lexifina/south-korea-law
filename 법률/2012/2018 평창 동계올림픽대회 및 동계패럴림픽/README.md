@@ -1,4 +1,4 @@
-# 2018 평창 동계올림픽대회 및 장애인동계올림픽대회 지원 등에 관한 특별법
+# 2018 평창 동계올림픽대회 및 동계패럴림픽대회 지원 등에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011532&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2016-07-07 | 법률 제13726호, 2016. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179044&efYd=20160707&ancYnChk=0) |
 | 2016-08-12 | 법률 제13474호, 2015. 8. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173854&efYd=20160812&ancYnChk=0) |
 | 2016-08-12 | 법률 제13805호, 2016. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179632&efYd=20160812&ancYnChk=0) |
+| 2016-08-30 | 법률 제14198호, 2016. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183598&efYd=20160830&ancYnChk=0) |
