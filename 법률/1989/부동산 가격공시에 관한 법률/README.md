@@ -1,4 +1,4 @@
-# 부동산 가격공시 및 감정평가에 관한 법률
+# 부동산 가격공시에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001827&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137156&efYd=20130323&ancYnChk=0) |
 | 2014-02-07 | 법률 제12018호, 2013. 8. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142661&efYd=20140207&ancYnChk=0) |
 | 2016-08-12 | 법률 제13805호, 2016. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179665&efYd=20160812&ancYnChk=0) |
+| 2016-09-01 | 법률 제13796호, 2016. 1. 19. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179576&efYd=20160901&ancYnChk=0) |
