@@ -40,3 +40,4 @@
 | 2016-06-30 | 법률 제14130호, 2016. 3. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=182141&efYd=20160630&ancYnChk=0) |
 | 2016-07-30 | 법률 제14129호, 2016. 3. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=182140&efYd=20160730&ancYnChk=0) |
 | 2016-08-01 | 법률 제13453호, 2015. 7. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173576&efYd=20160801&ancYnChk=0) |
+| 2016-09-01 | 법률 제13782호, 2016. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179555&efYd=20160901&ancYnChk=0) |
