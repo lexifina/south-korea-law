@@ -1,4 +1,4 @@
-# 향토예비군 설치법
+# 예비군법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001619&ancYnChk=0>
 
@@ -39,3 +39,4 @@
 | 2015-12-31 | 법률 제12909호, 2014. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165517&efYd=20151231&ancYnChk=0) |
 | 2016-03-16 | 법률 제13567호, 2015. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177209&efYd=20160316&ancYnChk=0) |
 | 2016-04-20 | 법률 제13780호, 2016. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179533&efYd=20160420&ancYnChk=0) |
+| 2016-11-30 | 법률 제14183호, 2016. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183563&efYd=20161130&ancYnChk=0) |
