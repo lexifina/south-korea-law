@@ -36,3 +36,4 @@
 | 2016-06-23 | 법률 제13611호, 2015. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177700&efYd=20160623&ancYnChk=0) |
 | 2016-06-23 | 법률 제14251호, 2016. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183713&efYd=20160623&ancYnChk=0) |
 | 2016-11-30 | 법률 제14170호, 2016. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183522&efYd=20161130&ancYnChk=0) |
+| 2016-11-30 | 법률 제14251호, 2016. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183713&efYd=20161130&ancYnChk=0) |
