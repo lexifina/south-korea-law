@@ -1,4 +1,4 @@
-# 장애아동복지지원법
+# 장애아동 복지지원법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011443&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2013-12-05 | 법률 제11858호, 2013. 6. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140931&efYd=20131205&ancYnChk=0) |
 | 2015-11-19 | 법률 제13323호, 2015. 5. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=171042&efYd=20151119&ancYnChk=0) |
 | 2016-08-04 | 법률 제14004호, 2016. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180768&efYd=20160804&ancYnChk=0) |
+| 2016-12-02 | 법률 제14332호, 2016. 12. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188097&efYd=20161202&ancYnChk=0) |
