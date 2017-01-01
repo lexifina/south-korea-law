@@ -39,3 +39,4 @@
 | 2015-07-29 | 법률 제13089호, 2015. 1. 28. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167708&efYd=20150729&ancYnChk=0) |
 | 2016-01-06 | 법률 제13738호, 2016. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179093&efYd=20160106&ancYnChk=0) |
 | 2016-07-07 | 법률 제13738호, 2016. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179093&efYd=20160707&ancYnChk=0) |
+| 2017-01-01 | 법률 제13738호, 2016. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179093&efYd=20170101&ancYnChk=0) |
