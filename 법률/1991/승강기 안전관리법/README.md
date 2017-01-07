@@ -35,3 +35,4 @@
 | 2016-01-27 | 법률 제13921호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180614&efYd=20160127&ancYnChk=0) |
 | 2016-07-01 | 법률 제13496호, 2015. 8. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173876&efYd=20160701&ancYnChk=0) |
 | 2016-07-01 | 법률 제13921호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180614&efYd=20160701&ancYnChk=0) |
+| 2017-01-07 | 법률 제13729호, 2016. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179079&efYd=20170107&ancYnChk=0) |
