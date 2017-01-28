@@ -1,4 +1,4 @@
-# 전기용품안전 관리법
+# 전기용품 및 생활용품 안전관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001459&ancYnChk=0>
 
@@ -30,3 +30,4 @@
 | 2014-01-21 | 법률 제12304호, 2014. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=150409&efYd=20140121&ancYnChk=0) |
 | 2014-07-31 | 법률 제11969호, 2013. 7. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142387&efYd=20140731&ancYnChk=0) |
 | 2015-08-04 | 법률 제13153호, 2015. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=168007&efYd=20150804&ancYnChk=0) |
+| 2017-01-28 | 법률 제13859호, 2016. 1. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180398&efYd=20170128&ancYnChk=0) |
