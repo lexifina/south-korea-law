@@ -101,3 +101,4 @@
 | 2016-09-30 | 법률 제14127호, 2016. 3. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=182127&efYd=20160930&ancYnChk=0) |
 | 2017-01-01 | 법률 제13548호, 2015. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177178&efYd=20170101&ancYnChk=0) |
 | 2017-01-01 | 법률 제14379호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188344&efYd=20170101&ancYnChk=0) |
+| 2017-04-01 | 법률 제14379호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188344&efYd=20170401&ancYnChk=0) |
