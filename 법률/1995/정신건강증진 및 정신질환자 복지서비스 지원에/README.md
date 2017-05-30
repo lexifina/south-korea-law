@@ -1,4 +1,4 @@
-# 정신보건법
+# 정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000222&ancYnChk=0>
 
@@ -22,3 +22,4 @@
 | 2015-07-01 | 법률 제12935호, 2014. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165549&efYd=20150701&ancYnChk=0) |
 | 2015-07-29 | 법률 제13110호, 2015. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=167745&efYd=20150729&ancYnChk=0) |
 | 2015-11-19 | 법률 제13323호, 2015. 5. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=171023&efYd=20151119&ancYnChk=0) |
+| 2017-05-30 | 법률 제14224호, 2016. 5. 29. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183629&efYd=20170530&ancYnChk=0) |
