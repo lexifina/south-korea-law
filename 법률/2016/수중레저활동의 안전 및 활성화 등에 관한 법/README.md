@@ -1,0 +1,7 @@
+# 수중레저활동의 안전 및 활성화 등에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012568&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2017-05-30 | 법률 제14243호, 2016. 5. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183703&efYd=20170530&ancYnChk=0) |
