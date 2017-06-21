@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2016-03-28 | 법률 제13248호, 2015. 3. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=169552&efYd=20160328&ancYnChk=0) |
+| 2017-06-21 | 법률 제14434호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188407&efYd=20170621&ancYnChk=0) |
