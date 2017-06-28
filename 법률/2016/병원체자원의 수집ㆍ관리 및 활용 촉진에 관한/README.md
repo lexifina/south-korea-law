@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2017-02-04 | 법률 제13992호, 2016. 2. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180853&efYd=20170204&ancYnChk=0) |
+| 2017-06-28 | 법률 제14513호, 2016. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188819&efYd=20170628&ancYnChk=0) |
