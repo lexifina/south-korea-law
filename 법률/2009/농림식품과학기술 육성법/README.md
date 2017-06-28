@@ -1,4 +1,4 @@
-# 농림수산식품과학기술 육성법
+# 농림식품과학기술 육성법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010957&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2013-03-23 | 법률 제11713호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=138462&efYd=20130323&ancYnChk=0) |
 | 2013-12-13 | 법률 제11874호, 2013. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=141163&efYd=20131213&ancYnChk=0) |
 | 2015-12-23 | 법률 제13383호, 2015. 6. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172283&efYd=20151223&ancYnChk=0) |
+| 2017-06-28 | 법률 제14505호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188722&efYd=20170628&ancYnChk=0) |
