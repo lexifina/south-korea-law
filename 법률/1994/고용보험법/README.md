@@ -48,3 +48,4 @@
 | 2016-08-01 | 법률 제14233호, 2016. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183666&efYd=20160801&ancYnChk=0) |
 | 2016-08-12 | 법률 제13805호, 2016. 1. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179675&efYd=20160812&ancYnChk=0) |
 | 2016-12-27 | 법률 제14496호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188712&efYd=20161227&ancYnChk=0) |
+| 2017-06-28 | 법률 제14496호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188712&efYd=20170628&ancYnChk=0) |
