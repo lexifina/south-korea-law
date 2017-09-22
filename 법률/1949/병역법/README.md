@@ -110,3 +110,4 @@
 | 2016-11-30 | 법률 제14184호, 2016. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183571&efYd=20161130&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195057&efYd=20170726&ancYnChk=0) |
 | 2017-08-09 | 법률 제14555호, 2017. 2. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191614&efYd=20170809&ancYnChk=0) |
+| 2017-09-22 | 법률 제14611호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192448&efYd=20170922&ancYnChk=0) |
