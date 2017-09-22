@@ -1,4 +1,4 @@
-# 유비쿼터스도시의 건설 등에 관한 법률
+# 스마트도시 조성 및 산업진흥 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010730&ancYnChk=0>
 
@@ -21,3 +21,4 @@
 | 2016-12-27 | 법률 제14480호, 2016. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188665&efYd=20161227&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195240&efYd=20170726&ancYnChk=0) |
 | 2017-08-09 | 법률 제14863호, 2017. 8. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=196512&efYd=20170809&ancYnChk=0) |
+| 2017-09-22 | 법률 제14718호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192559&efYd=20170922&ancYnChk=0) |
