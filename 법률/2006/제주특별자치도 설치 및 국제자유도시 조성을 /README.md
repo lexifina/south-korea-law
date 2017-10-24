@@ -193,3 +193,4 @@
 | 2017-09-22 | 법률 제14748호, 2017. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192597&efYd=20170922&ancYnChk=0) |
 | 2017-10-19 | 법률 제14773호, 2017. 4. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=193391&efYd=20171019&ancYnChk=0) |
 | 2017-10-19 | 법률 제14783호, 2017. 4. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=193402&efYd=20171019&ancYnChk=0) |
+| 2017-10-24 | 법률 제14943호, 2017. 10. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198287&efYd=20171024&ancYnChk=0) |
