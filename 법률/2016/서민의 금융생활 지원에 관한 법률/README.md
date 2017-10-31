@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2016-09-23 | 법률 제14095호, 2016. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181894&efYd=20160923&ancYnChk=0) |
+| 2017-10-31 | 법률 제15020호, 2017. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198540&efYd=20171031&ancYnChk=0) |
