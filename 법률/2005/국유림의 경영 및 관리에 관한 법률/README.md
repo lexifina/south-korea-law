@@ -20,3 +20,4 @@
 | 2015-12-23 | 법률 제13383호, 2015. 6. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172298&efYd=20151223&ancYnChk=0) |
 | 2016-07-30 | 법률 제14269호, 2016. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183732&efYd=20160730&ancYnChk=0) |
 | 2017-06-03 | 법률 제14357호, 2016. 12. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188124&efYd=20170603&ancYnChk=0) |
+| 2017-12-01 | 법률 제14978호, 2017. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198488&efYd=20171201&ancYnChk=0) |
