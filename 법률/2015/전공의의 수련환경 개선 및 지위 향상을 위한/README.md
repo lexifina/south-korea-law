@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2016-12-23 | 법률 제13600호, 2015. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177754&efYd=20161223&ancYnChk=0) |
+| 2017-12-23 | 법률 제13600호, 2015. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177754&efYd=20171223&ancYnChk=0) |
