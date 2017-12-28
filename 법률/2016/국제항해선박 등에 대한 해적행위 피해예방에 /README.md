@@ -1,0 +1,7 @@
+# 국제항해선박 등에 대한 해적행위 피해예방에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012709&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2017-12-28 | 법률 제14504호, 2016. 12. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188720&efYd=20171228&ancYnChk=0) |
