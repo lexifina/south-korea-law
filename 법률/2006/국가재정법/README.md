@@ -63,3 +63,4 @@
 | 2017-01-01 | 법률 제14381호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188437&efYd=20170101&ancYnChk=0) |
 | 2017-03-21 | 법률 제14381호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188437&efYd=20170321&ancYnChk=0) |
 | 2017-06-21 | 법률 제14381호, 2016. 12. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188437&efYd=20170621&ancYnChk=0) |
+| 2018-01-01 | 법률 제15284호, 2017. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=200174&efYd=20180101&ancYnChk=0) |
