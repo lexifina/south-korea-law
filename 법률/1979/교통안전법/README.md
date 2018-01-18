@@ -36,3 +36,4 @@
 | 2017-07-18 | 법률 제14538호, 2017. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191136&efYd=20170718&ancYnChk=0) |
 | 2017-09-22 | 법률 제14712호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192552&efYd=20170922&ancYnChk=0) |
 | 2018-01-18 | 법률 제14538호, 2017. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191136&efYd=20180118&ancYnChk=0) |
+| 2018-01-18 | 법률 제14712호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192552&efYd=20180118&ancYnChk=0) |
