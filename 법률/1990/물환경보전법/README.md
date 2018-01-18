@@ -1,4 +1,4 @@
-# 수질 및 수생태계 보전에 관한 법률
+# 물환경보전법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000166&ancYnChk=0>
 
@@ -68,3 +68,4 @@
 | 2017-01-28 | 법률 제13879호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180434&efYd=20170128&ancYnChk=0) |
 | 2017-03-28 | 법률 제14476호, 2016. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188583&efYd=20170328&ancYnChk=0) |
 | 2017-06-28 | 법률 제14490호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188706&efYd=20170628&ancYnChk=0) |
+| 2018-01-18 | 법률 제14532호, 2017. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191041&efYd=20180118&ancYnChk=0) |
