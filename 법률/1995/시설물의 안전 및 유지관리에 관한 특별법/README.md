@@ -1,4 +1,4 @@
-# 시설물의 안전관리에 관한 특별법
+# 시설물의 안전 및 유지관리에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000237&ancYnChk=0>
 
@@ -30,3 +30,4 @@
 | 2016-01-25 | 법률 제13442호, 2015. 7. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173305&efYd=20160125&ancYnChk=0) |
 | 2016-02-12 | 법률 제13484호, 2015. 8. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173885&efYd=20160212&ancYnChk=0) |
 | 2016-07-20 | 법률 제13799호, 2016. 1. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179631&efYd=20160720&ancYnChk=0) |
+| 2018-01-18 | 법률 제14545호, 2017. 1. 17. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191146&efYd=20180118&ancYnChk=0) |
