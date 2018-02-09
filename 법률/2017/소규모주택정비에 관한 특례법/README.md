@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2018-02-09 | 법률 제14569호, 2017. 2. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=191652&efYd=20180209&ancYnChk=0) |
+| 2018-02-09 | 법률 제14719호, 2017. 3. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192633&efYd=20180209&ancYnChk=0) |
