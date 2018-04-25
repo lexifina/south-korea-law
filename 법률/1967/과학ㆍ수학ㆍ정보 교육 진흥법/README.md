@@ -1,4 +1,4 @@
-# 과학교육 진흥법
+# 과학ㆍ수학ㆍ정보 교육 진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000867&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136606&efYd=20130323&ancYnChk=0) |
 | 2013-06-12 | 법률 제11527호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130651&efYd=20130612&ancYnChk=0) |
 | 2016-05-04 | 법률 제13935호, 2016. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180673&efYd=20160504&ancYnChk=0) |
+| 2018-04-25 | 법률 제14903호, 2017. 10. 24. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198221&efYd=20180425&ancYnChk=0) |
