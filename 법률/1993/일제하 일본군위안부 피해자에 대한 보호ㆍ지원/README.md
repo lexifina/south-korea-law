@@ -1,4 +1,4 @@
-# 일제하 일본군위안부 피해자에 대한 생활안정지원 및 기념사업 등에 관한 법률
+# 일제하 일본군위안부 피해자에 대한 보호ㆍ지원 및 기념사업 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000193&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2013-11-29 | 법률 제11834호, 2013. 5. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140559&efYd=20131129&ancYnChk=0) |
 | 2014-09-25 | 법률 제12533호, 2014. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152341&efYd=20140925&ancYnChk=0) |
 | 2016-03-02 | 법률 제14065호, 2016. 3. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181399&efYd=20160302&ancYnChk=0) |
+| 2018-06-13 | 법률 제15207호, 2017. 12. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199553&efYd=20180613&ancYnChk=0) |
