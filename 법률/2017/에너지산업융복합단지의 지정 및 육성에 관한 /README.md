@@ -1,0 +1,7 @@
+# 에너지산업융복합단지의 지정 및 육성에 관한 특별법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=013030&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2018-06-13 | 법률 제15180호, 2017. 12. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199526&efYd=20180613&ancYnChk=0) |
