@@ -8,3 +8,4 @@
 | 1996-08-01 | 법률 제4986호, 1995. 12. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=4326&efYd=19960801&ancYnChk=0) |
 | 2011-04-04 | 법률 제10524호, 2011. 4. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111843&efYd=20110404&ancYnChk=0) |
 | 2017-03-21 | 법률 제14607호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192426&efYd=20170321&ancYnChk=0) |
+| 2018-06-14 | 법률 제15429호, 2018. 3. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202628&efYd=20180614&ancYnChk=0) |
