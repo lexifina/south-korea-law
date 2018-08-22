@@ -48,3 +48,4 @@
 | 2016-12-27 | 법률 제14520호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188744&efYd=20161227&ancYnChk=0) |
 | 2017-03-28 | 법률 제14520호, 2016. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188744&efYd=20170328&ancYnChk=0) |
 | 2018-02-21 | 법률 제15396호, 2018. 2. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202306&efYd=20180221&ancYnChk=0) |
+| 2018-08-22 | 법률 제15396호, 2018. 2. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202306&efYd=20180822&ancYnChk=0) |
