@@ -9,3 +9,4 @@
 | 1980-12-31 | 법률 제3318호, 1980. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60362&efYd=19801231&ancYnChk=0) |
 | 1998-01-01 | 법률 제5454호, 1997. 12. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60358&efYd=19980101&ancYnChk=0) |
 | 1999-01-21 | 법률 제5681호, 1999. 1. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=60359&efYd=19990121&ancYnChk=0) |
+| 2018-09-18 | 법률 제15753호, 2018. 9. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204483&efYd=20180918&ancYnChk=0) |
