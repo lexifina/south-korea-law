@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2018-09-21 | 법률 제15522호, 2018. 3. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202792&efYd=20180921&ancYnChk=0) |
+| 2018-09-21 | 법률 제15554호, 2018. 4. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203162&efYd=20180921&ancYnChk=0) |
