@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 1999-12-01 | 법률 제6008호, 1999. 8. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=8788&efYd=19991201&ancYnChk=0) |
 | 2008-09-06 | 법률 제9091호, 2008. 6. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=87325&efYd=20080906&ancYnChk=0) |
+| 2018-09-21 | 법률 제15522호, 2018. 3. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202806&efYd=20180921&ancYnChk=0) |
