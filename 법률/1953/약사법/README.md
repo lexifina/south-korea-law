@@ -98,3 +98,4 @@
 | 2018-04-25 | 법률 제14926호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198258&efYd=20180425&ancYnChk=0) |
 | 2018-06-12 | 법률 제15709호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203809&efYd=20180612&ancYnChk=0) |
 | 2018-10-25 | 법률 제14926호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198258&efYd=20181025&ancYnChk=0) |
+| 2018-10-25 | 법률 제15709호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203809&efYd=20181025&ancYnChk=0) |
