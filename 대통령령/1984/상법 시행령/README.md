@@ -27,3 +27,4 @@
 | 2016-12-01 | 대통령령 제27556호, 2016. 10. 25. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=187292&efYd=20161201&ancYnChk=0) |
 | 2017-03-30 | 대통령령 제27971호, 2017. 3. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192958&efYd=20170330&ancYnChk=0) |
 | 2017-07-26 | 대통령령 제28211호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195543&efYd=20170726&ancYnChk=0) |
+| 2018-11-01 | 대통령령 제29259호, 2018. 10. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205059&efYd=20181101&ancYnChk=0) |
