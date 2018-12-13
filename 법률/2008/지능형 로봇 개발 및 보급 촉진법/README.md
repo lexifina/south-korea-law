@@ -22,3 +22,4 @@
 | 2016-01-06 | 법률 제13744호, 2016. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179085&efYd=20160106&ancYnChk=0) |
 | 2018-06-12 | 법률 제15645호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203741&efYd=20180612&ancYnChk=0) |
 | 2018-12-11 | 법률 제15869호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205609&efYd=20181211&ancYnChk=0) |
+| 2018-12-13 | 법률 제15645호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203741&efYd=20181213&ancYnChk=0) |
