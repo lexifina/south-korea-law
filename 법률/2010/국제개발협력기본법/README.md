@@ -10,3 +10,4 @@
 | 2013-07-16 | 법률 제11889호, 2013. 7. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142005&efYd=20130716&ancYnChk=0) |
 | 2014-01-01 | 법률 제11889호, 2013. 7. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=142005&efYd=20140101&ancYnChk=0) |
 | 2015-04-16 | 법률 제12767호, 2014. 10. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=160744&efYd=20150416&ancYnChk=0) |
+| 2018-12-24 | 법률 제16023호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206011&efYd=20181224&ancYnChk=0) |
