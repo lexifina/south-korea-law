@@ -92,3 +92,4 @@
 | 2018-10-25 | 법률 제14950호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198295&efYd=20181025&ancYnChk=0) |
 | 2018-12-13 | 법률 제15681호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203778&efYd=20181213&ancYnChk=0) |
 | 2019-01-01 | 법률 제14939호, 2017. 10. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198275&efYd=20190101&ancYnChk=0) |
+| 2019-01-01 | 법률 제14950호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198295&efYd=20190101&ancYnChk=0) |
