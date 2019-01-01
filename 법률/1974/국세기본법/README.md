@@ -78,3 +78,4 @@
 | 2018-04-01 | 법률 제15220호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199736&efYd=20180401&ancYnChk=0) |
 | 2019-01-01 | 법률 제9911호, 2010. 1. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=98313&efYd=20190101&ancYnChk=0) |
 | 2019-01-01 | 법률 제15220호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199736&efYd=20190101&ancYnChk=0) |
+| 2019-01-01 | 법률 제16097호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206291&efYd=20190101&ancYnChk=0) |
