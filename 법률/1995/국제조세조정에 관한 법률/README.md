@@ -36,3 +36,4 @@
 | 2018-01-01 | 법률 제15221호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199737&efYd=20180101&ancYnChk=0) |
 | 2018-07-01 | 법률 제15221호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199737&efYd=20180701&ancYnChk=0) |
 | 2019-01-01 | 법률 제15221호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199737&efYd=20190101&ancYnChk=0) |
+| 2019-01-01 | 법률 제16099호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206293&efYd=20190101&ancYnChk=0) |
