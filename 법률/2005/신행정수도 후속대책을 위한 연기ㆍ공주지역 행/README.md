@@ -70,3 +70,4 @@
 | 2018-01-25 | 법률 제14948호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198313&efYd=20180125&ancYnChk=0) |
 | 2018-04-25 | 법률 제14948호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198313&efYd=20180425&ancYnChk=0) |
 | 2018-12-18 | 법률 제16003호, 2018. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205848&efYd=20181218&ancYnChk=0) |
+| 2019-01-25 | 법률 제14948호, 2017. 10. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198313&efYd=20190125&ancYnChk=0) |
