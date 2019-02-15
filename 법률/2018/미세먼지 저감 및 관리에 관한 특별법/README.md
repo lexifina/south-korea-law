@@ -1,0 +1,7 @@
+# 미세먼지 저감 및 관리에 관한 특별법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=013159&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2019-02-15 | 법률 제15718호, 2018. 8. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204195&efYd=20190215&ancYnChk=0) |
