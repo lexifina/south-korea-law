@@ -34,3 +34,4 @@
 | 2017-12-26 | 법률 제15290호, 2017. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=200180&efYd=20171226&ancYnChk=0) |
 | 2018-06-27 | 법률 제15290호, 2017. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=200180&efYd=20180627&ancYnChk=0) |
 | 2018-11-01 | 법률 제15022호, 2017. 10. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198562&efYd=20181101&ancYnChk=0) |
+| 2019-03-15 | 법률 제15290호, 2017. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=200180&efYd=20190315&ancYnChk=0) |
