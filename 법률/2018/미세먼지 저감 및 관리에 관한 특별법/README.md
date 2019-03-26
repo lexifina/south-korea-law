@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2019-02-15 | 법률 제15718호, 2018. 8. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204195&efYd=20190215&ancYnChk=0) |
+| 2019-03-26 | 법률 제16303호, 2019. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208137&efYd=20190326&ancYnChk=0) |
