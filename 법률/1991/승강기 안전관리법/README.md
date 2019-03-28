@@ -1,4 +1,4 @@
-# 승강기시설 안전관리법
+# 승강기 안전관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001458&ancYnChk=0>
 
@@ -39,3 +39,4 @@
 | 2017-01-28 | 법률 제13859호, 2016. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180382&efYd=20170128&ancYnChk=0) |
 | 2017-01-28 | 법률 제13921호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180614&efYd=20170128&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195282&efYd=20170726&ancYnChk=0) |
+| 2019-03-28 | 법률 제15526호, 2018. 3. 27. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202931&efYd=20190328&ancYnChk=0) |
