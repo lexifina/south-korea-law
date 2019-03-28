@@ -92,3 +92,4 @@
 | 2018-08-10 | 법률 제15364호, 2018. 2. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202073&efYd=20180810&ancYnChk=0) |
 | 2018-09-28 | 법률 제15530호, 2018. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202947&efYd=20180928&ancYnChk=0) |
 | 2019-01-01 | 법률 제15530호, 2018. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202947&efYd=20190101&ancYnChk=0) |
+| 2019-03-28 | 법률 제15530호, 2018. 3. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202947&efYd=20190328&ancYnChk=0) |
