@@ -59,3 +59,4 @@
 | 2018-01-01 | 법률 제15228호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199745&efYd=20180101&ancYnChk=0) |
 | 2019-01-01 | 법률 제16101호, 2018. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206307&efYd=20190101&ancYnChk=0) |
 | 2019-01-01 | 법률 제16110호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206319&efYd=20190101&ancYnChk=0) |
+| 2019-04-01 | 법률 제16110호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206319&efYd=20190401&ancYnChk=0) |
