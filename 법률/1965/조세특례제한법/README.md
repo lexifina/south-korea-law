@@ -295,3 +295,4 @@
 | 2019-01-01 | 법률 제16009호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205929&efYd=20190101&ancYnChk=0) |
 | 2019-04-01 | 법률 제16133호, 2018. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206347&efYd=20190401&ancYnChk=0) |
 | 2019-04-01 | 법률 제16172호, 2018. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206422&efYd=20190401&ancYnChk=0) |
+| 2019-04-30 | 법률 제16413호, 2019. 4. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208557&efYd=20190430&ancYnChk=0) |
