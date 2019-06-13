@@ -60,3 +60,4 @@
 | 2018-12-13 | 법률 제15628호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203723&efYd=20181213&ancYnChk=0) |
 | 2019-03-19 | 법률 제15751호, 2018. 9. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204481&efYd=20190319&ancYnChk=0) |
 | 2019-03-25 | 법률 제16021호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206009&efYd=20190325&ancYnChk=0) |
+| 2019-06-13 | 법률 제15628호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203723&efYd=20190613&ancYnChk=0) |
