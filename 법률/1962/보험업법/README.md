@@ -54,3 +54,4 @@
 | 2018-08-22 | 법률 제15414호, 2018. 2. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202324&efYd=20180822&ancYnChk=0) |
 | 2018-11-01 | 법률 제15022호, 2017. 10. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198556&efYd=20181101&ancYnChk=0) |
 | 2019-06-12 | 법률 제15931호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205675&efYd=20190612&ancYnChk=0) |
+| 2019-07-01 | 법률 제16185호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206443&efYd=20190701&ancYnChk=0) |
