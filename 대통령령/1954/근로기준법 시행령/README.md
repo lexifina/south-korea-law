@@ -51,3 +51,4 @@
 | 2017-01-01 | 대통령령 제27751호, 2016. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=190421&efYd=20170101&ancYnChk=0) |
 | 2018-06-29 | 대통령령 제29010호, 2018. 6. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203965&efYd=20180629&ancYnChk=0) |
 | 2018-07-01 | 대통령령 제29010호, 2018. 6. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203965&efYd=20180701&ancYnChk=0) |
+| 2019-07-02 | 대통령령 제29950호, 2019. 7. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=209651&efYd=20190702&ancYnChk=0) |
