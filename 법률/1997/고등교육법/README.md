@@ -55,3 +55,4 @@
 | 2019-08-01 | 법률 제11212호, 2012. 1. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=122381&efYd=20190801&ancYnChk=0) |
 | 2019-08-01 | 법률 제13819호, 2016. 1. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180330&efYd=20190801&ancYnChk=0) |
 | 2019-08-01 | 법률 제14054호, 2016. 3. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181388&efYd=20190801&ancYnChk=0) |
+| 2019-08-01 | 법률 제15948호, 2018. 12. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205786&efYd=20190801&ancYnChk=0) |
