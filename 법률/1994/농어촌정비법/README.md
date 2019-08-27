@@ -85,3 +85,4 @@
 | 2019-02-16 | 법률 제16228호, 2019. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206653&efYd=20190216&ancYnChk=0) |
 | 2019-04-25 | 법률 제16070호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206069&efYd=20190425&ancYnChk=0) |
 | 2019-07-16 | 법률 제16228호, 2019. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206653&efYd=20190716&ancYnChk=0) |
+| 2019-08-27 | 법률 제16542호, 2019. 8. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=210265&efYd=20190827&ancYnChk=0) |
