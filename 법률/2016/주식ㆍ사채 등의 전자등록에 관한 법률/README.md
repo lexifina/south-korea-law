@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2019-09-16 | 법률 제14096호, 2016. 3. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181895&efYd=20190916&ancYnChk=0) |
+| 2019-09-16 | 법률 제14827호, 2017. 4. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=193480&efYd=20190916&ancYnChk=0) |
