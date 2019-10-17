@@ -7,3 +7,4 @@
 | 2003-10-19 | 법률 제6931호, 2003. 7. 18. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=57182&efYd=20031019&ancYnChk=0) |
 | 2007-01-01 | 법률 제8050호, 2006. 10. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=75768&efYd=20070101&ancYnChk=0) |
 | 2013-12-12 | 법률 제11530호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130670&efYd=20131212&ancYnChk=0) |
+| 2019-10-17 | 법률 제16326호, 2019. 4. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208378&efYd=20191017&ancYnChk=0) |
