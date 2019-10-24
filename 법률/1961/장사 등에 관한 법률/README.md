@@ -33,3 +33,4 @@
 | 2019-04-23 | 법률 제16376호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208469&efYd=20190423&ancYnChk=0) |
 | 2019-06-12 | 법률 제15901호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205645&efYd=20190612&ancYnChk=0) |
 | 2019-07-24 | 법률 제16376호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208469&efYd=20190724&ancYnChk=0) |
+| 2019-10-24 | 법률 제16376호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208469&efYd=20191024&ancYnChk=0) |
