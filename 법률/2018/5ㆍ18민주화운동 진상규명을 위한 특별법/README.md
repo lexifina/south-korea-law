@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2018-09-14 | 법률 제15434호, 2018. 3. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202633&efYd=20180914&ancYnChk=0) |
+| 2019-11-12 | 법률 제16577호, 2019. 11. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211329&efYd=20191112&ancYnChk=0) |
