@@ -33,3 +33,4 @@
 | 2015-07-07 | 법률 제13002호, 2015. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166943&efYd=20150707&ancYnChk=0) |
 | 2018-05-01 | 법률 제15002호, 2017. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=198512&efYd=20180501&ancYnChk=0) |
 | 2019-07-01 | 법률 제16160호, 2018. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206382&efYd=20190701&ancYnChk=0) |
+| 2019-11-21 | 법률 제16506호, 2019. 8. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=210205&efYd=20191121&ancYnChk=0) |
