@@ -15,3 +15,4 @@
 | 2017-04-22 | 법률 제14741호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192587&efYd=20170422&ancYnChk=0) |
 | 2017-09-22 | 법률 제14741호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192587&efYd=20170922&ancYnChk=0) |
 | 2019-08-20 | 법률 제16513호, 2019. 8. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=210212&efYd=20190820&ancYnChk=0) |
+| 2019-11-21 | 법률 제16513호, 2019. 8. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=210212&efYd=20191121&ancYnChk=0) |
