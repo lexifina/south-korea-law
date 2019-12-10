@@ -49,3 +49,4 @@
 | 2018-09-14 | 법률 제15467호, 2018. 3. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202687&efYd=20180914&ancYnChk=0) |
 | 2018-12-11 | 법률 제15928호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205672&efYd=20181211&ancYnChk=0) |
 | 2018-12-31 | 법률 제16174호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206432&efYd=20181231&ancYnChk=0) |
+| 2019-12-10 | 법률 제16819호, 2019. 12. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212265&efYd=20191210&ancYnChk=0) |
