@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2012-01-01 | 법률 제10511호, 2011. 3. 30. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=111574&efYd=20120101&ancYnChk=0) |
 | 2012-11-24 | 법률 제11442호, 2012. 5. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125555&efYd=20121124&ancYnChk=0) |
+| 2019-12-12 | 법률 제15886호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205630&efYd=20191212&ancYnChk=0) |
