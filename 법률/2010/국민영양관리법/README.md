@@ -14,3 +14,4 @@
 | 2019-06-12 | 법률 제15877호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205617&efYd=20190612&ancYnChk=0) |
 | 2019-10-24 | 법률 제16368호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208461&efYd=20191024&ancYnChk=0) |
 | 2019-12-03 | 법률 제16720호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211933&efYd=20191203&ancYnChk=0) |
+| 2019-12-12 | 법률 제15877호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205617&efYd=20191212&ancYnChk=0) |
