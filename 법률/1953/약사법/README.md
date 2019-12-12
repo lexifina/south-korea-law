@@ -104,3 +104,4 @@
 | 2019-03-12 | 법률 제15891호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205635&efYd=20190312&ancYnChk=0) |
 | 2019-06-12 | 법률 제15891호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205635&efYd=20190612&ancYnChk=0) |
 | 2019-07-16 | 법률 제16250호, 2019. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206684&efYd=20190716&ancYnChk=0) |
+| 2019-12-12 | 법률 제15891호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205635&efYd=20191212&ancYnChk=0) |
