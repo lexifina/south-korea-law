@@ -300,3 +300,4 @@
 | 2019-11-01 | 법률 제16407호, 2019. 4. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208538&efYd=20191101&ancYnChk=0) |
 | 2019-11-26 | 법률 제16652호, 2019. 11. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211705&efYd=20191126&ancYnChk=0) |
 | 2019-12-12 | 법률 제15881호, 2018. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205624&efYd=20191212&ancYnChk=0) |
+| 2019-12-31 | 법률 제16835호, 2019. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212779&efYd=20191231&ancYnChk=0) |
