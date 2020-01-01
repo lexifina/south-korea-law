@@ -80,3 +80,4 @@
 | 2019-01-01 | 법률 제15220호, 2017. 12. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199736&efYd=20190101&ancYnChk=0) |
 | 2019-01-01 | 법률 제16097호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206291&efYd=20190101&ancYnChk=0) |
 | 2020-01-01 | 법률 제16097호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206291&efYd=20200101&ancYnChk=0) |
+| 2020-01-01 | 법률 제16841호, 2019. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212999&efYd=20200101&ancYnChk=0) |
