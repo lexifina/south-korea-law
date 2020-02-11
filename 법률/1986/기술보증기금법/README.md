@@ -36,3 +36,4 @@
 | 2018-06-12 | 법률 제15685호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203783&efYd=20180612&ancYnChk=0) |
 | 2019-11-26 | 법률 제16652호, 2019. 11. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211659&efYd=20191126&ancYnChk=0) |
 | 2019-12-10 | 법률 제16814호, 2019. 12. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212255&efYd=20191210&ancYnChk=0) |
+| 2020-02-11 | 법률 제16995호, 2020. 2. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214197&efYd=20200211&ancYnChk=0) |
