@@ -1,4 +1,4 @@
-# 잔류성유기오염물질 관리법
+# 잔류성오염물질 관리법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010383&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2018-10-16 | 법률 제15841호, 2018. 10. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204828&efYd=20181016&ancYnChk=0) |
 | 2018-12-13 | 법률 제15656호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203752&efYd=20181213&ancYnChk=0) |
 | 2019-04-17 | 법률 제15841호, 2018. 10. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204828&efYd=20190417&ancYnChk=0) |
+| 2020-02-20 | 법률 제13886호, 2016. 1. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180450&efYd=20200220&ancYnChk=0) |
