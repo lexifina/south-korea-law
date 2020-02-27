@@ -30,3 +30,4 @@
 | 2019-04-23 | 법률 제16388호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208481&efYd=20190423&ancYnChk=0) |
 | 2019-08-24 | 법률 제16388호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208481&efYd=20190824&ancYnChk=0) |
 | 2019-10-24 | 법률 제16388호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208481&efYd=20191024&ancYnChk=0) |
+| 2020-02-27 | 법률 제16631호, 2019. 11. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211595&efYd=20200227&ancYnChk=0) |
