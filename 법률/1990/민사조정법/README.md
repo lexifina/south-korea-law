@@ -15,3 +15,4 @@
 | 2010-03-31 | 법률 제10200호, 2010. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=103949&efYd=20100331&ancYnChk=0) |
 | 2012-04-18 | 법률 제11157호, 2012. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121951&efYd=20120418&ancYnChk=0) |
 | 2017-02-04 | 법률 제13952호, 2016. 2. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=180710&efYd=20170204&ancYnChk=0) |
+| 2020-03-05 | 법률 제16910호, 2020. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213779&efYd=20200305&ancYnChk=0) |
