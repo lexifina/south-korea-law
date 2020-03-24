@@ -1,4 +1,4 @@
-# 지방세외수입금의 징수 등에 관한 법률
+# 지방행정제재ㆍ부과금의 징수 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011896&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195106&efYd=20170726&ancYnChk=0) |
 | 2018-06-27 | 법률 제15293호, 2017. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=200183&efYd=20180627&ancYnChk=0) |
 | 2020-01-29 | 법률 제16885호, 2020. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213535&efYd=20200129&ancYnChk=0) |
+| 2020-03-24 | 법률 제17091호, 2020. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215681&efYd=20200324&ancYnChk=0) |
