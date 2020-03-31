@@ -1,4 +1,4 @@
-# 공기업의경영구조개선및민영화에관한법률
+# 공기업의 경영구조개선 및 민영화에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000690&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2009-02-04 | 법률 제8635호, 2007. 8. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=80125&efYd=20090204&ancYnChk=0) |
 | 2009-07-31 | 법률 제9401호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91335&efYd=20090731&ancYnChk=0) |
 | 2013-08-29 | 법률 제11845호, 2013. 5. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=140572&efYd=20130829&ancYnChk=0) |
+| 2020-03-31 | 법률 제17131호, 2020. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=216107&efYd=20200331&ancYnChk=0) |
