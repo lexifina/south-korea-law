@@ -109,3 +109,4 @@
 | 2019-05-01 | 법률 제16093호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206544&efYd=20190501&ancYnChk=0) |
 | 2019-07-01 | 법률 제16093호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206544&efYd=20190701&ancYnChk=0) |
 | 2020-01-01 | 법률 제16838호, 2019. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212993&efYd=20200101&ancYnChk=0) |
+| 2020-04-01 | 법률 제16838호, 2019. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212993&efYd=20200401&ancYnChk=0) |
