@@ -1,4 +1,4 @@
-# 소재ㆍ부품전문기업 등의 육성에 관한 특별조치법
+# 소재ㆍ부품ㆍ장비산업 경쟁력강화를 위한 특별조치법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009190&ancYnChk=0>
 
@@ -34,3 +34,4 @@
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195991&efYd=20170726&ancYnChk=0) |
 | 2017-11-28 | 법률 제15087호, 2017. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199127&efYd=20171128&ancYnChk=0) |
 | 2018-04-17 | 법률 제15344호, 2018. 1. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=201153&efYd=20180417&ancYnChk=0) |
+| 2020-04-01 | 법률 제16859호, 2019. 12. 31. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213137&efYd=20200401&ancYnChk=0) |
