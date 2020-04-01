@@ -25,3 +25,4 @@
 | 2018-05-29 | 법률 제15053호, 2017. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199090&efYd=20180529&ancYnChk=0) |
 | 2019-10-24 | 법률 제16347호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208440&efYd=20191024&ancYnChk=0) |
 | 2020-01-01 | 법률 제16851호, 2019. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213027&efYd=20200101&ancYnChk=0) |
+| 2020-04-01 | 법률 제16768호, 2019. 12. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212147&efYd=20200401&ancYnChk=0) |
