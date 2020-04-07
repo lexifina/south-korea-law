@@ -12,3 +12,4 @@
 | 2018-12-11 | 법률 제15896호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205640&efYd=20181211&ancYnChk=0) |
 | 2019-06-12 | 법률 제15896호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205640&efYd=20190612&ancYnChk=0) |
 | 2019-07-01 | 법률 제15896호, 2018. 12. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=205640&efYd=20190701&ancYnChk=0) |
+| 2020-04-07 | 법률 제17212호, 2020. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=217291&efYd=20200407&ancYnChk=0) |
