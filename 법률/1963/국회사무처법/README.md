@@ -22,3 +22,4 @@
 | 2009-02-03 | 법률 제9403호, 2009. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91525&efYd=20090203&ancYnChk=0) |
 | 2013-12-12 | 법률 제11530호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130669&efYd=20131212&ancYnChk=0) |
 | 2018-06-12 | 법률 제15710호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203810&efYd=20180612&ancYnChk=0) |
+| 2020-05-30 | 법률 제17337호, 2020. 5. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218487&efYd=20200530&ancYnChk=0) |
