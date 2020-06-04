@@ -50,3 +50,4 @@
 | 2020-03-04 | 법률 제16725호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212045&efYd=20200304&ancYnChk=0) |
 | 2020-03-04 | 법률 제17067호, 2020. 3. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215387&efYd=20200304&ancYnChk=0) |
 | 2020-04-05 | 법률 제17067호, 2020. 3. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215387&efYd=20200405&ancYnChk=0) |
+| 2020-06-04 | 법률 제16725호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212045&efYd=20200604&ancYnChk=0) |
