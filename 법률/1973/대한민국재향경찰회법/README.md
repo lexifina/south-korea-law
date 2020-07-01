@@ -12,3 +12,4 @@
 | 2000-02-28 | 법률 제6208호, 2000. 1. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=6407&efYd=20000228&ancYnChk=0) |
 | 2010-07-23 | 법률 제10380호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106839&efYd=20100723&ancYnChk=0) |
 | 2011-12-01 | 법률 제10746호, 2011. 5. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113550&efYd=20111201&ancYnChk=0) |
+| 2020-07-01 | 법률 제17167호, 2020. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=216199&efYd=20200701&ancYnChk=0) |
