@@ -1,4 +1,4 @@
-# 특정 범죄자에 대한 보호관찰 및 전자장치 부착 등에 관한 법률
+# 전자장치 부착 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010434&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2018-06-13 | 법률 제15161호, 2017. 12. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199507&efYd=20180613&ancYnChk=0) |
 | 2018-09-18 | 법률 제15759호, 2018. 9. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204489&efYd=20180918&ancYnChk=0) |
 | 2019-04-16 | 법률 제16314호, 2019. 4. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208364&efYd=20190416&ancYnChk=0) |
+| 2020-08-05 | 법률 제16923호, 2020. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213819&efYd=20200805&ancYnChk=0) |
