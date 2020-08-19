@@ -1,4 +1,4 @@
-# 수산업협동조합의 구조개선에 관한 법률
+# 수산업협동조합의 부실예방 및 구조개선에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009546&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2015-02-03 | 법률 제13189호, 2015. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=168058&efYd=20150203&ancYnChk=0) |
 | 2016-12-01 | 법률 제14242호, 2016. 5. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=183689&efYd=20161201&ancYnChk=0) |
 | 2020-02-18 | 법률 제17039호, 2020. 2. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214505&efYd=20200218&ancYnChk=0) |
+| 2020-08-19 | 법률 제17039호, 2020. 2. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214505&efYd=20200819&ancYnChk=0) |
