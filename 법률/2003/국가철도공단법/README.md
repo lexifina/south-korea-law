@@ -1,4 +1,4 @@
-# 한국철도시설공단법
+# 국가철도공단법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009538&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2013-03-23 | 법률 제11690호, 2013. 3. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=137224&efYd=20130323&ancYnChk=0) |
 | 2015-07-07 | 법률 제12995호, 2015. 1. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166559&efYd=20150707&ancYnChk=0) |
 | 2019-12-27 | 법률 제16641호, 2019. 11. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211617&efYd=20191227&ancYnChk=0) |
+| 2020-09-10 | 법률 제17460호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219363&efYd=20200910&ancYnChk=0) |
