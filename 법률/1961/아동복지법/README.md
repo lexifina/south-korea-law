@@ -49,3 +49,4 @@
 | 2019-07-16 | 법률 제16248호, 2019. 1. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206676&efYd=20190716&ancYnChk=0) |
 | 2020-04-07 | 법률 제17206호, 2020. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=217279&efYd=20200407&ancYnChk=0) |
 | 2020-06-04 | 법률 제16737호, 2019. 12. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211973&efYd=20200604&ancYnChk=0) |
+| 2020-10-01 | 법률 제17206호, 2020. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=217279&efYd=20201001&ancYnChk=0) |
