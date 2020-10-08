@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2020-01-01 | 법률 제16145호, 2018. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206362&efYd=20200101&ancYnChk=0) |
 | 2020-04-07 | 법률 제17237호, 2020. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=217393&efYd=20200407&ancYnChk=0) |
+| 2020-10-08 | 법률 제17237호, 2020. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=217393&efYd=20201008&ancYnChk=0) |
