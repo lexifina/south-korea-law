@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2015-08-11 | 법률 제13455호, 2015. 8. 11. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=173982&efYd=20150811&ancYnChk=0) |
+| 2020-10-20 | 법률 제17501호, 2020. 10. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=222423&efYd=20201020&ancYnChk=0) |
