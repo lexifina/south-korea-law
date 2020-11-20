@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2016-06-23 | 법률 제13361호, 2015. 6. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=172391&efYd=20160623&ancYnChk=0) |
 | 2020-02-11 | 법률 제16988호, 2020. 2. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214183&efYd=20200211&ancYnChk=0) |
+| 2020-11-20 | 법률 제17276호, 2020. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218001&efYd=20201120&ancYnChk=0) |
