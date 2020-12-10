@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2014-11-29 | 법률 제12691호, 2014. 5. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154322&efYd=20141129&ancYnChk=0) |
+| 2020-12-10 | 법률 제17406호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219067&efYd=20201210&ancYnChk=0) |
