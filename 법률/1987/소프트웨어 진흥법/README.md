@@ -1,4 +1,4 @@
-# 소프트웨어산업 진흥법
+# 소프트웨어 진흥법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000751&ancYnChk=0>
 
@@ -41,3 +41,4 @@
 | 2016-03-23 | 법률 제13583호, 2015. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177630&efYd=20160323&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195366&efYd=20170726&ancYnChk=0) |
 | 2018-08-22 | 법률 제15371호, 2018. 2. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=202277&efYd=20180822&ancYnChk=0) |
+| 2020-12-10 | 법률 제17348호, 2020. 6. 9. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218849&efYd=20201210&ancYnChk=0) |
