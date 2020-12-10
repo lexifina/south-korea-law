@@ -7,3 +7,4 @@
 | 2012-08-18 | 법률 제11311호, 2012. 2. 17. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=123187&efYd=20120818&ancYnChk=0) |
 | 2018-12-24 | 법률 제16054호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206044&efYd=20181224&ancYnChk=0) |
 | 2020-12-08 | 법률 제17581호, 2020. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=223479&efYd=20201208&ancYnChk=0) |
+| 2020-12-10 | 법률 제17403호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219061&efYd=20201210&ancYnChk=0) |
