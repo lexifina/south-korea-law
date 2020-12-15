@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2020-07-15 | 법률 제16863호, 2020. 1. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213311&efYd=20200715&ancYnChk=0) |
+| 2020-12-15 | 법률 제17645호, 2020. 12. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224233&efYd=20201215&ancYnChk=0) |
