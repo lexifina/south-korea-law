@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2017-12-12 | 법률 제15213호, 2017. 12. 12. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199560&efYd=20171212&ancYnChk=0) |
+| 2020-12-22 | 법률 제17751호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224671&efYd=20201222&ancYnChk=0) |
