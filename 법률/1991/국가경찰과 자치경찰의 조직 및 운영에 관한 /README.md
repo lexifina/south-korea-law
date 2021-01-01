@@ -1,4 +1,4 @@
-# 경찰법
+# 국가경찰과 자치경찰의 조직 및 운영에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000992&ancYnChk=0>
 
@@ -27,3 +27,4 @@
 | 2016-09-23 | 법률 제14079호, 2016. 3. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=181821&efYd=20160923&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195129&efYd=20170726&ancYnChk=0) |
 | 2018-04-17 | 법률 제15566호, 2018. 4. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203175&efYd=20180417&ancYnChk=0) |
+| 2021-01-01 | 법률 제17689호, 2020. 12. 22. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224441&efYd=20210101&ancYnChk=0) |
