@@ -222,3 +222,4 @@
 | 2020-12-29 | 법률 제17769호, 2020. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225379&efYd=20201229&ancYnChk=0) |
 | 2021-01-01 | 법률 제16855호, 2019. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213055&efYd=20210101&ancYnChk=0) |
 | 2021-01-01 | 법률 제17473호, 2020. 8. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=220927&efYd=20210101&ancYnChk=0) |
+| 2021-01-01 | 법률 제17651호, 2020. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224321&efYd=20210101&ancYnChk=0) |
