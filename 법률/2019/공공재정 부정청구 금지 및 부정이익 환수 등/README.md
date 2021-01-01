@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2020-01-01 | 법률 제16323호, 2019. 4. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208373&efYd=20200101&ancYnChk=0) |
 | 2020-03-24 | 법률 제17091호, 2020. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215707&efYd=20200324&ancYnChk=0) |
+| 2021-01-01 | 법률 제17689호, 2020. 12. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224459&efYd=20210101&ancYnChk=0) |
