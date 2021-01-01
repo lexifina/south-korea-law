@@ -32,3 +32,4 @@
 | 2016-09-06 | 대법원규칙 제2678호, 2016. 9. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=186200&efYd=20160906&ancYnChk=0) |
 | 2016-12-01 | 대법원규칙 제2696호, 2016. 11. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=187998&efYd=20161201&ancYnChk=0) |
 | 2020-06-26 | 대법원규칙 제2906호, 2020. 6. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219867&efYd=20200626&ancYnChk=0) |
+| 2021-01-01 | 대법원규칙 제2939호, 2020. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225419&efYd=20210101&ancYnChk=0) |
