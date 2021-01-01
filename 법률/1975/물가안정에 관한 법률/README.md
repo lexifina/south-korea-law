@@ -16,3 +16,4 @@
 | 2010-06-30 | 법률 제9828호, 2009. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=97967&efYd=20100630&ancYnChk=0) |
 | 2011-05-02 | 법률 제10623호, 2011. 5. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=112866&efYd=20110502&ancYnChk=0) |
 | 2020-07-01 | 법률 제17144호, 2020. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=216133&efYd=20200701&ancYnChk=0) |
+| 2021-01-01 | 법률 제17007호, 2020. 2. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214323&efYd=20210101&ancYnChk=0) |
