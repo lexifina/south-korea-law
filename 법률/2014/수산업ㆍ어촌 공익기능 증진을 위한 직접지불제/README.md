@@ -1,4 +1,4 @@
-# 수산직접지불제 시행에 관한 법률
+# 수산업ㆍ어촌 공익기능 증진을 위한 직접지불제도 운영에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012154&ancYnChk=0>
 
@@ -10,3 +10,4 @@
 | 2018-12-31 | 법률 제16154호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206372&efYd=20181231&ancYnChk=0) |
 | 2020-01-29 | 법률 제16900호, 2020. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213565&efYd=20200129&ancYnChk=0) |
 | 2020-12-08 | 법률 제17618호, 2020. 12. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=223601&efYd=20201208&ancYnChk=0) |
+| 2021-03-01 | 법률 제17331호, 2020. 5. 26. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218315&efYd=20210301&ancYnChk=0) |
