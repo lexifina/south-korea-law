@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2021-03-25 | 법률 제17112호, 2020. 3. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215931&efYd=20210325&ancYnChk=0) |
+| 2021-03-25 | 법률 제17292호, 2020. 5. 19. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218047&efYd=20210325&ancYnChk=0) |
