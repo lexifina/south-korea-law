@@ -56,3 +56,4 @@
 | 2019-07-16 | 대통령령 제29964호, 2019. 7. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=209868&efYd=20190716&ancYnChk=0) |
 | 2020-01-16 | 대통령령 제30256호, 2019. 12. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212419&efYd=20200116&ancYnChk=0) |
 | 2020-03-03 | 대통령령 제30509호, 2020. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215035&efYd=20200303&ancYnChk=0) |
+| 2021-04-06 | 대통령령 제31584호, 2021. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230521&efYd=20210406&ancYnChk=0) |
