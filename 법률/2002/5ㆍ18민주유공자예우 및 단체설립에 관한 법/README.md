@@ -1,4 +1,4 @@
-# 5ㆍ18민주유공자예우에 관한 법률
+# 5ㆍ18민주유공자예우 및 단체설립에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009289&ancYnChk=0>
 
@@ -44,3 +44,4 @@
 | 2018-12-13 | 법률 제15700호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203800&efYd=20181213&ancYnChk=0) |
 | 2019-04-30 | 법률 제16424호, 2019. 4. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208592&efYd=20190430&ancYnChk=0) |
 | 2020-01-01 | 법률 제16851호, 2019. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213023&efYd=20200101&ancYnChk=0) |
+| 2021-04-06 | 법률 제17883호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228215&efYd=20210406&ancYnChk=0) |
