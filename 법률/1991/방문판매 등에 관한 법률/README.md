@@ -30,3 +30,4 @@
 | 2018-05-29 | 법률 제15140호, 2017. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199183&efYd=20180529&ancYnChk=0) |
 | 2018-06-12 | 법률 제15695호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203795&efYd=20180612&ancYnChk=0) |
 | 2018-12-13 | 법률 제15695호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203795&efYd=20181213&ancYnChk=0) |
+| 2021-05-21 | 법률 제18112호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231731&efYd=20210521&ancYnChk=0) |
