@@ -64,3 +64,4 @@
 | 2020-03-04 | 법률 제16733호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211959&efYd=20200304&ancYnChk=0) |
 | 2020-06-04 | 법률 제16733호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211959&efYd=20200604&ancYnChk=0) |
 | 2021-06-04 | 법률 제16733호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211959&efYd=20210604&ancYnChk=0) |
+| 2021-06-08 | 법률 제18220호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232567&efYd=20210608&ancYnChk=0) |
