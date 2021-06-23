@@ -12,3 +12,4 @@
 | 2021-01-23 | 법률 제17714호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224597&efYd=20210123&ancYnChk=0) |
 | 2021-03-23 | 법률 제17714호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224597&efYd=20210323&ancYnChk=0) |
 | 2021-04-13 | 법률 제18012호, 2021. 4. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231395&efYd=20210413&ancYnChk=0) |
+| 2021-06-23 | 법률 제17714호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224597&efYd=20210623&ancYnChk=0) |
