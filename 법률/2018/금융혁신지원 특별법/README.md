@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2019-04-01 | 법률 제16183호, 2018. 12. 31. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206441&efYd=20190401&ancYnChk=0) |
 | 2021-04-20 | 법률 제18117호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231755&efYd=20210420&ancYnChk=0) |
+| 2021-07-21 | 법률 제18117호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231755&efYd=20210721&ancYnChk=0) |
