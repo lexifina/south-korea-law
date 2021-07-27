@@ -93,3 +93,4 @@
 | 2021-01-01 | 법률 제17809호, 2020. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225157&efYd=20210101&ancYnChk=0) |
 | 2021-06-30 | 법률 제17809호, 2020. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225157&efYd=20210630&ancYnChk=0) |
 | 2021-07-01 | 법률 제17809호, 2020. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225157&efYd=20210701&ancYnChk=0) |
+| 2021-07-27 | 법률 제18363호, 2021. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234355&efYd=20210727&ancYnChk=0) |
