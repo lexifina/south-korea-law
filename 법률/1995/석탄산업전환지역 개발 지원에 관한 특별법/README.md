@@ -38,3 +38,4 @@
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195170&efYd=20170726&ancYnChk=0) |
 | 2020-08-05 | 법률 제16948호, 2020. 2. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213903&efYd=20200805&ancYnChk=0) |
 | 2021-08-17 | 법률 제18432호, 2021. 8. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234831&efYd=20210817&ancYnChk=0) |
+| 2021-09-10 | 법률 제17918호, 2021. 3. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230083&efYd=20210910&ancYnChk=0) |
