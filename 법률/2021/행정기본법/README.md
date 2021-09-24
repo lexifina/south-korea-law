@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2021-03-23 | 법률 제17979호, 2021. 3. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230457&efYd=20210323&ancYnChk=0) |
+| 2021-09-24 | 법률 제17979호, 2021. 3. 23. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230457&efYd=20210924&ancYnChk=0) |
