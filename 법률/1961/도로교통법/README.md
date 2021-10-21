@@ -108,3 +108,4 @@
 | 2021-05-13 | 법률 제17891호, 2021. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228483&efYd=20210513&ancYnChk=0) |
 | 2021-07-13 | 법률 제17891호, 2021. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228483&efYd=20210713&ancYnChk=0) |
 | 2021-10-21 | 법률 제17514호, 2020. 10. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=222453&efYd=20211021&ancYnChk=0) |
+| 2021-10-21 | 법률 제17891호, 2021. 1. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228483&efYd=20211021&ancYnChk=0) |
