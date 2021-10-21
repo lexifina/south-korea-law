@@ -14,3 +14,4 @@
 | 2020-11-20 | 법률 제17300호, 2020. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218063&efYd=20201120&ancYnChk=0) |
 | 2021-04-20 | 법률 제18132호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231825&efYd=20210420&ancYnChk=0) |
 | 2021-07-21 | 법률 제18132호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231825&efYd=20210721&ancYnChk=0) |
+| 2021-10-21 | 법률 제18132호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231825&efYd=20211021&ancYnChk=0) |
