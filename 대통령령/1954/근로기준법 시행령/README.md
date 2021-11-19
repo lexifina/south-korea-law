@@ -58,3 +58,4 @@
 | 2020-03-03 | 대통령령 제30509호, 2020. 3. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215035&efYd=20200303&ancYnChk=0) |
 | 2021-04-06 | 대통령령 제31584호, 2021. 3. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230521&efYd=20210406&ancYnChk=0) |
 | 2021-10-14 | 대통령령 제32049호, 2021. 10. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236083&efYd=20211014&ancYnChk=0) |
+| 2021-11-19 | 대통령령 제32130호, 2021. 11. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236819&efYd=20211119&ancYnChk=0) |
