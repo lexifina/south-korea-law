@@ -25,3 +25,4 @@
 | 2021-06-09 | 법률 제17640호, 2020. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=223657&efYd=20210609&ancYnChk=0) |
 | 2021-06-23 | 법률 제17755호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224679&efYd=20210623&ancYnChk=0) |
 | 2021-10-21 | 법률 제18145호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231867&efYd=20211021&ancYnChk=0) |
+| 2021-12-09 | 법률 제18238호, 2021. 6. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232705&efYd=20211209&ancYnChk=0) |
