@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2011-01-01 | 법률 제10284호, 2010. 5. 14. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105138&efYd=20110101&ancYnChk=0) |
 | 2015-01-01 | 법률 제12778호, 2014. 10. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=161002&efYd=20150101&ancYnChk=0) |
+| 2021-12-21 | 법률 제18585호, 2021. 12. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238025&efYd=20211221&ancYnChk=0) |
