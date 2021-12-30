@@ -35,3 +35,4 @@
 | 2020-12-10 | 대통령령 제31222호, 2020. 12. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=223773&efYd=20201210&ancYnChk=0) |
 | 2021-01-01 | 대통령령 제30363호, 2020. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=213713&efYd=20210101&ancYnChk=0) |
 | 2021-02-01 | 대통령령 제31422호, 2021. 2. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228909&efYd=20210201&ancYnChk=0) |
+| 2021-12-30 | 대통령령 제32274호, 2021. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238557&efYd=20211230&ancYnChk=0) |
