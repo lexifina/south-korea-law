@@ -110,3 +110,4 @@
 | 2021-09-10 | 법률 제17919호, 2021. 3. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=230113&efYd=20210910&ancYnChk=0) |
 | 2021-10-21 | 법률 제18075호, 2021. 4. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231699&efYd=20211021&ancYnChk=0) |
 | 2021-10-21 | 법률 제18128호, 2021. 4. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231813&efYd=20211021&ancYnChk=0) |
+| 2021-12-30 | 법률 제17799호, 2020. 12. 29. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=225383&efYd=20211230&ancYnChk=0) |
