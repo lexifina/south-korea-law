@@ -13,3 +13,4 @@
 | 2008-01-01 | 법률 제8536호, 2007. 7. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=79791&efYd=20080101&ancYnChk=0) |
 | 2009-01-07 | 법률 제9343호, 2009. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91141&efYd=20090107&ancYnChk=0) |
 | 2011-05-19 | 법률 제10630호, 2011. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113165&efYd=20110519&ancYnChk=0) |
+| 2022-01-04 | 법률 제18717호, 2022. 1. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238913&efYd=20220104&ancYnChk=0) |
