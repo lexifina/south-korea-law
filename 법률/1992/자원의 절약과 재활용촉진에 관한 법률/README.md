@@ -56,3 +56,4 @@
 | 2021-02-06 | 법률 제17847호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228127&efYd=20210206&ancYnChk=0) |
 | 2021-06-10 | 법률 제17426호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219111&efYd=20210610&ancYnChk=0) |
 | 2021-07-06 | 법률 제17847호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228127&efYd=20210706&ancYnChk=0) |
+| 2022-01-06 | 법률 제17847호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228127&efYd=20220106&ancYnChk=0) |
