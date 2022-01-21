@@ -1,0 +1,7 @@
+# 여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=014120&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2022-01-21 | 법률 제18303호, 2021. 7. 20. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=233959&efYd=20220121&ancYnChk=0) |
