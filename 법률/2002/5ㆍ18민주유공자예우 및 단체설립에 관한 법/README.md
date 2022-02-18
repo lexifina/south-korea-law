@@ -49,3 +49,4 @@
 | 2021-06-08 | 법률 제18229호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232661&efYd=20210608&ancYnChk=0) |
 | 2021-10-21 | 법률 제18133호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231769&efYd=20211021&ancYnChk=0) |
 | 2022-02-18 | 법률 제18425호, 2021. 8. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234817&efYd=20220218&ancYnChk=0) |
+| 2022-02-18 | 법률 제18439호, 2021. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234839&efYd=20220218&ancYnChk=0) |
