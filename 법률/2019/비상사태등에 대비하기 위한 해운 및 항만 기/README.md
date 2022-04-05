@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2020-01-16 | 법률 제16279호, 2019. 1. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206733&efYd=20200116&ancYnChk=0) |
+| 2022-04-05 | 법률 제18696호, 2022. 1. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238865&efYd=20220405&ancYnChk=0) |
