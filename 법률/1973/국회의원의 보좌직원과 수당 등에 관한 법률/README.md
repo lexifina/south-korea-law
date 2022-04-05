@@ -1,4 +1,4 @@
-# 국회의원수당 등에 관한 법률
+# 국회의원의 보좌직원과 수당 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001408&ancYnChk=0>
 
@@ -20,3 +20,4 @@
 | 2017-04-22 | 법률 제14758호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192608&efYd=20170422&ancYnChk=0) |
 | 2017-12-12 | 법률 제15215호, 2017. 12. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199562&efYd=20171212&ancYnChk=0) |
 | 2018-06-12 | 법률 제15711호, 2018. 6. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=203811&efYd=20180612&ancYnChk=0) |
+| 2022-04-05 | 법률 제18719호, 2022. 1. 4. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238915&efYd=20220405&ancYnChk=0) |
