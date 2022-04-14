@@ -33,3 +33,4 @@
 | 2020-05-26 | 법률 제17326호, 2020. 5. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218177&efYd=20200526&ancYnChk=0) |
 | 2021-04-13 | 법률 제18027호, 2021. 4. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231457&efYd=20210413&ancYnChk=0) |
 | 2021-10-14 | 법률 제18027호, 2021. 4. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231457&efYd=20211014&ancYnChk=0) |
+| 2022-04-14 | 법률 제18027호, 2021. 4. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231457&efYd=20220414&ancYnChk=0) |
