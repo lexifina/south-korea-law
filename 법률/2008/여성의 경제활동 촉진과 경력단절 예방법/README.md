@@ -1,4 +1,4 @@
-# 경력단절여성등의 경제활동 촉진법
+# 여성의 경제활동 촉진과 경력단절 예방법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=010761&ancYnChk=0>
 
@@ -11,3 +11,4 @@
 | 2015-07-01 | 법률 제12698호, 2014. 5. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=154270&efYd=20150701&ancYnChk=0) |
 | 2017-09-22 | 법률 제14701호, 2017. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192541&efYd=20170922&ancYnChk=0) |
 | 2020-05-27 | 법률 제16621호, 2019. 11. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211575&efYd=20200527&ancYnChk=0) |
+| 2022-06-08 | 법률 제18549호, 2021. 12. 7. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237359&efYd=20220608&ancYnChk=0) |
