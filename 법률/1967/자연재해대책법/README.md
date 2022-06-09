@@ -99,3 +99,4 @@
 | 2021-06-08 | 법률 제18205호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232555&efYd=20210608&ancYnChk=0) |
 | 2021-10-21 | 법률 제18090호, 2021. 4. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231673&efYd=20211021&ancYnChk=0) |
 | 2021-12-09 | 법률 제18205호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232555&efYd=20211209&ancYnChk=0) |
+| 2022-06-09 | 법률 제18205호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232555&efYd=20220609&ancYnChk=0) |
