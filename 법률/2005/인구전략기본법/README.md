@@ -11,3 +11,4 @@
 | 2012-11-24 | 법률 제11444호, 2012. 5. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=125558&efYd=20121124&ancYnChk=0) |
 | 2014-03-18 | 법률 제12449호, 2014. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=152037&efYd=20140318&ancYnChk=0) |
 | 2022-04-01 | 법률 제18580호, 2021. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237517&efYd=20220401&ancYnChk=0) |
+| 2022-06-15 | 법률 제18580호, 2021. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237517&efYd=20220615&ancYnChk=0) |
