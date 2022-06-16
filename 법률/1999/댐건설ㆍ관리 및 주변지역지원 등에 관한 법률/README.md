@@ -1,4 +1,4 @@
-# 댐건설 및 주변지역지원 등에 관한 법률
+# 댐건설ㆍ관리 및 주변지역지원 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001981&ancYnChk=0>
 
@@ -47,3 +47,4 @@
 | 2020-10-01 | 법률 제17175호, 2020. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=216337&efYd=20201001&ancYnChk=0) |
 | 2021-06-15 | 법률 제18284호, 2021. 6. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=233065&efYd=20210615&ancYnChk=0) |
 | 2021-12-16 | 법률 제18284호, 2021. 6. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=233065&efYd=20211216&ancYnChk=0) |
+| 2022-06-16 | 법률 제18284호, 2021. 6. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=233065&efYd=20220616&ancYnChk=0) |
