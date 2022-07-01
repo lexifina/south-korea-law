@@ -71,3 +71,4 @@
 | 2021-06-30 | 법률 제17772호, 2020. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224911&efYd=20210630&ancYnChk=0) |
 | 2021-12-09 | 법률 제18211호, 2021. 6. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232557&efYd=20211209&ancYnChk=0) |
 | 2022-06-10 | 법률 제18895호, 2022. 6. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=242985&efYd=20220610&ancYnChk=0) |
+| 2022-07-01 | 법률 제16728호, 2019. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211949&efYd=20220701&ancYnChk=0) |
