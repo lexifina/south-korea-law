@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2022-03-25 | 법률 제18469호, 2021. 9. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=235581&efYd=20220325&ancYnChk=0) |
+| 2022-07-01 | 법률 제18469호, 2021. 9. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=235581&efYd=20220701&ancYnChk=0) |
