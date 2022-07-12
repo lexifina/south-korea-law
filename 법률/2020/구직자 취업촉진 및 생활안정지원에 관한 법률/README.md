@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2021-01-01 | 법률 제17431호, 2020. 6. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219121&efYd=20210101&ancYnChk=0) |
 | 2021-07-27 | 법률 제18368호, 2021. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234427&efYd=20210727&ancYnChk=0) |
+| 2022-07-12 | 법률 제18744호, 2022. 1. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239283&efYd=20220712&ancYnChk=0) |
