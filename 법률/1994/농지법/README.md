@@ -65,3 +65,4 @@
 | 2021-08-17 | 법률 제18401호, 2021. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234697&efYd=20210817&ancYnChk=0) |
 | 2021-10-14 | 법률 제18021호, 2021. 4. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=231407&efYd=20211014&ancYnChk=0) |
 | 2022-05-18 | 법률 제18401호, 2021. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234697&efYd=20220518&ancYnChk=0) |
+| 2022-08-18 | 법률 제18401호, 2021. 8. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234697&efYd=20220818&ancYnChk=0) |
