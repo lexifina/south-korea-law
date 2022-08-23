@@ -37,3 +37,4 @@
 | 2021-02-01 | 대통령령 제31422호, 2021. 2. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228909&efYd=20210201&ancYnChk=0) |
 | 2021-12-30 | 대통령령 제32274호, 2021. 12. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238557&efYd=20211230&ancYnChk=0) |
 | 2022-08-09 | 대통령령 제32868호, 2022. 8. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244193&efYd=20220809&ancYnChk=0) |
+| 2022-08-23 | 대통령령 제32881호, 2022. 8. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244401&efYd=20220823&ancYnChk=0) |
