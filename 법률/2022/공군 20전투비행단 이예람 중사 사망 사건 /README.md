@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2022-04-26 | 법률 제18843호, 2022. 4. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=241911&efYd=20220426&ancYnChk=0) |
+| 2022-09-10 | 법률 제18861호, 2022. 5. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=242099&efYd=20220910&ancYnChk=0) |
