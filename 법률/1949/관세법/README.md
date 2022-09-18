@@ -123,3 +123,4 @@
 | 2022-01-01 | 법률 제18583호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237871&efYd=20220101&ancYnChk=0) |
 | 2022-04-01 | 법률 제18583호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237871&efYd=20220401&ancYnChk=0) |
 | 2022-07-01 | 법률 제18583호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237871&efYd=20220701&ancYnChk=0) |
+| 2022-09-18 | 법률 제18976호, 2022. 9. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244623&efYd=20220918&ancYnChk=0) |
