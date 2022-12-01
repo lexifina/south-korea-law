@@ -1,4 +1,4 @@
-# 화재예방, 소방시설 설치ㆍ유지 및 안전관리에 관한 법률
+# 소방시설 설치 및 관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009503&ancYnChk=0>
 
@@ -40,3 +40,4 @@
 | 2020-05-27 | 법률 제16596호, 2019. 11. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211515&efYd=20200527&ancYnChk=0) |
 | 2020-12-10 | 법률 제17395호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219045&efYd=20201210&ancYnChk=0) |
 | 2021-01-01 | 법률 제17007호, 2020. 2. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214409&efYd=20210101&ancYnChk=0) |
+| 2022-12-01 | 법률 제18522호, 2021. 11. 30. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236977&efYd=20221201&ancYnChk=0) |
