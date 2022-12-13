@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2021-06-23 | 법률 제17680호, 2020. 12. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224691&efYd=20210623&ancYnChk=0) |
+| 2022-12-13 | 법률 제19075호, 2022. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245915&efYd=20221213&ancYnChk=0) |
