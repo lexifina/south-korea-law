@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2016-11-22 | 법률 제14276호, 2016. 11. 22. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=187653&efYd=20161122&ancYnChk=0) |
+| 2022-12-27 | 법률 제19099호, 2022. 12. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=246571&efYd=20221227&ancYnChk=0) |
