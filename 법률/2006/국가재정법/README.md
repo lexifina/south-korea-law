@@ -80,3 +80,4 @@
 | 2022-01-01 | 법률 제18585호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238017&efYd=20220101&ancYnChk=0) |
 | 2022-03-22 | 법률 제18585호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238017&efYd=20220322&ancYnChk=0) |
 | 2022-03-25 | 법률 제18469호, 2021. 9. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=235617&efYd=20220325&ancYnChk=0) |
+| 2023-01-01 | 법률 제18585호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238017&efYd=20230101&ancYnChk=0) |
