@@ -90,3 +90,4 @@
 | 2022-01-01 | 법률 제9346호, 2009. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91419&efYd=20220101&ancYnChk=0) |
 | 2022-01-01 | 법률 제18586호, 2021. 12. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238033&efYd=20220101&ancYnChk=0) |
 | 2023-01-01 | 법률 제19189호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247433&efYd=20230101&ancYnChk=0) |
+| 2023-04-01 | 법률 제19189호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247433&efYd=20230401&ancYnChk=0) |
