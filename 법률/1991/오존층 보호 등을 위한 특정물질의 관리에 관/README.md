@@ -1,4 +1,4 @@
-# 오존층 보호를 위한 특정물질의 제조규제 등에 관한 법률
+# 오존층 보호 등을 위한 특정물질의 관리에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000324&ancYnChk=0>
 
@@ -23,3 +23,4 @@
 | 2015-01-01 | 법률 제12858호, 2014. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165320&efYd=20150101&ancYnChk=0) |
 | 2017-06-03 | 법률 제14314호, 2016. 12. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188078&efYd=20170603&ancYnChk=0) |
 | 2018-09-18 | 법률 제15776호, 2018. 9. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=204506&efYd=20180918&ancYnChk=0) |
+| 2023-04-19 | 법률 제19002호, 2022. 10. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244977&efYd=20230419&ancYnChk=0) |
