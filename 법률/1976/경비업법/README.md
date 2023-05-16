@@ -35,3 +35,4 @@
 | 2021-01-12 | 법률 제17894호, 2021. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228631&efYd=20210112&ancYnChk=0) |
 | 2021-07-13 | 법률 제17894호, 2021. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228631&efYd=20210713&ancYnChk=0) |
 | 2022-11-15 | 법률 제19021호, 2022. 11. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245245&efYd=20221115&ancYnChk=0) |
+| 2023-05-16 | 법률 제19021호, 2022. 11. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245245&efYd=20230516&ancYnChk=0) |
