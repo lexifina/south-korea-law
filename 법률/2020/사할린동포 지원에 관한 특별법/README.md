@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2021-01-01 | 법률 제17305호, 2020. 5. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218119&efYd=20210101&ancYnChk=0) |
+| 2023-06-05 | 법률 제19228호, 2023. 3. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248489&efYd=20230605&ancYnChk=0) |
