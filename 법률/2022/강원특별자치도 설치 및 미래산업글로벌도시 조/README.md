@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2023-06-11 | 법률 제18875호, 2022. 6. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=242883&efYd=20230611&ancYnChk=0) |
+| 2023-06-11 | 법률 제18994호, 2022. 10. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245011&efYd=20230611&ancYnChk=0) |
