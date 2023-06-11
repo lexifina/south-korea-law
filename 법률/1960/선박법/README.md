@@ -30,3 +30,4 @@
 | 2018-12-31 | 법률 제16151호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206369&efYd=20181231&ancYnChk=0) |
 | 2019-07-01 | 법률 제16151호, 2018. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206369&efYd=20190701&ancYnChk=0) |
 | 2019-07-01 | 법률 제16160호, 2018. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206381&efYd=20190701&ancYnChk=0) |
+| 2023-06-11 | 법률 제18957호, 2022. 6. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=243141&efYd=20230611&ancYnChk=0) |
