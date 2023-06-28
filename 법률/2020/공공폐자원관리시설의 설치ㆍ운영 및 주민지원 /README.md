@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2021-06-10 | 법률 제17423호, 2020. 6. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219105&efYd=20210610&ancYnChk=0) |
 | 2022-01-11 | 법률 제18750호, 2022. 1. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239345&efYd=20220111&ancYnChk=0) |
+| 2023-06-28 | 법률 제19117호, 2022. 12. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=246659&efYd=20230628&ancYnChk=0) |
