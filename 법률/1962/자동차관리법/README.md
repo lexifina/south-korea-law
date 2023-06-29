@@ -121,3 +121,4 @@
 | 2022-12-11 | 법률 제18949호, 2022. 6. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=243089&efYd=20221211&ancYnChk=0) |
 | 2023-06-11 | 법률 제18949호, 2022. 6. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=243089&efYd=20230611&ancYnChk=0) |
 | 2023-06-11 | 법률 제19054호, 2022. 11. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245365&efYd=20230611&ancYnChk=0) |
+| 2023-06-29 | 법률 제19315호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249351&efYd=20230629&ancYnChk=0) |
