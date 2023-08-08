@@ -20,3 +20,4 @@
 | 2017-11-28 | 법률 제15060호, 2017. 11. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=199097&efYd=20171128&ancYnChk=0) |
 | 2018-12-24 | 법률 제16052호, 2018. 12. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206042&efYd=20181224&ancYnChk=0) |
 | 2021-05-18 | 법률 제18148호, 2021. 5. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232129&efYd=20210518&ancYnChk=0) |
+| 2023-08-08 | 법률 제19592호, 2023. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253549&efYd=20230808&ancYnChk=0) |
