@@ -23,3 +23,4 @@
 | 2021-03-23 | 법률 제17717호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224603&efYd=20210323&ancYnChk=0) |
 | 2023-03-28 | 법률 제18985호, 2022. 9. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244737&efYd=20230328&ancYnChk=0) |
 | 2023-03-28 | 법률 제18986호, 2022. 9. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=244709&efYd=20230328&ancYnChk=0) |
+| 2023-08-08 | 법률 제19592호, 2023. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253587&efYd=20230808&ancYnChk=0) |
