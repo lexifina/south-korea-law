@@ -23,3 +23,4 @@
 | 2021-07-20 | 법률 제18316호, 2021. 7. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234127&efYd=20210720&ancYnChk=0) |
 | 2023-06-01 | 법률 제19426호, 2023. 6. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251383&efYd=20230601&ancYnChk=0) |
 | 2023-07-10 | 법률 제19430호, 2023. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251643&efYd=20230710&ancYnChk=0) |
+| 2023-09-29 | 법률 제19316호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249353&efYd=20230929&ancYnChk=0) |
