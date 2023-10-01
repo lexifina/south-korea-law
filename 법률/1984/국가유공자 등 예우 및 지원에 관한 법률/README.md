@@ -99,3 +99,4 @@
 | 2023-06-17 | 법률 제19092호, 2022. 12. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=246155&efYd=20230617&ancYnChk=0) |
 | 2023-06-17 | 법률 제19228호, 2023. 3. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248539&efYd=20230617&ancYnChk=0) |
 | 2023-07-11 | 법률 제19523호, 2023. 7. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252487&efYd=20230711&ancYnChk=0) |
+| 2023-10-01 | 법률 제19523호, 2023. 7. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252487&efYd=20231001&ancYnChk=0) |
