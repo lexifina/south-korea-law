@@ -46,3 +46,4 @@
 | 2023-06-20 | 법률 제19502호, 2023. 6. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251929&efYd=20230620&ancYnChk=0) |
 | 2023-07-04 | 법률 제19176호, 2023. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247285&efYd=20230704&ancYnChk=0) |
 | 2023-09-29 | 법률 제19317호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249395&efYd=20230929&ancYnChk=0) |
+| 2023-10-04 | 법률 제19176호, 2023. 1. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247285&efYd=20231004&ancYnChk=0) |
