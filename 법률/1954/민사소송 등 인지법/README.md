@@ -26,3 +26,4 @@
 | 2011-10-19 | 법률 제10860호, 2011. 7. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=114883&efYd=20111019&ancYnChk=0) |
 | 2012-01-17 | 법률 제11156호, 2012. 1. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=121950&efYd=20120117&ancYnChk=0) |
 | 2015-07-01 | 법률 제12892호, 2014. 12. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=165498&efYd=20150701&ancYnChk=0) |
+| 2023-10-19 | 법률 제19353호, 2023. 4. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250019&efYd=20231019&ancYnChk=0) |
