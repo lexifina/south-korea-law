@@ -91,3 +91,4 @@
 | 2022-07-05 | 법률 제18680호, 2022. 1. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238803&efYd=20220705&ancYnChk=0) |
 | 2022-12-13 | 법률 제19078호, 2022. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245989&efYd=20221213&ancYnChk=0) |
 | 2023-06-14 | 법률 제19078호, 2022. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245989&efYd=20230614&ancYnChk=0) |
+| 2023-10-31 | 법률 제19787호, 2023. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=255647&efYd=20231031&ancYnChk=0) |
