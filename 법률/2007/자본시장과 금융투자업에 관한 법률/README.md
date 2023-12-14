@@ -74,3 +74,4 @@
 | 2023-01-01 | 법률 제19211호, 2022. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247519&efYd=20230101&ancYnChk=0) |
 | 2023-09-14 | 법률 제19700호, 2023. 9. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254795&efYd=20230914&ancYnChk=0) |
 | 2023-09-22 | 법률 제19263호, 2023. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249029&efYd=20230922&ancYnChk=0) |
+| 2023-12-14 | 법률 제19438호, 2023. 6. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251697&efYd=20231214&ancYnChk=0) |
