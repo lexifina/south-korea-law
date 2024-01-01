@@ -203,3 +203,4 @@
 | 2023-01-01 | 법률 제19196호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247467&efYd=20230101&ancYnChk=0) |
 | 2023-07-01 | 법률 제19196호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247467&efYd=20230701&ancYnChk=0) |
 | 2024-01-01 | 법률 제19196호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247467&efYd=20240101&ancYnChk=0) |
+| 2024-01-01 | 법률 제19933호, 2023. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258015&efYd=20240101&ancYnChk=0) |
