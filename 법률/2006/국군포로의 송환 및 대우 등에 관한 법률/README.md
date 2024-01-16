@@ -11,3 +11,4 @@
 | 2016-01-01 | 법률 제13700호, 2015. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=178762&efYd=20160101&ancYnChk=0) |
 | 2019-10-24 | 법률 제16349호, 2019. 4. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=208442&efYd=20191024&ancYnChk=0) |
 | 2020-06-11 | 법률 제16761호, 2019. 12. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212117&efYd=20200611&ancYnChk=0) |
+| 2024-01-16 | 법률 제20008호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258651&efYd=20240116&ancYnChk=0) |
