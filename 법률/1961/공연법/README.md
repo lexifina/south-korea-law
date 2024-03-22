@@ -45,3 +45,4 @@
 | 2023-05-04 | 법률 제18855호, 2022. 5. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=242061&efYd=20230504&ancYnChk=0) |
 | 2023-08-08 | 법률 제19592호, 2023. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253539&efYd=20230808&ancYnChk=0) |
 | 2024-01-01 | 법률 제19792호, 2023. 10. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=255787&efYd=20240101&ancYnChk=0) |
+| 2024-03-22 | 법률 제19245호, 2023. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248891&efYd=20240322&ancYnChk=0) |
