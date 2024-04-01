@@ -343,3 +343,4 @@
 | 2024-01-01 | 법률 제18634호, 2021. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238225&efYd=20240101&ancYnChk=0) |
 | 2024-01-01 | 법률 제19199호, 2022. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247473&efYd=20240101&ancYnChk=0) |
 | 2024-01-01 | 법률 제19936호, 2023. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257993&efYd=20240101&ancYnChk=0) |
+| 2024-04-01 | 법률 제19936호, 2023. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257993&efYd=20240401&ancYnChk=0) |
