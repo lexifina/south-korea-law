@@ -1,0 +1,7 @@
+# 자연유산의 보존 및 활용에 관한 법률
+
+국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=014410&ancYnChk=0>
+
+| 시행일 (In-force) | 공포 | 구분 | 원문 |
+| --- | --- | --- | --- |
+| 2024-05-17 | 법률 제19251호, 2023. 3. 21. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248941&efYd=20240517&ancYnChk=0) |
