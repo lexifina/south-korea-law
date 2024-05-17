@@ -1,4 +1,4 @@
-# 무형문화재 보전 및 진흥에 관한 법률
+# 무형유산의 보전 및 진흥에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012265&ancYnChk=0>
 
@@ -12,3 +12,4 @@
 | 2021-06-09 | 법률 제17583호, 2020. 12. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=223483&efYd=20210609&ancYnChk=0) |
 | 2021-06-23 | 법률 제17708호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224585&efYd=20210623&ancYnChk=0) |
 | 2022-07-19 | 법률 제18766호, 2022. 1. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239477&efYd=20220719&ancYnChk=0) |
+| 2024-05-17 | 법률 제19588호, 2023. 8. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253389&efYd=20240517&ancYnChk=0) |
