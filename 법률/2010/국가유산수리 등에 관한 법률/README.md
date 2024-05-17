@@ -1,4 +1,4 @@
-# 문화재수리 등에 관한 법률
+# 국가유산수리 등에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011151&ancYnChk=0>
 
@@ -25,3 +25,4 @@
 | 2022-01-18 | 법률 제18771호, 2022. 1. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239505&efYd=20220118&ancYnChk=0) |
 | 2023-03-21 | 법률 제19249호, 2023. 3. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248937&efYd=20230321&ancYnChk=0) |
 | 2023-08-08 | 법률 제19592호, 2023. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253571&efYd=20230808&ancYnChk=0) |
+| 2024-05-17 | 법률 제19591호, 2023. 8. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253513&efYd=20240517&ancYnChk=0) |
