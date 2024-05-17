@@ -1,4 +1,4 @@
-# 매장문화재 보호 및 조사에 관한 법률
+# 매장유산 보호 및 조사에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011152&ancYnChk=0>
 
@@ -18,3 +18,4 @@
 | 2022-07-19 | 법률 제18765호, 2022. 1. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239475&efYd=20220719&ancYnChk=0) |
 | 2023-08-08 | 법률 제19592호, 2023. 8. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253557&efYd=20230808&ancYnChk=0) |
 | 2024-02-09 | 법률 제19587호, 2023. 8. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253331&efYd=20240209&ancYnChk=0) |
+| 2024-05-17 | 법률 제19587호, 2023. 8. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253331&efYd=20240517&ancYnChk=0) |
