@@ -7,3 +7,4 @@
 | 2020-01-16 | 법률 제16279호, 2019. 1. 15. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206733&efYd=20200116&ancYnChk=0) |
 | 2022-04-05 | 법률 제18696호, 2022. 1. 4. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238865&efYd=20220405&ancYnChk=0) |
 | 2022-07-05 | 법률 제18682호, 2022. 1. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238773&efYd=20220705&ancYnChk=0) |
+| 2024-06-30 | 법률 제19868호, 2023. 12. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257783&efYd=20240630&ancYnChk=0) |
