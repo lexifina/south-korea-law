@@ -43,3 +43,4 @@
 | 2021-07-27 | 법률 제18359호, 2021. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234347&efYd=20210727&ancYnChk=0) |
 | 2022-07-28 | 법률 제18359호, 2021. 7. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234347&efYd=20220728&ancYnChk=0) |
 | 2023-01-01 | 법률 제18445호, 2021. 8. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=234853&efYd=20230101&ancYnChk=0) |
+| 2024-07-03 | 법률 제19914호, 2024. 1. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257831&efYd=20240703&ancYnChk=0) |
