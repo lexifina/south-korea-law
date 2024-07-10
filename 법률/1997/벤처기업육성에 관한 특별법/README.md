@@ -1,4 +1,4 @@
-# 벤처기업육성에 관한 특별조치법
+# 벤처기업육성에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001471&ancYnChk=0>
 
@@ -95,3 +95,4 @@
 | 2023-11-17 | 법률 제19416호, 2023. 5. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250947&efYd=20231117&ancYnChk=0) |
 | 2023-12-21 | 법률 제19504호, 2023. 6. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251941&efYd=20231221&ancYnChk=0) |
 | 2024-04-19 | 법률 제19016호, 2022. 10. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=245007&efYd=20240419&ancYnChk=0) |
+| 2024-07-10 | 법률 제19990호, 2024. 1. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258471&efYd=20240710&ancYnChk=0) |
