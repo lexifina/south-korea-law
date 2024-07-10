@@ -128,3 +128,4 @@
 | 2024-02-20 | 법률 제20339호, 2024. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260605&efYd=20240220&ancYnChk=0) |
 | 2024-05-14 | 법률 제20298호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260419&efYd=20240514&ancYnChk=0) |
 | 2024-05-21 | 법률 제20339호, 2024. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260605&efYd=20240521&ancYnChk=0) |
+| 2024-07-10 | 법률 제19980호, 2024. 1. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258123&efYd=20240710&ancYnChk=0) |
