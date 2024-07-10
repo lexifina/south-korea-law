@@ -19,3 +19,4 @@
 | 2010-11-18 | 법률 제10303호, 2010. 5. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=105179&efYd=20101118&ancYnChk=0) |
 | 2023-06-29 | 법률 제19278호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249233&efYd=20230629&ancYnChk=0) |
 | 2024-04-17 | 법률 제20001호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258667&efYd=20240417&ancYnChk=0) |
+| 2024-07-10 | 법률 제19946호, 2024. 1. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258013&efYd=20240710&ancYnChk=0) |
