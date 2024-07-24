@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2022-06-09 | 법률 제18239호, 2021. 6. 8. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=232671&efYd=20220609&ancYnChk=0) |
+| 2024-07-24 | 법률 제20142호, 2024. 1. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259307&efYd=20240724&ancYnChk=0) |
