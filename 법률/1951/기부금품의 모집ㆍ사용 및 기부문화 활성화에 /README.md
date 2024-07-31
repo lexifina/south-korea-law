@@ -1,4 +1,4 @@
-# 기부금품의 모집 및 사용에 관한 법률
+# 기부금품의 모집ㆍ사용 및 기부문화 활성화에 관한 법률
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=001021&ancYnChk=0>
 
@@ -24,3 +24,4 @@
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195069&efYd=20170726&ancYnChk=0) |
 | 2023-01-01 | 법률 제18490호, 2021. 10. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236205&efYd=20230101&ancYnChk=0) |
 | 2024-02-17 | 법률 제19634호, 2023. 8. 16. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253967&efYd=20240217&ancYnChk=0) |
+| 2024-07-31 | 법률 제20154호, 2024. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259469&efYd=20240731&ancYnChk=0) |
