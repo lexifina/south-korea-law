@@ -45,3 +45,4 @@
 | 2021-01-01 | 법률 제17007호, 2020. 2. 18. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=214337&efYd=20210101&ancYnChk=0) |
 | 2021-01-12 | 법률 제17894호, 2021. 1. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228641&efYd=20210112&ancYnChk=0) |
 | 2023-12-26 | 법률 제19836호, 2023. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257281&efYd=20231226&ancYnChk=0) |
+| 2024-07-31 | 법률 제20158호, 2024. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259437&efYd=20240731&ancYnChk=0) |
