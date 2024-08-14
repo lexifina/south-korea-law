@@ -22,3 +22,4 @@
 | 2023-10-19 | 법률 제19373호, 2023. 4. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250061&efYd=20231019&ancYnChk=0) |
 | 2024-01-09 | 법률 제19987호, 2024. 1. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258307&efYd=20240109&ancYnChk=0) |
 | 2024-07-10 | 법률 제19986호, 2024. 1. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258203&efYd=20240710&ancYnChk=0) |
+| 2024-08-14 | 법률 제20291호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260415&efYd=20240814&ancYnChk=0) |
