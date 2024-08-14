@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2020-06-04 | 법률 제16690호, 2019. 12. 3. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=211855&efYd=20200604&ancYnChk=0) |
 | 2021-06-23 | 법률 제17716호, 2020. 12. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=224601&efYd=20210623&ancYnChk=0) |
+| 2024-08-14 | 법률 제20287호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260373&efYd=20240814&ancYnChk=0) |
