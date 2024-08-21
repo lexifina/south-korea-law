@@ -50,3 +50,4 @@
 | 2023-08-16 | 법률 제19681호, 2023. 8. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254113&efYd=20230816&ancYnChk=0) |
 | 2024-02-17 | 법률 제19681호, 2023. 8. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254113&efYd=20240217&ancYnChk=0) |
 | 2024-02-20 | 법률 제20338호, 2024. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260619&efYd=20240220&ancYnChk=0) |
+| 2024-08-21 | 법률 제20338호, 2024. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260619&efYd=20240821&ancYnChk=0) |
