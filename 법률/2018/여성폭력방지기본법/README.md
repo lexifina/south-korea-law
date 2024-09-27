@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2019-12-25 | 법률 제16086호, 2018. 12. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206085&efYd=20191225&ancYnChk=0) |
+| 2024-09-27 | 법률 제20419호, 2024. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261391&efYd=20240927&ancYnChk=0) |
