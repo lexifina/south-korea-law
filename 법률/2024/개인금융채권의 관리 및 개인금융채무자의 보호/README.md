@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2024-10-17 | 법률 제20054호, 2024. 1. 16. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258841&efYd=20241017&ancYnChk=0) |
+| 2024-10-17 | 법률 제20369호, 2024. 2. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260897&efYd=20241017&ancYnChk=0) |
