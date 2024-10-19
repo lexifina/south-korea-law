@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2023-10-19 | 법률 제19381호, 2023. 4. 18. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250063&efYd=20231019&ancYnChk=0) |
+| 2024-10-19 | 법률 제19381호, 2023. 4. 18. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250063&efYd=20241019&ancYnChk=0) |
