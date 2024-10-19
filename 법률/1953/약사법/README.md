@@ -137,3 +137,4 @@
 | 2024-07-21 | 법률 제19359호, 2023. 4. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250025&efYd=20240721&ancYnChk=0) |
 | 2024-07-21 | 법률 제19652호, 2023. 8. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254063&efYd=20240721&ancYnChk=0) |
 | 2024-07-21 | 법률 제19897호, 2024. 1. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257861&efYd=20240721&ancYnChk=0) |
+| 2024-10-19 | 법률 제19359호, 2023. 4. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=250025&efYd=20241019&ancYnChk=0) |
