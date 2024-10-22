@@ -81,3 +81,4 @@
 | 2024-07-10 | 법률 제19958호, 2024. 1. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258095&efYd=20240710&ancYnChk=0) |
 | 2024-07-10 | 법률 제20290호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260383&efYd=20240710&ancYnChk=0) |
 | 2024-08-14 | 법률 제20290호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260383&efYd=20240814&ancYnChk=0) |
+| 2024-10-22 | 법률 제20511호, 2024. 10. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265919&efYd=20241022&ancYnChk=0) |
