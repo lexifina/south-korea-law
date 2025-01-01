@@ -40,3 +40,4 @@
 | 2021-07-06 | 법률 제17840호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228113&efYd=20210706&ancYnChk=0) |
 | 2022-01-06 | 법률 제17840호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228113&efYd=20220106&ancYnChk=0) |
 | 2024-01-30 | 법률 제20172호, 2024. 1. 30. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259543&efYd=20240130&ancYnChk=0) |
+| 2025-01-01 | 법률 제20625호, 2024. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267569&efYd=20250101&ancYnChk=0) |
