@@ -39,3 +39,4 @@
 | 2020-06-01 | 대법원규칙 제2900호, 2020. 6. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218597&efYd=20200601&ancYnChk=0) |
 | 2020-06-26 | 대법원규칙 제2905호, 2020. 6. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219865&efYd=20200626&ancYnChk=0) |
 | 2021-11-18 | 대법원규칙 제3001호, 2021. 10. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236573&efYd=20211118&ancYnChk=0) |
+| 2025-01-01 | 대법원규칙 제3167호, 2024. 11. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266843&efYd=20250101&ancYnChk=0) |
