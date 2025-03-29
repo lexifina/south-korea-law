@@ -62,3 +62,4 @@
 | 2024-01-01 | 법률 제19208호, 2022. 12. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=247507&efYd=20240101&ancYnChk=0) |
 | 2024-03-29 | 법률 제19311호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249347&efYd=20240329&ancYnChk=0) |
 | 2024-07-10 | 법률 제19963호, 2024. 1. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258083&efYd=20240710&ancYnChk=0) |
+| 2025-03-29 | 법률 제19311호, 2023. 3. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=249347&efYd=20250329&ancYnChk=0) |
