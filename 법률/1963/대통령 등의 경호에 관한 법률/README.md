@@ -19,3 +19,4 @@
 | 2013-12-12 | 법률 제11530호, 2012. 12. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=130673&efYd=20131212&ancYnChk=0) |
 | 2017-07-26 | 법률 제14839호, 2017. 7. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195316&efYd=20170726&ancYnChk=0) |
 | 2024-12-03 | 법률 제20559호, 2024. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266713&efYd=20241203&ancYnChk=0) |
+| 2025-06-04 | 법률 제20559호, 2024. 12. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266713&efYd=20250604&ancYnChk=0) |
