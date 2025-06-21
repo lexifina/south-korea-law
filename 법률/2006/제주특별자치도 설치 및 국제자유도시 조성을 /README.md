@@ -289,3 +289,4 @@
 | 2025-04-23 | 법률 제20487호, 2024. 10. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265899&efYd=20250423&ancYnChk=0) |
 | 2025-04-23 | 법률 제20504호, 2024. 10. 22. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265875&efYd=20250423&ancYnChk=0) |
 | 2025-06-04 | 법률 제20549호, 2024. 12. 3. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266701&efYd=20250604&ancYnChk=0) |
+| 2025-06-21 | 법률 제20445호, 2024. 9. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265477&efYd=20250621&ancYnChk=0) |
