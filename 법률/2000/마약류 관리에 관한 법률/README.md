@@ -58,3 +58,4 @@
 | 2025-02-07 | 법률 제20214호, 2024. 2. 6. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259713&efYd=20250207&ancYnChk=0) |
 | 2025-02-07 | 법률 제20507호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265949&efYd=20250207&ancYnChk=0) |
 | 2025-06-19 | 법률 제20814호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269961&efYd=20250619&ancYnChk=0) |
+| 2025-07-02 | 법률 제20878호, 2025. 4. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270395&efYd=20250702&ancYnChk=0) |
