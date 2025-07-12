@@ -41,3 +41,4 @@
 | 2021-11-18 | 대법원규칙 제3001호, 2021. 10. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236573&efYd=20211118&ancYnChk=0) |
 | 2025-01-01 | 대법원규칙 제3167호, 2024. 11. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266843&efYd=20250101&ancYnChk=0) |
 | 2025-03-01 | 대법원규칙 제3191호, 2025. 1. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268693&efYd=20250301&ancYnChk=0) |
+| 2025-07-12 | 대법원규칙 제3216호, 2025. 6. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=272655&efYd=20250712&ancYnChk=0) |
