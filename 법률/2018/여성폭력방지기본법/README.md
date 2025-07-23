@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2019-12-25 | 법률 제16086호, 2018. 12. 24. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=206085&efYd=20191225&ancYnChk=0) |
 | 2024-09-27 | 법률 제20419호, 2024. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261391&efYd=20240927&ancYnChk=0) |
+| 2025-07-23 | 법률 제20934호, 2025. 4. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270819&efYd=20250723&ancYnChk=0) |
