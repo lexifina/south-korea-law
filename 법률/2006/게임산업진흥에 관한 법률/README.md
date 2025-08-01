@@ -45,3 +45,4 @@
 | 2024-10-22 | 법률 제20485호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265811&efYd=20241022&ancYnChk=0) |
 | 2025-04-08 | 법률 제20909호, 2025. 4. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270597&efYd=20250408&ancYnChk=0) |
 | 2025-04-23 | 법률 제20485호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265811&efYd=20250423&ancYnChk=0) |
+| 2025-08-01 | 법률 제20738호, 2025. 1. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268737&efYd=20250801&ancYnChk=0) |
