@@ -14,3 +14,4 @@
 | 2022-08-04 | 법률 제18802호, 2022. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=240033&efYd=20220804&ancYnChk=0) |
 | 2024-07-17 | 법률 제20014호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258701&efYd=20240717&ancYnChk=0) |
 | 2025-03-18 | 법률 제20800호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269899&efYd=20250318&ancYnChk=0) |
+| 2025-09-19 | 법률 제20800호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269899&efYd=20250919&ancYnChk=0) |
