@@ -38,3 +38,4 @@
 | 2022-01-01 | 대법원규칙 제3016호, 2021. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239175&efYd=20220101&ancYnChk=0) |
 | 2025-01-17 | 대법원규칙 제3184호, 2024. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267913&efYd=20250117&ancYnChk=0) |
 | 2025-02-28 | 대법원규칙 제3202호, 2025. 2. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269633&efYd=20250228&ancYnChk=0) |
+| 2025-09-19 | 대법원규칙 제3225호, 2025. 9. 1. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273605&efYd=20250919&ancYnChk=0) |
