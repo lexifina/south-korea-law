@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2025-06-10 | 법률 제20988호, 2025. 6. 10. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=271633&efYd=20250610&ancYnChk=0) |
+| 2025-09-26 | 법률 제21062호, 2025. 9. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273923&efYd=20250926&ancYnChk=0) |
