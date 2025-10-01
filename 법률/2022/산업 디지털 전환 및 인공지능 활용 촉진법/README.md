@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2022-07-05 | 법률 제18692호, 2022. 1. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=238859&efYd=20220705&ancYnChk=0) |
 | 2025-05-27 | 법률 제20964호, 2025. 5. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=271267&efYd=20250527&ancYnChk=0) |
+| 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276517&efYd=20251001&ancYnChk=0) |
