@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2016-09-30 | 법률 제14123호, 2016. 3. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=182175&efYd=20160930&ancYnChk=0) |
 | 2024-08-14 | 법률 제20303호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260401&efYd=20240814&ancYnChk=0) |
+| 2025-10-01 | 법률 제21066호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=277341&efYd=20251001&ancYnChk=0) |
