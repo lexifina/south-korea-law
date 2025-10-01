@@ -103,3 +103,4 @@
 | 2024-02-13 | 법률 제20279호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260197&efYd=20240213&ancYnChk=0) |
 | 2024-08-14 | 법률 제20279호, 2024. 2. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260197&efYd=20240814&ancYnChk=0) |
 | 2025-04-22 | 법률 제20684호, 2025. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268569&efYd=20250422&ancYnChk=0) |
+| 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276369&efYd=20251001&ancYnChk=0) |
