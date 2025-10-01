@@ -52,3 +52,4 @@
 | 2025-01-01 | 법률 제20626호, 2024. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267593&efYd=20250101&ancYnChk=0) |
 | 2025-01-24 | 법률 제20120호, 2024. 1. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259263&efYd=20250124&ancYnChk=0) |
 | 2025-08-07 | 법률 제20231호, 2024. 2. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259943&efYd=20250807&ancYnChk=0) |
+| 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276791&efYd=20251001&ancYnChk=0) |
