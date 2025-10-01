@@ -12,3 +12,4 @@
 | 2019-12-10 | 법률 제16822호, 2019. 12. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=212271&efYd=20191210&ancYnChk=0) |
 | 2022-04-20 | 법률 제18515호, 2021. 10. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236265&efYd=20220420&ancYnChk=0) |
 | 2025-09-09 | 법률 제21046호, 2025. 9. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273669&efYd=20250909&ancYnChk=0) |
+| 2025-10-01 | 법률 제21066호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=277335&efYd=20251001&ancYnChk=0) |
