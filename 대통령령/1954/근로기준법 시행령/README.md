@@ -60,3 +60,4 @@
 | 2021-10-14 | 대통령령 제32049호, 2021. 10. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236083&efYd=20211014&ancYnChk=0) |
 | 2021-11-19 | 대통령령 제32130호, 2021. 11. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236819&efYd=20211119&ancYnChk=0) |
 | 2025-02-23 | 대통령령 제35276호, 2025. 2. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269073&efYd=20250223&ancYnChk=0) |
+| 2025-10-23 | 대통령령 제35436호, 2025. 4. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270551&efYd=20251023&ancYnChk=0) |
