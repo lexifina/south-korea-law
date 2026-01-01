@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2024-05-27 | 법률 제20144호, 2024. 1. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259383&efYd=20240527&ancYnChk=0) |
+| 2026-01-01 | 법률 제20144호, 2024. 1. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259383&efYd=20260101&ancYnChk=0) |
