@@ -99,3 +99,4 @@
 | 2025-12-23 | 법률 제21220호, 2025. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280357&efYd=20251223&ancYnChk=0) |
 | 2025-12-23 | 법률 제21225호, 2025. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280421&efYd=20251223&ancYnChk=0) |
 | 2026-01-01 | 법률 제21208호, 2025. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280365&efYd=20260101&ancYnChk=0) |
+| 2026-01-01 | 법률 제21212호, 2025. 12. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280375&efYd=20260101&ancYnChk=0) |
