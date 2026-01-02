@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2022-01-13 | 법률 제18297호, 2021. 7. 13. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=233837&efYd=20220113&ancYnChk=0) |
+| 2026-01-02 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276343&efYd=20260102&ancYnChk=0) |
