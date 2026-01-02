@@ -26,3 +26,4 @@
 | 2020-12-10 | 법률 제17348호, 2020. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=218865&efYd=20201210&ancYnChk=0) |
 | 2024-07-03 | 법률 제19869호, 2024. 1. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257785&efYd=20240703&ancYnChk=0) |
 | 2024-09-27 | 법률 제20407호, 2024. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261423&efYd=20240927&ancYnChk=0) |
+| 2026-01-02 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=277155&efYd=20260102&ancYnChk=0) |
