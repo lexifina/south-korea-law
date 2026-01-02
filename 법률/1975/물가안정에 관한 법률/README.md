@@ -21,3 +21,4 @@
 | 2021-04-06 | 법률 제17817호, 2021. 1. 5. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=228067&efYd=20210406&ancYnChk=0) |
 | 2024-03-26 | 법률 제20409호, 2024. 3. 26. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261429&efYd=20240326&ancYnChk=0) |
 | 2024-09-27 | 법률 제20404호, 2024. 3. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261383&efYd=20240927&ancYnChk=0) |
+| 2026-01-02 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276105&efYd=20260102&ancYnChk=0) |
