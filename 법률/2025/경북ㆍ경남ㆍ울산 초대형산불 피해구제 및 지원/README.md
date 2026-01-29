@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2025-10-28 | 법률 제21069호, 2025. 10. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279289&efYd=20251028&ancYnChk=0) |
+| 2026-01-29 | 법률 제21069호, 2025. 10. 28. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279289&efYd=20260129&ancYnChk=0) |
