@@ -50,3 +50,4 @@
 | 2025-01-17 | 법률 제20038호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258815&efYd=20250117&ancYnChk=0) |
 | 2025-01-17 | 법률 제20335호, 2024. 2. 20. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260617&efYd=20250117&ancYnChk=0) |
 | 2025-02-17 | 법률 제19674호, 2023. 8. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254101&efYd=20250217&ancYnChk=0) |
+| 2026-02-01 | 법률 제20756호, 2025. 1. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268757&efYd=20260201&ancYnChk=0) |
