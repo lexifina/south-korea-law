@@ -98,3 +98,4 @@
 | 2025-01-21 | 법률 제20666호, 2025. 1. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268521&efYd=20250121&ancYnChk=0) |
 | 2025-09-19 | 법률 제20784호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269895&efYd=20250919&ancYnChk=0) |
 | 2025-09-19 | 법률 제21011호, 2025. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273349&efYd=20250919&ancYnChk=0) |
+| 2026-02-15 | 법률 제21011호, 2025. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273349&efYd=20260215&ancYnChk=0) |
