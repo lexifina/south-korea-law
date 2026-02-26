@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2024-07-10 | 법률 제19941호, 2024. 1. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258007&efYd=20240710&ancYnChk=0) |
+| 2026-02-26 | 법률 제21330호, 2026. 2. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283253&efYd=20260226&ancYnChk=0) |
