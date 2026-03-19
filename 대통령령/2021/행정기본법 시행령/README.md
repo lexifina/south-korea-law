@@ -10,3 +10,4 @@
 | 2023-03-24 | 대통령령 제32650호, 2022. 5. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=242623&efYd=20230324&ancYnChk=0) |
 | 2025-01-07 | 대통령령 제35194호, 2025. 1. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268151&efYd=20250107&ancYnChk=0) |
 | 2025-09-19 | 대통령령 제35711호, 2025. 8. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273325&efYd=20250919&ancYnChk=0) |
+| 2026-03-19 | 대통령령 제36187호, 2026. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284499&efYd=20260319&ancYnChk=0) |
