@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2026-03-27 | 법률 제20415호, 2024. 3. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261447&efYd=20260327&ancYnChk=0) |
+| 2026-03-27 | 법률 제20445호, 2024. 9. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265469&efYd=20260327&ancYnChk=0) |
