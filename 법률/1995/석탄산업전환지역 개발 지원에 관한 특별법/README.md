@@ -1,4 +1,4 @@
-# 폐광지역 개발 지원에 관한 특별법
+# 석탄산업전환지역 개발 지원에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000288&ancYnChk=0>
 
@@ -43,3 +43,4 @@
 | 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276623&efYd=20251001&ancYnChk=0) |
 | 2025-12-30 | 법률 제21254호, 2025. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281897&efYd=20251230&ancYnChk=0) |
 | 2026-03-10 | 법률 제21438호, 2026. 3. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283987&efYd=20260310&ancYnChk=0) |
+| 2026-03-31 | 법률 제21254호, 2025. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281897&efYd=20260331&ancYnChk=0) |
