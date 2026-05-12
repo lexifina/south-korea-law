@@ -99,3 +99,4 @@
 | 2025-09-19 | 법률 제20784호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269895&efYd=20250919&ancYnChk=0) |
 | 2025-09-19 | 법률 제21011호, 2025. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273349&efYd=20250919&ancYnChk=0) |
 | 2026-02-15 | 법률 제21011호, 2025. 8. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273349&efYd=20260215&ancYnChk=0) |
+| 2026-05-12 | 법률 제21073호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279625&efYd=20260512&ancYnChk=0) |
