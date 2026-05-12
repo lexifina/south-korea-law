@@ -18,3 +18,4 @@
 | 2025-11-11 | 법률 제21122호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279771&efYd=20251111&ancYnChk=0) |
 | 2026-01-01 | 법률 제21122호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279771&efYd=20260101&ancYnChk=0) |
 | 2026-04-07 | 법률 제21527호, 2026. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285267&efYd=20260407&ancYnChk=0) |
+| 2026-05-12 | 법률 제21122호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279771&efYd=20260512&ancYnChk=0) |
