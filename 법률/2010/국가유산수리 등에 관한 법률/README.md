@@ -30,3 +30,4 @@
 | 2024-10-22 | 법률 제20489호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265903&efYd=20241022&ancYnChk=0) |
 | 2025-04-23 | 법률 제20489호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265903&efYd=20250423&ancYnChk=0) |
 | 2025-11-11 | 법률 제21088호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279661&efYd=20251111&ancYnChk=0) |
+| 2026-05-12 | 법률 제21088호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279661&efYd=20260512&ancYnChk=0) |
