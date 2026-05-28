@@ -303,3 +303,4 @@
 | 2026-04-21 | 법률 제21571호, 2026. 4. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285485&efYd=20260421&ancYnChk=0) |
 | 2026-04-22 | 법률 제21576호, 2026. 4. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285627&efYd=20260422&ancYnChk=0) |
 | 2026-05-12 | 법률 제21077호, 2025. 11. 11. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279643&efYd=20260512&ancYnChk=0) |
+| 2026-05-28 | 법률 제21406호, 2026. 2. 27. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283759&efYd=20260528&ancYnChk=0) |
