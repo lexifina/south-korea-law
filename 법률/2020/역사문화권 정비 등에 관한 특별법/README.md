@@ -15,3 +15,4 @@
 | 2024-05-17 | 법률 제20309호, 2024. 2. 13. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260497&efYd=20240517&ancYnChk=0) |
 | 2024-09-15 | 법률 제19702호, 2023. 9. 14. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=254815&efYd=20240915&ancYnChk=0) |
 | 2026-05-17 | 법률 제21585호, 2026. 4. 28. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285671&efYd=20260517&ancYnChk=0) |
+| 2026-06-02 | 법률 제21738호, 2026. 6. 2. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286579&efYd=20260602&ancYnChk=0) |
