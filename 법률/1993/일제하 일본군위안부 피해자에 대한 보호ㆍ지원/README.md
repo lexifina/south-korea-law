@@ -24,3 +24,4 @@
 | 2020-12-10 | 법률 제17440호, 2020. 6. 9. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219139&efYd=20201210&ancYnChk=0) |
 | 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276901&efYd=20251001&ancYnChk=0) |
 | 2026-03-10 | 법률 제21440호, 2026. 3. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283959&efYd=20260310&ancYnChk=0) |
+| 2026-06-11 | 법률 제21440호, 2026. 3. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283959&efYd=20260611&ancYnChk=0) |
