@@ -16,3 +16,4 @@
 | 2024-07-10 | 법률 제19990호, 2024. 1. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258501&efYd=20240710&ancYnChk=0) |
 | 2025-11-28 | 법률 제20984호, 2025. 5. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=271309&efYd=20251128&ancYnChk=0) |
 | 2025-12-30 | 법률 제21287호, 2025. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281983&efYd=20251230&ancYnChk=0) |
+| 2026-07-01 | 법률 제21287호, 2025. 12. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281983&efYd=20260701&ancYnChk=0) |
