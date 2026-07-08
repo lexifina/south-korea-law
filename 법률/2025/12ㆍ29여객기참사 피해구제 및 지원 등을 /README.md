@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2025-06-30 | 법률 제20954호, 2025. 4. 29. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270935&efYd=20250630&ancYnChk=0) |
 | 2026-07-01 | 법률 제21446호, 2026. 3. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284113&efYd=20260701&ancYnChk=0) |
+| 2026-07-08 | 법률 제21538호, 2026. 4. 7. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285359&efYd=20260708&ancYnChk=0) |
