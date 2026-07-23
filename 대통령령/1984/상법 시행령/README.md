@@ -43,3 +43,4 @@
 | 2025-01-31 | 대통령령 제35228호, 2025. 1. 21. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268379&efYd=20250131&ancYnChk=0) |
 | 2026-07-01 | 대통령령 제36423호, 2026. 6. 23. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287141&efYd=20260701&ancYnChk=0) |
 | 2026-07-21 | 대통령령 제36511호, 2026. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288205&efYd=20260721&ancYnChk=0) |
+| 2026-07-23 | 대통령령 제36511호, 2026. 7. 21. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288205&efYd=20260723&ancYnChk=0) |
