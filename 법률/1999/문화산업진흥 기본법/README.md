@@ -61,3 +61,4 @@
 | 2025-04-23 | 법률 제20493호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265857&efYd=20250423&ancYnChk=0) |
 | 2025-08-01 | 법률 제20745호, 2025. 1. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268849&efYd=20250801&ancYnChk=0) |
 | 2025-10-01 | 법률 제21066호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=277331&efYd=20251001&ancYnChk=0) |
+| 2026-07-29 | 법률 제21590호, 2026. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285643&efYd=20260729&ancYnChk=0) |
