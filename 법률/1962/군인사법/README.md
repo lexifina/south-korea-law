@@ -103,3 +103,4 @@
 | 2025-09-19 | 법률 제20803호, 2025. 3. 18. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269913&efYd=20250919&ancYnChk=0) |
 | 2026-01-17 | 법률 제20018호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258679&efYd=20260117&ancYnChk=0) |
 | 2026-02-03 | 법률 제21319호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283197&efYd=20260203&ancYnChk=0) |
+| 2026-08-04 | 법률 제21319호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283197&efYd=20260804&ancYnChk=0) |
