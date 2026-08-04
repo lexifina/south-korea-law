@@ -212,3 +212,4 @@
 | 2026-02-03 | 법률 제21323호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283191&efYd=20260203&ancYnChk=0) |
 | 2026-07-01 | 법률 제21446호, 2026. 3. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284139&efYd=20260701&ancYnChk=0) |
 | 2026-07-01 | 법률 제21447호, 2026. 3. 5. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284095&efYd=20260701&ancYnChk=0) |
+| 2026-08-04 | 법률 제21323호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283191&efYd=20260804&ancYnChk=0) |
