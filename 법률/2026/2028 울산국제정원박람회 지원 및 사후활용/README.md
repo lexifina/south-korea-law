@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2026-02-27 | 법률 제21400호, 2026. 2. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283677&efYd=20260227&ancYnChk=0) |
+| 2026-08-28 | 법률 제21400호, 2026. 2. 27. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283677&efYd=20260828&ancYnChk=0) |
