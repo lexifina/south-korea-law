@@ -49,3 +49,4 @@
 | 2024-10-22 | 법률 제20487호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265897&efYd=20241022&ancYnChk=0) |
 | 2025-03-25 | 법률 제20829호, 2025. 3. 25. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=270153&efYd=20250325&ancYnChk=0) |
 | 2025-04-23 | 법률 제20487호, 2024. 10. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265897&efYd=20250423&ancYnChk=0) |
+| 2026-08-28 | 법률 제21397호, 2026. 2. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283673&efYd=20260828&ancYnChk=0) |
