@@ -1,4 +1,4 @@
-# 저출산ㆍ고령사회기본법
+# 인구전략기본법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=009933&ancYnChk=0>
 
@@ -14,3 +14,4 @@
 | 2022-06-15 | 법률 제18580호, 2021. 12. 14. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=237517&efYd=20220615&ancYnChk=0) |
 | 2023-12-26 | 법률 제19843호, 2023. 12. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257333&efYd=20231226&ancYnChk=0) |
 | 2024-04-24 | 법률 제20112호, 2024. 1. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259255&efYd=20240424&ancYnChk=0) |
+| 2026-09-10 | 법률 제21777호, 2026. 6. 9. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286721&efYd=20260910&ancYnChk=0) |
