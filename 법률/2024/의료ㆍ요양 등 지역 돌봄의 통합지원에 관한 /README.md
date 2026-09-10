@@ -6,3 +6,4 @@
 | --- | --- | --- | --- |
 | 2026-03-27 | 법률 제20415호, 2024. 3. 26. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=261447&efYd=20260327&ancYnChk=0) |
 | 2026-03-27 | 법률 제20445호, 2024. 9. 20. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265469&efYd=20260327&ancYnChk=0) |
+| 2026-09-10 | 법률 제21777호, 2026. 6. 9. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286733&efYd=20260910&ancYnChk=0) |
