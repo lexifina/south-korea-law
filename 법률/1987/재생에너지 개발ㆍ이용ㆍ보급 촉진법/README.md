@@ -1,4 +1,4 @@
-# 신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법
+# 재생에너지 개발ㆍ이용ㆍ보급 촉진법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000299&ancYnChk=0>
 
@@ -44,3 +44,4 @@
 | 2026-01-23 | 법률 제21004호, 2025. 7. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=272869&efYd=20260123&ancYnChk=0) |
 | 2026-02-01 | 법률 제20727호, 2025. 1. 31. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268793&efYd=20260201&ancYnChk=0) |
 | 2026-09-15 | 법률 제21943호, 2026. 9. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289777&efYd=20260915&ancYnChk=0) |
+| 2026-09-18 | 법률 제21462호, 2026. 3. 17. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284289&efYd=20260918&ancYnChk=0) |
