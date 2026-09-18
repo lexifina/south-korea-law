@@ -310,3 +310,4 @@
 | 2026-07-01 | 법률 제21576호, 2026. 4. 22. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285627&efYd=20260701&ancYnChk=0) |
 | 2026-09-08 | 법률 제21884호, 2026. 9. 8. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289299&efYd=20260908&ancYnChk=0) |
 | 2026-09-11 | 법률 제21423호, 2026. 3. 10. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283901&efYd=20260911&ancYnChk=0) |
+| 2026-09-18 | 법률 제21462호, 2026. 3. 17. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284321&efYd=20260918&ancYnChk=0) |
