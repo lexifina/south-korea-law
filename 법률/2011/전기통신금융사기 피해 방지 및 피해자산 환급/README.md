@@ -1,4 +1,4 @@
-# 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법
+# 전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=011359&ancYnChk=0>
 
@@ -15,3 +15,4 @@
 | 2024-08-28 | 법률 제20368호, 2024. 2. 27. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=260863&efYd=20240828&ancYnChk=0) |
 | 2026-08-04 | 법률 제21320호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283199&efYd=20260804&ancYnChk=0) |
 | 2026-09-08 | 법률 제21909호, 2026. 9. 8. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289413&efYd=20260908&ancYnChk=0) |
+| 2026-10-01 | 법률 제21503호, 2026. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285053&efYd=20261001&ancYnChk=0) |
