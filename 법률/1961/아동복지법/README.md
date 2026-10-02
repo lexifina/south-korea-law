@@ -82,3 +82,4 @@
 | 2026-08-04 | 법률 제21321호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283201&efYd=20260804&ancYnChk=0) |
 | 2026-08-04 | 법률 제21598호, 2026. 4. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285697&efYd=20260804&ancYnChk=0) |
 | 2026-09-15 | 법률 제21936호, 2026. 9. 15. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289737&efYd=20260915&ancYnChk=0) |
+| 2026-10-02 | 법률 제22022호, 2026. 9. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290207&efYd=20261002&ancYnChk=0) |
