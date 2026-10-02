@@ -104,3 +104,4 @@
 | 2026-01-17 | 법률 제20018호, 2024. 1. 16. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=258679&efYd=20260117&ancYnChk=0) |
 | 2026-02-03 | 법률 제21319호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283197&efYd=20260203&ancYnChk=0) |
 | 2026-08-04 | 법률 제21319호, 2026. 2. 3. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283197&efYd=20260804&ancYnChk=0) |
+| 2026-10-02 | 법률 제21857호, 2026. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290773&efYd=20261002&ancYnChk=0) |
