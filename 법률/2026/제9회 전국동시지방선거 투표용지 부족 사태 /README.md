@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2026-08-04 | 법률 제21870호, 2026. 8. 4. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288633&efYd=20260804&ancYnChk=0) |
+| 2026-10-02 | 법률 제22001호, 2026. 9. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290175&efYd=20261002&ancYnChk=0) |
