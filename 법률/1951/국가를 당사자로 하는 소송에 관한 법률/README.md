@@ -13,3 +13,4 @@
 | 1997-12-13 | 법률 제5427호, 1997. 12. 13. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59666&efYd=19971213&ancYnChk=0) |
 | 1998-12-28 | 법률 제5587호, 1998. 12. 28. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=59521&efYd=19981228&ancYnChk=0) |
 | 2009-01-30 | 법률 제9359호, 2009. 1. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=91382&efYd=20090130&ancYnChk=0) |
+| 2026-10-02 | 법률 제21490호, 2026. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290675&efYd=20261002&ancYnChk=0) |
