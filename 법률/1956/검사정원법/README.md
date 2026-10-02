@@ -22,3 +22,4 @@
 | 2005-12-23 | 법률 제7733호, 2005. 12. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=72190&efYd=20051223&ancYnChk=0) |
 | 2007-12-21 | 법률 제8716호, 2007. 12. 21. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=81907&efYd=20071221&ancYnChk=0) |
 | 2014-12-31 | 법률 제12952호, 2014. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=166367&efYd=20141231&ancYnChk=0) |
+| 2026-10-02 | 법률 제21490호, 2026. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290607&efYd=20261002&ancYnChk=0) |
