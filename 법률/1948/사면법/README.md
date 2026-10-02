@@ -10,3 +10,4 @@
 | 2012-02-10 | 법률 제11301호, 2012. 2. 10. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=122984&efYd=20120210&ancYnChk=0) |
 | 2017-07-07 | 법률 제13722호, 2016. 1. 6. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=179027&efYd=20170707&ancYnChk=0) |
 | 2022-07-01 | 법률 제18465호, 2021. 9. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=235557&efYd=20220701&ancYnChk=0) |
+| 2026-10-02 | 법률 제21490호, 2026. 3. 24. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290715&efYd=20261002&ancYnChk=0) |
