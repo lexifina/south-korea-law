@@ -88,3 +88,4 @@
 | 2024-12-31 | 법률 제20621호, 2024. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267589&efYd=20241231&ancYnChk=0) |
 | 2025-07-01 | 법률 제20621호, 2024. 12. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=267589&efYd=20250701&ancYnChk=0) |
 | 2026-06-02 | 법률 제21736호, 2026. 6. 2. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286499&efYd=20260602&ancYnChk=0) |
+| 2026-10-02 | 법률 제21857호, 2026. 8. 4. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290731&efYd=20261002&ancYnChk=0) |
