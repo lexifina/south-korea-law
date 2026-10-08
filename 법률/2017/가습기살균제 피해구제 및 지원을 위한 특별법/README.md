@@ -1,4 +1,4 @@
-# 가습기살균제 피해구제를 위한 특별법
+# 가습기살균제 피해구제 및 지원을 위한 특별법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=012804&ancYnChk=0>
 
@@ -9,3 +9,4 @@
 | 2020-03-24 | 법률 제17102호, 2020. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215909&efYd=20200324&ancYnChk=0) |
 | 2020-09-25 | 법률 제17102호, 2020. 3. 24. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215909&efYd=20200925&ancYnChk=0) |
 | 2025-10-01 | 법률 제21065호, 2025. 10. 1. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276691&efYd=20251001&ancYnChk=0) |
+| 2026-10-08 | 법률 제21526호, 2026. 4. 7. | 전부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285355&efYd=20261008&ancYnChk=0) |
