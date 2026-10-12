@@ -43,3 +43,4 @@
 | 2025-03-01 | 대법원규칙 제3191호, 2025. 1. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268693&efYd=20250301&ancYnChk=0) |
 | 2025-07-12 | 대법원규칙 제3216호, 2025. 6. 26. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=272655&efYd=20250712&ancYnChk=0) |
 | 2026-03-01 | 대법원규칙 제3239호, 2026. 1. 29. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283113&efYd=20260301&ancYnChk=0) |
+| 2026-10-12 | 대법원규칙 제3278호, 2026. 10. 12. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291043&efYd=20261012&ancYnChk=0) |
