@@ -19,6 +19,8 @@ sys.path.insert(0, HERE)
 import fetch  # noqa: E402  (URL builders and cache paths only; parse never fetches)
 
 RETRIEVED = '2026-10-28'
+PLACEHOLDER = '[출처가 이 날짜에 시행 중인 문구를 제공하지 않음.]\n'
+EARLY = []  # decisions: provisions whose wording law.go.kr shows before its law took effect
 
 # Editorial notes law.go.kr adds to the consolidated text; they are not words of the law.
 DATE = r'\d{4}\s*\.\s*\d{1,2}\s*\.\s*\d{1,2}\s*\.?'
@@ -364,7 +366,7 @@ def main():
         'laws': {k: v for k, v in sorted(laws.items()) if k in used},
         'acts': acts,
         'applies': [],
-        'decisions': DECISIONS + [
+        'decisions': DECISIONS + EARLY + [
             f"law.go.kr lists {', '.join(e['no_change'])} in force for {e['act']} on {e['from']}, but the text equals the day before's after removing editorial notes; no commit."
             for e in no_change],
         'ai_use': ['Claude Code (claude-opus-5-5) wrote fetch.py and parse.py. No model wrote, summarised or transcribed any legal text; every word comes from the law.go.kr API responses.'],
