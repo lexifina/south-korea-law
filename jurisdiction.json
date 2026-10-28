@@ -1,0 +1,9 @@
+{
+  "path": "kr",
+  "code": "KR",
+  "name": "South Korea",
+  "level": "country",
+  "repo": "https://github.com/lexifina/south-korea-law",
+  "build": "built: 헌법 (10 versions), 민법 (36), 형법 (34), 개인정보 보호법 (20), 1948-2026",
+  "register_date": "2026-10-30"
+}

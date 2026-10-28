@@ -1,0 +1,12 @@
+The legal texts are Korean statutes as published by the National Law Information Center (국가법령정보센터,
+https://www.law.go.kr), Ministry of Government Legislation (법제처), through its Open API, retrieved 28 October 2026.
+
+Statutes are not protected by copyright in Korea: 저작권법 제7조 (Copyright Act, Article 7) excludes from protection
+the Constitution, statutes, treaties, orders, ordinances and rules (헌법ㆍ법률ㆍ조약ㆍ명령ㆍ조례 및 규칙).
+
+Changes made by Lexifina: each version was converted to one Markdown file per article; editorial notes and
+amendment tags were removed; spacing and quotation marks were normalised. The wording of the law was not changed.
+The Government of Korea does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages and the tools) are dedicated to the
+public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode
