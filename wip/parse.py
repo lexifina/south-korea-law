@@ -146,3 +146,201 @@ def law_key(meta):
     return f'law-{no}', f'법률 제{no}호'
 
 
+def cached_listing(cfg):
+    """The act's versions from the cached eflaw search pages, or None if not fetched."""
+    listing, page = [], 1
+    while True:
+        p = fetch.path_for(fetch.search_url(cfg['query'], page))
+        if not os.path.exists(p):
+            return None
+        d = json.load(open(p, encoding='utf-8'))['LawSearch']
+        ls = d.get('law') or []
+        ls = [ls] if isinstance(ls, dict) else ls
+        listing += [x for x in ls if x['법령ID'] == cfg['id']]
+        if page * 100 >= int(d['totalCnt']):
+            return listing
+        page += 1
+
+
+def build_act(cfg, laws, log):
+    listing = cached_listing(cfg)
+    if not listing:
+        return None
+    recs = []
+    for efyd, pd, pn, mst in sorted({(x['시행일자'], x['공포일자'], int(x['공포번호']), x['법령일련번호']) for x in listing}):
+        url = fetch.version_url(mst, efyd)
+        p = fetch.path_for(url)
+        if not os.path.exists(p):
+            log.append({'act': cfg['slug'], 'missing': f'{mst}@{efyd}'})
+            continue
+        raw = open(p, 'rb').read()
+        meta, units, flagged, amend, ann = parse_version(raw)
+        key, label = law_key(meta)
+        if key not in laws:
+            laws[key] = {'label': label, 'title': law_title(amend, meta, cfg['name']), 'kind': 'law',
+                         'enacted': iso(meta['공포일자']), 'published': iso(meta['공포일자']),
+                         'url': f'https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq={mst}',
+                         'temporary_until': None, 'restores': None, 'note': None}
+        recs.append({'efyd': efyd, 'P': (pd, pn), 'mst': mst, 'url': url, 'sha': hashlib.sha256(raw).hexdigest(),
+                     'units': units, 'ann': ann, 'law': key, 'pd': pd, 'kind': meta['제개정구분']})
+    groups = {}
+    for r in recs:
+        groups.setdefault(r['efyd'], []).append(r)
+    versions, state, maxP, first = [], None, None, None
+    history = {}  # unit key -> the texts it has had, to spot reversions
+    for efyd in sorted(groups):
+        grp = sorted(groups[efyd], key=lambda r: r['P'])
+        rep = grp[-1]
+        note = None
+        if state is None:
+            new = dict(rep['units'])
+            first = rep
+        elif rep['P'] >= maxP:
+            new = dict(rep['units'])
+        else:
+            # Promulgated before a law already in force (it takes effect later): law.go.kr composed this version from
+            # the text as it stood at its promulgation, so it lacks the later law's changes. Apply only its own changes.
+            cands = [r for r in recs if (r['P'], r['efyd']) < (rep['P'], rep['efyd']) and r['efyd'] <= efyd]
+            base = max(cands, key=lambda r: (r['P'], r['efyd']))
+            delta = sorted(k for k in set(rep['units']) | set(base['units']) if rep['units'].get(k) != base['units'].get(k))
+            new = dict(state)
+            conflicts = []
+            for k in delta:
+                if squash((state.get(k) or {}).get('text')) != squash((base['units'].get(k) or {}).get('text')):
+                    conflicts.append(k)
+                if k in rep['units']:
+                    new[k] = rep['units'][k]
+                else:
+                    new.pop(k, None)
+            note = (f"law.go.kr composed this version from the text as it stood when {laws[rep['law']]['label']} was "
+                    f"promulgated ({iso(rep['pd'])}), before later-promulgated laws took effect; only its own changes (against "
+                    f"law.go.kr's version of {iso(base['efyd'])}) are applied to the text in force the day before.")
+            log.append({'act': cfg['slug'], 'from': iso(efyd), 'out_of_order': rep['law'], 'base': f"{base['law']}@{base['efyd']}",
+                        'delta': len(delta), 'conflicts': conflicts})
+        maxP = rep['P'] if maxP is None else max(maxP, rep['P'])
+        if state is None:
+            v = {'from': iso(efyd), 'source_url': rep['url'], 'sha256': rep['sha'], 'units': new, 'credits': {}}
+        else:
+            changed = sorted(k for k in set(new) | set(state) if new.get(k) != state.get(k))
+            if not changed:
+                log.append({'act': cfg['slug'], 'from': iso(efyd), 'no_change': [r['law'] for r in grp]})
+                state = new
+                continue
+            credits, spacing, uncredited, reverted = {}, [], [], []
+            glaws = []
+            for r in grp:
+                if r['law'] not in glaws:
+                    glaws.append(r['law'])
+            for k in changed:
+                o, n = state.get(k), new.get(k)
+                if o and n and squash(o['text']) == squash(n['text']):
+                    spacing.append(k)
+                    continue
+                if n and k in history and n['text'] in history[k][:-1]:
+                    reverted.append(k)
+                if k.startswith('buchik-'):
+                    no = k.split('-')[2]
+                    named = [l for l in glaws if l.split('-')[-1] == str(int(no))]
+                    if named:
+                        credits[k] = named
+                        continue
+                if len(glaws) == 1:
+                    credits[k] = [glaws[0]]
+                else:
+                    dates = rep['ann'].get(k, set())
+                    named = [l for l in glaws if any(r['pd'] in dates for r in grp if r['law'] == l)]
+                    if named:
+                        credits[k] = named
+                    else:
+                        uncredited.append(k)
+            v = {'from': iso(efyd), 'source_url': rep['url'], 'sha256': rep['sha'],
+                 'changes': {k: new.get(k) for k in changed}, 'credits': credits}
+            if spacing:
+                n0 = (f'{len(spacing)} provision(s) differ from the day before only in spacing (띄어쓰기), '
+                      'which law.go.kr revised in its own database; no law is credited for that.')
+                note = (note + ' ' + n0) if note else n0
+            log.append({'act': cfg['slug'], 'from': iso(efyd), 'laws': glaws, 'changed': len(changed), 'spacing': len(spacing),
+                        'uncredited': uncredited, 'reverted': reverted})
+        if note:
+            v['note'] = note
+        versions.append(v)
+        for k, u in new.items():
+            h = history.setdefault(k, [])
+            if not h or h[-1] != u['text']:
+                h.append(u['text'])
+        state = new
+    enacted = first['kind'] == '제정'
+    return {'slug': cfg['slug'], 'short': cfg.get('short', cfg['name']), 'title': cfg['name'],
+            'url': 'https://www.law.go.kr/법령/' + cfg['name'].replace(' ', ''),
+            'first_law': first['law'] if enacted else None,
+            'earlier_laws': [] if enacted else [first['law']],
+            'versions': versions}
+
+
+DECISIONS = [
+    "Every version is law.go.kr's own point-in-time text: one per 시행일자 (in-force date) in the eflaw search, dated by that day, not by promulgation (legalize-kr dates by promulgation).",
+    "Where several laws take effect for one act on one day, the day's text is law.go.kr's version for the last of them by promulgation date and number; each changed provision is credited to the law(s) of that day whose promulgation date law.go.kr's own amendment notes (<개정 ...>, [전문개정 ...], [본조신설 ...]) name for it, and is otherwise left uncredited.",
+    "Otherwise credits come from law.go.kr's version records: every provision that differs from the day before is credited to the law (공포번호) that version records. For 타법개정 that is the other law whose 부칙 made the change; its title is taken from the version's 개정문.",
+    "A version promulgated before a law already in force (because it takes effect later) was composed by law.go.kr from the text as it stood at its promulgation, so it lacks that later law's changes. Only its own changes (its text against law.go.kr's version before it by promulgation) are applied to the text in force the day before; each such version says so in its note.",
+    "Provisions whose text differs from the day before only in spacing (law.go.kr re-spaced old texts, 띄어쓰기) are committed by the publisher as unexplained, never credited to a law.",
+    "Editorial notes law.go.kr adds to the consolidated text are removed: <개정 ...>, <신설 ...>, the dates after 삭제, and bracketed notes such as [전문개정 ...], [본조신설 ...], [제목개정 ...], [종전 ...] and Constitutional Court notes ([단순위헌 ...], [헌법불합치 ...]). 조문참고자료 is not part of the text.",
+    "Constitutional Court (헌법재판소) decisions that void provisions without a statutory amendment are not commits: law.go.kr keeps the words and adds only a note.",
+    "Headings (편/장/절/관) form one file per act, structure.md; each 부칙 is its own file, keyed by its law's promulgation date and number.",
+    "Annexes (별표, 서식) are not included.",
+]
+
+
+def main():
+    acts_cfg = json.load(open(os.path.join(HERE, 'acts.json'), encoding='utf-8'))
+    laws, acts, log = {}, [], []
+    reqlog = os.path.join(fetch.CACHE, 'requests.jsonl')
+    requests = sum(1 for _ in open(reqlog, encoding='utf-8')) if os.path.exists(reqlog) else 0
+    for cfg in acts_cfg:
+        a = build_act(cfg, laws, log)
+        if a:
+            acts.append(a)
+            print(a['slug'], len(a['versions']), 'versions', file=sys.stderr)
+    used = {l for a in acts for v in a['versions'] for ls in v['credits'].values() for l in ls}
+    used |= {a['first_law'] for a in acts if a['first_law']} | {l for a in acts for l in a['earlier_laws']}
+    no_change = [e for e in log if 'no_change' in e]
+    corpus = {
+        'country': {
+            'code': 'KR', 'name': 'South Korea', 'slug': 'south-korea', 'lang': 'ko', 'tz': 'Asia/Seoul',
+            'future_branch': 'future',
+            'publisher': {'name': '법제처 국가법령정보센터 (National Law Information Center)', 'email': 'nlic@law.go.kr.invalid'},
+            'default_in_force_rule': {
+                'text': ('대한민국헌법 제53조 제7항: 법률은 특별한 규정이 없는 한 공포한 날로부터 20일을 경과함으로써 효력을 발생한다 '
+                         '(a law takes effect 20 days after promulgation unless it provides otherwise). Every version here carries '
+                         "law.go.kr's own 시행일자 (in-force date), which already applies this rule or the law's own 부칙."),
+                'source': 'https://www.law.go.kr/법령/대한민국헌법'},
+            'licence_note': ('Statute text is not protected by copyright (저작권법 제7조 제1호). Source: 법제처 국가법령정보센터 '
+                             '(www.law.go.kr), Open API (open.law.go.kr).'),
+        },
+        'sources': [{
+            'name': '법제처 국가법령정보센터 Open API (National Law Information Center, Ministry of Government Legislation)',
+            'url': 'https://www.law.go.kr/DRF/', 'retrieved': RETRIEVED, 'requests': requests,
+            'licence': 'Statutes are not copyright works (저작권법 제7조); law.go.kr offers its data for reuse (공공누리 / KOGL)',
+            'notes': ("lawSearch.do?target=eflaw lists every version by 시행일자; lawService.do?target=eflaw&MST=&efYd=&type=XML "
+                      "gives each version's full text. OC=test (the API's public demonstration id).")}],
+        'laws': {k: v for k, v in sorted(laws.items()) if k in used},
+        'acts': acts,
+        'applies': [],
+        'decisions': DECISIONS + [
+            f"law.go.kr lists {', '.join(e['no_change'])} in force for {e['act']} on {e['from']}, but the text equals the day before's after removing editorial notes; no commit."
+            for e in no_change],
+        'ai_use': ['Claude Code (claude-opus-5-5) wrote fetch.py and parse.py. No model wrote, summarised or transcribed any legal text; every word comes from the law.go.kr API responses.'],
+    }
+    out = os.path.join(HERE, 'corpus.json')
+    with open(out + '.tmp', 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(corpus, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    os.replace(out + '.tmp', out)
+    with open(os.path.join(HERE, 'parse.log'), 'w', encoding='utf-8', newline='\n') as f:
+        for e in log:
+            f.write(json.dumps(e, ensure_ascii=False) + '\n')
+
+
+if __name__ == '__main__':
+    main()
+
+
