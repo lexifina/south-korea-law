@@ -1,0 +1,26 @@
+[
+ {
+  "slug": "heonbeop",
+  "name": "대한민국헌법",
+  "query": "대한민국헌법",
+  "id": "001444"
+ },
+ {
+  "slug": "minbeop",
+  "name": "민법",
+  "query": "민법",
+  "id": "001706"
+ },
+ {
+  "slug": "hyeongbeop",
+  "name": "형법",
+  "query": "형법",
+  "id": "001692"
+ },
+ {
+  "slug": "gaeinjeongbo-bohobeop",
+  "name": "개인정보 보호법",
+  "query": "개인정보 보호법",
+  "id": "011357"
+ }
+]

@@ -1,0 +1,637 @@
+{
+ "country": "KR",
+ "acts": [
+  {
+   "slug": "heonbeop",
+   "short": "대한민국헌법",
+   "title": "대한민국헌법",
+   "url": "https://www.law.go.kr/법령/대한민국헌법",
+   "versions": [
+    {
+     "from": "1948-07-17",
+     "units": 104,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53081&efYd=19480717&type=XML",
+     "sha256": "79f4f4d5d362d2aab805f84bbf3354667089f2d46a6f9e81e9ca3ca0a041ebeb"
+    },
+    {
+     "from": "1952-07-07",
+     "units": 106,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53082&efYd=19520707&type=XML",
+     "sha256": "1b9f7113c0db5df148f336a7d3cbb8c5bc4a95c592f344ca07b3b57ed22ae9f4"
+    },
+    {
+     "from": "1954-11-29",
+     "units": 110,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53083&efYd=19541129&type=XML",
+     "sha256": "fb1ac7c27bd39e38669a33c20a12381cd68f96e12497aa6a8f56e8c62eb54f8e"
+    },
+    {
+     "from": "1960-06-15",
+     "units": 111,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53084&efYd=19600615&type=XML",
+     "sha256": "3c4b5f67da851cd259aefc2b87af801be6e2884d0cb59cc5534d9e0543b6182b"
+    },
+    {
+     "from": "1960-11-29",
+     "units": 112,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53085&efYd=19601129&type=XML",
+     "sha256": "7ee567491f32839fc73f9955a1b22656c9656f889d0e1e022c5b2c83195bbab0"
+    },
+    {
+     "from": "1963-12-17",
+     "units": 123,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53191&efYd=19631217&type=XML",
+     "sha256": "2eb66d2949c3a25fd4f61b77b02c53606322dde8ec5804881cee3e4e3352348d"
+    },
+    {
+     "from": "1969-10-21",
+     "units": 124,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53086&efYd=19691021&type=XML",
+     "sha256": "f0ec6fce038e89bc693d9144a6da62d9c2c3a912638c1cf248827b8d29433678"
+    },
+    {
+     "from": "1972-12-27",
+     "units": 128,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53087&efYd=19721227&type=XML",
+     "sha256": "ec8c3383346e0a80d32b505cc7231ae9621fe83096a6acf038ec925bc2d3b2b0"
+    },
+    {
+     "from": "1980-10-27",
+     "units": 133,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=53088&efYd=19801027&type=XML",
+     "sha256": "be3a5b1a25fcf907f5edfe1e2626230b96a04b0a0667027db4df40869e62537a"
+    },
+    {
+     "from": "1988-02-25",
+     "units": 132,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=61603&efYd=19880225&type=XML",
+     "sha256": "3dc01a060fc209964cce807e51a6fbcf62d1ac68f3b5ca9365f9a45a8c9aa1f8"
+    }
+   ]
+  },
+  {
+   "slug": "minbeop",
+   "short": "민법",
+   "title": "민법",
+   "url": "https://www.law.go.kr/법령/민법",
+   "versions": [
+    {
+     "from": "1960-01-01",
+     "units": 1113,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58431&efYd=19600101&type=XML",
+     "sha256": "cbd361f463a29cb5077144d26510adea5f4160acae3b9f16820444ccd51491d2"
+    },
+    {
+     "from": "1963-01-01",
+     "units": 1114,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58435&efYd=19630101&type=XML",
+     "sha256": "9533ffe8b2e2d748e5207c96432e1fdb64771c7e6540a45ce6313d9172698485"
+    },
+    {
+     "from": "1963-03-01",
+     "units": 1115,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58434&efYd=19630301&type=XML",
+     "sha256": "1206834b322bec6e8594972810ee37e55fe0903356edfca4dc74418aa803ec1c"
+    },
+    {
+     "from": "1965-01-01",
+     "units": 1116,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58432&efYd=19650101&type=XML",
+     "sha256": "a4ec4d426c039bebc1f1bee57071a7cceab46be9ec3b1838229389eea023a44d"
+    },
+    {
+     "from": "1970-06-18",
+     "units": 1117,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58437&efYd=19700618&type=XML",
+     "sha256": "e37ba8f8eea0506340ccdc0054db9fcce0ad9eb952dba782ef1249083b0f30c5"
+    },
+    {
+     "from": "1979-01-01",
+     "units": 1126,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58436&efYd=19790101&type=XML",
+     "sha256": "efc8e738808ddfa1deae8bbaa72b2fd753ed12460341d002dd8151c911f302d5"
+    },
+    {
+     "from": "1984-09-01",
+     "units": 1129,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58433&efYd=19840901&type=XML",
+     "sha256": "fc8848b3fcba8fc20e0f7bc6dde7a9ef38dbe7b93857e2beab43fec35e4fd444"
+    },
+    {
+     "from": "1991-01-01",
+     "units": 1137,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58430&efYd=19910101&type=XML",
+     "sha256": "82c1e2a64eb0c827f78ff0e7def5951bc593c6d3aae67b2c81b20eec3fec1d9b"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 1138,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=60398&efYd=19980101&type=XML",
+     "sha256": "3950909bbf5942c19a2af4897ca5fd3b78ce6155bc28a20c7b5ae5e2ea070f52"
+    },
+    {
+     "from": "1998-06-14",
+     "units": 1139,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58442&efYd=19980614&type=XML",
+     "sha256": "9d8e3144311d9e2bd520bb280d07cfea781ff1429f4be599f7156a0b1f725fc4"
+    },
+    {
+     "from": "2002-01-14",
+     "units": 1140,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=58429&efYd=20020114&type=XML",
+     "sha256": "a8e2f1af67ea3cf0dd1fa1ecf988d671edc024302fde536c318042ed16e45e37"
+    },
+    {
+     "from": "2002-07-01",
+     "units": 1143,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=60400&efYd=20020701&type=XML",
+     "sha256": "8715240daa83ea2fd9991e55402df106cd7bc91b084e2de5c4683d62bde92805"
+    },
+    {
+     "from": "2005-03-31",
+     "units": 1153,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=67272&efYd=20050331&type=XML",
+     "sha256": "8408ac16ad754108eae2580e73731e43635e2f0bec2f687003ddbc74f37ecc12"
+    },
+    {
+     "from": "2005-12-29",
+     "units": 1154,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=72266&efYd=20051229&type=XML",
+     "sha256": "adc56a3171cbc3d891295df9e3ef9dbd04ddbeff20e40a32bc34fa9064359971"
+    },
+    {
+     "from": "2006-04-01",
+     "units": 1155,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=67271&efYd=20060401&type=XML",
+     "sha256": "aa06f6fdfa6bbb79854566db669ddca8062f5be3728b60eb5dbcbb4dcdcf96a6"
+    },
+    {
+     "from": "2007-12-21",
+     "units": 1158,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=81988&efYd=20071221&type=XML",
+     "sha256": "bf065a826dece10d689feddcc18a210b6780a10e33e0e7049daac02285c30e8f"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 1159,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=79107&efYd=20080101&type=XML",
+     "sha256": "1f6de550cef7d5b2e8e7075c2fc2384ece090105dbf15a74f4783cbf1a32a14e"
+    },
+    {
+     "from": "2009-08-09",
+     "units": 1160,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=93194&efYd=20090809&type=XML",
+     "sha256": "852a31ea3c25032b722ff140bd3684ac2d74733c171ac3fa37ed50d52e205f3b"
+    },
+    {
+     "from": "2012-02-10",
+     "units": 1161,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=122983&efYd=20120210&type=XML",
+     "sha256": "cc5b369ec57230649d8c7ba483843a5b99dd9304052bd7217bee8eaf4d666f7c"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 1198,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=138748&efYd=20130701&type=XML",
+     "sha256": "154b42cc34033119e3c84aca64c84801e753b86dae5a629ae3c194a052a74a2b"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 1199,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=165484&efYd=20141230&type=XML",
+     "sha256": "53f6265ee5036d6c8edd5483357138689248cb106aff07fdb6f7324015613bc3"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 1200,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=167952&efYd=20150701&type=XML",
+     "sha256": "6d85f0b4d505eb3c9736bcc7dc04e04369fa250a13ff1d13907db96482bdacf9"
+    },
+    {
+     "from": "2015-10-16",
+     "units": 1205,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=160862&efYd=20151016&type=XML",
+     "sha256": "a672f15ed22210ef95982d434844489f3ee66938bd84f2ff8e272defb6f6276d"
+    },
+    {
+     "from": "2016-01-06",
+     "units": 1206,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=178964&efYd=20160106&type=XML",
+     "sha256": "e7a68a7d289e6aa9f7becd8d0cc00a113e863690b20341ec083aa9875d66a571"
+    },
+    {
+     "from": "2016-02-04",
+     "units": 1218,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=167985&efYd=20160204&type=XML",
+     "sha256": "67b9e7cfba5ec26d3fe27a942fcfc318d68d5b83929bdbf2e846ea19f7cb55d2"
+    },
+    {
+     "from": "2016-12-20",
+     "units": 1219,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=188377&efYd=20161220&type=XML",
+     "sha256": "e9787ac359fddee10cfdf0d767c0df4f30c83a674f2dadc3c08a2ecdd600c9eb"
+    },
+    {
+     "from": "2017-06-03",
+     "units": 1220,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=188036&efYd=20170603&type=XML",
+     "sha256": "ab68a7f3bf224d2a0af6b3c4b3619fca8c8d7eaa23dbc1f174be231e5fb2f87a"
+    },
+    {
+     "from": "2018-02-01",
+     "units": 1223,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=198475&efYd=20180201&type=XML",
+     "sha256": "ad92233dc60f36c8c2606b5f3b0d81bd0eb4276663c5613737c2e86ffaa692e8"
+    },
+    {
+     "from": "2020-10-20",
+     "units": 1224,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=222427&efYd=20201020&type=XML",
+     "sha256": "1c66ee76352a2ccd83fc2a7520ba5ac0a6a1e5a5fc38bf5d64796917da7b2495"
+    },
+    {
+     "from": "2021-01-26",
+     "units": 1225,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=228813&efYd=20210126&type=XML",
+     "sha256": "56f6fb32c58815fad192518c10b39c9d87d0b26c22269e63aaccfdfae374c128"
+    },
+    {
+     "from": "2022-12-13",
+     "units": 1226,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=245913&efYd=20221213&type=XML",
+     "sha256": "3e25ec34dbd55995960f92848e9b5681ce42da73f8245507b27f4c91249475bd"
+    },
+    {
+     "from": "2023-06-28",
+     "units": 1227,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=246569&efYd=20230628&type=XML",
+     "sha256": "b91d84a84db3fc0ae913a3c7c98d3e9de5c738adb64f655cff05a11357f75dcd"
+    },
+    {
+     "from": "2024-05-17",
+     "units": 1228,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=251069&efYd=20240517&type=XML",
+     "sha256": "3fd1cc2f3cad6c9552b0dc67ffbfa8dd05550f06dc8b96d92f06d1545a81be1b"
+    },
+    {
+     "from": "2025-01-31",
+     "units": 1229,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=265307&efYd=20250131&type=XML",
+     "sha256": "a01043af9d6e75f9961817fd8d372ddbc5f656b3341a2696e14529db81c16d1b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 1230,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=265307&efYd=20260101&type=XML",
+     "sha256": "965ee3e11535c5792ab13032e50e0fcd082fdf1e9a69817f6f781e53cee9565c"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 1231,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=284415&efYd=20260317&type=XML",
+     "sha256": "1c0680c8009e2650d75a7fbe20ce2e2382c46bfa8845a2606d44c2f0a099d44e"
+    }
+   ]
+  },
+  {
+   "slug": "hyeongbeop",
+   "short": "형법",
+   "title": "형법",
+   "url": "https://www.law.go.kr/법령/형법",
+   "versions": [
+    {
+     "from": "1953-10-03",
+     "units": 374,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62390&efYd=19531003&type=XML",
+     "sha256": "bb830e10f054049047ceed1841ce2749f3e6aaacce67d74175a7ea3edbfacbbb"
+    },
+    {
+     "from": "1975-03-25",
+     "units": 376,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62391&efYd=19750325&type=XML",
+     "sha256": "b32b785b6390e229088f7d761521d1e5e94226ed70746d506e0b03045929414d"
+    },
+    {
+     "from": "1988-12-31",
+     "units": 377,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62392&efYd=19881231&type=XML",
+     "sha256": "07a42cc36abbb36b78ee38620b5475e6cb1cdf7d9204156f8b32987ea67b2c8d"
+    },
+    {
+     "from": "1996-07-01",
+     "units": 397,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62388&efYd=19960701&type=XML",
+     "sha256": "a7ad09fe4d6c2294dc862f42b6dde9dd20e352373f54065e5d5909735f7530e2"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 398,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62386&efYd=19980101&type=XML",
+     "sha256": "fb21af3930cf7b77774fdbb77b4d2a05887cd2092c38e153694ea86ba046e76b"
+    },
+    {
+     "from": "2002-06-30",
+     "units": 399,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62387&efYd=20020630&type=XML",
+     "sha256": "91f6c4a3efeaf67eddbd5f708ea174eaa5c975b6d25fad4afa6c69a34fb9755d"
+    },
+    {
+     "from": "2004-01-20",
+     "units": 400,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=62389&efYd=20040120&type=XML",
+     "sha256": "09c3726387c06b0eb10233c35426865ab586b273d79cd4f195b78d70f3bd9178"
+    },
+    {
+     "from": "2005-07-29",
+     "units": 401,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=70339&efYd=20050729&type=XML",
+     "sha256": "01db6aec8eaf7f226e1f8fd1424e3fc8e538ab1025312507ba16fbf55a3771d8"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 402,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=67501&efYd=20080101&type=XML",
+     "sha256": "3de0faa5935f9e685201101028184c800c63d2088376ed7f333f95692fff653b"
+    },
+    {
+     "from": "2010-04-15",
+     "units": 404,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=104447&efYd=20100415&type=XML",
+     "sha256": "9512c729c05a7e7b24a7dc9ae7d70ac6eae43f5431c6d335356da56d002cd641"
+    },
+    {
+     "from": "2010-10-16",
+     "units": 404,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=104447&efYd=20101016&type=XML",
+     "sha256": "5247e01ab96dbe08876aae143de65b2afe4e69ac47d76bcb8d591edfeaa8c808"
+    },
+    {
+     "from": "2013-04-05",
+     "units": 406,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=138767&efYd=20130405&type=XML",
+     "sha256": "48f2a064db52e431d96c81dfa9b1fd4e161bd754c535ec8eaa058af3300adc23"
+    },
+    {
+     "from": "2013-06-19",
+     "units": 408,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=138767&efYd=20130619&type=XML",
+     "sha256": "f2879bf5dbdfec22001795f7efcbd21fcc4c1f425e1917a88d56e1df073436ec"
+    },
+    {
+     "from": "2014-05-14",
+     "units": 409,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=153923&efYd=20140514&type=XML",
+     "sha256": "950005c08ba489fc54da5ac9fa41d262b155cacf825446f82efd89e7f1d12191"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 410,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=165506&efYd=20141230&type=XML",
+     "sha256": "54b427e08eb7161ebae95d046ac36e65e6bd4369ed086d6ba9265cf5de888c3d"
+    },
+    {
+     "from": "2016-01-06",
+     "units": 413,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=178999&efYd=20160106&type=XML",
+     "sha256": "f72ea03ed871e83d952f3ae0465f75c7e4023ca0e8c6081f44c1330892c97a1c"
+    },
+    {
+     "from": "2016-05-29",
+     "units": 414,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=183536&efYd=20160529&type=XML",
+     "sha256": "7f1026d0abecba5b0feab60cba3f30276219c216aab306c5ffb7508e59aa91d9"
+    },
+    {
+     "from": "2016-12-20",
+     "units": 415,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=188383&efYd=20161220&type=XML",
+     "sha256": "e59953391f1ef4076d68da7469dc715dab4e68dd39a003890d3d7ccec8d2b07d"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 416,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=199509&efYd=20171212&type=XML",
+     "sha256": "8c1949402c7bdaa20ff6088caaa7c3c44e5ac18e9740cdcda56890e688689f8d"
+    },
+    {
+     "from": "2018-01-07",
+     "units": 416,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=178999&efYd=20180107&type=XML",
+     "sha256": "b1daf32ccb36cfb478a01ffa77dc328bb87bf0d782bf5326d72540d79def2300"
+    },
+    {
+     "from": "2018-10-16",
+     "units": 417,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=204772&efYd=20181016&type=XML",
+     "sha256": "838d64b8dbf2817b7a210d6f29b204f5de689f4f8b852c6bce0ca027bc7f256b"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 418,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=205820&efYd=20181218&type=XML",
+     "sha256": "aa959070b5586d712e50554b78d2b2bc35c5d855a9b88b1ab2cc4785c6e57da8"
+    },
+    {
+     "from": "2020-05-19",
+     "units": 420,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=217979&efYd=20200519&type=XML",
+     "sha256": "f88518834cf7b6c6422e8645ca0f1a723a1623e3578cf9bd8c293de9290090d1"
+    },
+    {
+     "from": "2020-10-20",
+     "units": 421,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=222447&efYd=20201020&type=XML",
+     "sha256": "586c364a964d2a39733281319ce0f0885366e52ee438388d723beef47d0c375a"
+    },
+    {
+     "from": "2021-12-09",
+     "units": 422,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=223445&efYd=20211209&type=XML",
+     "sha256": "fa9e0fca3918dacd8f88b230638d43fe1fb0153559b9b083a1bb0f535e38e014"
+    },
+    {
+     "from": "2023-08-08",
+     "units": 423,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=253323&efYd=20230808&type=XML",
+     "sha256": "f7e387e8734d29b2605b66cb564e6179ba600655d6e3cea778a45910f1e7ef53"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 423,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=253323&efYd=20240209&type=XML",
+     "sha256": "edaa006e4bffc94092a1300baaaf3f7741a64568a2e4c72254d1f29865c371f4"
+    },
+    {
+     "from": "2025-03-18",
+     "units": 425,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=269905&efYd=20250318&type=XML",
+     "sha256": "69e14d917dd83e5ee48371dfc5f4d46a28ba4597680c6cdb230c0e3057154f29"
+    },
+    {
+     "from": "2025-04-08",
+     "units": 427,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=270563&efYd=20250408&type=XML",
+     "sha256": "2707cf2bd44446290a9c8d7c99ca15c38b63ba17907672c4f39b55614a5e474d"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 428,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=280439&efYd=20251223&type=XML",
+     "sha256": "2348f02681418c141c39180f54412d2e73f02d79f37f82590da1130013b7fe4b"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 429,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=282557&efYd=20251231&type=XML",
+     "sha256": "d92f19c46c38cdeafed6ff1b20ee452786b5a938ce39385ea8d0b68cacf3a8d6"
+    },
+    {
+     "from": "2026-03-12",
+     "units": 431,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=284025&efYd=20260312&type=XML",
+     "sha256": "514fd2f77712f2995b3ca951dabefa01bd452638e0fe51df165f92d7e4a00951"
+    },
+    {
+     "from": "2026-09-13",
+     "units": 432,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=284025&efYd=20260913&type=XML",
+     "sha256": "935596a68b618a0046e742235bf7ace125287b77b0067d034cc296fcbf12c75e"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 433,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=290185&efYd=20261002&type=XML",
+     "sha256": "5a44cde53b936c7b4d01dc85625dea6ceaa464b27aec2256893f158ae6c6395e"
+    }
+   ]
+  },
+  {
+   "slug": "gaeinjeongbo-bohobeop",
+   "short": "개인정보 보호법",
+   "title": "개인정보 보호법",
+   "url": "https://www.law.go.kr/법령/개인정보보호법",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 77,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=111327&efYd=20110930&type=XML",
+     "sha256": "8fbb97018354071b56b39de189d5e27d49a1da7d47f26977e33bfb7f849e4f77"
+    },
+    {
+     "from": "2013-03-23",
+     "units": 78,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=136728&efYd=20130323&type=XML",
+     "sha256": "9ab7438feee67ee4129d02b042bf25be244d85b269c80054e8c3d5063d4b3394"
+    },
+    {
+     "from": "2014-03-24",
+     "units": 79,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=152302&efYd=20140324&type=XML",
+     "sha256": "d36721aa0281f476b6680d350afec3666f9e9d86c552bcd91d8192023a3a3ed1"
+    },
+    {
+     "from": "2014-08-07",
+     "units": 83,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=142563&efYd=20140807&type=XML",
+     "sha256": "104b7858dd89e825219b8f7f22a9c9ddb0b3c503a3d5d34564fb149251680245"
+    },
+    {
+     "from": "2014-11-19",
+     "units": 84,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=162148&efYd=20141119&type=XML",
+     "sha256": "20334a6eb3b6b240962e5020bb2513d131455f5b296e3f798630f5a2b5377fed"
+    },
+    {
+     "from": "2015-07-24",
+     "units": 86,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=173223&efYd=20150724&type=XML",
+     "sha256": "964a08c87c03302fb257069f6b6bd63af87ba03df43da4dbd40cbdb27c58d059"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 86,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=173223&efYd=20160101&type=XML",
+     "sha256": "5c32c3c6b57d99a345d08905be7730c7473851c1786cb6836648c933e854bc3b"
+    },
+    {
+     "from": "2016-07-25",
+     "units": 89,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=173223&efYd=20160725&type=XML",
+     "sha256": "0bc453d2c4c7f42e8eddb1cb03e5a3be88850250809608759497412f1226ec8f"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 90,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=182015&efYd=20160930&type=XML",
+     "sha256": "9ec132316a10dbdff2cb4d9de6d3431ccdf0ee3c7b9358bcc374d43971529cce"
+    },
+    {
+     "from": "2017-03-30",
+     "units": 90,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=182015&efYd=20170330&type=XML",
+     "sha256": "2699c74c359b4d4222171936fe02a97a36d39480dae97fed213f5dff1bbf5fa3"
+    },
+    {
+     "from": "2017-07-26",
+     "units": 91,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=195062&efYd=20170726&type=XML",
+     "sha256": "6640d617f8877ae373b65b875583a07eaa72d65ade764cbebccf7d6f4a6048a3"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 92,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=195062&efYd=20171019&type=XML",
+     "sha256": "91fcc7ff153a8803fb5586015038ea5bdff39046e5d9772216f2eabeaf3a2795"
+    },
+    {
+     "from": "2020-08-05",
+     "units": 126,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=213857&efYd=20200805&type=XML",
+     "sha256": "a0c27b6e9b1844b6588669b4c2dd0333e5a47b980e6e6d076b56216b3ee062b4"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 135,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=248613&efYd=20230915&type=XML",
+     "sha256": "c02536ac1cd7ff4f4b442a21b25ea8a09a4262c2cd53f3cacdc5810b44b405bf"
+    },
+    {
+     "from": "2024-03-15",
+     "units": 137,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=248613&efYd=20240315&type=XML",
+     "sha256": "01baf4abb120731e82f80b8a01b7c408f15ae6d5b8fd25f1d361082fc4dea9a7"
+    },
+    {
+     "from": "2025-03-13",
+     "units": 138,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=248613&efYd=20250313&type=XML",
+     "sha256": "d629a800f101a9b3d55d43e7dcbe704feb60e6a53dd66bdcbdb53e2ac58d246b"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 139,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=270351&efYd=20251002&type=XML",
+     "sha256": "f5b63c82c01e76897c44f93e4c14bce82f39c66203d01cc311c4ec860320ab26"
+    },
+    {
+     "from": "2026-09-11",
+     "units": 141,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=283839&efYd=20260911&type=XML",
+     "sha256": "8cedd7d0a0f85dcffd17f92e244577f168c0e13d9b6d5e8286f8df3c57595c20"
+    },
+    {
+     "from": "2027-03-09",
+     "units": 146,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=289415&efYd=20270309&type=XML",
+     "sha256": "18fe329c6e7634a8cf9105cb76a5c58cc2ccdf888a9889ccd4ec64ded6b8796f"
+    },
+    {
+     "from": "2027-07-01",
+     "units": 146,
+     "source_url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&MST=283839&efYd=20270701&type=XML",
+     "sha256": "25b01d2e08fc2c26badfc523dbd501388ce44e7ee448409f8181c1c3dd66981b"
+    }
+   ]
+  }
+ ]
+}
