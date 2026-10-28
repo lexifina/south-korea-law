@@ -183,99 +183,131 @@ def build_act(cfg, laws, log):
                          'temporary_until': None, 'restores': None, 'note': None}
         recs.append({'efyd': efyd, 'P': (pd, pn), 'mst': mst, 'url': url, 'sha': hashlib.sha256(raw).hexdigest(),
                      'units': units, 'ann': ann, 'law': key, 'pd': pd, 'kind': meta['제개정구분']})
-    # law.go.kr composes each version's text from the version it was edited from, which is not always the one in
-    # force the day before: a law promulgated earlier but in force later is sometimes already in a later law's text,
-    # and sometimes missing from it. So each record's own changes are its differences from the record it was
-    # composed from (the earlier-promulgated record nearest to it in wording), and the in-force history replays
-    # those changes in in-force order.
-    order = sorted(recs, key=lambda r: (r['P'], r['efyd']))
-    sq = [{k: squash(u['text']) for k, u in r['units'].items()} for r in order]
-    for i, r in enumerate(order):
-        r['delta'] = None
-        if i == 0:
-            continue
-        best = None
-        for j in range(i):
-            a, b = sq[i], sq[j]
-            score = sum(1 for k in set(a) | set(b) if a.get(k) != b.get(k))
-            if best is None or score <= best[0]:
-                best = (score, j)
-        base = order[best[1]]
-        r['base'] = base
-        r['delta'] = sorted(k for k in set(r['units']) | set(base['units']) if r['units'].get(k) != base['units'].get(k))
-    first = order[0]
-    if min(recs, key=lambda r: (r['efyd'], r['P'])) is not first:
-        log.append({'act': cfg['slug'], 'warning': 'earliest in force is not earliest promulgated'})
+    # The earliest day any law promulgated on a given day takes effect for this act (annotations name laws by
+    # promulgation date only, so laws promulgated the same day are taken together).
+    first_in_force = {}
+    for r in recs:
+        first_in_force[r['pd']] = min(first_in_force.get(r['pd'], r['efyd']), r['efyd'])
     by_day = {}
     for r in recs:
         by_day.setdefault(r['efyd'], []).append(r)
-    applied = {}  # unit key -> list of (record) whose change has been applied, in order
-    versions, state, history = [], None, {}
+    versions, state, maxP, first, history = [], None, None, None, {}
     for efyd in sorted(by_day):
         grp = sorted(by_day[efyd], key=lambda r: r['P'])
+        rep = grp[-1]
+        glaws = []
+        for r in grp:
+            if r['law'] not in glaws:
+                glaws.append(r['law'])
+        notes = []
         if state is None:
-            state = dict(first['units'])
-            versions.append({'from': iso(efyd), 'source_url': first['url'], 'sha256': first['sha'], 'units': dict(state), 'credits': {}})
-            grp = [r for r in grp if r is not first]
+            first = rep
+            state = dict(rep['units'])
+            versions.append({'from': iso(efyd), 'source_url': rep['url'], 'sha256': rep['sha'], 'units': dict(state), 'credits': {}})
             for k, u in state.items():
                 history[k] = [u['text']]
-        new = dict(state)
-        who = {}
-        conflicts = []
-        for r in grp:
-            for k in r['delta']:
-                # a change already applied to this provision by a law promulgated after r: r's text predates it
-                later = [w for w in applied.get(k, []) if w['P'] > r['P']]
-                if later:
-                    conflicts.append({'unit': k, 'law': r['law'], 'later_promulgated': [w['law'] for w in later]})
-                if k in r['units']:
-                    new[k] = r['units'][k]
+            maxP = rep['P']
+            continue
+        if rep['P'] >= maxP:
+            cand = dict(rep['units'])
+        else:
+            # Promulgated before a law already in force (it takes effect later): law.go.kr composed this text before
+            # that law, so it lacks its changes. Apply only this law's own changes, against the record before it by
+            # promulgation.
+            cands = [r for r in recs if (r['P'], r['efyd']) < (rep['P'], rep['efyd']) and r['efyd'] <= efyd]
+            base = max(cands, key=lambda r: (r['P'], r['efyd']))
+            delta = sorted(k for k in set(rep['units']) | set(base['units']) if rep['units'].get(k) != base['units'].get(k))
+            cand = dict(state)
+            for k in delta:
+                if k in rep['units']:
+                    cand[k] = rep['units'][k]
                 else:
-                    new.pop(k, None)
-                who.setdefault(k, [])
-                if r['law'] not in who[k]:
-                    who[k].append(r['law'])
-                applied.setdefault(k, []).append(r)
-        changed = sorted(k for k in set(new) | set(state) if new.get(k) != state.get(k))
-        if not grp:
-            continue
+                    cand.pop(k, None)
+            notes.append(f"law.go.kr composed this text when {laws[rep['law']]['label']} was promulgated ({iso(rep['pd'])}), before "
+                         f"laws promulgated later but in force earlier; only its own changes (against law.go.kr's version of "
+                         f"{iso(base['efyd'])}) are applied to the text in force the day before.")
+            log.append({'act': cfg['slug'], 'from': iso(efyd), 'out_of_order': rep['law'], 'base': f"{base['law']}@{base['efyd']}", 'delta': len(delta)})
+        maxP = max(maxP, rep['P'])
+        # Text that appears before its law: a changed provision whose amendment note names a law that takes effect
+        # for this act only later. Keep the text in force the day before if this day's laws did not touch it;
+        # otherwise the source does not give the text in force on this day.
+        own = {r['pd'] for r in grp}
+        early = []
+        for k in sorted(set(cand) | set(state)):
+            if cand.get(k) == state.get(k) or k not in cand:
+                continue
+            dates = rep['ann'].get(k, set())
+            later = sorted(d for d in dates if d in first_in_force and first_in_force[d] > efyd)
+            if not later:
+                continue
+            if dates & own:
+                cand[k] = {**cand[k], 'text': PLACEHOLDER}
+                early.append({'unit': k, 'later': later, 'fix': 'placeholder'})
+            elif k in state:
+                cand[k] = state[k]
+                early.append({'unit': k, 'later': later, 'fix': 'kept'})
+            else:
+                cand.pop(k)
+                early.append({'unit': k, 'later': later, 'fix': 'absent'})
+        changed = sorted(k for k in set(cand) | set(state) if cand.get(k) != state.get(k))
         if not changed:
-            log.append({'act': cfg['slug'], 'from': iso(efyd), 'no_change': [r['law'] for r in grp]})
+            log.append({'act': cfg['slug'], 'from': iso(efyd), 'no_change': glaws})
             continue
-        credits, spacing, reverted = {}, [], []
+        credits, spacing, reverted, uncredited = {}, [], [], []
         for k in changed:
-            o, n = state.get(k), new.get(k)
+            o, n = state.get(k), cand.get(k)
             if o and n and squash(o['text']) == squash(n['text']):
                 spacing.append(k)
                 continue
+            if n and n['text'] == PLACEHOLDER:
+                continue  # the publisher's: the source lacks the text
             if n and n['text'] in history.get(k, [])[:-1]:
                 reverted.append(k)
-            credits[k] = who[k]
-        rep = grp[-1]
+            if k.startswith('buchik-'):
+                named = [l for l in glaws if l.split('-')[-1] == str(int(k.split('-')[2]))]
+                if named:
+                    credits[k] = named
+                    continue
+            if len(glaws) == 1:
+                credits[k] = [glaws[0]]
+                continue
+            dates = rep['ann'].get(k, set())
+            named = [l for l in glaws if any(r['pd'] in dates for r in grp if r['law'] == l)]
+            if named:
+                credits[k] = named
+            else:
+                uncredited.append(k)
         v = {'from': iso(efyd), 'source_url': rep['url'], 'sha256': rep['sha'],
-             'changes': {k: new.get(k) for k in changed}, 'credits': credits}
-        notes = []
+             'changes': {k: cand.get(k) for k in changed}, 'credits': credits}
         if len(grp) > 1:
-            notes.append('law.go.kr records ' + ', '.join(laws[r['law']]['label'] for r in grp) + ' in force for this act on this day; '
-                         'the changes of each are applied in order of promulgation (other sources: ' +
-                         ', '.join(r['url'] for r in grp[:-1]) + ').')
+            notes.append('law.go.kr records ' + ', '.join(dict.fromkeys(laws[r['law']]['label'] for r in grp)) +
+                         ' in force for this act on this day; the text is its version for the last of them, and each provision is '
+                         'credited to the law(s) its amendment notes name.')
         if spacing:
             notes.append(f'{len(spacing)} provision(s) differ from the day before only in spacing (띄어쓰기), '
                          'which law.go.kr revised in its own database; no law is credited for that.')
+        if early:
+            notes.append(f'{len(early)} provision(s) in law.go.kr\'s text carry wording from a law that takes effect later; '
+                         'they are corrected as listed in the decisions.')
+            for e in early:
+                EARLY.append(f"{cfg['name']} {state.get(e['unit'], cand.get(e['unit'], {})).get('label', e['unit'])} on {iso(efyd)}: "
+                             f"law.go.kr's text already has wording from the law(s) promulgated "
+                             f"{', '.join(iso(d) for d in e['later'])}, which take effect for this act later; "
+                             + {'kept': 'the text in force the day before is kept.',
+                                'absent': 'the provision is left out until that law takes effect.',
+                                'placeholder': 'this day\'s law also changed it, so it reads "' + PLACEHOLDER.strip() + '".'}[e['fix']])
         if notes:
             v['note'] = ' '.join(notes)
-        log.append({'act': cfg['slug'], 'from': iso(efyd), 'laws': [r['law'] for r in grp],
-                    'bases': [f"{r['base']['law']}@{r['base']['efyd']}" for r in grp], 'changed': len(changed),
-                    'spacing': len(spacing), 'reverted': reverted, 'conflicts': conflicts})
+        log.append({'act': cfg['slug'], 'from': iso(efyd), 'laws': glaws, 'changed': len(changed), 'spacing': len(spacing),
+                    'reverted': reverted, 'uncredited': uncredited, 'early': early})
         versions.append(v)
         for k in changed:
-            if k in new:
-                history.setdefault(k, []).append(new[k]['text'])
-        state = new
-    # the replay must end at law.go.kr's latest text
+            if k in cand:
+                history.setdefault(k, []).append(cand[k]['text'])
+        state = cand
     latest = max(recs, key=lambda r: (r['efyd'], r['P']))
-    diff_end = sorted(k for k in set(state) | set(latest['units']) if state.get(k) != latest['units'].get(k))
-    log.append({'act': cfg['slug'], 'end_mismatch': diff_end})
+    log.append({'act': cfg['slug'], 'end_mismatch': sorted(k for k in set(state) | set(latest['units'])
+                                                           if state.get(k) != latest['units'].get(k))})
     enacted = first['kind'] == '제정'
     return {'slug': cfg['slug'], 'short': cfg.get('short', cfg['name']), 'title': cfg['name'],
             'url': 'https://www.law.go.kr/법령/' + cfg['name'].replace(' ', ''),
