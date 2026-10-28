@@ -26,7 +26,22 @@ INLINE = re.compile(r'\s*<(?:개정|신설|전문개정|본조신설|제목개�
 INLINE2 = re.compile(r'\s*<(?:개정|신설|전문개정|본조신설|제목개정)\s[^<>]*>')
 BRACKET_LINE = re.compile(r'^\[[^\[\]]*(?:\[[^\[\]]*\][^\[\]]*)*\]$')
 BRACKET_INLINE = re.compile(r'\s*\[(?:전문개정|본조신설|제목개정|종전|시행일|단순위헌|헌법불합치|한정위헌|한정합헌|위헌)[^\[\]]*\]')
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳'
+ANN = re.compile(r'<(?:개정|신설|전문개정|본조신설|제목개정|타법개정)?[^<>]*?>|\[(?:전문개정|본조신설|제목개정|종전|시행일)[^\[\]]*\]')
+ANN_DATE = re.compile(r'(\d{4})\s*\.\s*(\d{1,2})\s*\.\s*(\d{1,2})')
+
+
+def ann_dates(raw):
+    """Promulgation dates named in law.go.kr's amendment notes (<개정 2011.3.7>, [전문개정 ...], [본조신설 ...])."""
+    out = set()
+    for m in ANN.finditer(raw or ''):
+        for y, mo, d in ANN_DATE.findall(m.group(0)):
+            out.add(f'{y}{int(mo):02d}{int(d):02d}')
+    return out
+
+
+def squash(text):
+    """Text with all spacing removed: law.go.kr re-spaced old texts (띄어쓰기) without any law."""
+    return re.sub(r'\s+', '', text or '').replace('·', 'ㆍ').replace('・', 'ㆍ')
 
 
 def norm_line(s):
@@ -71,11 +86,12 @@ def parse_version(xml_bytes):
     info = root.find('기본정보')
     meta = {k: t(info, k) for k in ('법령ID', '공포일자', '공포번호', '시행일자', '제개정구분', '법령명_한글')}
     meta['법종구분'] = t(info, '법종구분')
-    units, headings, changed_flag = {}, [], set()
+    units, headings, changed_flag, ann = {}, [], set(), {}
     for a in root.iter('조문단위'):
         kind = t(a, '조문여부')
         if kind == '전문':
             headings += lines_of(t(a, '조문내용'))
+            ann.setdefault('structure', set()).update(ann_dates(t(a, '조문내용')))
             continue
         key = art_key(t(a, '조문번호'), t(a, '조문가지번호'))
         lines = lines_of(t(a, '조문내용'))
@@ -88,6 +104,7 @@ def parse_version(xml_bytes):
         if key in units:
             raise ValueError(f'duplicate unit {key}')
         units[key] = {'label': art_label(t(a, '조문번호'), t(a, '조문가지번호')), 'kind': 'art', 'text': '\n'.join(lines) + '\n'}
+        ann[key] = ann_dates(''.join(a.itertext()))
         if t(a, '조문변경여부') == 'Y':
             changed_flag.add(key)
     if headings:
@@ -104,7 +121,7 @@ def parse_version(xml_bytes):
         units[key] = {'label': f'부칙 ({d[:4]}.{int(d[4:6])}.{int(d[6:])}, 제{int(n) if n.strip().isdigit() else n}호)', 'kind': 'transitional',
                       'text': '\n'.join(lines) + '\n'}
     amend_text = lines_of(t(root.find('개정문'), '개정문내용') if root.find('개정문') is not None else '')
-    return meta, units, changed_flag, amend_text
+    return meta, units, changed_flag, amend_text, ann
 
 
 def iso(d):
