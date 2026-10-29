@@ -1729,9 +1729,6 @@
       "art-0098": [
        "heonbeop-2"
       ],
-      "art-0103": [
-       "heonbeop-2"
-      ],
       "buchik-19520707-00002": [
        "heonbeop-2"
       ]
@@ -2396,24 +2393,6 @@
       "art-0097": [
        "heonbeop-4"
       ],
-      "art-0099": [
-       "heonbeop-4"
-      ],
-      "art-0100": [
-       "heonbeop-4"
-      ],
-      "art-0101": [
-       "heonbeop-4"
-      ],
-      "art-0102": [
-       "heonbeop-4"
-      ],
-      "art-0103": [
-       "heonbeop-4"
-      ],
-      "buchik-19480717-00001": [
-       "heonbeop-4"
-      ],
       "buchik-19600615-00004": [
        "heonbeop-4"
       ],
@@ -2440,9 +2419,6 @@
       }
      },
      "credits": {
-      "buchik-19600615-00004": [
-       "heonbeop-5"
-      ],
       "buchik-19601129-00005": [
        "heonbeop-5"
       ]
@@ -12203,18 +12179,6 @@
       }
      },
      "credits": {
-      "art-0129": [
-       "law-1250"
-      ],
-      "art-0160": [
-       "law-1250"
-      ],
-      "art-0789": [
-       "law-1250"
-      ],
-      "buchik-19580222-00471": [
-       "law-1250"
-      ],
       "buchik-19621231-01250": [
        "law-1250"
       ]
@@ -12316,37 +12280,7 @@
       }
      },
      "credits": {
-      "art-0022": [
-       "law-1668"
-      ],
-      "art-0125": [
-       "law-1668"
-      ],
-      "art-0126": [
-       "law-1668"
-      ],
-      "art-0129": [
-       "law-1668"
-      ],
-      "art-0840": [
-       "law-1668"
-      ],
-      "art-0841": [
-       "law-1668"
-      ],
-      "art-0874": [
-       "law-1668"
-      ],
-      "art-1080": [
-       "law-1668"
-      ],
-      "buchik-19580222-00471": [
-       "law-1668"
-      ],
       "buchik-19641231-01668": [
-       "law-1668"
-      ],
-      "structure": [
        "law-1668"
       ]
      },
@@ -12439,37 +12373,7 @@
       }
      },
      "credits": {
-      "art-0022": [
-       "law-2200"
-      ],
-      "art-0125": [
-       "law-2200"
-      ],
-      "art-0126": [
-       "law-2200"
-      ],
-      "art-0129": [
-       "law-2200"
-      ],
-      "art-0840": [
-       "law-2200"
-      ],
-      "art-0841": [
-       "law-2200"
-      ],
-      "art-0874": [
-       "law-2200"
-      ],
-      "art-1080": [
-       "law-2200"
-      ],
-      "buchik-19580222-00471": [
-       "law-2200"
-      ],
       "buchik-19700618-02200": [
-       "law-2200"
-      ],
-      "structure": [
        "law-2200"
       ]
      },
@@ -13334,15 +13238,6 @@
       "art-0009": [
        "law-4199"
       ],
-      "art-0049": [
-       "law-4199"
-      ],
-      "art-0085": [
-       "law-4199"
-      ],
-      "art-0160": [
-       "law-4199"
-      ],
       "art-0768": [
        "law-4199"
       ],
@@ -13397,16 +13292,10 @@
       "art-0799": [
        "law-4199"
       ],
-      "art-0801": [
-       "law-4199"
-      ],
       "art-0804": [
        "law-4199"
       ],
       "art-0807": [
-       "law-4199"
-      ],
-      "art-0811": [
        "law-4199"
       ],
       "art-0816": [
@@ -13440,9 +13329,6 @@
        "law-4199"
       ],
       "art-0843": [
-       "law-4199"
-      ],
-      "art-0845": [
        "law-4199"
       ],
       "art-0867": [
@@ -13658,15 +13544,6 @@
       "art-1064": [
        "law-4199"
       ],
-      "art-1066": [
-       "law-4199"
-      ],
-      "art-1067": [
-       "law-4199"
-      ],
-      "art-1069": [
-       "law-4199"
-      ],
       "art-1078": [
        "law-4199"
       ],
@@ -13826,31 +13703,16 @@
       }
      },
      "credits": {
-      "art-0133": [
-       "law-5454"
-      ],
       "art-0163": [
        "law-5454"
       ],
       "art-0318": [
        "law-5454"
       ],
-      "art-0781": [
-       "law-5454"
-      ],
-      "art-0971": [
-       "law-5454"
-      ],
       "art-1037": [
        "law-5454"
       ],
-      "art-1046": [
-       "law-5454"
-      ],
       "buchik-19971213-05454": [
-       "law-5454"
-      ],
-      "structure": [
        "law-5454"
       ]
      },
@@ -13918,15 +13780,6 @@
       }
      },
      "credits": {
-      "art-0163": [
-       "law-5431"
-      ],
-      "art-0873": [
-       "law-5431"
-      ],
-      "art-1072": [
-       "law-5431"
-      ],
       "buchik-19971213-05431": [
        "law-5431"
       ]
@@ -14195,142 +14048,13 @@
       }
      },
      "credits": {
-      "art-0133": [
-       "law-6591"
-      ],
-      "art-0163": [
-       "law-6591"
-      ],
-      "art-0533": [
-       "law-6591"
-      ],
-      "art-0773": [
-       "law-6591"
-      ],
-      "art-0774": [
-       "law-6591"
-      ],
-      "art-0790": [
-       "law-6591"
-      ],
-      "art-0792": [
-       "law-6591"
-      ],
-      "art-0797": [
-       "law-6591"
-      ],
-      "art-0798": [
-       "law-6591"
-      ],
-      "art-0799": [
-       "law-6591"
-      ],
-      "art-0801": [
-       "law-6591"
-      ],
-      "art-0807": [
-       "law-6591"
-      ],
-      "art-0809": [
-       "law-6591"
-      ],
-      "art-0811": [
-       "law-6591"
-      ],
-      "art-0845": [
-       "law-6591"
-      ],
-      "art-0847": [
-       "law-6591"
-      ],
-      "art-0867": [
-       "law-6591"
-      ],
-      "art-0868": [
-       "law-6591"
-      ],
-      "art-0873": [
-       "law-6591"
-      ],
-      "art-0875": [
-       "law-6591"
-      ],
-      "art-0876": [
-       "law-6591"
-      ],
-      "art-0877": [
-       "law-6591"
-      ],
-      "art-0879": [
-       "law-6591"
-      ],
-      "art-0880": [
-       "law-6591"
-      ],
-      "art-0890": [
-       "law-6591"
-      ],
-      "art-0894": [
-       "law-6591"
-      ],
-      "art-0895": [
-       "law-6591"
-      ],
-      "art-0898": [
-       "law-6591"
-      ],
-      "art-0912": [
-       "law-6591"
-      ],
-      "art-0917": [
-       "law-6591"
-      ],
-      "art-0974": [
-       "law-6591"
-      ],
-      "art-0980": [
-       "law-6591"
-      ],
-      "art-0983": [
-       "law-6591"
-      ],
-      "art-0984": [
-       "law-6591"
-      ],
-      "art-0988": [
-       "law-6591"
-      ],
-      "art-0990": [
-       "law-6591"
-      ],
-      "art-0992": [
-       "law-6591"
-      ],
-      "art-0996": [
-       "law-6591"
-      ],
       "art-0999": [
-       "law-6591"
-      ],
-      "art-1002": [
-       "law-6591"
-      ],
-      "art-1009": [
        "law-6591"
       ],
       "art-1019": [
        "law-6591"
       ],
-      "art-1046": [
-       "law-6591"
-      ],
-      "art-1072": [
-       "law-6591"
-      ],
       "buchik-20020114-06591": [
-       "law-6591"
-      ],
-      "structure": [
        "law-6591"
       ]
      },
@@ -14434,37 +14158,10 @@
       "art-0060-02": [
        "law-6544"
       ],
-      "art-0245": [
-       "law-6544"
-      ],
       "art-0318": [
        "law-6544"
       ],
       "art-0354": [
-       "law-6544"
-      ],
-      "art-0819": [
-       "law-6544"
-      ],
-      "art-0912": [
-       "law-6544"
-      ],
-      "art-0917": [
-       "law-6544"
-      ],
-      "art-0971": [
-       "law-6544"
-      ],
-      "art-0988": [
-       "law-6544"
-      ],
-      "art-0990": [
-       "law-6544"
-      ],
-      "art-0996": [
-       "law-6544"
-      ],
-      "art-1002": [
        "law-6544"
       ],
       "art-1037": [
@@ -14963,9 +14660,6 @@
       }
      },
      "credits": {
-      "art-0245": [
-       "law-7427"
-      ],
       "art-0778": [
        "law-7427"
       ],
@@ -15140,9 +14834,6 @@
       "art-0912": [
        "law-7427"
       ],
-      "art-0917": [
-       "law-7427"
-      ],
       "art-0921": [
        "law-7427"
       ],
@@ -15156,9 +14847,6 @@
        "law-7427"
       ],
       "art-0968": [
-       "law-7427"
-      ],
-      "art-0971": [
        "law-7427"
       ],
       "art-0980": [
@@ -15182,13 +14870,7 @@
       "art-0987": [
        "law-7427"
       ],
-      "art-0988": [
-       "law-7427"
-      ],
       "art-0989": [
-       "law-7427"
-      ],
-      "art-0990": [
        "law-7427"
       ],
       "art-0991": [
@@ -15204,12 +14886,6 @@
        "law-7427"
       ],
       "art-0995": [
-       "law-7427"
-      ],
-      "art-0996": [
-       "law-7427"
-      ],
-      "art-1002": [
        "law-7427"
       ],
       "art-1004": [
@@ -15234,9 +14910,6 @@
        "law-7427"
       ],
       "art-1058": [
-       "law-7427"
-      ],
-      "buchik-19580222-00471": [
        "law-7427"
       ],
       "buchik-20050331-07427": [
@@ -15290,21 +14963,6 @@
       }
      },
      "credits": {
-      "art-0937": [
-       "law-7765"
-      ],
-      "art-1098": [
-       "law-7765"
-      ],
-      "buchik-19580222-00471": [
-       "law-7765"
-      ],
-      "buchik-20020114-06591": [
-       "law-7765"
-      ],
-      "buchik-20050331-07427": [
-       "law-7765"
-      ],
       "buchik-20051229-07765": [
        "law-7765"
       ]
@@ -15436,43 +15094,16 @@
       }
      },
      "credits": {
-      "art-0083": [
-       "law-8720"
-      ],
       "art-0097": [
        "law-8720"
       ],
-      "art-0122": [
-       "law-8720"
-      ],
       "art-0161": [
-       "law-8720"
-      ],
-      "art-0178": [
-       "law-8720"
-      ],
-      "art-0311": [
-       "law-8720"
-      ],
-      "art-0338": [
-       "law-8720"
-      ],
-      "art-0407": [
        "law-8720"
       ],
       "art-0801": [
        "law-8720"
       ],
       "art-0807": [
-       "law-8720"
-      ],
-      "art-0816": [
-       "law-8720"
-      ],
-      "art-0827": [
-       "law-8720"
-      ],
-      "art-0828": [
        "law-8720"
       ],
       "art-0836-02": [
@@ -15485,9 +15116,6 @@
        "law-8720"
       ],
       "art-0839-03": [
-       "law-8720"
-      ],
-      "art-0860": [
        "law-8720"
       ],
       "art-0909": [
@@ -15551,12 +15179,6 @@
       }
      },
      "credits": {
-      "art-0338": [
-       "law-8435"
-      ],
-      "art-0758": [
-       "law-8435"
-      ],
       "art-0812": [
        "law-8435"
       ],
@@ -15570,9 +15192,6 @@
        "law-8435"
       ],
       "art-0878": [
-       "law-8435"
-      ],
-      "art-1045": [
        "law-8435"
       ],
       "buchik-20070517-08435": [
@@ -15668,37 +15287,7 @@
       }
      },
      "credits": {
-      "art-0049": [
-       "law-9650"
-      ],
-      "art-0085": [
-       "law-9650"
-      ],
-      "art-0160": [
-       "law-9650"
-      ],
-      "art-0271": [
-       "law-9650"
-      ],
-      "art-0338": [
-       "law-9650"
-      ],
-      "art-0758": [
-       "law-9650"
-      ],
       "art-0836-02": [
-       "law-9650"
-      ],
-      "art-1045": [
-       "law-9650"
-      ],
-      "art-1066": [
-       "law-9650"
-      ],
-      "art-1067": [
-       "law-9650"
-      ],
-      "art-1069": [
        "law-9650"
       ],
       "buchik-20090508-09650": [
@@ -17134,24 +16723,6 @@
       }
      },
      "credits": {
-      "art-0049": [
-       "law-11300"
-      ],
-      "art-0178": [
-       "law-11300"
-      ],
-      "art-0218": [
-       "law-11300"
-      ],
-      "art-0311": [
-       "law-11300"
-      ],
-      "art-0338": [
-       "law-11300"
-      ],
-      "art-0482": [
-       "law-11300"
-      ],
       "art-0818": [
        "law-11300"
       ],
@@ -17165,15 +16736,6 @@
        "law-11300"
       ],
       "art-0925": [
-       "law-11300"
-      ],
-      "art-0971": [
-       "law-11300"
-      ],
-      "art-1045": [
-       "law-11300"
-      ],
-      "buchik-19900113-04199": [
        "law-11300"
       ],
       "buchik-20120210-11300": [
@@ -18113,18 +17675,22 @@
        "law-11300"
       ],
       "art-0869": [
+       "law-10429",
        "law-11300"
       ],
       "art-0870": [
        "law-11300"
       ],
       "art-0871": [
+       "law-10429",
        "law-11300"
       ],
       "art-0872": [
+       "law-10429",
        "law-11300"
       ],
       "art-0873": [
+       "law-10429",
        "law-11300"
       ],
       "art-0874": [
@@ -18158,6 +17724,7 @@
        "law-11300"
       ],
       "art-0887": [
+       "law-10429",
        "law-11300"
       ],
       "art-0888": [
@@ -18173,6 +17740,7 @@
        "law-11300"
       ],
       "art-0893": [
+       "law-10429",
        "law-11300"
       ],
       "art-0894": [
@@ -18188,6 +17756,7 @@
        "law-11300"
       ],
       "art-0899": [
+       "law-10429",
        "law-11300"
       ],
       "art-0900": [
@@ -18197,6 +17766,7 @@
        "law-11300"
       ],
       "art-0902": [
+       "law-10429",
        "law-11300"
       ],
       "art-0903": [
@@ -18245,6 +17815,7 @@
        "law-10429"
       ],
       "art-0931": [
+       "law-10429",
        "law-10645"
       ],
       "art-0932": [
@@ -18332,7 +17903,8 @@
        "law-10429"
       ],
       "art-0954": [
-       "law-10429"
+       "law-10429",
+       "law-10645"
       ],
       "art-0955-02": [
        "law-10429"
@@ -18465,6 +18037,7 @@
       ],
       "structure": [
        "law-10429",
+       "law-10645",
        "law-11300"
       ]
      },
@@ -18605,9 +18178,6 @@
        "law-12881"
       ],
       "art-1010": [
-       "law-12881"
-      ],
-      "buchik-19580222-00471": [
        "law-12881"
       ],
       "buchik-20141230-12881": [
@@ -19057,9 +18627,6 @@
        "law-17905"
       ],
       "art-0945": [
-       "law-17905"
-      ],
-      "buchik-19580222-00471": [
        "law-17905"
       ],
       "buchik-20210126-17905": [
@@ -21294,19 +20861,7 @@
       }
      },
      "credits": {
-      "art-0083": [
-       "law-2745"
-      ],
-      "art-0099": [
-       "law-2745"
-      ],
       "art-0104-02": [
-       "law-2745"
-      ],
-      "art-0200": [
-       "law-2745"
-      ],
-      "art-0328": [
        "law-2745"
       ],
       "buchik-19750325-02745": [
@@ -23372,9 +22927,6 @@
       }
      },
      "credits": {
-      "art-0104-02": [
-       "law-6543"
-      ],
       "art-0347-02": [
        "law-6543"
       ],
@@ -24582,15 +24134,6 @@
       }
      },
      "credits": {
-      "art-0027": [
-       "law-7623"
-      ],
-      "art-0033": [
-       "law-7623"
-      ],
-      "art-0036": [
-       "law-7623"
-      ],
       "art-0039": [
        "law-7623"
       ],
@@ -24598,27 +24141,6 @@
        "law-7623"
       ],
       "art-0063": [
-       "law-7623"
-      ],
-      "art-0120": [
-       "law-7623"
-      ],
-      "art-0130": [
-       "law-7623"
-      ],
-      "art-0175": [
-       "law-7623"
-      ],
-      "art-0213": [
-       "law-7623"
-      ],
-      "art-0241": [
-       "law-7623"
-      ],
-      "art-0270": [
-       "law-7623"
-      ],
-      "art-0331-02": [
        "law-7623"
       ],
       "buchik-20050729-07623": [
@@ -26631,12 +26153,6 @@
       }
      },
      "credits": {
-      "art-0222": [
-       "law-10259"
-      ],
-      "art-0228": [
-       "law-10259"
-      ],
       "art-0305-02": [
        "law-10259"
       ],
@@ -26690,9 +26206,6 @@
        "law-10259"
       ],
       "art-0072": [
-       "law-10259"
-      ],
-      "art-0222": [
        "law-10259"
       ]
      },
@@ -27591,9 +27104,6 @@
       }
      },
      "credits": {
-      "art-0015": [
-       "law-13719"
-      ],
       "art-0043": [
        "law-13719"
       ],
@@ -27775,9 +27285,6 @@
       "art-0010": [
        "law-15982"
       ],
-      "art-0270": [
-       "law-15982"
-      ],
       "buchik-20181218-15982": [
        "law-15982"
       ]
@@ -27833,9 +27340,6 @@
       }
      },
      "credits": {
-      "buchik-20140514-12575": [
-       "law-17511"
-      ],
       "buchik-20201020-17511": [
        "law-17511"
       ]
@@ -30748,9 +30252,6 @@
       "art-0075": [
        "law-16930"
       ],
-      "buchik-20170726-14839": [
-       "law-16930"
-      ],
       "buchik-20200204-16930": [
        "law-16930"
       ],
@@ -31719,8 +31220,8 @@
  "applies": [],
  "decisions": [
   "Every version is law.go.kr's own point-in-time text: one per 시행일자 (in-force date) in the eflaw search, dated by that day, not by promulgation (legalize-kr dates by promulgation).",
-  "Where several laws take effect for one act on one day, the day's text is law.go.kr's version for the last of them by promulgation date and number; each changed provision is credited to the law(s) of that day whose promulgation date law.go.kr's own amendment notes (<개정 ...>, [전문개정 ...], [본조신설 ...]) name for it, and is otherwise left uncredited.",
-  "Otherwise credits come from law.go.kr's version records: every provision that differs from the day before is credited to the law (공포번호) that version records. For 타법개정 that is the other law whose 부칙 made the change; its title is taken from the version's 개정문.",
+  "Where several laws take effect for one act on one day, the day's text is law.go.kr's version for the last of them by promulgation date and number.",
+  "A changed provision is credited to a law of that day only on the source's own evidence: the law is the act's 제정 or 전부개정; or the law's 개정문 (its amending text, in law.go.kr's version record) names the provision; or law.go.kr's amendment note on the provision (<개정 ...>, [전문개정 ...], [본조신설 ...]) names the law's promulgation day; or the provision is that law's own 부칙. Everything else is committed by the publisher as unexplained, including the transcription differences between law.go.kr's historical versions (for example 표견대리/표현대리 in 민법 제129조). For 타법개정 the law is the other law whose 부칙 made the change; its title comes from the version's 개정문.",
   "A version promulgated before a law already in force (because it takes effect later) was composed by law.go.kr from the text as it stood at its promulgation, so it lacks that later law's changes. Only its own changes (its text against law.go.kr's version before it by promulgation) are applied to the text in force the day before; each such version says so in its note.",
   "Provisions whose text differs from the day before only in spacing (law.go.kr re-spaced old texts, 띄어쓰기) are committed by the publisher as unexplained, never credited to a law.",
   "Editorial notes law.go.kr adds to the consolidated text are removed: <개정 ...>, <신설 ...>, the dates after 삭제, and bracketed notes such as [전문개정 ...], [본조신설 ...], [제목개정 ...], [종전 ...] and Constitutional Court notes ([단순위헌 ...], [헌법불합치 ...]). 조문참고자료 is not part of the text.",
