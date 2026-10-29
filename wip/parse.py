@@ -135,7 +135,7 @@ def law_title(amend_lines, meta, act_name):
     for i, s in enumerate(amend_lines):
         if s.startswith('⊙') and i + 1 < len(amend_lines):
             nxt = amend_lines[i + 1]
-            if nxt and not nxt.startswith('['):
+            if nxt and not nxt.startswith('[') and '개정한다' not in nxt and '공포한다' not in nxt:
                 return nxt
     kind = meta['제개정구분']
     return f'{act_name} {kind}' if kind else act_name
