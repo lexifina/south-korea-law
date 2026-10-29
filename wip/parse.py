@@ -148,6 +148,40 @@ def law_key(meta):
     return f'law-{no}', f'법률 제{no}호'
 
 
+REF = re.compile(r'제(\d+)조(?:의(\d+))?(?:\s*(?:내지|부터|~)\s*제(\d+)조(?:의(\d+))?)?')
+HEAD_REF = re.compile(r'제\d+(?:편|장|절|관)')
+
+
+def amend_refs(amend):
+    """The provisions an amending law's 개정문 names for this act: the lines after '... 개정한다' up to its 부칙
+    or the next omitted law ('생략')."""
+    body, on = [], False
+    for s in amend:
+        if not on:
+            on = '개정한다' in s.replace(' ', '')
+            continue
+        if re.match(r'^부\s*칙', s) or '생략' in s:
+            if body:
+                break
+            continue
+        body.append(s)
+    keys, ranges, heads = set(), [], False
+    for s in body:
+        heads = heads or bool(HEAD_REF.search(s))
+        for m in REF.finditer(s):
+            a = art_key(m.group(1), m.group(2) or '0')
+            keys.add(a)
+            if m.group(3):
+                ranges.append((a, art_key(m.group(3), m.group(4) or '0')))
+    return {'keys': keys, 'ranges': ranges, 'heads': heads}
+
+
+def names(refs, k):
+    if k == 'structure':
+        return refs['heads']
+    return k in refs['keys'] or any(a <= k <= b for a, b in refs['ranges'])
+
+
 def cached_listing(cfg):
     """The act's versions from the cached eflaw search pages, or None if not fetched."""
     listing, page = [], 1
@@ -184,7 +218,7 @@ def build_act(cfg, laws, log):
                          'url': f'https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq={mst}',
                          'temporary_until': None, 'restores': None, 'note': None}
         recs.append({'efyd': efyd, 'P': (pd, pn), 'mst': mst, 'url': url, 'sha': hashlib.sha256(raw).hexdigest(),
-                     'units': units, 'ann': ann, 'law': key, 'pd': pd, 'kind': meta['제개정구분']})
+                     'units': units, 'ann': ann, 'law': key, 'pd': pd, 'kind': meta['제개정구분'], 'refs': amend_refs(amend)})
     # The earliest day any law promulgated on a given day takes effect for this act (annotations name laws by
     # promulgation date only, so laws promulgated the same day are taken together).
     first_in_force = {}
@@ -270,11 +304,11 @@ def build_act(cfg, laws, log):
                 if named:
                     credits[k] = named
                     continue
-            if len(glaws) == 1:
-                credits[k] = [glaws[0]]
-                continue
+            # Credit only on the source's own evidence: the law rewrote the whole act, its 개정문 (the amending
+            # text) names the provision, or law.go.kr's amendment notes on the provision name its promulgation day.
             dates = rep['ann'].get(k, set())
-            named = [l for l in glaws if any(r['pd'] in dates for r in grp if r['law'] == l)]
+            named = [l for l in glaws if any(r['kind'] in ('제정', '전부개정') or names(r['refs'], k) or r['pd'] in dates
+                                             for r in grp if r['law'] == l)]
             if named:
                 credits[k] = named
             else:
