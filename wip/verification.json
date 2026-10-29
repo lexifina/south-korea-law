@@ -1,12 +1,36 @@
 {
- "check": {
-  "acts": 4,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 100
+ "day": "2026-10-28",
+ "acts": {
+  "heonbeop": {
+   "official_in_force": "19880225",
+   "official_promulgation": "19871029/00010",
+   "units": 132,
+   "mismatches": [],
+   "ok": true
+  },
+  "minbeop": {
+   "official_in_force": "20260317",
+   "official_promulgation": "20260317/21454",
+   "units": 1231,
+   "mismatches": [],
+   "ok": true
+  },
+  "hyeongbeop": {
+   "official_in_force": "20261002",
+   "official_promulgation": "20260929/22007",
+   "units": 433,
+   "mismatches": [],
+   "ok": true
+  },
+  "gaeinjeongbo-bohobeop": {
+   "official_in_force": "20260911",
+   "official_promulgation": "20260310/21445",
+   "units": 141,
+   "mismatches": [
+    "art-0032-02",
+    "art-0075"
+   ],
+   "ok": false
+  }
  }
 }
