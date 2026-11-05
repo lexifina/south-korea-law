@@ -1,9 +1,11 @@
 {
-  "path": "kr",
-  "code": "KR",
-  "name": "South Korea",
-  "level": "country",
-  "repo": "https://github.com/lexifina/south-korea-law",
-  "build": "built: 헌법 (10 versions), 민법 (36), 형법 (34), 개인정보 보호법 (20), 1948-2026",
-  "register_date": "2026-10-30"
+ "path": "south-korea/national",
+ "code": "KR",
+ "name": "South Korea",
+ "level": "national",
+ "repo": "https://github.com/lexifina/south-korea-law",
+ "build": "Four acts with dated histories and 500 additional current consolidated texts, checked on 2026-11-05.",
+ "register_date": "2026-10-30",
+ "checked_on": "2026-11-05",
+ "parent": "south-korea"
 }

@@ -22,17 +22,25 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
+import publish_marker  # noqa: E402
+import corpus_standard as S  # noqa: E402
+import corpus_paths as P  # noqa: E402
+import corpus_tables as T  # noqa: E402
+import provision_index as I  # noqa: E402
+import corpus_images as M  # noqa: E402
+import corpus_jurisdiction as J  # noqa: E402
 try:
     import private  # noqa: E402  (Lexifina's list of what stays off shared repos)
 except ImportError:  # a published copy of this builder runs without it
     private = None
 KEY = re.compile(r'^[a-z0-9][a-z0-9-]*$')
-KINDS = {'law', 'decree', 'court', 'referendum', 'publisher', 'treaty'}
+KINDS = S.KINDS | S.LAW_KINDS | {'publisher'}
 SUBJECT_MAX = 72
 
 
@@ -42,26 +50,50 @@ class CorpusError(SystemExit):
 
 # ---------------------------------------------------------------- loading and validation
 
-def load(folder: Path) -> tuple[dict, bytes]:
+def load(folder: Path, *, part_records: dict | None = None,
+         required_parts: set[str] | None = None) -> tuple[dict, bytes]:
     """corpus.json, plus any parts in corpus.d/*.json (so several agents can each own some acts of one country).
 
     A part holds `acts`, and optionally `laws`, `sources`, `applies`, `decisions` and `ai_use`. Its laws are merged
-    by key; the same key in two files must describe the same law (same label). Parts are read in file-name order. The
+    by key; the same key in two files must describe the same law (same label). `corrects` names an earlier part whose
+    acts this part replaces by slug. Parts are read in file-name order. The
     returned bytes are what the build hashes: corpus.json followed by each part, so any change to any part changes it.
     """
     main_path = folder / 'corpus.json'
     parts = sorted((folder / 'corpus.d').glob('*.json')) if (folder / 'corpus.d').exists() else []
     if os.environ.get('GITLAW_VERIFIED_PARTS_ONLY') == '1':
         # The main-branch build: only parts their owner has verified against the official text (<part>.PUBLISH).
-        parts = [p for p in parts if p.with_suffix('.PUBLISH').exists()]
+        parts = [p for p in parts if publish_marker.verified(p)]
+    for name in sorted(required_parts or ()):
+        path = folder / 'corpus.d' / name
+        state, detail = publish_marker.status(path)
+        if path not in parts or state not in ('legacy', 'match'):
+            raise CorpusError(f'previously published part {name} is no longer verified: '
+                              + (detail if state not in ('legacy', 'match') else 'absent part file or snapshot input'))
     if not main_path.exists() and not parts:
         raise CorpusError(f'{folder} has no corpus.json')
-    raw = main_path.read_bytes() if main_path.exists() else b''
-    c = json.loads(raw.decode('utf-8')) if raw else {}
+    head = main_path.read_bytes() if main_path.exists() else b''
+    c = json.loads(head.decode('utf-8')) if head else {}
+    chunks = [head]  # joined once at the end: growing one bytes object part by part copied it once per part
+    slots = {}
+    for i, act in enumerate(c.get('acts', [])):
+        slots.setdefault(act.get('slug'), []).append(('corpus.json', i))
+    loaded_parts = set()
     for p in parts:
         b = p.read_bytes()
-        raw += b'\n' + p.name.encode() + b'\n' + b
+        if os.environ.get('GITLAW_VERIFIED_PARTS_ONLY') == '1' or p.name in (required_parts or ()):
+            # Check the bytes consumed, even if the part changed after selection.
+            state, detail = publish_marker.status(p, content=b)
+            if state not in ('legacy', 'match'):
+                if p.name in (required_parts or ()):
+                    raise CorpusError(f'previously published part {p.name} is no longer verified: {detail}')
+                print(f'UNVERIFIED: {detail}', file=sys.stderr)
+                continue
+        chunks.append(b'\n' + p.name.encode() + b'\n' + b)
         part = json.loads(b.decode('utf-8'))
+        if part_records is not None:
+            part_records[p.name] = {'sha256': hashlib.sha256(b).hexdigest(),
+                                    'acts': sorted(a['slug'] for a in part.get('acts', []))}
         if not c.get('country') and part.get('country'):
             c['country'] = part['country']
         for key, law in part.get('laws', {}).items():
@@ -69,13 +101,33 @@ def load(folder: Path) -> tuple[dict, bytes]:
             if have and have.get('label') != law.get('label'):
                 raise CorpusError(f'{p.name}: law {key!r} is {law.get("label")!r} here but {have.get("label")!r} elsewhere')
             c['laws'].setdefault(key, law)
-        for field in ('acts', 'sources', 'applies', 'decisions', 'ai_use'):
+        acts = c.setdefault('acts', [])
+        if 'corrects' in part:
+            target = part['corrects']
+            if not isinstance(target, str) or target not in loaded_parts:
+                raise CorpusError(f'{p.name}: corrects {target!r} must name an earlier loaded part')
+            for act in part.get('acts', []):
+                slug = act.get('slug')
+                have = slots.get(slug, [])
+                if len(have) != 1 or have[0][0] != target:
+                    raise CorpusError(f'{p.name}: corrects {target!r}: act slug {slug!r} must occur exactly once '
+                                      'and still belong to that part')
+                i = have[0][1]
+                acts[i] = act
+                slots[slug] = [(p.name, i)]
+        else:
+            for act in part.get('acts', []):
+                slots.setdefault(act.get('slug'), []).append((p.name, len(acts)))
+                acts.append(act)
+        loaded_parts.add(p.name)
+        for field in ('sources', 'applies', 'decisions', 'ai_use'):
             c.setdefault(field, []).extend(part.get(field, []))
     # A version without `units` is an event that changed no words (a ruling, a rejected referendum): it reads as the
     # version before it, so the corpus need not repeat the whole text.
     # A version may instead give only `changes`: {unit key: unit, or null to remove it}, applied to the version before
     # it. Large acts then store each version's delta, not every provision again.
     for act in c.get('acts', []):
+        act.setdefault('versions', [])
         for prev, v in zip(act.get('versions', []), act.get('versions', [])[1:]):
             if 'units' in v:
                 continue
@@ -86,13 +138,17 @@ def load(folder: Path) -> tuple[dict, bytes]:
                 else:
                     units[k] = u
             v['units'] = units
-    return c, raw
+    return c, b''.join(chunks)
 
 
 def validate(c: dict) -> list[str]:
     """Every rule in SCHEMA.md the builder relies on. Returns the problems; the build stops if there are any."""
     errs = []
     co = c.get('country', {})
+    try:
+        S.future_branch(co)
+    except ValueError as exc:
+        errs.append(str(exc))
     for k in ('code', 'name', 'slug', 'lang', 'tz', 'publisher'):
         if not co.get(k):
             errs.append(f'country.{k} is missing')
@@ -106,6 +162,8 @@ def validate(c: dict) -> list[str]:
             errs.append(f'law key {key!r} must be lowercase ASCII [a-z0-9-]')
         if law.get('kind', 'law') not in KINDS:
             errs.append(f'law {key}: kind {law.get("kind")!r} not in {sorted(KINDS)}')
+        if law.get('law_kind') and law['law_kind'] not in S.LAW_KINDS:
+            errs.append(f'law {key}: unknown law_kind {law["law_kind"]!r}')
         if not law.get('label'):
             errs.append(f'law {key}: label is missing')
         for d in ('enacted', 'published', 'temporary_until'):
@@ -131,7 +189,7 @@ def validate(c: dict) -> list[str]:
             if l not in laws:
                 errs.append(f'act {s}: earlier law {l!r} is not a law key')
         vs = act.get('versions', [])
-        if not vs:
+        if not vs and co.get('history') != 'metadata-only':
             errs.append(f'act {s}: no versions')
         days = [v.get('from', '') for v in vs]
         same = [i for i, v in enumerate(vs) if i and v.get('same_day')]
@@ -183,6 +241,8 @@ def plan(c: dict) -> list[dict]:
     commits = []
     for act in c['acts']:
         vs = act['versions']
+        if not vs:
+            continue
         first = vs[0]
         commits.append({'day': first['from'], 'rank': 0, 'sort': act['slug'], 'kind': 'start', 'act': act,
                         'version': first})
@@ -267,7 +327,10 @@ def wrap(text: str, width: int = 100) -> list[str]:
 
 def law_trailers(c: dict, key: str, day: str) -> list[str]:
     law = c['laws'][key]
-    t = [f'Law: {law["label"]}', f'Kind: {law.get("kind", "law")}']
+    kind = S.law_commit_kind(law)
+    t = [f'Law: {law["label"]}', f'Kind: {kind}']
+    if kind == 'law':
+        t.append(f'Law-kind: {S.instrument_kind(law)}')
     if law.get('enacted'):
         t.append(f'Enacted: {law["enacted"]}')
     if law.get('published'):
@@ -306,6 +369,10 @@ def pre_1970(day: str) -> list[str]:
 
 def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     act, v = x['act'], x['version']
+    try:
+        M.require(act, v, required=c['country'].get('image_inventory_required', False))
+    except ValueError as exc:
+        raise CorpusError(str(exc)) from exc
     pub = act.get('publisher') or c['country']['publisher']
     labels = []
     if act.get('first_law'):
@@ -324,19 +391,37 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
             msg += ['The source names these laws as having produced this text:', '']
             msg += [f'- {c["laws"][l]["label"]}: {c["laws"][l].get("title", "")}'.rstrip(': ') for l in act['earlier_laws']]
             msg.append('')
-        trailers = ['Kind: publisher', f'In-force: {v["from"]}']
+        trailers = ['Kind: baseline', f'In-force: {v["from"]}']
     if v.get('note'):
         msg += [*wrap(v['note']), '']
     msg += pre_1970(v['from'])
     trailers += [f'Act: {act["short"]}', f'Provisions: {len(v["units"])}']
     if v.get('source_url'):
-        trailers.append(f'Consolidated: {v["source_url"]}')
+        trailers.append(f'Text-source: {v["source_url"]}')
+    law = c['laws'].get(act.get('first_law'), {})
+    try:
+        trailers += S.date_trailers(c, act, v, law)
+    except ValueError as exc:
+        raise CorpusError(str(exc)) from exc
+    if not any(t.startswith('Source: ') for t in trailers):
+        source = v.get('source_url') or act.get('url') or next((s.get('url') for s in c.get('sources', []) if s.get('url')), None)
+        if source:
+            trailers.append(f'Source: {source}')
+        else:
+            raise CorpusError('new law text requires an official Source URL')
+    if not act.get('first_law') and S.text_as_of(c, act, v):
+        msg = [line.replace(f'in force from {v["from"]}', f'text as of {S.text_as_of(c, act, v)}') for line in msg]
     return author, msg, trailers
 
 
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     day = x['day']
     parts = x['parts']
+    for p in parts:
+        try:
+            M.require(p['act'], p['cur'], required=c['country'].get('image_inventory_required', False))
+        except ValueError as exc:
+            raise CorpusError(str(exc)) from exc
     # An act may name its own publisher (its text comes from a different source than the country's); a commit that
     # spans acts with different publishers uses the country's.
     pubs = {json.dumps(p['act'].get('publisher') or c['country']['publisher'], sort_keys=True) for p in parts}
@@ -409,7 +494,7 @@ def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[s
         msg = [subject(shorts[0], all_labels, ' (unexplained)'), '',
                *wrap(f'The consolidated text changed on this day, but no amendment note names a law for it, so the change '
                      f'is not credited to any law. {pub["name"]} published it.'), '', *lines, '']
-        trailers = ['Kind: publisher', f'In-force: {day}', 'Words-changed: yes']
+        trailers = ['Kind: uncredited', f'In-force: {day}', 'Words-changed: yes']
     notes = sorted({p['cur'].get('note', '') for p in parts if p['cur'].get('note')})
     for n in notes:
         msg += [*wrap(n), '']
@@ -419,15 +504,40 @@ def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[s
     if concerns:
         # Provisions the source credits to this law whose words it left unchanged (e.g. a ruling that also reads one).
         trailers.append(f'Also-concerns: {concerns}')
-    trailers += sorted({f'Consolidated: {p["cur"]["source_url"]}' for p in parts if p['cur'].get('source_url')})
+    sources = sorted({p['cur']['source_url'] for p in parts if p['cur'].get('source_url')})
+    if sources:
+        trailers.append('Text-source: ' + '; '.join(sources))
+    fields = {}
+    for p in parts:
+        try:
+            values = S.date_trailers(c, p['act'], p['cur'], c['laws'].get(x.get('law'), {}))
+        except ValueError as exc:
+            raise CorpusError(str(exc)) from exc
+        for value in values:
+            key, val = value.split(': ', 1)
+            if key in fields and fields[key] != val:
+                raise CorpusError(f'conflicting {key} in one law/day commit; give consistent version metadata')
+            fields[key] = val
+    trailers += [f'{key}: {value}' for key, value in fields.items()]
+    if not any(t.startswith('Source: ') for t in trailers):
+        source = (sources or sorted({p['act']['url'] for p in parts if p['act'].get('url')})
+                  or [s['url'] for s in c.get('sources', []) if s.get('url')])
+        if source:
+            trailers.append('Source: ' + source[0])
+        else:
+            raise CorpusError('new law text requires an official Source URL')
     return author, msg, trailers
 
 
 def check_trailers(trailers: list[str]):
+    seen = set()
     for t in trailers:
         k, sep, v = t.partition(': ')
         if not sep or not re.fullmatch(r'[A-Za-z][A-Za-z0-9-]*', k) or '\n' in v:
             raise CorpusError(f'bad trailer {t!r}: keys must be ASCII and values one line')
+        if k in seen and k not in ('Files', 'Also-amended-by', 'Applies'):
+            raise CorpusError(f'duplicate trailer {k}')
+        seen.add(k)
 
 
 # ---------------------------------------------------------------- dates
@@ -448,23 +558,60 @@ class Clock:
         sign = '+' if off >= 0 else '-'
         return f'{int(when.timestamp())} {sign}{abs(off) // 60:02d}{abs(off) % 60:02d}'
 
+    def docs_stamp(self, day: str) -> str:
+        """Documentation is dated at noon local on the data day, capped at now."""
+        stamp = min(int(self.stamp(day).split()[0]), int(time.time()))
+        return f'{stamp} {dt.datetime.fromtimestamp(stamp, self.tz).strftime("%z")}'
+
 
 # ---------------------------------------------------------------- fast-import
+
+def target_git_dir(repo: Path) -> Path | None:
+    """Resolve only this target (ordinary, linked worktree or bare), never its parent."""
+    repo = Path(repo).resolve()
+    for candidate in (repo / '.git', repo):
+        result = subprocess.run(['git', 'rev-parse', '--resolve-git-dir', str(candidate)],
+                                capture_output=True, text=True, encoding='utf-8', timeout=120)
+        if result.returncode == 0:
+            return Path(result.stdout.strip()).resolve()
+    return None
+
+
+def require_empty_history(repo: Path) -> Path | None:
+    """Full-history writers may create a repository, never replace an existing ref."""
+    git_dir = target_git_dir(repo)
+    if git_dir is not None:
+        command = ['git', '--git-dir=' + str(git_dir)]
+        refs = subprocess.run(command + ['for-each-ref', '--format=%(refname)'],
+                              capture_output=True, text=True, encoding='utf-8', check=True, timeout=120).stdout
+        head = subprocess.run(command + ['rev-parse', '--verify', '--quiet', 'HEAD'],
+                              capture_output=True, timeout=120)
+        if head.returncode not in (0, 1):
+            raise CorpusError('append-only: cannot verify target HEAD')
+        if refs.strip() or head.returncode == 0:
+            raise CorpusError('append-only: target already has Git history; use --append --refresh-docs '
+                              'for a rollout, or a new empty scratch directory for a cold rebuild')
+    return git_dir
+
 
 class Writer:
     """One `git fast-import` for the whole history; commits are written as they are made and then forgotten."""
 
     def __init__(self, repo: Path):
-        self.p = subprocess.Popen(['git', 'fast-import', '--quiet', '--done', '--date-format=raw'], cwd=repo,
-                                  stdin=subprocess.PIPE)
+        self.git_dir = require_empty_history(repo)
+        if self.git_dir is None:
+            raise CorpusError('full-history writer requires an initialized target repository')
+        self.p = subprocess.Popen(['git', '--git-dir=' + str(self.git_dir), 'fast-import', '--quiet', '--done', '--date-format=raw'], cwd=repo,
+                                  stdin=subprocess.PIPE, stdout=subprocess.PIPE)
         self.mark = 0
         self.heads: dict[str, int] = {}
+        self.tags: set[str] = set()
 
     def _w(self, b: bytes):
         self.p.stdin.write(b)
 
     def _data(self, s: str):
-        b = s.encode('utf-8')
+        b = s if isinstance(s, bytes) else s.encode('utf-8')
         self._w(f'data {len(b)}\n'.encode() + b + b'\n')
 
     def commit(self, branch: str, author: tuple[str, str], committer: tuple[str, str], when: str, message: str,
@@ -488,6 +635,13 @@ class Writer:
         return self.mark
 
     def tag(self, name: str, mark: int):
+        existing = subprocess.run(['git', '--git-dir=' + str(self.git_dir), 'show-ref', '--verify', '--quiet',
+                                   'refs/tags/' + name], capture_output=True, timeout=120)
+        if existing.returncode not in (0, 1):
+            raise CorpusError('cannot verify existing tag: ' + name)
+        if name in self.tags or existing.returncode == 0:
+            raise CorpusError('append-only: refusing to move existing tag: ' + name)
+        self.tags.add(name)
         self._w(f'reset refs/tags/{name}\nfrom :{mark}\n\n'.encode('utf-8'))
 
     def finish(self):
@@ -495,6 +649,13 @@ class Writer:
         self.p.stdin.close()
         if self.p.wait():
             raise CorpusError('git fast-import failed')
+        self.p.stdout.close()
+
+    def checkpoint(self):
+        self._w(b'checkpoint\nprogress corpus-index-ready\n')
+        self.p.stdin.flush()
+        if self.p.stdout.readline().strip() != b'progress corpus-index-ready':
+            raise CorpusError('git fast-import checkpoint failed')
 
 
 # ---------------------------------------------------------------- the repository
@@ -507,7 +668,8 @@ def git(repo: Path, *args: str) -> str:
 
 
 def prepare(repo: Path) -> str | None:
-    """Empties the target, keeping the remote. Refuses a folder that holds anything but an earlier build."""
+    """Initialize an empty target; existing Git history is always append-only."""
+    require_empty_history(repo)
     remote = None
     if repo.exists() and any(repo.iterdir()):
         if not (repo / '.git').exists():
@@ -535,6 +697,10 @@ def act_files(act: dict, units: dict, prev: dict | None, keys: list[str] | None 
         if prev is not None and prev.get(k, {}).get('text') == (u or {}).get('text'):
             continue
         files[f'{act["slug"]}/{k}.md'] = u['text'] if u else None
+    try:
+        files.update(M.files(act, files))
+    except ValueError as exc:
+        raise CorpusError(str(exc)) from exc
     return files
 
 
@@ -564,6 +730,7 @@ def write_history(repo: Path, c: dict, docs_date: str, commits: list[dict]) -> t
             for p in x['parts']:
                 files.update(act_files(p['act'], p['cur']['units'], p['prev']['units'], p['keys']))
             touched = [p['act']['slug'] for p in x['parts']]
+        trailers.append('Corpus-standard: 1')
         check_trailers(trailers)
         text = '\n'.join(msg).rstrip('\n') + '\n\n' + '\n'.join(trailers) + '\n'
         mark = w.commit(branch, author, committer, clock.stamp(x['day']), text, files)
@@ -573,7 +740,7 @@ def write_history(repo: Path, c: dict, docs_date: str, commits: list[dict]) -> t
             tags.setdefault(f'law/{x["law"]}', mark)
         elif x['kind'] == 'start' and x['act'].get('first_law'):
             tags.setdefault(f'law/{x["act"]["first_law"]}', mark)
-        log.append({'day': x['day'], 'kind': x['kind'], 'law': x.get('law') or (x['act'].get('first_law') if x['kind'] == 'start' else None),
+        log.append({'day': x['day'], 'kind': S.planned_kind(c, x), 'law': x.get('law') or (x['act'].get('first_law') if x['kind'] == 'start' else None),
                     'acts': touched, 'units': len(files), 'branch': branch, 'clamped': x['day'] < '1970-01-01'})
     return w, tags, log, clock
 
@@ -582,9 +749,13 @@ def write_history(repo: Path, c: dict, docs_date: str, commits: list[dict]) -> t
 
 def tables(c: dict, log: list[dict]) -> dict[str, str]:
     out = {}
+    out['data/acts.json'] = json.dumps(T.acts_document(c, c['_docs_date']), ensure_ascii=False, indent=1) + '\n'
+    records = I.commit_records(c['_repo'], c['country'].get('future_branch', 'futuro')) if c.get('_repo') else []
+    out['data/provisions.tsv'] = I.document(c, c.get('_repo'), records=records)
+    out['data/assets.tsv'] = M.assets_document(c, records)
     buf = io.StringIO()
     wr = csv.writer(buf, lineterminator='\n')
-    wr.writerow(['key', 'label', 'kind', 'title', 'enacted', 'published', 'in_force_days', 'commits', 'url'])
+    wr.writerow(['key', 'label', 'kind', 'law_kind', 'title', 'enacted', 'published', 'in_force_days', 'commits', 'url'])
     days: dict[str, list[str]] = {}
     for e in log:
         if e['law']:
@@ -592,25 +763,21 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
     for key in sorted(c['laws'], key=lambda k: law_order(c['laws'], k)):
         law = c['laws'][key]
         ds = sorted(set(days.get(key, [])))
-        wr.writerow([key, law['label'], law.get('kind', 'law'), law.get('title', ''), law.get('enacted') or '',
+        wr.writerow([key, law['label'], S.law_commit_kind(law), S.instrument_kind(law), law.get('title', ''), law.get('enacted') or '',
                      law.get('published') or '', ' '.join(ds), len(days.get(key, [])), law.get('url') or ''])
     out['data/laws.csv'] = buf.getvalue()
     co = c['country']
-    out['data/repo.json'] = json.dumps({'country': co['code'], 'name': co['name'], 'tz': co['tz'],
-                                        'future_branch': co.get('future_branch', 'futuro'),
-                                        'publisher': co['publisher']['name']}, ensure_ascii=False, indent=1) + '\n'
-    out['data/versions.json'] = json.dumps({'country': c['country']['code'], 'acts': [{
-        'slug': a['slug'], 'short': a['short'], 'title': a['title'], 'url': a.get('url'),
-        'versions': [{'from': v['from'], 'units': len(v['units']), 'source_url': v.get('source_url'),
-                      'sha256': v.get('sha256')} for v in a['versions']]} for a in c['acts']]},
-        ensure_ascii=False, indent=1) + '\n'
+    out['data/repo.json'] = None  # superseded by the root descriptor; delete in the docs commit only
+    out['data/versions.json'] = json.dumps(T.versions_document(c, c['_docs_date']), ensure_ascii=False, indent=1) + '\n'
     buf = io.StringIO()
     wr = csv.writer(buf, lineterminator='\n')
     wr.writerow(['day', 'kind', 'law', 'acts', 'files', 'branch'])
     for e in log:
-        wr.writerow([e['day'], e['kind'], e['law'] or '', ' '.join(e['acts']), e['units'], e['branch']])
+        wr.writerow([e['day'], T.ledger_kind(c, e), e['law'] or '', ' '.join(e['acts']), e['units'], e['branch']])
     out['data/commits.csv'] = buf.getvalue()
     for a in c['acts']:
+        if not a['versions']:
+            continue
         counts: dict[str, int] = {}
         last: dict[str, str] = {}
         for prev, cur in zip(a['versions'], a['versions'][1:]):
@@ -798,15 +965,17 @@ def reproduce(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, do
     co = c['country']
     ver = json.loads((folder / 'verification.json').read_text(encoding='utf-8')) if (folder / 'verification.json').exists() else {}
     tpl = (HERE / 'REPRODUCE.template.md').read_text(encoding='utf-8')
-    n_law = sum(1 for e in log if e['kind'] == 'law')
-    n_unexp = sum(1 for e in log if e['kind'] == 'unexplained')
-    n_start = sum(1 for e in log if e['kind'] == 'start')
+    kinds = [T.ledger_kind(c, e) for e in log]
+    n_law = sum(k in ('law', 'court', 'treaty') for k in kinds)
+    n_unexp = kinds.count('uncredited')
+    n_start = kinds.count('baseline')
     n_future = sum(1 for e in log if e['branch'] != 'main')
     n_clamped = sum(1 for e in log if e['clamped'])
     src_rows = '\n'.join(f'| {public_note(s.get("name", ""))} | <{s.get("url", "")}> | {s.get("retrieved", "")} | '
                          f'{public_note(s.get("licence", ""))} |' for s in c.get('sources', []))
-    act_rows = '\n'.join(f'| `{a["slug"]}` | {a["title"]} | {len(a["versions"])} | {a["versions"][0]["from"]} to '
-                         f'{a["versions"][-1]["from"]} |' for a in c['acts'])
+    act_rows = '\n'.join(f'| `{a["slug"]}` | {a["title"]} | {len(a["versions"])} | '
+                         + (f'{a["versions"][0]["from"]} to {a["versions"][-1]["from"]}' if a['versions'] else 'metadata only')
+                         + ' |' for a in c['acts'])
     # A check or second build counts only for the corpus it ran on: a main build (verified parts only) must not quote
     # the check of the full build, or of an earlier corpus.
     sha = hashlib.sha256(raw).hexdigest()
@@ -830,6 +999,7 @@ def reproduce(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, do
         'CORPUS_SHA': hashlib.sha256(raw).hexdigest(), 'CORPUS_BYTES': str(len(raw)),
         'LAWS': str(len(c['laws'])), 'COMMITS': str(len(log)), 'LAW_COMMITS': str(n_law), 'START_COMMITS': str(n_start),
         'UNEXPLAINED': str(n_unexp), 'FUTURE': str(n_future), 'CLAMPED': str(n_clamped), 'TAGS': str(len(tags)),
+        'CORRECTIONS': str(kinds.count('correction')), 'PRINTING': str(kinds.count('printing')),
         'FUTURE_BRANCH': co.get('future_branch', 'futuro'),
         'BUILD_BLOB': blob(HERE / 'build.py'), 'CHECK_BLOB': blob(HERE / 'check.py'), 'ON_BLOB': blob(HERE / 'on.py'),
         'PYTHON': version([sys.executable, '--version']), 'GIT': version(['git', '--version']),
@@ -840,14 +1010,143 @@ def reproduce(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, do
     return re.sub(r'\{\{([A-Z_]+)\}\}', lambda m: fill[m.group(1)], tpl)
 
 
-def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, docs_date: str) -> dict[str, str]:
+# ---------------------------------------------------------------- the root corpus.json (an OUTPUT)
+# Not the build's input (scripts/<slug>-law/corpus.json + corpus.d/): the repository's description of itself for
+# global-law's readers (its MCP server; global-law MCP.md, "How a corpus describes itself"; checked by check_corpus.py).
+# Every field comes from the input and the built history; `country` may set corpus, history or corpus_kind itself.
+
+# Countries whose slug name is more than one word: how many words to strip from a sub-national slug.
+COUNTRY_WORDS = {'us': 2, 'gb': 2, 'za': 2, 'nz': 2, 'lk': 2, 'sa': 2, 'kr': 2, 'kp': 2, 'ae': 3, 'sl': 2, 'ss': 2,
+                 'bf': 2, 'cv': 2, 'cr': 2, 'sv': 2, 'do': 2, 'pg': 3, 'tl': 2, 'ci': 2, 'cd': 2, 'cg': 3, 'cf': 3,
+                 'gq': 2, 'ba': 3, 'mk': 2, 'hk': 2, 'sb': 2, 'mh': 2, 'kn': 4, 'vc': 5, 'lc': 2, 'tt': 3, 'ag': 3,
+                 'st': 4, 'sm': 2, 'ky': 2, 'vg': 3, 'im': 3, 'pr': 2}
+# Citation rules by unit prefix and language: (cites, letter suffix allowed in the number). `cites` runs in
+# `git grep -E` (POSIX ERE: no \d, no lookaround); {n} is the number.
+CITATION = {
+    ('par', 'de'): ('§ ?{n}([^0-9a-z]|$)', True),
+    ('art', 'de'): ('Art(ikel|\\.) ?{n}([^0-9a-z]|$)', True),
+    ('art', 'pt'): ('[Aa]rt(igo|\\.)? ?{n}([^0-9]|$)', False),
+    ('art', 'es'): ('[Aa]rt(í|i)?(culo|\\.)? ?{n}([^0-9]|$)', False),
+    ('pasal', 'id'): ('Pasal {n}([^0-9a-zA-Z]|$)', True),
+    ('s', 'en'): ('([Ss]ection|s\\.|§) ?{n}([^0-9a-zA-Z]|$)', True),
+    ('sec', 'en'): ('([Ss]ection|s\\.|§) ?{n}([^0-9a-zA-Z]|$)', True),
+    ('art', 'nl'): ('[Aa]rt(ikel|\\.) ?{n}([^0-9a-z]|$)', False),
+    ('art', 'it'): ('[Aa]rt(icolo|\\.) ?{n}([^0-9]|$)', False),
+}
+UNIT = re.compile(r'([a-z]+)-0*([0-9]+)([a-z]?)$')
+
+
+def _corpus_path(co: dict) -> str:
+    if co.get('corpus'):
+        return co['corpus']
+    return co['code'][:2].lower() + '/' + P.descriptor_path(co).split('/', 1)[1]
+
+
+def _citation(c: dict, main_units: list[str]) -> dict | None:
+    """The rule for the corpus's dominant provision prefix (at least half of its numbered files on main, and a quarter
+    of all its files), when that prefix and language have a known way of being cited; else None (no rule rather than
+    a guess)."""
+    counts: dict[str, int] = {}
+    letters: dict[str, bool] = {}
+    for k in main_units:
+        m = UNIT.match(k)
+        if m:
+            counts[m.group(1)] = counts.get(m.group(1), 0) + 1
+            letters[m.group(1)] = letters.get(m.group(1), False) or bool(m.group(3))
+    if not counts:
+        return None
+    prefix, n = max(counts.items(), key=lambda kv: (kv[1], kv[0]))
+    rule = CITATION.get((prefix, c['country'].get('lang', '')))
+    if n * 2 < sum(counts.values()) or n * 4 < len(main_units) or not rule:
+        return None
+    cites, letter = rule
+    number = '[0-9]+[a-z]?' if letter else '[0-9]+'
+    return {'file': f'([^/]+)/{re.escape(prefix)}-0*({number})\\.md', 'cites': cites}
+
+
+def corpus_descriptor(c: dict, log: list[dict], docs_date: str) -> dict:
+    """The root corpus.json: what the record is, where it starts and ends, and how its provisions are cited."""
+    co = c['country']
+    held = [(a, [v for v in a['versions'] if v['from'] <= docs_date]) for a in c['acts']]
+    held = [(a, vs) for a, vs in held if vs]  # the acts on main, with their versions there
+    first = min((vs[0]['from'] for _, vs in held), default=docs_date)
+    retrieved = sorted(s['retrieved'] for s in c.get('sources', []) if s.get('retrieved'))
+    record_to = min(retrieved[-1], docs_date) if retrieved else docs_date
+    n_acts, n_versions = len(held), sum(len(vs) for _, vs in held)
+
+    def enacted_then(a: dict, v: dict) -> bool:  # dated from the law that made the act (within 400 days of it)
+        law = c['laws'].get(a.get('first_law') or '', {})
+        when = (law.get('published') or law.get('enacted') or '')[:10]
+        try:
+            return when <= v['from'] <= (dt.date.fromisoformat(when) + dt.timedelta(days=400)).isoformat()
+        except ValueError:  # no date, or only a year
+            return False
+    history = co.get('history')
+    if history and history not in P.HISTORIES:
+        raise CorpusError(f'unknown country.history {history!r}')
+    if not history:
+        if not any(v.get('units') for a in c['acts'] for v in a['versions']):
+            history = 'metadata-only'
+        elif any(len(vs) > 1 for _, vs in held):
+            history = 'in-force'
+        elif sum(1 for a, vs in held if enacted_then(a, vs[0])) * 10 >= n_acts * 9:
+            history = 'as-enacted'  # one version per act, each dated from the law that made it
+        else:
+            history = 'current-only'
+    if history == 'metadata-only':
+        n_acts = len(c['acts'])
+    scope = co.get('scope', 'selected-acts')
+    if scope not in ('all-acts', 'selected-acts'):
+        raise CorpusError('country.scope must be all-acts or selected-acts')
+    if history == 'replayed' and not co.get('verification'):
+        raise CorpusError('replayed history requires country.verification')
+    name = co['name']
+    if history == 'metadata-only':
+        coverage = f'{n_acts} catalogue records of {name}; no law text'
+    elif history == 'as-enacted':
+        coverage = f'{n_acts} acts of {name} as enacted, in force from {first} to {record_to}'
+    elif history == 'current-only':
+        coverage = f'{n_acts} acts of {name}, the current text of each as of {record_to}'
+    elif not history:
+        coverage = f'{n_acts} acts of {name}, one dated version each, in force from {first} to {record_to}'
+    else:
+        coverage = (f'{n_acts} acts of {name} with every dated version the source gives ({n_versions} versions), '
+                    f'in force from {first} to {record_to}')
+    units = [k for _, vs in held for k in vs[-1]['units']]
+    out = {'corpus': _corpus_path(co), 'path': P.descriptor_path(co),
+           'scope': scope, 'acts': n_acts, 'future_branch': S.future_branch(co), 'publisher': co['publisher']['name'],
+           'name': name, 'language': co.get('lang', ''), 'coverage': coverage,
+           **({'history': history} if history else {}), 'history_from': first, 'record_to': record_to, 'checked_on': docs_date,
+           'record_note': co.get('record_note') or f'Texts from {co["publisher"]["name"]}.', 'in_force_trailer': 'In-force'}
+    for field in ('history_from', 'record_to', 'checked_on', 'verification'):
+        if field in co:
+            out[field] = co[field]
+    if not held and 'history_from' not in co:
+        out['history_from'] = None
+    rule = _citation(c, units)
+    if rule:
+        out['citation'] = rule
+    return out
+
+
+def check_documentation_paths(c: dict, files: dict):
+    """A docs commit cannot smuggle a provision or a legal image into the law tree."""
+    slugs = {a['slug'] for a in c['acts']}
+    for path in files:
+        first, _, rest = path.partition('/')
+        if first in slugs and rest != 'README.md':
+            raise CorpusError(f'documentation would alter law: {path}')
+
+
+def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, docs_date: str,
+               part_records: dict | None = None) -> dict[str, str]:
     files: dict[str, str] = {}
     static = folder / 'repo'
     if static.exists():
         for p in sorted(static.rglob('*')):
             if p.is_file() and '__pycache__' not in p.parts:
                 files[p.relative_to(static).as_posix()] = p.read_text(encoding='utf-8').replace('\r\n', '\n')
-    for name in ('on.py', 'check.py', 'build.py', 'SCHEMA.md', 'REPRODUCE.template.md'):
+    for name in ('on.py', 'check.py', 'build.py', 'corpus_standard.py', 'corpus_paths.py', 'corpus_tables.py', 'provision_index.py', 'corpus_images.py', 'corpus_jurisdiction.py', 'current_text.py', 'publish_marker.py', 'published_parts.py', 'SCHEMA.md', 'REPRODUCE.template.md'):
         text = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
         # Passages for Lexifina's agents only (how sources are fetched, internal paths) stay out of the published copy.
         text = re.sub(r'\n?', '', text, flags=re.S)
@@ -879,33 +1178,59 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
         if rel.endswith('.md') and rel in files:
             files[rel] = public_readme(files[rel], keep)
     files['data/corpus.sha256'] = f'{hashlib.sha256(raw).hexdigest()}  corpus.json\n'
+    # The repository's own description (an output; the input of the same name is the line above's corpus.json).
+    generated = corpus_descriptor(c, log, docs_date)
+    supplied = json.loads(files.get('corpus.json', '{}'))
+    descriptor = generated | supplied
+    descriptor['acts'] = generated['acts']
+    files['corpus.json'] = json.dumps(descriptor, ensure_ascii=False, indent=1) + '\n'
+    try:
+        jurisdiction = J.document(c['country'], descriptor['path'], json.loads(files.get('jurisdiction.json', '{}')))
+    except ValueError as exc:
+        raise CorpusError(str(exc)) from exc
+    files['jurisdiction.json'] = json.dumps(jurisdiction, ensure_ascii=False, indent=1) + '\n'
     files.update(tables(c, log))
+    if part_records is not None:
+        files['data/parts.json'] = json.dumps({'schema': 1, 'parts': part_records},
+                                             ensure_ascii=False, sort_keys=True, indent=1) + '\n'
     files['REPRODUCE.md'] = reproduce(c, folder, raw, log, tags, docs_date)
+    check_documentation_paths(c, files)
     return files
 
 
 # ---------------------------------------------------------------- main
 
-def build(folder: Path, repo: Path, docs_date: str) -> dict:
-    c, raw = load(folder)
+def build(folder: Path, repo: Path, docs_date: str, published_repo: Path | None = None) -> dict:
+    require_empty_history(repo)
+    part_records = {}
+    c, raw = load(folder, part_records=part_records)
     errs = validate(c)
     if errs:
         raise CorpusError('corpus.json has problems:\n  ' + '\n  '.join(errs[:60]) + (f'\n  … {len(errs) - 60} more' if len(errs) > 60 else ''))
     c['_docs_date'] = docs_date
+    c['_repo'] = str(repo)
+    try:
+        M.load(c, folder, repo if (repo / '.git').exists() else None)
+        require_inventory = M.inventory_required(c['country'], folder, published_repo or repo)
+        for act in c['acts']:
+            for version in act['versions']:
+                M.require(act, version, required=require_inventory)
+    except ValueError as exc:
+        raise CorpusError(str(exc)) from exc
     commits = plan(c)
     prepare(repo)
     w, tags, log, clock = write_history(repo, c, docs_date, commits)
+    w.checkpoint()
     co = c['country']
     committer = ('Lexifina', f'{co["slug"]}-law@lexifina.com')
-    files = docs_files(c, folder, raw, log, tags, docs_date)
-    # The documentation commit goes on main, dated the day the data was retrieved, so a rebuild on any later day from
-    # the same corpus gives the same hashes. The future branch keeps only laws; tools read it for later dates.
+    files = docs_files(c, folder, raw, log, tags, docs_date, part_records=part_records)
+    # Documentation goes on main at noon on the data day, capped at now during
+    # that morning. The future branch keeps only laws; tools read it for later dates.
     future = co.get('future_branch', 'futuro')
-    if 'main' not in w.heads:
-        raise CorpusError(f'nothing is in force on {docs_date}: every version is later than --docs-date')
-    w.commit('main', committer, committer, clock.stamp(docs_date),
+    # An all-future corpus has a documentation-only main. Its law text remains exclusively on the future branch.
+    w.commit('main', committer, committer, clock.docs_stamp(docs_date),
                         f'Documentation, tables, tools and REPRODUCE.md\n\nBuilt from corpus.json '
-                        f'(sha256 {hashlib.sha256(raw).hexdigest()}), data retrieved {docs_date}.\n',
+                        f'(sha256 {hashlib.sha256(raw).hexdigest()}), data retrieved {docs_date}.\n\nKind: documentation\n',
                         files, parent=w.heads.get('main'))
     for name, mark in sorted(tags.items()):
         w.tag(name, mark)
@@ -918,7 +1243,7 @@ def build(folder: Path, repo: Path, docs_date: str) -> dict:
         # Parallel checkout (git 2.32+): one worker per core, same files.
         git(repo, '-c', 'checkout.workers=0', 'checkout', '-q', '-f', 'main')
     return {'commits': len(log), 'tags': len(tags), 'laws': sum(1 for e in log if e['kind'] == 'law'),
-            'unexplained': sum(1 for e in log if e['kind'] == 'unexplained'),
+            'unexplained': sum(1 for e in log if e['kind'] == 'uncredited'),
             'future': sum(1 for e in log if e['branch'] != 'main'), 'main': git(repo, 'rev-parse', 'HEAD').strip()}
 
 
@@ -965,7 +1290,7 @@ def site_data(c: dict, docs_date: str) -> dict:
                             'future': v['from'] > docs_date})
             prev = cur
         acts.append({'slug': a['slug'], 'short': a['short'], 'title': a['title'], 'url': a.get('url'),
-                     'first': a['versions'][0]['from'], 'first_law': a.get('first_law'),
+                     'first': a['versions'][0]['from'] if a['versions'] else None, 'first_law': a.get('first_law'),
                      'earlier_laws': a.get('earlier_laws', []), 'versions': [v['from'] for v in a['versions']],
                      'changes': changes, 'units': [units[k] for k in order if k in units]})
     co = c['country']
@@ -976,17 +1301,36 @@ def site_data(c: dict, docs_date: str) -> dict:
 
 def hashes(repo: Path) -> tuple[list[str], dict[str, str], dict[str, str]]:
     log = git(repo, 'log', '--format=%H', 'main').split()
-    tags = dict(l.split(' ', 1)[::-1] for l in git(repo, 'show-ref', '--tags').split('\n') if l)
+    tags = dict(l.split(' ', 1)[::-1] for l in git(repo, 'for-each-ref', '--format=%(objectname) %(refname)', 'refs/tags').split('\n') if l)
     heads = dict(l.split(' ', 1)[::-1] for l in git(repo, 'show-ref', '--heads').split('\n') if l)
     return log, tags, heads
+
+
+def compare_preserved(repo: Path, previous: Path) -> dict:
+    """Independent append proof against an unchanged published clone, including exact tag objects."""
+    old, old_tags, _ = hashes(previous)
+    new, new_tags, _ = hashes(repo)
+    extension = new[:len(new) - len(old)] if len(new) >= len(old) else []
+    docs_only = all('Kind: documentation' in git(repo, 'show', '-s', '--format=%B', sha).splitlines()
+                    for sha in extension)
+    added_files = git(repo, 'diff', '--name-status', old[0], new[0]).splitlines() if old[0] in new else []
+    roots = {'README.md', 'REPRODUCE.md', 'SOURCES.md', 'LICENSE', '.gitattributes', '.gitignore',
+             'corpus.json', 'jurisdiction.json'}
+    docs_paths_only = all(p in roots or p.startswith(('data/', 'tools/')) or p.endswith('/README.md')
+                          for row in added_files for p in row.split('\t')[1:])
+    return {'identical': new[len(extension):] == old and old_tags == new_tags and docs_only and docs_paths_only,
+            'preserved_commits': len(old), 'tags': len(old_tags), 'documentation_commits': len(extension),
+            'changed_files': added_files, 'base': old[0], 'main': new[0]}
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('folder', help='scripts/<slug>-law (holds corpus.json and repo/)')
-    ap.add_argument('--repo', required=True, help='the repository to (re)build; emptied first, origin kept')
+    ap.add_argument('--repo', required=True, help='an empty build target, or an existing repository with --append')
     ap.add_argument('--docs-date', required=True, help='the day the data was retrieved (never the run day)')
     ap.add_argument('--compare', help='an earlier build of the same corpus: report whether every hash is identical')
+    ap.add_argument('--append', action='store_true', help='preserve existing history and append new commits')
+    ap.add_argument('--refresh-docs', action='store_true', help='with --append, write one documentation commit')
     ap.add_argument('--site-data', help='also write the /watch reader data (JSON) to this path')
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding='utf-8')
@@ -998,9 +1342,19 @@ def main():
         Path(args.site_data).parent.mkdir(parents=True, exist_ok=True)
         Path(args.site_data).write_text(json.dumps(site_data(c, args.docs_date), ensure_ascii=False, separators=(',', ':')),
                                         encoding='utf-8', newline='\n')
-    res = build(folder, repo, args.docs_date)
+    if args.refresh_docs and not args.append:
+        raise CorpusError('--refresh-docs requires --append')
+    if args.append:
+        import append as A
+        res = A.append(folder, repo, args.docs_date, refresh_docs=args.refresh_docs)
+    else:
+        res = build(folder, repo, args.docs_date, Path(args.compare) if args.compare else None)
     print(json.dumps(res, indent=1))
     if args.compare:
+        if args.append:
+            rec = compare_preserved(repo, Path(args.compare))
+            print(json.dumps(rec, indent=1))
+            raise SystemExit(0 if rec['identical'] else 1)
         a, b = hashes(Path(args.compare)), hashes(repo)
         rec = {'identical': a[0][1:] == b[0][1:] and a[1] == b[1],
                'history_tip': b[0][1] if len(b[0]) > 1 else b[0][0], 'commits': len(b[0]) - 1, 'tags': len(b[1]),

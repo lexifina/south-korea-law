@@ -45,11 +45,38 @@ class Cat:
     def close(self):
         self.p.stdin.close()
         self.p.wait()
+        self.p.stdout.close()
 
 
 def commits_by_act(repo: Path, branch: str, act: str) -> list[tuple[str, str]]:
     out = git(repo, 'log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', act)
     return [(h, d.strip()) for h, d in (l.split('\t', 1) for l in out.splitlines()) if d.strip()]
+
+
+def all_commits_by_act(repo: Path, branch: str, acts: list[str]) -> dict[str, list[tuple[str, str]]]:
+    """commits_by_act() for every act from one `git log --name-only` walk instead of one walk per act (a corpus of a
+    few thousand acts spent most of its check time there). Same commits, same order: a commit belongs to an act when
+    it touches a path at or under it; --no-renames lists both sides of a move, as the per-act path filter sees it."""
+    want = set(acts)
+    rows: dict[str, list[tuple[str, str]]] = {a: [] for a in acts}
+    out = git(repo, 'log', '--no-merges', '--no-renames', '--name-only',
+              '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
+    for rec in out.split('\x00')[1:]:
+        head, _, names = rec.partition('\n')
+        h, _, d = head.partition('\t')
+        d = d.strip()
+        if not d:
+            continue
+        hit = set()
+        for name in names.splitlines():
+            parts = name.split('/')
+            for i in range(1, len(parts) + 1):
+                p = '/'.join(parts[:i])
+                if p in want:
+                    hit.add(p)
+        for a in hit:
+            rows[a].append((h, d))
+    return rows
 
 
 def state_on(rows: list[tuple[str, str]], day: str) -> str | None:
@@ -98,18 +125,42 @@ def tree_oids(cat: 'Cat', commit: str, act: str, cache: dict) -> dict[str, str]:
     return cache[key]
 
 
-def check(repo: Path, corpus: Path) -> dict:
+def future_date_details(commits, now):
+    """Keep the existing safety thresholds and identify every offending commit."""
+    details = []
+    now_iso = dt.datetime.fromtimestamp(now, dt.timezone.utc).isoformat()
+    for index, (sha, stamp, date) in enumerate(commits):
+        allowance = 2 * 86400 if index == len(commits) - 1 else 0
+        if stamp > now + allowance:
+            details.append(f'{sha}: future_dated commit date {date} ({stamp}); now {now_iso} ({now})')
+    return details
+
+
+def check(repo: Path, corpus: Path, checked_on: str | None = None) -> dict:
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     from build import load  # the same corpus.json + corpus.d/ merge the build used
     c, raw = load(corpus.parent)
+    if checked_on is None:
+        descriptor = subprocess.run(['git', 'show', 'main:corpus.json'], cwd=repo, capture_output=True, text=True,
+                                    encoding='utf-8', timeout=120)
+        checked_on = json.loads(descriptor.stdout).get('checked_on') if descriptor.returncode == 0 else None
+    checked_on = checked_on or c['country'].get('checked_on') or dt.date.today().isoformat()
     future = c['country'].get('future_branch', 'futuro')
     has_future = bool(git(repo, 'branch', '--list', future).strip())
     cat = Cat(repo)
     trees: dict = {}
     mismatches, versions, details = 0, 0, []
+    branch = future if has_future else 'main'
+    by_act = all_commits_by_act(repo, branch, [a['slug'] for a in c['acts']])
+    # Correction commits (Kind: correction), read by the reading rule in on.py (tools/on.py beside tools/check_repo.py).
+    # A branch with none is checked exactly as before.
+    from on import Reader, _ls
+    rd = Reader(branch, repo, base=lambda h, p: _ls(repo, h, p) if p.endswith('.md') else tree_oids(cat, h, p, trees))
     for act in c['acts']:
         slug = act['slug']
-        rows = commits_by_act(repo, future if has_future else 'main', slug)
+        rows = by_act[slug]
+        if rd.fixes:
+            rows = [r for r in rows if r[0] not in rd.skip]
         prev = None
         vs = act['versions']
         for i, v in enumerate(vs):
@@ -120,7 +171,11 @@ def check(repo: Path, corpus: Path) -> dict:
                 continue
             before = next((w for w in reversed(vs[:i]) if w['from'] < v['from']), None)
             for day, want in ((v['from'], v), ((dt.date.fromisoformat(v['from']) - dt.timedelta(days=1)).isoformat(), before)):
-                h = state_on(rows, day)
+                if rd.fixes:
+                    files, _, _ = rd.files(slug, day, rows=rows)
+                    h = None if files is None else True
+                else:
+                    h = state_on(rows, day)
                 if want is None:
                     if h is not None:
                         mismatches += 1
@@ -130,7 +185,8 @@ def check(repo: Path, corpus: Path) -> dict:
                     mismatches += 1
                     details.append(f'{slug}: nothing in force on {day}')
                     continue
-                files = tree_oids(cat, h, slug, trees)
+                if not rd.fixes:
+                    files = tree_oids(cat, h, slug, trees)
                 expect = {f'{slug}/{k}.md': blob_oid(u['text']) for k, u in want['units'].items()}
                 for f in sorted(set(files) | set(expect)):
                     if files.get(f) != expect.get(f):
@@ -138,6 +194,11 @@ def check(repo: Path, corpus: Path) -> dict:
                         if len(details) < 50:
                             details.append(f'{slug} on {day}: {f} differs from version {want["from"]}')
             prev = v
+    import corpus_images as M
+    import provision_index as I
+    images = M.check(c, I.commit_records(repo, future), cat.read)
+    import current_text as H
+    tip = H.check(repo, c, checked_on)
     cat.close()
     trailer_errors, missing_in_force = 0, 0
     refs = ['main'] + ([future] if has_future else [])
@@ -155,13 +216,21 @@ def check(repo: Path, corpus: Path) -> dict:
         elif 'In-force' not in keys:
             missing_in_force += 1
     merges = int(git(repo, 'rev-list', '--merges', '--count', 'main').strip())
-    cts = [int(x) for x in git(repo, 'log', '--first-parent', '--reverse', '--format=%ct', 'main').split()]
+    dated = [line.split('\t') for line in git(repo, 'log', '--first-parent', '--reverse',
+                                             '--format=%H%x09%ct%x09%cI', 'main').splitlines()]
+    dated = [(sha, int(stamp), date) for sha, stamp, date in dated]
+    cts = [stamp for _, stamp, _ in dated]
     backwards = sum(1 for a, b in zip(cts, cts[1:]) if b < a)
     now = int(time.time())
     # The last commit is the docs commit, dated noon local time on --docs-date; built the same day before noon it is
     # a few hours ahead of now. Allow it up to two days; every law commit must be in the past.
-    future_dated = sum(1 for x in cts[:-1] if x > now) + (1 if cts and cts[-1] > now + 2 * 86400 else 0)
-    return {'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
+    future_details = future_date_details(dated, now)
+    future_dated = len(future_details)
+    details.extend(future_details)
+    extra = {'corrections': len(rd.fixes)} if rd.fixes else {}  # only when there are any: unchanged output otherwise
+    return {**extra, **tip, 'image_errors': len(images['errors']), 'image_warnings': len(images['warnings']),
+            'image_details': (images['errors'] + images['warnings'])[:50],
+            'acts': len(c['acts']), 'versions': versions, 'mismatches': mismatches, 'trailer_errors': trailer_errors,
             'missing_in_force': missing_in_force, 'merges': merges, 'backwards': backwards,
             'future_dated': future_dated, 'details': details,
             # Which corpus this check read (a main build reads only the verified parts), so REPRODUCE.md quotes a check
@@ -179,7 +248,7 @@ def main():
     res = check(Path(args.repo), Path(args.corpus))
     print(json.dumps(res, indent=1, ensure_ascii=False))
     ok = not (res['mismatches'] or res['trailer_errors'] or res['missing_in_force'] or res['merges'] or res['backwards']
-              or res['future_dated'])
+              or res['future_dated'] or res['image_errors'] or res['tip_errors'])
     if args.write:
         p = Path(args.corpus).parent / 'verification.json'
         ver = json.loads(p.read_text(encoding='utf-8')) if p.exists() else {}
