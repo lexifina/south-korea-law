@@ -1,5 +1,7 @@
 # South Korea: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is South Korea's national law, which global-law reads at `south-korea/national/acts/`.
+
 Official Korean law text in dated versions. Four core acts have historical versions; additional acts contain one current consolidated version each. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `kr/`.
 
 Language: Korean (the official language). The four acts below retain their dated histories. Additional acts listed below contain one current consolidated version each, as in force on 5 November 2026; earlier versions are not included for those acts.
