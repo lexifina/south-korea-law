@@ -5,3 +5,4 @@
 | 시행일 (In-force) | 공포 | 구분 | 원문 |
 | --- | --- | --- | --- |
 | 2020-12-10 | 법률 제17468호, 2020. 6. 9. | 제정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=219403&efYd=20201210&ancYnChk=0) |
+| 2026-11-13 | 법률 제21643호, 2026. 5. 12. | 타법개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285949&efYd=20261113&ancYnChk=0) |
