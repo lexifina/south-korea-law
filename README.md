@@ -23,7 +23,8 @@ The text is in Korean, as law.go.kr publishes it, without its editorial notes (`
 
 - **[Ask Claude about South Korean law](https://global-law.lexifina.com/v1/try_claude?country=south-korea)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=south-korea)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%EC%9C%A0%EA%B8%89%ED%9C%B4%EA%B0%80&jurisdictions=south-korea)**: a search of South Korean law for "유급휴가" (paid leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search South Korean law on our site](https://lexifina.com/law?country=south-korea&q=%EC%9C%A0%EA%B8%89%ED%9C%B4%EA%B0%80)**: a search for "유급휴가" (paid leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%EC%9C%A0%EA%B8%89%ED%9C%B4%EA%B0%80&jurisdiction=south-korea)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Korean or in English.
 
