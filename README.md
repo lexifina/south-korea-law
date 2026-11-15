@@ -1,531 +1,90 @@
 # South Korea: law history in git
 
+The law of South Korea as a git history: one file per article (one file per act for the acts held only in their current text), one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is South Korea's national law, which global-law reads at `south-korea/national/acts/`.
 
-Official Korean law text in dated versions. Four core acts have historical versions; additional acts contain one current consolidated version each. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `kr/`.
+**What is in it now:** four acts with their history, 98 versions from 17 July 1948: the Constitution (10 versions), the Civil Act (36), the Criminal Act (34) and the Personal Information Protection Act (18); and 500 more acts, 499 Acts and one presidential emergency order of 1952, each in the one text in force when it was retrieved on 5 November 2026: 504 acts and 598 versions in all. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its folder and versions, and each act's folder has a `README.md` listing its provisions.
 
-Language: Korean (the official language). The four acts below retain their dated histories. Additional acts listed below contain one current consolidated version each, as in force on 5 November 2026; earlier versions are not included for those acts.
+The four acts with history are folders by romanised name: `heonbeop/` is the 대한민국헌법 (Constitution), `minbeop/` the 민법 (Civil Act), `hyeongbeop/` the 형법 (Criminal Act) and `gaeinjeongbo-bohobeop/` the 개인정보 보호법 (Personal Information Protection Act). Each article is one file (`art-0001.md` is 제1조, `art-0007-02.md` 제7조의2), each paragraph one line; each 부칙 (supplementary provisions) is its own file and the headings are in `structure.md`. The other acts are one file each, `ls-<law.go.kr law ID>/text.md` (`ls-001565/` is the 소득세법, the Income Tax Act).
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `heonbeop/` | 대한민국헌법 (Constitution) | 10 | From the first Constitution (17 July 1948) through the nine revisions, to the text in force since 25 February 1988 |
-| `minbeop/` | 민법 (Civil Act) | 36 | From 1 January 1960 to the text in force on 17 March 2026 |
-| `hyeongbeop/` | 형법 (Criminal Act) | 34 | From 3 October 1953 to the text in force on 2 October 2026 |
-| `gaeinjeongbo-bohobeop/` | 개인정보 보호법 (Personal Information Protection Act) | 20 | From 30 September 2011 to today; versions already promulgated but not yet in force go on branch `future` |
+The text is in Korean, as law.go.kr publishes it, without its editorial notes (`<개정 ...>`, `[전문개정 ...]`). An English translation is not part of this record.
 
-Each version is law.go.kr's own version in force from a 시행일자 (in-force date), credited to the law law.go.kr names as its amendment. Where law.go.kr changed only spacing (띄어쓰기) in its own database, or composed a text before laws promulgated later but in force earlier, the version note says so and no law is credited for the spacing. Editorial notes are not part of the text.
+## Questions as git commands
 
-**How it is checked.** The text in force on 28 October 2026 of all four acts was compared with law.go.kr's current page for that version, provision by provision (30 October 2026): no provision differs. The historical texts are the official Korean version records of the National Law Information Center.
+| Question | Command |
+| --- | --- |
+| Every change to Article 1 of the Constitution | `git log -p --word-diff -- heonbeop/art-0001.md` |
+| Which law wrote each line of Article 1? | `git blame heonbeop/art-0001.md` |
+| Every version of the Constitution, with the day each took effect | `git log --grep="^In-force:" --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- heonbeop` |
+| Article 1 as in force on 1 January 1960 | `python tools/on.py 1960-01-01 heonbeop art-0001` |
 
-**Source:** [국가법령정보센터 (National Law Information Center), 법제처](https://www.law.go.kr), official, retrieved 28 October 2026. See `LICENSE` and `REPRODUCE.md`.
+**Outside git**, we also host this record publicly, for free:
 
-Dates are the day the change took effect. This repository is not legal advice; for anything that matters, read the original.
+- **[Ask Claude about South Korean law](https://global-law.lexifina.com/v1/try_claude?country=south-korea)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=south-korea)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%EC%9C%A0%EA%B8%89%ED%9C%B4%EA%B0%80&jurisdictions=south-korea)**: a search of South Korean law for "유급휴가" (paid leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## Additional current-text acts
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Korean or in English.
 
-Each additional act is a single-file text including its articles and supplementary provisions. Dates come from the official commencement headers.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-| Folder | Act | Versions | In force from |
-| --- | --- | ---: | --- |
-| `ls-000001/` | 재외국민등록법 | 1 | 2023-06-05 |
-| `ls-000002/` | 재외공관용 재산의 취득ㆍ관리 등에 관한 특례법 | 1 | 2014-04-22 |
-| `ls-000003/` | 재외공관 수입금 등 직접사용에 관한 법률 | 1 | 2013-03-23 |
-| `ls-000004/` | 재외공관 공증법 | 1 | 2023-06-05 |
-| `ls-000006/` | 여권법 | 1 | 2026-08-28 |
-| `ls-000007/` | 정부대표 및 특별사절의 임명과 권한에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000008/` | 외무공무원법 | 1 | 2026-08-11 |
-| `ls-000009/` | 세계무역기구협정의 이행에 관한 특별법 | 1 | 2007-12-14 |
-| `ls-000011/` | 한국국제교류재단법 | 1 | 2025-01-21 |
-| `ls-000012/` | 한국국제협력단법 | 1 | 2020-10-01 |
-| `ls-000014/` | 대한민국 재외공관 설치법 | 1 | 2020-03-31 |
-| `ls-000015/` | 우체국보험특별회계법 | 1 | 2024-07-10 |
-| `ls-000016/` | 우체국예금ㆍ보험에 관한 법률 | 1 | 2024-10-25 |
-| `ls-000023/` | 우편대체법 | 1 | 2020-12-10 |
-| `ls-000027/` | 우편환법 | 1 | 2019-12-10 |
-| `ls-000028/` | 지능정보화 기본법 | 1 | 2026-01-22 |
-| `ls-000030/` | 정보통신망 이용촉진 및 정보보호 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000035/` | 우체국창구업무의 위탁에 관한 법률 | 1 | 2017-07-26 |
-| `ls-000036/` | 통신비밀보호법 | 1 | 2026-10-02 |
-| `ls-000041/` | 우정사업 운영에 관한 특례법 | 1 | 2026-01-02 |
-| `ls-000047/` | 해양사고의 조사 및 심판에 관한 법률 | 1 | 2024-01-26 |
-| `ls-000049/` | 항로표지법 | 1 | 2025-10-23 |
-| `ls-000054/` | 도선법 | 1 | 2024-06-30 |
-| `ls-000058/` | 해사안전기본법 | 1 | 2025-07-26 |
-| `ls-000061/` | 신항만건설 촉진법 | 1 | 2026-01-02 |
-| `ls-000062/` | 항만운송사업법 | 1 | 2026-08-13 |
-| `ls-000064/` | 유류오염손해배상 보장법 | 1 | 2025-10-01 |
-| `ls-000066/` | 국제선박등록법 | 1 | 2020-01-16 |
-| `ls-000068/` | 선박법 | 1 | 2023-06-11 |
-| `ls-000074/` | 한국해운조합법 | 1 | 2025-01-31 |
-| `ls-000080/` | 국제회의산업 육성에 관한 법률 | 1 | 2023-05-16 |
-| `ls-000083/` | 관광진흥개발기금법 | 1 | 2025-10-09 |
-| `ls-000086/` | 관광기본법 | 1 | 2026-10-29 |
-| `ls-000088/` | 항공보안법 | 1 | 2026-02-27 |
-| `ls-000091/` | 물류시설의 개발 및 운영에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000092/` | 물류정책기본법 | 1 | 2025-10-01 |
-| `ls-000096/` | 궤도운송법 | 1 | 2026-09-18 |
-| `ls-000099/` | 건널목 개량촉진법 | 1 | 2017-07-26 |
-| `ls-000105/` | 교통시설특별회계법 | 1 | 2026-01-02 |
-| `ls-000106/` | 대도시권 광역교통 관리에 관한 특별법 | 1 | 2026-06-03 |
-| `ls-000110/` | 한국관광공사법 | 1 | 2023-08-08 |
-| `ls-000113/` | 한국교통안전공단법 | 1 | 2018-01-01 |
-| `ls-000117/` | 국민 평생 직업능력 개발법 | 1 | 2023-07-04 |
-| `ls-000120/` | 건설근로자의 고용개선 등에 관한 법률 | 1 | 2022-02-18 |
-| `ls-000121/` | 고용상 연령차별금지 및 고령자고용촉진에 관한 법률 | 1 | 2022-06-10 |
-| `ls-000122/` | 파견근로자 보호 등에 관한 법률 | 1 | 2026-05-26 |
-| `ls-000123/` | 고용정책 기본법 | 1 | 2026-01-02 |
-| `ls-000128/` | 임금채권보장법 | 1 | 2026-08-20 |
-| `ls-000129/` | 최저임금법 | 1 | 2020-05-26 |
-| `ls-000130/` | 남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 | 1 | 2026-09-18 |
-| `ls-000132/` | 노동절 제정에 관한 법률 | 1 | 2025-11-11 |
-| `ls-000133/` | 숙련기술장려법 | 1 | 2023-07-18 |
-| `ls-000134/` | 공인노무사법 | 1 | 2022-12-11 |
-| `ls-000135/` | 국가기술자격법 | 1 | 2022-06-10 |
-| `ls-000139/` | 노동위원회법 | 1 | 2022-05-19 |
-| `ls-000141/` | 근로자참여 및 협력증진에 관한 법률 | 1 | 2022-12-11 |
-| `ls-000143/` | 노동조합 및 노동관계조정법 | 1 | 2026-03-10 |
-| `ls-000148/` | 한국산업인력공단법 | 1 | 2026-02-12 |
-| `ls-000150/` | 한국산업안전보건공단법 | 1 | 2026-02-12 |
-| `ls-000154/` | 폐기물의 국가 간 이동 및 그 처리에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000155/` | 자원의 절약과 재활용촉진에 관한 법률 | 1 | 2026-08-20 |
-| `ls-000156/` | 폐기물처리시설 설치촉진 및 주변지역지원 등에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000160/` | 토양환경보전법 | 1 | 2026-03-31 |
-| `ls-000161/` | 실내공기질 관리법 | 1 | 2026-03-26 |
-| `ls-000162/` | 화학물질관리법 | 1 | 2026-10-08 |
-| `ls-000165/` | 먹는물관리법 | 1 | 2025-10-01 |
-| `ls-000166/` | 물환경보전법 | 1 | 2026-02-19 |
-| `ls-000167/` | 소음ㆍ진동관리법 | 1 | 2025-10-01 |
-| `ls-000168/` | 독도 등 도서지역의 생태계 보전에 관한 특별법 | 1 | 2026-09-26 |
-| `ls-000169/` | 자연환경보전법 | 1 | 2026-09-26 |
-| `ls-000170/` | 환경분쟁 조정 및 환경피해 구제 등에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000173/` | 환경정책기본법 | 1 | 2026-01-02 |
-| `ls-000178/` | 의사상자 등 예우 및 지원에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000179/` | 재해구호법 | 1 | 2024-07-31 |
-| `ls-000182/` | 가정폭력방지 및 피해자보호 등에 관한 법률 | 1 | 2026-07-08 |
-| `ls-000183/` | 모자보건법 | 1 | 2026-09-10 |
-| `ls-000184/` | 한부모가족지원법 | 1 | 2025-12-04 |
-| `ls-000185/` | 양성평등기본법 | 1 | 2026-09-11 |
-| `ls-000186/` | 장애인ㆍ노인ㆍ임산부 등의 편의증진 보장에 관한 법률 | 1 | 2025-12-21 |
-| `ls-000187/` | 장애인복지법 | 1 | 2026-10-02 |
-| `ls-000188/` | 보호시설에 있는 미성년자의 후견 직무에 관한 법률 | 1 | 2023-10-12 |
-| `ls-000190/` | 아동복지법 | 1 | 2026-10-02 |
-| `ls-000191/` | 영유아보육법 | 1 | 2026-05-19 |
-| `ls-000193/` | 일제하 일본군위안부 피해자에 대한 보호ㆍ지원 및 기념사업 등에 관한 법률 | 1 | 2026-06-11 |
-| `ls-000201/` | 사회복지공동모금회법 | 1 | 2026-03-31 |
-| `ls-000202/` | 사회복지사업법 | 1 | 2025-10-02 |
-| `ls-000204/` | 사회보장기본법 | 1 | 2026-09-15 |
-| `ls-000207/` | 대한적십자사 조직법 | 1 | 2026-01-02 |
-| `ls-000212/` | 시체 해부 및 보존 등에 관한 법률 | 1 | 2026-05-12 |
-| `ls-000216/` | 공중보건장학을 위한 특례법 | 1 | 2025-08-07 |
-| `ls-000218/` | 응급의료에 관한 법률 | 1 | 2026-06-24 |
-| `ls-000219/` | 보건의료기술 진흥법 | 1 | 2026-02-12 |
-| `ls-000221/` | 후천성면역결핍증 예방법 | 1 | 2020-09-12 |
-| `ls-000222/` | 정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 | 1 | 2026-10-08 |
-| `ls-000223/` | 국민건강증진법 | 1 | 2026-04-30 |
-| `ls-000235/` | 보건환경연구원법 | 1 | 2025-10-01 |
-| `ls-000236/` | 지역보건법 | 1 | 2025-06-21 |
-| `ls-000237/` | 시설물의 안전 및 유지관리에 관한 특별법 | 1 | 2026-08-28 |
-| `ls-000239/` | 건설기계관리법 | 1 | 2026-08-28 |
-| `ls-000240/` | 골재채취법 | 1 | 2025-10-01 |
-| `ls-000241/` | 해외건설 촉진법 | 1 | 2026-01-02 |
-| `ls-000242/` | 택지개발촉진법 | 1 | 2026-01-02 |
-| `ls-000243/` | 민간임대주택에 관한 특별법 | 1 | 2026-01-02 |
-| `ls-000248/` | 사도법 | 1 | 2019-01-19 |
-| `ls-000249/` | 유료도로법 | 1 | 2024-02-17 |
-| `ls-000254/` | 건축사법 | 1 | 2026-09-18 |
-| `ls-000262/` | 지하수법 | 1 | 2026-09-26 |
-| `ls-000266/` | 수도권정비계획법 | 1 | 2026-06-02 |
-| `ls-000274/` | 한국도로공사법 | 1 | 2026-09-18 |
-| `ls-000283/` | 발전소주변지역 지원에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000284/` | 전력기술관리법 | 1 | 2025-10-01 |
-| `ls-000285/` | 전기공사업법 | 1 | 2026-09-18 |
-| `ls-000286/` | 한국전력공사법 | 1 | 2026-01-02 |
-| `ls-000288/` | 석탄산업전환지역 개발 지원에 관한 특별법 | 1 | 2026-03-31 |
-| `ls-000289/` | 송유관 안전관리법 | 1 | 2026-03-10 |
-| `ls-000297/` | 해외자원개발 사업법 | 1 | 2025-10-01 |
-| `ls-000298/` | 에너지 및 자원사업 특별회계법 | 1 | 2025-10-01 |
-| `ls-000299/` | 재생에너지 개발ㆍ이용ㆍ보급 촉진법 | 1 | 2026-09-18 |
-| `ls-000303/` | 한국석유공사법 | 1 | 2025-10-01 |
-| `ls-000308/` | 부정경쟁방지 및 영업비밀보호에 관한 법률 | 1 | 2026-05-28 |
-| `ls-000311/` | 변리사법 | 1 | 2025-10-01 |
-| `ls-000312/` | 발명진흥법 | 1 | 2025-10-01 |
-| `ls-000318/` | 산업기술단지 지원에 관한 특례법 | 1 | 2020-05-12 |
-| `ls-000319/` | 소금산업 진흥법 | 1 | 2024-05-01 |
-| `ls-000323/` | 환경친화적 산업구조로의 전환촉진에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000324/` | 오존층 보호 등을 위한 특정물질의 관리에 관한 법률 | 1 | 2026-03-10 |
-| `ls-000325/` | 항공우주산업개발 촉진법 | 1 | 2024-07-31 |
-| `ls-000328/` | 산업디자인진흥법 | 1 | 2025-10-01 |
-| `ls-000346/` | 전자무역 촉진에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000354/` | 방문판매 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000355/` | 할부거래에 관한 법률 | 1 | 2026-09-08 |
-| `ls-000360/` | 소상공인 보호 및 지원에 관한 법률 | 1 | 2026-07-01 |
-| `ls-000370/` | 대한무역투자진흥공사법 | 1 | 2025-10-01 |
-| `ls-000380/` | 배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률 | 1 | 2026-05-12 |
-| `ls-000383/` | 어업자원보호법 | 1 | 2017-09-22 |
-| `ls-000385/` | 내수면어업법 | 1 | 2025-08-07 |
-| `ls-000388/` | 한국해양수산연수원법 | 1 | 2015-03-27 |
-| `ls-000394/` | 청원산림보호직원 배치에 관한 법률 | 1 | 2013-03-23 |
-| `ls-000398/` | 사방사업법 | 1 | 2026-02-01 |
-| `ls-000399/` | 임업 및 산촌 진흥촉진에 관한 법률 | 1 | 2022-09-11 |
-| `ls-000407/` | 한국진도개 보호ㆍ육성법 | 1 | 2024-05-17 |
-| `ls-000408/` | 초지법 | 1 | 2026-06-16 |
-| `ls-000409/` | 낙농진흥법 | 1 | 2021-01-01 |
-| `ls-000412/` | 동물보호법 | 1 | 2026-10-27 |
-| `ls-000416/` | 비료관리법 | 1 | 2025-10-01 |
-| `ls-000419/` | 친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률 | 1 | 2026-09-15 |
-| `ls-000422/` | 종자산업법 | 1 | 2024-06-28 |
-| `ls-000426/` | 농림수산업자 신용보증법 | 1 | 2026-01-02 |
-| `ls-000433/` | 농수산물 유통 및 가격안정에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000445/` | 방조제 관리법 | 1 | 2020-05-26 |
-| `ls-000446/` | 농어업재해대책법 | 1 | 2026-08-15 |
-| `ls-000454/` | 농업기계화 촉진법 | 1 | 2024-06-21 |
-| `ls-000463/` | 농촌진흥법 | 1 | 2026-08-28 |
-| `ls-000474/` | 양곡관리법 | 1 | 2026-08-27 |
-| `ls-000478/` | 농어촌정비법 | 1 | 2026-09-11 |
-| `ls-000479/` | 농지법 | 1 | 2026-09-18 |
-| `ls-000497/` | 한국농수산식품유통공사법 | 1 | 2021-02-19 |
-| `ls-000502/` | 농어가목돈마련저축에 관한 법률 | 1 | 2023-09-22 |
-| `ls-000506/` | 기술보증기금법 | 1 | 2026-10-08 |
-| `ls-000507/` | 국제금융기구에의 가입조치에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000519/` | 자산유동화에 관한 법률 | 1 | 2024-01-12 |
-| `ls-000520/` | 화재로 인한 재해보상과 보험가입에 관한 법률 | 1 | 2023-09-22 |
-| `ls-000531/` | 담보부사채신탁법 | 1 | 2021-07-21 |
-| `ls-000533/` | 한국자산관리공사 설립 등에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000534/` | 금융산업의 구조개선에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000549/` | 금융실명거래 및 비밀보장에 관한 법률 | 1 | 2025-04-01 |
-| `ls-000552/` | 금융위원회의 설치 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000564/` | 독립공채상환에 관한 특별조치법 | 1 | 2026-01-02 |
-| `ls-000565/` | 국채법 | 1 | 2026-01-02 |
-| `ls-000577/` | 한국은행 통화안정증권법 | 1 | 2016-06-03 |
-| `ls-000579/` | 인삼산업법 | 1 | 2026-09-17 |
-| `ls-000583/` | 담배사업법 | 1 | 2026-04-24 |
-| `ls-000591/` | 관세사법 | 1 | 2026-08-13 |
-| `ls-000592/` | 수출용 원재료에 대한 관세 등 환급에 관한 특례법 | 1 | 2026-01-02 |
-| `ls-000593/` | 대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국군대의 지위에 관한 협정의 실시에 따른 관세법 등의 임시특례에 관한 법률 | 1 | 2025-01-01 |
-| `ls-000595/` | 임시수입부가세법 | 1 | 2009-12-31 |
-| `ls-000603/` | 국제조세조정에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000621/` | 증권거래세법 | 1 | 2022-07-01 |
-| `ls-000623/` | 교통ㆍ에너지ㆍ환경세법 | 1 | 2026-01-02 |
-| `ls-000639/` | 세무사법 | 1 | 2026-06-24 |
-| `ls-000641/` | 조세범 처벌절차법 | 1 | 2026-10-02 |
-| `ls-000646/` | 국세와 지방세의 조정 등에 관한 법률 | 1 | 2014-01-14 |
-| `ls-000658/` | 통계법 | 1 | 2026-07-22 |
-| `ls-000665/` | 공공차관의 도입 및 관리에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000667/` | 약관의 규제에 관한 법률 | 1 | 2024-08-07 |
-| `ls-000669/` | 물가안정에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000685/` | 물품목록정보의 관리 및 이용에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000690/` | 공기업의 경영구조개선 및 민영화에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000695/` | 국가를 당사자로 하는 계약에 관한 법률 | 1 | 2026-06-11 |
-| `ls-000696/` | 회계관계직원 등의 책임에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000698/` | 증권에 의한 세입납부에 관한 법률 | 1 | 2009-12-29 |
-| `ls-000699/` | 수입인지에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000705/` | 조달사업에 관한 법률 | 1 | 2026-09-11 |
-| `ls-000709/` | 대외경제협력기금법 | 1 | 2026-01-02 |
-| `ls-000710/` | 공공자금관리기금법 | 1 | 2026-01-02 |
-| `ls-000728/` | 정부보관금에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000729/` | 보조금 관리에 관한 법률 | 1 | 2026-06-02 |
-| `ls-000730/` | 예산회계에관한특례법 | 1 | 2026-01-02 |
-| `ls-000743/` | 기상법 | 1 | 2026-09-18 |
-| `ls-000747/` | 원자력손해배상 보상계약에 관한 법률 | 1 | 2020-06-09 |
-| `ls-000748/` | 원자력 손해배상법 | 1 | 2021-10-21 |
-| `ls-000751/` | 소프트웨어 진흥법 | 1 | 2025-04-23 |
-| `ls-000752/` | 특정연구기관 육성법 | 1 | 2024-12-20 |
-| `ls-000753/` | 뇌연구 촉진법 | 1 | 2025-10-01 |
-| `ls-000754/` | 생명공학육성법 | 1 | 2026-04-23 |
-| `ls-000755/` | 기술사법 | 1 | 2022-02-18 |
-| `ls-000758/` | 엔지니어링산업 진흥법 | 1 | 2026-06-03 |
-| `ls-000759/` | 민ㆍ군기술협력사업 촉진법 | 1 | 2026-02-01 |
-| `ls-000760/` | 협동연구개발촉진법 | 1 | 2026-02-01 |
-| `ls-000762/` | 기초연구진흥 및 기술개발지원에 관한 법률 | 1 | 2026-02-01 |
-| `ls-000765/` | 한국원자력안전기술원법 | 1 | 2025-10-23 |
-| `ls-000767/` | 과학관의 설립ㆍ운영 및 육성에 관한 법률 | 1 | 2025-04-23 |
-| `ls-000772/` | 광주과학기술원법 | 1 | 2025-10-01 |
-| `ls-000773/` | 한국과학기술원법 | 1 | 2025-10-01 |
-| `ls-000776/` | 국가과학기술자문회의법 | 1 | 2025-04-23 |
-| `ls-000777/` | 한국자유총연맹 육성에 관한 법률 | 1 | 2017-07-26 |
-| `ls-000783/` | 향교재산법 | 1 | 2024-05-17 |
-| `ls-000784/` | 전통사찰의 보존 및 지원에 관한 법률 | 1 | 2025-02-14 |
-| `ls-000786/` | 방송문화진흥회법 | 1 | 2025-10-01 |
-| `ls-000798/` | 저작권법 | 1 | 2026-10-29 |
-| `ls-000812/` | 한국마사회법 | 1 | 2025-01-31 |
-| `ls-000813/` | 경륜ㆍ경정법 | 1 | 2023-08-08 |
-| `ls-000814/` | 한국해양소년단연맹 육성에 관한 법률 | 1 | 2020-08-19 |
-| `ls-000815/` | 청소년 보호법 | 1 | 2026-10-08 |
-| `ls-000816/` | 청소년 기본법 | 1 | 2026-10-29 |
-| `ls-000820/` | 체육시설의 설치ㆍ이용에 관한 법률 | 1 | 2026-07-29 |
-| `ls-000822/` | 독립기념관법 | 1 | 2026-01-02 |
-| `ls-000824/` | 박물관 및 미술관 진흥법 | 1 | 2026-07-01 |
-| `ls-000830/` | 도서관법 | 1 | 2026-10-29 |
-| `ls-000832/` | 지방문화원진흥법 | 1 | 2021-01-01 |
-| `ls-000836/` | 문화예술진흥법 | 1 | 2025-11-11 |
-| `ls-000837/` | 영상진흥기본법 | 1 | 2007-12-21 |
-| `ls-000846/` | 유네스코 활동에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000847/` | 한국청소년연맹 육성에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000848/` | 스카우트활동 육성에 관한 법률 | 1 | 2025-10-01 |
-| `ls-000850/` | 학원의 설립ㆍ운영 및 과외교습에 관한 법률 | 1 | 2026-10-01 |
-| `ls-000851/` | 평생교육법 | 1 | 2026-05-12 |
-| `ls-000852/` | 사료의 수집ㆍ편찬 및 한국사의 보급 등에 관한 법률 | 1 | 2021-03-23 |
-| `ls-000853/` | 한국학중앙연구원 육성법 | 1 | 2020-02-21 |
-| `ls-000854/` | 대한민국예술원법 | 1 | 2023-08-08 |
-| `ls-000855/` | 대한민국학술원법 | 1 | 2020-09-25 |
-| `ls-000857/` | 학술진흥법 | 1 | 2021-06-23 |
-| `ls-000864/` | 직업교육훈련 촉진법 | 1 | 2025-10-01 |
-| `ls-000865/` | 산업교육진흥 및 산학연협력촉진에 관한 법률 | 1 | 2025-06-21 |
-| `ls-000866/` | 자격기본법 | 1 | 2023-06-28 |
-| `ls-000867/` | 과학ㆍ수학ㆍ정보 교육 진흥법 | 1 | 2018-04-25 |
-| `ls-000868/` | 도서ㆍ벽지 교육진흥법 | 1 | 2013-03-23 |
-| `ls-000874/` | 국립대학병원 설치법 | 1 | 2026-08-20 |
-| `ls-000875/` | 서울대학교병원 설치법 | 1 | 2025-10-01 |
-| `ls-000880/` | 지방교육재정교부금법 | 1 | 2026-01-01 |
-| `ls-000885/` | 한국교직원공제회법 | 1 | 2026-08-20 |
-| `ls-000886/` | 교원의 지위 향상 및 교육활동 보호를 위한 특별법 | 1 | 2026-02-19 |
-| `ls-000887/` | 한국사학진흥재단법 | 1 | 2022-03-25 |
-| `ls-000888/` | 사립학교법 | 1 | 2026-10-02 |
-| `ls-000889/` | 학교급식법 | 1 | 2026-08-20 |
-| `ls-000890/` | 학교보건법 | 1 | 2025-10-01 |
-| `ls-000891/` | 학점인정 등에 관한 법률 | 1 | 2024-05-17 |
-| `ls-000892/` | 독학에 의한 학위취득에 관한 법률 | 1 | 2015-09-28 |
-| `ls-000894/` | 학교용지 확보 등에 관한 특례법 | 1 | 2025-06-21 |
-| `ls-000895/` | 학교시설사업 촉진법 | 1 | 2025-11-11 |
-| `ls-000896/` | 한국전문대학교육협의회법 | 1 | 2019-10-24 |
-| `ls-000897/` | 한국대학교육협의회법 | 1 | 2019-06-19 |
-| `ls-000899/` | 고등교육법 | 1 | 2026-09-11 |
-| `ls-000901/` | 교육기본법 | 1 | 2026-05-06 |
-| `ls-000906/` | 대한민국재향군인회법 | 1 | 2026-01-02 |
-| `ls-000912/` | 군에서의 형의 집행 및 군수용자의 처우에 관한 법률 | 1 | 2020-02-04 |
-| `ls-000917/` | 징발재산 정리에 관한 특별조치법 | 1 | 2026-01-02 |
-| `ls-000918/` | 징발법 | 1 | 2014-08-10 |
-| `ls-000920/` | 통합방위법 | 1 | 2025-10-01 |
-| `ls-000921/` | 계엄법 | 1 | 2025-07-22 |
-| `ls-000923/` | 군용전기통신법 | 1 | 2024-01-23 |
-| `ls-000925/` | 방어해면법 | 1 | 2025-03-18 |
-| `ls-000928/` | 군사기밀 보호법 | 1 | 2026-10-02 |
-| `ls-000929/` | 대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 따른 국가 및 지방자치단체의 재산의 관리와 처분에 관한 법률 | 1 | 2026-01-02 |
-| `ls-000934/` | 국방ㆍ군사시설 사업에 관한 법률 | 1 | 2025-09-19 |
-| `ls-000935/` | 군복 및 군용장구의 단속에 관한 법률 | 1 | 2025-07-22 |
-| `ls-000936/` | 군수품관리법 | 1 | 2026-01-02 |
-| `ls-000937/` | 군인복지기금법 | 1 | 2019-06-25 |
-| `ls-000938/` | 군인공제회법 | 1 | 2024-07-10 |
-| `ls-000941/` | 군법무관 임용 등에 관한 법률 | 1 | 2012-01-17 |
-| `ls-000942/` | 전쟁기념사업회법 | 1 | 2023-06-05 |
-| `ls-000943/` | 국방과학연구소법 | 1 | 2024-02-06 |
-| `ls-000944/` | 한국국방연구원법 | 1 | 2022-02-03 |
-| `ls-000945/` | 공군항공과학고등학교 설치법 | 1 | 2017-06-22 |
-| `ls-000946/` | 국군간호사관학교 설치법 | 1 | 2021-10-14 |
-| `ls-000947/` | 육군3사관학교 설치법 | 1 | 2023-06-14 |
-| `ls-000948/` | 사관학교 설치법 | 1 | 2021-10-14 |
-| `ls-000953/` | 국군조직법 | 1 | 2011-10-15 |
-| `ls-000955/` | 대한소방공제회법 | 1 | 2018-09-28 |
-| `ls-000956/` | 소방공무원법 | 1 | 2024-08-14 |
-| `ls-000958/` | 소하천정비법 | 1 | 2025-10-01 |
-| `ls-000959/` | 자연재해대책법 | 1 | 2026-01-02 |
-| `ls-000964/` | 풍속영업의 규제에 관한 법률 | 1 | 2021-01-01 |
-| `ls-000966/` | 사행행위 등 규제 및 처벌 특례법 | 1 | 2024-12-27 |
-| `ls-000975/` | 사격 및 사격장 안전관리에 관한 법률 | 1 | 2021-06-09 |
-| `ls-000977/` | 수상에서의 수색ㆍ구조 등에 관한 법률 | 1 | 2026-09-22 |
-| `ls-000979/` | 청원경찰법 | 1 | 2022-11-15 |
-| `ls-000980/` | 경비업법 | 1 | 2026-01-08 |
-| `ls-000981/` | 집회 및 시위에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000984/` | 경찰직무 응원법 | 1 | 2021-01-01 |
-| `ls-000985/` | 경찰관 직무집행법 | 1 | 2026-07-07 |
-| `ls-000987/` | 경찰공제회법 | 1 | 2024-05-14 |
-| `ls-000988/` | 대한민국재향경우회법 | 1 | 2020-07-01 |
-| `ls-000990/` | 경찰대학 설치법 | 1 | 2021-01-01 |
-| `ls-000992/` | 국가경찰과 자치경찰의 조직 및 운영에 관한 법률 | 1 | 2026-10-02 |
-| `ls-000993/` | 자전거 이용 활성화에 관한 법률 | 1 | 2023-07-04 |
-| `ls-000994/` | 온천법 | 1 | 2023-05-16 |
-| `ls-000996/` | 농어촌도로 정비법 | 1 | 2023-06-28 |
-| `ls-000998/` | 섬 발전 촉진법 | 1 | 2025-01-17 |
-| `ls-000999/` | 바르게살기운동조직 육성법 | 1 | 2017-07-26 |
-| `ls-001000/` | 새마을운동조직 육성법 | 1 | 2019-12-10 |
-| `ls-001006/` | 지방교부세법 | 1 | 2026-07-01 |
-| `ls-001014/` | 지방공무원 교육훈련법 | 1 | 2022-01-13 |
-| `ls-001015/` | 유선 및 도선 사업법 | 1 | 2024-02-15 |
-| `ls-001020/` | 옥외광고물 등의 관리와 옥외광고산업 진흥에 관한 법률 | 1 | 2026-02-15 |
-| `ls-001021/` | 기부금품의 모집ㆍ사용 및 기부문화 활성화에 관한 법률 | 1 | 2024-07-31 |
-| `ls-001025/` | 행정사법 | 1 | 2022-11-15 |
-| `ls-001027/` | 인감증명법 | 1 | 2017-12-03 |
-| `ls-001033/` | 울산광역시설치등에관한법률 | 1 | 1997-07-15 |
-| `ls-001097/` | 이북5도 등에 관한 특별조치법 | 1 | 2023-06-11 |
-| `ls-001100/` | 서울특별시 행정특례에 관한 법률 | 1 | 2022-01-13 |
-| `ls-001106/` | 대한지방행정공제회법 | 1 | 2023-12-26 |
-| `ls-001107/` | 한국지방행정연구원 육성법 | 1 | 2017-07-26 |
-| `ls-001109/` | 사면법 | 1 | 2026-10-02 |
-| `ls-001112/` | 범죄인 인도법 | 1 | 2026-10-02 |
-| `ls-001113/` | 국제형사사법 공조법 | 1 | 2026-10-02 |
-| `ls-001114/` | 형사소송비용 등에 관한 법률 | 1 | 2012-02-10 |
-| `ls-001116/` | 대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 관한 형사특별법 | 1 | 2011-04-14 |
-| `ls-001118/` | 형사보상 및 명예회복에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001119/` | 헌정질서 파괴범죄의 공소시효 등에 관한 특례법 | 1 | 2022-07-01 |
-| `ls-001123/` | 보호관찰 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001124/` | 보안관찰법 | 1 | 2020-08-05 |
-| `ls-001125/` | 마약류 불법거래 방지에 관한 특례법 | 1 | 2026-10-02 |
-| `ls-001126/` | 공무원범죄에 관한 몰수 특례법 | 1 | 2026-10-02 |
-| `ls-001129/` | 형의 실효 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001131/` | 교통사고처리 특례법 | 1 | 2025-06-04 |
-| `ls-001132/` | 가정폭력범죄의 처벌 등에 관한 특례법 | 1 | 2026-10-02 |
-| `ls-001133/` | 특정강력범죄의 처벌에 관한 특례법 | 1 | 2026-10-02 |
-| `ls-001134/` | 화염병 사용 등의 처벌에 관한 법률 | 1 | 2019-12-03 |
-| `ls-001135/` | 폭력행위 등 처벌에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001136/` | 특정경제범죄 가중처벌 등에 관한 법률 | 1 | 2018-03-20 |
-| `ls-001142/` | 부정수표 단속법 | 1 | 2010-03-24 |
-| `ls-001144/` | 보건범죄 단속에 관한 특별조치법 | 1 | 2025-10-01 |
-| `ls-001146/` | 벌금 등 임시조치법 | 1 | 2010-03-24 |
-| `ls-001147/` | 밀항단속법 | 1 | 2020-05-19 |
-| `ls-001148/` | 몰수금품 등 처리에 관한 임시특례법 | 1 | 2018-12-18 |
-| `ls-001156/` | 국내재산 도피 방지법 | 1 | 2010-03-31 |
-| `ls-001159/` | 5ㆍ18민주화운동 등에 관한 특별법 | 1 | 2022-07-01 |
-| `ls-001170/` | 재외국민의 가족관계등록 창설, 가족관계등록부 정정 및 가족관계등록부 정리에 관한 특례법 | 1 | 2015-07-01 |
-| `ls-001171/` | 국내입양에 관한 특별법 | 1 | 2026-05-12 |
-| `ls-001173/` | 혼인신고특례법 | 1 | 2009-01-30 |
-| `ls-001177/` | 거창사건등 관련자의 명예회복에 관한 특별조치법 | 1 | 2014-01-07 |
-| `ls-001178/` | 부동산 실권리자명의 등기에 관한 법률 | 1 | 2020-03-24 |
-| `ls-001179/` | 등기특별회계법 | 1 | 2017-09-19 |
-| `ls-001180/` | 선박등기법 | 1 | 2025-01-31 |
-| `ls-001182/` | 국ㆍ공유 부동산의 등기 촉탁에 관한 법률 | 1 | 2011-10-13 |
-| `ls-001183/` | 수복지역내소유자미복구토지의복구등록과보존등기등에관한특별조치법 | 1 | 2026-10-02 |
-| `ls-001184/` | 법인의 등기사항 등에 관한 특례법 | 1 | 2025-01-31 |
-| `ls-001185/` | 부동산등기 특별조치법 | 1 | 2022-01-01 |
-| `ls-001194/` | 국제민사사법공조법 | 1 | 2013-03-23 |
-| `ls-001195/` | 민사소송 등 인지법 | 1 | 2025-03-01 |
-| `ls-001197/` | 민사소송비용법 | 1 | 2013-12-19 |
-| `ls-001202/` | 민사조정법 | 1 | 2020-03-05 |
-| `ls-001205/` | 중재법 | 1 | 2025-10-01 |
-| `ls-001206/` | 가사소송법 | 1 | 2026-01-01 |
-| `ls-001212/` | 공탁법 | 1 | 2026-10-02 |
-| `ls-001213/` | 원격영상재판에 관한 특례법 | 1 | 2010-03-24 |
-| `ls-001214/` | 인지 첩부·첨부 및 공탁 제공에 관한 특례법 | 1 | 2013-12-19 |
-| `ls-001215/` | 소송촉진 등에 관한 특례법 | 1 | 2026-06-02 |
-| `ls-001217/` | 상고심절차에 관한 특례법 | 1 | 2009-11-02 |
-| `ls-001218/` | 행정소송법 | 1 | 2026-05-12 |
-| `ls-001219/` | 소액사건심판법 | 1 | 2023-03-28 |
-| `ls-001220/` | 법원재난에 기인한 민형사사건 임시조치법 | 1 | 2010-03-24 |
-| `ls-001221/` | 국가를 당사자로 하는 소송에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001226/` | 선박소유자 등의 책임제한절차에 관한 법률 | 1 | 2009-12-29 |
-| `ls-001228/` | 수표법 | 1 | 2010-03-31 |
-| `ls-001230/` | 어음법 | 1 | 2010-03-31 |
-| `ls-001233/` | 상법시행법 | 1 | 2010-07-23 |
-| `ls-001234/` | 5ㆍ18민주화운동 관련자 보상 등에 관한 법률 | 1 | 2026-09-15 |
-| `ls-001236/` | 국제사법 | 1 | 2022-07-05 |
-| `ls-001238/` | 국가에 귀속하는 상속재산 이전에 관한 법률 | 1 | 2009-10-21 |
-| `ls-001241/` | 대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 관한 민사특별법 | 1 | 2009-01-30 |
-| `ls-001242/` | 국가배상법 | 1 | 2025-01-07 |
-| `ls-001244/` | 실화책임에 관한 법률 | 1 | 2009-05-08 |
-| `ls-001246/` | 신탁법 | 1 | 2018-11-01 |
-| `ls-001247/` | 신원보증법 | 1 | 2009-01-30 |
-| `ls-001248/` | 주택임대차보호법 | 1 | 2026-01-02 |
-| `ls-001256/` | 공장 및 광업재단 저당법 | 1 | 2025-10-01 |
-| `ls-001257/` | 가등기담보 등에 관한 법률 | 1 | 2017-03-28 |
-| `ls-001258/` | 입목에 관한 법률 | 1 | 2025-01-31 |
-| `ls-001261/` | 유실물법 | 1 | 2014-01-07 |
-| `ls-001262/` | 집합건물의 소유 및 관리에 관한 법률 | 1 | 2023-09-29 |
-| `ls-001263/` | 공익법인의 설립ㆍ운영에 관한 법률 | 1 | 2026-09-22 |
-| `ls-001264/` | 부재선고에 관한 특별조치법 | 1 | 2009-12-29 |
-| `ls-001270/` | 법률구조법 | 1 | 2023-01-12 |
-| `ls-001275/` | 공증인법 | 1 | 2026-10-02 |
-| `ls-001281/` | 검사징계법 | 1 | 2026-10-02 |
-| `ls-001283/` | 공익법무관에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001284/` | 검사정원법 | 1 | 2026-10-02 |
-| `ls-001291/` | 법무사법 | 1 | 2026-10-02 |
-| `ls-001292/` | 집행관법 | 1 | 2026-10-02 |
-| `ls-001293/` | 법관징계법 | 1 | 2022-07-05 |
-| `ls-001300/` | 각급 법원 판사 정원법 | 1 | 2025-01-07 |
-| `ls-001325/` | 제대군인지원에 관한 법률 | 1 | 2026-10-22 |
-| `ls-001327/` | 고엽제후유의증 등 환자지원 및 단체설립에 관한 법률 | 1 | 2026-09-08 |
-| `ls-001328/` | 독립유공자예우에 관한 법률 | 1 | 2026-08-20 |
-| `ls-001337/` | 한국보훈복지의료공단법 | 1 | 2026-08-20 |
-| `ls-001343/` | 공무원 인재개발법 | 1 | 2022-11-15 |
-| `ls-001344/` | 공무원직장협의회의 설립ㆍ운영에 관한 법률 | 1 | 2022-10-27 |
-| `ls-001347/` | 지방자치단체에 두는 국가공무원의 정원에 관한 법률 | 1 | 2026-07-01 |
-| `ls-001348/` | 1980년해직공무원의보상등에관한특별조치법 | 1 | 1989-03-29 |
-| `ls-001350/` | 국제상거래에 있어서 외국공무원에 대한 뇌물방지법 | 1 | 2022-01-09 |
-| `ls-001351/` | 국가정보원직원법 | 1 | 2026-10-08 |
-| `ls-001357/` | 공공기관의 정보공개에 관한 법률 | 1 | 2023-11-17 |
-| `ls-001359/` | 민원 처리에 관한 법률 | 1 | 2022-07-12 |
-| `ls-001360/` | 행정규제기본법 | 1 | 2026-05-12 |
-| `ls-001362/` | 행정절차법 | 1 | 2023-03-24 |
-| `ls-001363/` | 행정심판법 | 1 | 2023-03-21 |
-| `ls-001365/` | 행정대집행법 | 1 | 2015-11-19 |
-| `ls-001371/` | 국가정보원법 | 1 | 2026-10-02 |
-| `ls-001372/` | 감사원법 | 1 | 2020-10-20 |
-| `ls-001376/` | 국가안전보장회의법 | 1 | 2014-01-10 |
-| `ls-001377/` | 대통령 등의 경호에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001378/` | 민주평화통일자문회의법 | 1 | 2023-03-28 |
-| `ls-001399/` | 선거관리위원회법 | 1 | 2026-07-07 |
-| `ls-001401/` | 국회도서관법 | 1 | 2026-01-12 |
-| `ls-001404/` | 국회사무처법 | 1 | 2026-01-12 |
-| `ls-001406/` | 대한민국헌정회 육성법 | 1 | 2018-06-12 |
-| `ls-001410/` | 국회에서의 증언ㆍ감정 등에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001412/` | 국정감사 및 조사에 관한 법률 | 1 | 2023-07-11 |
-| `ls-001416/` | 국회법 | 1 | 2026-10-02 |
-| `ls-001417/` | 국가보위에 관한 특별조치법 제5조제4항에 의한 동원대상지역 내의 토지의 수용ㆍ사용에 관한 특별조치령에 의하여 수용ㆍ사용된 토지의 정리에 관한 특별조치법 | 1 | 2009-07-31 |
-| `ls-001424/` | 국경일에 관한 법률 | 1 | 2014-12-30 |
-| `ls-001425/` | 국가장법 | 1 | 2017-07-26 |
-| `ls-001426/` | 전직대통령 예우에 관한 법률 | 1 | 2017-09-22 |
-| `ls-001427/` | 상훈법 | 1 | 2026-05-12 |
-| `ls-001428/` | 청원법 | 1 | 2022-12-23 |
-| `ls-001430/` | 법령 등 공포에 관한 법률 | 1 | 2018-10-16 |
-| `ls-001432/` | 북한이탈주민의 보호 및 정착지원에 관한 법률 | 1 | 2026-09-11 |
-| `ls-001433/` | 남북협력기금법 | 1 | 2026-01-02 |
-| `ls-001434/` | 남북교류협력에 관한 법률 | 1 | 2026-01-02 |
-| `ls-001435/` | 국적법 | 1 | 2022-10-01 |
-| `ls-001436/` | 포획심판령 | 1 | 1952-10-04 |
-| `ls-001437/` | 배타적 경제수역 및 대륙붕에 관한 법률 | 1 | 2017-03-21 |
-| `ls-001438/` | 영해 및 접속수역법 | 1 | 2018-06-14 |
-| `ls-001445/` | 정보통신공사업법 | 1 | 2026-10-22 |
-| `ls-001454/` | 실용신안법 | 1 | 2025-10-01 |
-| `ls-001455/` | 특허법 | 1 | 2025-11-11 |
-| `ls-001457/` | 계량에 관한 법률 | 1 | 2026-03-03 |
-| `ls-001458/` | 승강기 안전관리법 | 1 | 2025-01-31 |
-| `ls-001459/` | 전기용품 및 생활용품 안전관리법 | 1 | 2025-10-01 |
-| `ls-001460/` | 산업표준화법 | 1 | 2026-03-10 |
-| `ls-001461/` | 산업기술혁신 촉진법 | 1 | 2026-09-18 |
-| `ls-001462/` | 반도체집적회로의 배치설계에 관한 법률 | 1 | 2025-10-01 |
-| `ls-001463/` | 산업집적활성화 및 공장설립에 관한 법률 | 1 | 2026-09-18 |
-| `ls-001465/` | 무역보험법 | 1 | 2026-01-02 |
-| `ls-001466/` | 자유무역지역의 지정 및 운영에 관한 법률 | 1 | 2026-01-02 |
-| `ls-001467/` | 대외무역법 | 1 | 2026-10-22 |
-| `ls-001470/` | 기업활동 규제완화에 관한 특별조치법 | 1 | 2025-10-01 |
-| `ls-001471/` | 벤처기업육성에 관한 특별법 | 1 | 2026-07-01 |
-| `ls-001472/` | 중소기업창업 지원법 | 1 | 2026-07-01 |
-| `ls-001476/` | 중소기업진흥에 관한 법률 | 1 | 2026-07-01 |
-| `ls-001477/` | 중소기업기본법 | 1 | 2026-07-01 |
-| `ls-001478/` | 염업조합법 | 1 | 2022-12-27 |
-| `ls-001479/` | 상공회의소법 | 1 | 2026-03-03 |
-| `ls-001482/` | 중소기업협동조합법 | 1 | 2026-06-03 |
-| `ls-001483/` | 어선법 | 1 | 2025-12-21 |
-| `ls-001486/` | 수산업법 | 1 | 2026-10-22 |
-| `ls-001499/` | 사료관리법 | 1 | 2024-04-25 |
-| `ls-001501/` | 수의사법 | 1 | 2024-07-24 |
-| `ls-001504/` | 가축전염병 예방법 | 1 | 2026-10-01 |
-| `ls-001507/` | 축산물 위생관리법 | 1 | 2026-10-08 |
-| `ls-001509/` | 축산법 | 1 | 2026-09-15 |
-| `ls-001513/` | 식물방역법 | 1 | 2026-06-16 |
-| `ls-001514/` | 농약관리법 | 1 | 2026-05-12 |
-| `ls-001523/` | 신용보증기금법 | 1 | 2026-01-02 |
-| `ls-001525/` | 외국환거래법 | 1 | 2026-01-02 |
-| `ls-001532/` | 보험업법 | 1 | 2025-01-31 |
-| `ls-001537/` | 예금자보호법 | 1 | 2026-01-02 |
-| `ls-001538/` | 신용협동조합법 | 1 | 2026-10-22 |
-| `ls-001545/` | 중소기업은행법 | 1 | 2021-03-25 |
-| `ls-001546/` | 한국수출입은행법 | 1 | 2026-07-22 |
-| `ls-001548/` | 한국산업은행법 | 1 | 2025-12-10 |
-| `ls-001549/` | 은행법 | 1 | 2026-07-01 |
-| `ls-001550/` | 한국은행법 | 1 | 2026-01-02 |
-| `ls-001551/` | 한국조폐공사법 | 1 | 2026-01-02 |
-| `ls-001561/` | 상속세 및 증여세법 | 1 | 2026-01-02 |
-| `ls-001563/` | 법인세법 | 1 | 2026-07-01 |
-| `ls-001565/` | 소득세법 | 1 | 2026-07-01 |
-| `ls-001568/` | 인지세법 | 1 | 2026-01-02 |
-| `ls-001569/` | 농어촌특별세법 | 1 | 2026-05-12 |
-| `ls-001571/` | 부가가치세법 | 1 | 2026-01-02 |
-| `ls-001583/` | 조세범 처벌법 | 1 | 2021-01-01 |
-| `ls-001585/` | 국세징수법 | 1 | 2026-10-02 |
-| `ls-001586/` | 국세기본법 | 1 | 2026-10-02 |
-| `ls-001587/` | 사회기반시설에 대한 민간투자법 | 1 | 2026-09-18 |
-| `ls-001589/` | 소비자기본법 | 1 | 2026-09-11 |
-| `ls-001590/` | 하도급거래 공정화에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001591/` | 독점규제 및 공정거래에 관한 법률 | 1 | 2026-10-02 |
-| `ls-001592/` | 공인회계사법 | 1 | 2024-01-16 |
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add south-korea/national/acts
+python3 tools/law.py show 2026-01-01 south-korea/national/acts/heonbeop/art-0001.md
+```
 
-추가 법령은 2026년 11월 5일 기준 현행 통합본문 한 판을 수록하며, 해당 법령의 연혁은 포함하지 않습니다.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Asia/Seoul, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for the four acts with history, law.go.kr's own 시행일자 (in-force day) for each version, which already applies the law's 부칙 or the Constitution's default rule (a law takes effect 20 days after promulgation unless it provides otherwise, 헌법 제53조 제7항); where several laws take effect for one act on one day, the text is law.go.kr's version for the last of them;
+- for the other acts, the day in the 시행 (commencement) header of the text, with its promulgation day and number in the commit message;
+- git cannot store dates before 1970, so the 19 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
+
+Each change is credited to the law that made it, as law.go.kr names it (`법률 제19234호`, `헌법 제10호`), at an address that cannot exist (`law-19234@law.go.kr.invalid`), and only where law.go.kr's record shows that law made the change. Changes the record does not explain, including law.go.kr's re-spacing of old texts (띄어쓰기), are credited to the publisher, 법제처 국가법령정보센터 (43 of the 144 commits on the four acts), as is each of the 500 single texts; the committer is always Lexifina.
+
+## How it is checked
+
+- The text in force on 28 October 2026 of the four acts with history was compared with law.go.kr's page for that version, provision by provision, on 30 October 2026: no provision differs.
+- `tools/check_repo.py` reads every version back from git on the day it took effect, and on the day before, and compares it with the corpus the history was built from (its sha256 is in `data/corpus.sha256`); it also checks that every commit's trailers parse, that `main` has no merge commits and that no date goes backwards. [`REPRODUCE.md`](REPRODUCE.md) says it has not yet been run on the current build.
+- [`data/versions.json`](data/versions.json) gives each version's source address and sha256.
+- History is append-only: the 500 further acts were added on top of the earlier history, and no published commit is rewritten.
+
+## What it does not show
+
+- **Earlier versions of the 500 further acts.** Each holds only its current text, credited to the publisher.
+- **Most of South Korean law.** Other Acts, presidential decrees (시행령), ministerial rules (시행규칙), local ordinances (조례) and case law are not here.
+- **Two versions of the Personal Information Protection Act not yet in force** (from 9 March and 1 July 2027): `REPRODUCE.md` and `data/versions.json` count them, but they are not in the history.
+- **Annexes and forms (별표, 서식)**, and images in the source texts, are not in the files.
+- **Constitutional Court decisions** voiding a provision: law.go.kr keeps the words and only adds a note, which is removed, so they are not commits.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [국가법령정보센터](https://www.law.go.kr) (National Law Information Center, 법제처 Ministry of Government Legislation) | Official law database: its Open API (each version by in-force day) and its law pages (the text in force) | yes, for the four acts with history; the current text only for the others | Editorial notes and amendment tags removed; spacing and quotation marks normalised |
+
+## Licence
+
+See [`LICENSE`](LICENSE). Statutes are not protected by copyright in Korea (저작권법 제7조); the text is from 법제처 국가법령정보센터, and the Government of Korea does not endorse this repository. Lexifina's history, commit messages and tools are CC0 1.0.
+
+No model wrote, translated or corrected legal text, and no model runs when the history is built; the readers and builders were written with coding assistants (Claude Code and Codex) under Lexifina's direction (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+
+## 한국어
+
+헌법, 민법, 형법, 개인정보 보호법은 시행일별 연혁을 수록하고, 추가 법령 500건은 2026년 11월 5일 기준 현행 통합본문 한 판만 수록하며 해당 법령의 연혁은 포함하지 않습니다. 자세한 설명은 위의 영어 본문에 있습니다.
