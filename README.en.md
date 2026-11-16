@@ -61,6 +61,7 @@ Each change is credited to the law that made it, as law.go.kr names it (`법률 
 - `tools/check_repo.py` reads every version back from git on the day it took effect, and on the day before, and compares it with the corpus the history was built from (its sha256 is in `data/corpus.sha256`); it also checks that every commit's trailers parse, that `main` has no merge commits and that no date goes backwards. [`REPRODUCE.md`](REPRODUCE.md) says it has not yet been run on the current build.
 - [`data/versions.json`](data/versions.json) gives each version's source address and sha256.
 - History is append-only: the 500 further acts were added on top of the earlier history, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the law that made it, as law.go.kr names it (`법률 
 See [`LICENSE`](LICENSE). Statutes are not protected by copyright in Korea (저작권법 제7조); the text is from 법제처 국가법령정보센터, and the Government of Korea does not endorse this repository. Lexifina's history, commit messages and tools are CC0 1.0.
 
 No model wrote, translated or corrected legal text, and no model runs when the history is built; the readers and builders were written with coding assistants (Claude Code and Codex) under Lexifina's direction (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

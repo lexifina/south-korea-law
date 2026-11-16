@@ -61,6 +61,7 @@ Claude Code, Cursor, VS Code 또는 Codex에서 열면, 이 클론은 같은 도
 - `tools/check_repo.py`는 모든 판을 시행일과 그 전날 기준으로 git에서 다시 읽어, 이력을 구축한 원본 코퍼스(그 sha256은 `data/corpus.sha256`에 있음)와 비교합니다. 또한 모든 커밋의 트레일러를 해석할 수 있는지, `main`에 병합 커밋이 없는지, 날짜가 거꾸로 가지 않는지도 확인합니다. [`REPRODUCE.md`](REPRODUCE.md)에 따르면 현재 빌드에는 아직 실행되지 않았습니다.
 - [`data/versions.json`](data/versions.json)은 각 판의 출처 주소와 sha256을 제공합니다.
 - 이력은 추가만 합니다. 추가 법령 500건은 기존 이력 위에 추가되었으며, 공개된 커밋은 다시 쓰지 않습니다.
+- [vulnerabilities/](vulnerabilities/): 이 법령에 있을 수 있는 입법 기술상의 오류. global-law 검출기로 찾고 사람이 직접 확인합니다. 아직 실행하지 않았습니다.
 
 ## 보여 주지 않는 것
 
@@ -83,6 +84,10 @@ Claude Code, Cursor, VS Code 또는 Codex에서 열면, 이 클론은 같은 도
 어떤 모델도 법령 본문을 쓰거나 번역하거나 수정하지 않았으며, 이력을 구축할 때 어떤 모델도 실행되지 않습니다. 읽기 프로그램과 구축 프로그램은 Lexifina의 지시에 따라 코딩 어시스턴트(Claude Code와 Codex)로 작성했습니다([`REPRODUCE.md`](REPRODUCE.md) 참조).
 
 이 문서는 영어판([README.en.md](README.en.md))의 번역본입니다. 내용이 다를 경우 영어판이 우선합니다.
+
+## 시각화
+
+- [visualisations/](visualisations/): 이 저장소로 그린 차트. 아직 그리지 않았습니다.
 
 ## 더 알아보기
 
