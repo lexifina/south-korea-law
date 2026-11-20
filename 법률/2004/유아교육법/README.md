@@ -45,3 +45,4 @@
 | 2026-02-12 | 법률 제21075호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279629&efYd=20260212&ancYnChk=0) |
 | 2026-05-12 | 법률 제21075호, 2025. 11. 11. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279629&efYd=20260512&ancYnChk=0) |
 | 2026-05-19 | 법률 제21658호, 2026. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286061&efYd=20260519&ancYnChk=0) |
+| 2026-11-20 | 법률 제21658호, 2026. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286061&efYd=20261120&ancYnChk=0) |
