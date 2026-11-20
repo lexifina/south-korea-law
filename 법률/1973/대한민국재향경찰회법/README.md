@@ -1,4 +1,4 @@
-# 대한민국재향경우회법
+# 대한민국재향경찰회법
 
 국가법령정보센터: <https://www.law.go.kr/LSW/lsInfoP.do?lsId=000988&ancYnChk=0>
 
@@ -13,3 +13,4 @@
 | 2010-07-23 | 법률 제10380호, 2010. 7. 23. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=106839&efYd=20100723&ancYnChk=0) |
 | 2011-12-01 | 법률 제10746호, 2011. 5. 30. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=113550&efYd=20111201&ancYnChk=0) |
 | 2020-07-01 | 법률 제17167호, 2020. 3. 31. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=216199&efYd=20200701&ancYnChk=0) |
+| 2026-11-20 | 법률 제21670호, 2026. 5. 19. | 일부개정 | [law.go.kr](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286095&efYd=20261120&ancYnChk=0) |
