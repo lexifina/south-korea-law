@@ -1,5 +1,18 @@
 # How this repository was made (South Korea)
 
+## 2026-11-27 build: every act in force, with every dated version (updated 2026-11-27)
+
+- Source: www.law.go.kr public pages (robots.txt `Allow: /`, no Crawl-delay; GET only): the list of laws in force (`lsSc.do`, empty query, 500 a page: 5,634 on 2026-11-27), each act's 연혁 list (`lsHstListR.do?lsId=`) and each dated text (`lsInfoR.do?lsiSeq=&efYd=&chrClsCd=010202&ancYnChk=0`). The Open API (`/DRF/`) now needs a registered OC key and is not used.
+- Pace: 1 request in flight about 1 s apart to start, one more after each 10 clean minutes, at most 4 (plus 1 for the private case-law lane), back to 1 at the first timeout or 5xx.
+- Layout: one pure-rename commit moved the flat folders (`heonbeop/`, `minbeop/`, `ls-NNNNNN/` ...) to `헌법/`, `법률/<연도>/<법령명>/`, `대통령령/...`, `부령/...` (see `STRUCTURE.md`).
+- Commits: one per 연혁 entry in force by the build day, 12:00 KST on its 시행일; author the instrument (`법률 제NNNNN호`); trailers `Law`, `Kind`, `Change`, `Published`, `In-force`, `In-force-basis` (the 연혁 entry as law.go.kr prints it), `Source`, `Act`, `Act-id`. Appended on top of the earlier history (fast-forward only); an act's oldest version replaces its earlier single text.
+- Text: law.go.kr's article paragraphs as printed (curly quotes kept), without the editorial notes (`<개정 ...>`, `[전문개정 ...]` ...); 부칙 as printed, notes kept; images in articles as links to law.go.kr; 별표·서식 attachments not included.
+- The four acts with an earlier API-built history (헌법, 민법, 형법, 개인정보 보호법) are kept as they were.
+- On 2026-11-27: 19 acts with full history, 488 versions.
+- Code: `scripts/south-korea-law/runner/` (kr_site.py fetch + pace, kr_parse.py, kr_build.py index | rename | run).
+
+The sections below describe the earlier build (2026-10-28 to 2026-11-05).
+
 This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
@@ -7,6 +20,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | 법제처 국가법령정보센터 Open API (National Law Information Center, Ministry of Government Legislation) | <https://www.law.go.kr/DRF/> | 2026-10-28 | Statutes are not copyright works (저작권법 제7조); law.go.kr offers its data for reuse (공공누리 / KOGL) |
+| National Law Information Center — public pages (현행법령 목록, 연혁, 시행일별 본문) | <https://www.law.go.kr/LSW/> | 2026-11-27 on | Statutes are not copyright works (저작권법 제7조); the site's 법적효력/저작권 page allows free use including commercial use |
 | National Law Information Center — 법률 | <https://www.law.go.kr> | 2026-11-05 | Eligible official legal information may be freely used, including commercially, under Copyright Act article 7 and the public-data policy. |
 | National Law Information Center — 대통령긴급명령 | <https://www.law.go.kr> | 2026-11-05 | Eligible official legal information may be freely used, including commercially, under Copyright Act article 7 and the public-data policy. |
 
